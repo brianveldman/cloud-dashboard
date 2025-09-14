@@ -11,14 +11,21 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-8">
-                    <h1><i class="fab fa-microsoft"></i> Azure Updates Dashboard</h1>
+                    <h1>
+                        <img src="docs/azure.png" alt="Azure Logo" class="azure-logo">
+                        Azure Updates Dashboard
+                    </h1>
                     <p class="mb-0">Updates from official Azure sources every 6 hours</p>
                 </div>
                 <div class="col-md-4 text-md-end">
-                    <small>Last updated: 2025-09-14 16:21:12 UTC</small>
+                    <small>Last updated: 2025-09-14 16:36:46 UTC</small>
                 </div>
             </div>
         </div>
+        <button class="theme-toggle" onclick="toggleTheme()">
+            <i class="fas fa-sun" id="themeIcon"></i>
+            <span id="themeText">Light Mode</span>
+        </button>
     </div>
 
     <div class="container">
@@ -118,6 +125,39 @@ administration in Austria to...</p></div><div class="col-md-3 text-md-end"><span
     </div>
 
     <script>
+        // Theme toggle functionality
+        function toggleTheme() {
+            const body = document.body;
+            const themeIcon = document.getElementById('themeIcon');
+            const themeText = document.getElementById('themeText');
+            
+            body.classList.toggle('light-mode');
+            
+            if (body.classList.contains('light-mode')) {
+                themeIcon.className = 'fas fa-moon';
+                themeText.textContent = 'Dark Mode';
+                localStorage.setItem('theme', 'light');
+            } else {
+                themeIcon.className = 'fas fa-sun';
+                themeText.textContent = 'Light Mode';
+                localStorage.setItem('theme', 'dark');
+            }
+        }
+
+        // Load saved theme
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            const body = document.body;
+            const themeIcon = document.getElementById('themeIcon');
+            const themeText = document.getElementById('themeText');
+            
+            if (savedTheme === 'light') {
+                body.classList.add('light-mode');
+                themeIcon.className = 'fas fa-moon';
+                themeText.textContent = 'Dark Mode';
+            }
+        }
+
         // Search functionality
         document.getElementById('searchInput').addEventListener('input', filterUpdates);
         document.getElementById('sourceFilter').addEventListener('change', filterUpdates);
@@ -142,6 +182,9 @@ administration in Austria to...</p></div><div class="col-md-3 text-md-end"><span
                 }
             });
         }
+
+        // Initialize theme on page load
+        document.addEventListener('DOMContentLoaded', loadTheme);
     </script>
 </body>
 </html>
