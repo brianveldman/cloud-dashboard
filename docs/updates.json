@@ -1,0 +1,702 @@
+[
+  {
+    "title": "[Launched] Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service",
+    "link": "https://azure.microsoft.com/updates?id=501891",
+    "description": "Announcong that Azure App Service now supports Bring Your Own License (BYOL) for JBoss Enterprise Application Platform (EAP), enabling enterprise customers to deploy Java workloads with greater flexibility and cost efficiency.If you’ve evaluated Azure App",
+    "pubDate": "2025-09-12T14:30:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) same-region replica cluster ",
+    "link": "https://azure.microsoft.com/updates?id=501975",
+    "description": "You can now create a replica cluster of your Azure Cosmos DB for MongoDB (vCore) in the same region where the primary cluster is hosted. This replica is continuously synchronized with the primary (read-write) cluster, ensuring data consistency. Same-regio",
+    "pubDate": "2025-09-12T13:45:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Databricks automatic identity management",
+    "link": "https://azure.microsoft.com/updates?id=502633",
+    "description": "Now you can streamline identity lifecycle operations using Azure Databricks automatic identity management. With this new, generally available capability, you can automate user provisioning and deprovisioning through native integration with Microsoft Entra",
+    "pubDate": "2025-09-10T21:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Austria East and Chile Central ",
+    "link": "https://azure.microsoft.com/updates?id=502009",
+    "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the Austria East and Chile Central regions.  Learn more.  ",
+    "pubDate": "2025-09-10T21:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure MySQL Self Heal",
+    "link": "https://azure.microsoft.com/updates?id=501999",
+    "description": "You can now use self-healing tools to proactively resolve common server issues—without opening a support case. The new Self-Heal feature in Azure Database for MySQL – Flexible Server, is now available in Public Preview. Whether your server is unresponsive",
+    "pubDate": "2025-09-10T21:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure MySQL Extended Support ",
+    "link": "https://azure.microsoft.com/updates?id=501994",
+    "description": "To help you manage your MySQL upgrade timelines with greater flexibility, we’re introducing Extended Support for Azure Database for MySQL – Flexible Server, starting in spring 2026. If your server is running on a MySQL version that has reached the end of ",
+    "pubDate": "2025-09-10T21:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for MySQL 8.4 ",
+    "link": "https://azure.microsoft.com/updates?id=501989",
+    "description": "Announcing the general availability of Azure Database for MySQL – Flexible Server version 8.4. With this release, you can now create new MySQL 8.4 servers for your production workloads and benefit from the latest features, performance enhancements, and se",
+    "pubDate": "2025-09-10T21:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) encryption with customer-managed key ",
+    "link": "https://azure.microsoft.com/updates?id=501980",
+    "description": "Data stored in your Azure Cosmos DB for MongoDB (vCore) cluster is automatically and seamlessly encrypted with keys managed by Microsoft. Now, in addition to this service-managed key encryption (SMK), you have the option to add another layer of security b",
+    "pubDate": "2025-09-10T21:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: File share centric management model (Microsoft.FileShares) for Azure Files",
+    "link": "https://azure.microsoft.com/updates?id=503096",
+    "description": "To simplify the experience of creating and managing file shares in Azure, Azure Files now supports a file share-centric management model offered by the Microsoft.FileShares resource provider. With this update, file shares become top-level resources in Azu",
+    "pubDate": "2025-09-10T19:30:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure D192 Sizes in the Azure Dsv6 and Ddsv6-series VM Families",
+    "link": "https://azure.microsoft.com/updates?id=503049",
+    "description": "Announcing the addition of the D192 size to the Azure Dsv6 and Ddsv6-series Virtual Machines families, powered by the 5th Generation Intel® Xeon® Platinum 8573C (Emerald Rapids) processor. Dsv6-series virtual machines use Azure managed disks only, while D",
+    "pubDate": "2025-09-10T15:15:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: Azure AMD-based Dasv7, Easv7, and Fasv7-series Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=500175",
+    "description": "The general purpose Dasv7 and Dalsv7, memory-optimized Easv7, and compute-optimized Fasv7, Falsv7, Famsv7 VMs, are now available in preview with and without local disk support. These VMs are now available in the East US 2, North Europe, and West US 3 regi",
+    "pubDate": "2025-09-09T20:45:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Multitenant Managed Logging in Container Insights",
+    "link": "https://azure.microsoft.com/updates?id=502561",
+    "description": "The Multitenant Managed Logging feature in Container Insights is now generally available, offering customers who operate shared AKS clusters the ability to segregate container logs by team. This functionality enables teams to independently manage and acce",
+    "pubDate": "2025-09-09T16:30:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Microsoft Playwright Testing (Preview) will be retired on March 8, 2026",
+    "link": "https://azure.microsoft.com/updates?id=499860",
+    "description": "Last August, we\r\nintroduced Azure App\r\nTesting, a unified testing service that brings together two powerful\r\ntesting capabilities—Azure Load Testing and Microsoft Playwright Testing—to\r\nhelp developers and QA teams run large-scale functional and performance\r\nt",
+    "pubDate": "2025-09-09T11:15:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Operating System (OS) Disks on Standard HDD will be retired on 08 September 2028 ",
+    "link": "https://azure.microsoft.com/updates?id=500157",
+    "description": "As part of our ongoing commitment to improve customer experience, we continuously evaluate our product portfolio to ensure it meets the evolving needs of our customers. To better align with current usage patterns and future investments in disk performance",
+    "pubDate": "2025-09-08T21:00:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Graph Query Language (GQL) in KQL graph semantics",
+    "link": "https://azure.microsoft.com/updates?id=502638",
+    "description": "We’re adding Graph Query Language (GQL) support to KQL graph semantics, aligned with the ISO standard. This update allows you to run GQL queries on any Fabric Eventhouse or Azure Data Explorer, making it easier to work with graph data using an industry-st",
+    "pubDate": "2025-09-08T12:00:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas ",
+    "link": "https://azure.microsoft.com/updates?id=500520",
+    "description": "Azure Red Hat OpenShift is now generally available in two new regions: UAE Central and US Gov Texas, bringing enterprise-grade managed OpenShift capabilities to customers in the Middle East and southwestern United States. These expansions provide local de",
+    "pubDate": "2025-09-05T21:15:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Baseline Azure AI Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-chat",
+    "description": "Use this baseline reference architecture to learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Azure AI Foundry, the Azure AI Agent Service, Azure OpenAI models, and Azure App Service.",
+    "pubDate": "2025-09-05T19:31:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Azure AI Foundry Chat Reference Architecture in an Azure Landing Zone",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-landing-zone",
+    "description": "Learn about deploying the baseline Azure AI Foundry, Foundry Agent Service, Azure OpenAI models, and Azure App Service chat architecture in an Azure landing zone.",
+    "pubDate": "2025-09-05T19:31:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure NetApp Files migration assistant",
+    "link": "https://azure.microsoft.com/updates?id=502607",
+    "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
+    "pubDate": "2025-09-05T16:45:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Big Compute Architecture Style",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/big-compute",
+    "description": "Understand the benefits, challenges, and best practices of the Big Compute architecture style on Azure.",
+    "pubDate": "2025-09-05T16:25:56.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multi-tier web application built for HA/DR",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/multi-tier-app-disaster-recovery",
+    "description": "Learn how to create a resilient multitier web application built for high availability and disaster recovery on Azure.",
+    "pubDate": "2025-09-05T16:17:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "WordPress on App Service",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-app-service",
+    "description": "Use Azure Front Door, Azure App Service, and other Azure services to deploy a highly scalable and secure installation of WordPress.",
+    "pubDate": "2025-09-05T16:17:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "WordPress on Azure Kubernetes Service",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-container",
+    "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress that's a good fit for large, storage-intensive applications.",
+    "pubDate": "2025-09-05T16:17:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Retirement: Azure CDN will be retired on December 1 2025 in China",
+    "link": "https://azure.microsoft.com/updates?id=501678",
+    "description": "Azure CDN will be retired on December 1,\r\n2025 in China. We recognize that this change may affect your operations, and we\r\nare committed to supporting you throughout the transition. Required action: To avoid\r\nservice disruption: Please migrate to Azure Front",
+    "pubDate": "2025-09-05T15:45:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Functions support for Python 3.13 ",
+    "link": "https://azure.microsoft.com/updates?id=501970",
+    "description": "You can now\r\ndevelop functions using Python 3.13 locally and deploy them to Azure Functions.  Starting with\r\nPython 3.13, Functions introduces runtime version control, a new opt-in\r\nfeature that lets you target specific versions of the Functions Python runti",
+    "pubDate": "2025-09-05T15:15:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: .NET 10 Preview Now Available on Azure App Service",
+    "link": "https://azure.microsoft.com/updates?id=501896",
+    "description": "Announcing .NET 10 Preview is now available on Azure App Service for both Windows and Linux! Whether you’re building modern web apps with ASP.NET, experimenting with Blazor, or exploring the simplicity of Minimal APIs, you can now take advantage of the la",
+    "pubDate": "2025-09-05T14:15:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks",
+    "link": "https://azure.microsoft.com/updates?id=502583",
+    "description": "Support for multiple address\r\nprefixes in a subnet is now generally available in Azure Virtual Networks. Azure Virtual Network subnets\r\nsupported only a single address prefix, which limited the scale out for certain\r\napplications when the address space was e",
+    "pubDate": "2025-09-04T21:00:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Enterprise Deployment that uses App Service Environment",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-standard-deployment",
+    "description": "Learn about the recommended architecture for deploying an enterprise application by using App Service Environment version 3 in Azure.",
+    "pubDate": "2025-09-04T20:13:50.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Upgrade existing Azure Gen1 VMs to Gen2-Trusted launch",
+    "link": "https://azure.microsoft.com/updates?id=499104",
+    "description": "Announcing general availability support to enable Trusted launch on existing Azure Gen1 VMs by upgrading the Gen1 VM to\r\nGen2-Trusted launch. This will help improve the foundational\r\nsecurity of existing Azure VMs. Trusted Launch VMs\r\nprovide foundational co",
+    "pubDate": "2025-09-04T18:15:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Certificate Lifecycle Management on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/certificate-lifecycle/index",
+    "description": "Learn how to create an infrastructure and workflow to automate the renewal process for certificates issued by a nonintegrated certification authority (CA).",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Data warehousing and analytics",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/data-warehouse",
+    "description": "This example demonstrates a data pipeline that integrates large amounts of data from multiple sources into a unified analytics platform in Azure.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
+    "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Greenfield lakehouse on Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
+    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Analytics end-to-end with Azure Synapse",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
+    "description": "Learn how to use Azure Data Services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Computer Forensics Chain of Custody in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/forensics/index",
+    "description": "Learn how to create an infrastructure and workflow to help ensure a valid digital evidence chain of custody (CoC) for computer forensics in Azure.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Kubernetes Service (AKS) Baseline Architecture for AKS on Azure Local",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-baseline",
+    "description": "Learn how to design and implement a baseline architecture for Microsoft Azure Kubernetes Service (AKS) that runs on Azure Local.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Files Accessed from On-Premises and Secured by AD DS in a Private Network",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/azure-files-on-premises-authentication",
+    "description": "Learn how to provide on-premises access to Azure Files with security provided by on-premises Windows Server Active Directory Domain Services (AD DS).",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Near-zero-downtime maintenance in Azure Database for MySQL ",
+    "link": "https://azure.microsoft.com/updates?id=500765",
+    "description": "You can now take advantage of near-zero-downtime maintenance for Azure Database for MySQL – Flexible Server with high availability (HA) enabled. This capability is now generally available and is supported by our new HA architecture based on a dedicated Az",
+    "pubDate": "2025-09-04T16:30:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Overview of Microsoft Machine Learning Products and Technologies",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
+    "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
+    "pubDate": "2025-09-04T15:47:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use AI to forecast customer orders",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
+    "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU.",
+    "pubDate": "2025-09-04T15:47:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Logic Apps Standard Automated Test Framework ",
+    "link": "https://azure.microsoft.com/updates?id=501844",
+    "description": "Announcing the general availability of the Azure Logic Apps Standard Automated Test Framework, enabling developers to build, test, and maintain enterprise-grade workflows with confidence. The framework allows teams to create unit tests for workflow defini",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Custom Code support in Azure Logic Apps Standard with .NET 8 ",
+    "link": "https://azure.microsoft.com/updates?id=501839",
+    "description": "Announcing the general availability of Custom Code support in Azure Logic Apps Standard with .NET 8. This release enables developers to embed .NET 8 code directly in workflows, unlocking advanced logic scenarios, code reuse, and seamless integration with ",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Business Process Tracking in Azure Logic Apps (Standard) ",
+    "link": "https://azure.microsoft.com/updates?id=501834",
+    "description": "Announcing the general availability of Business Process Tracking in Azure Logic Apps (Standard). This capability provides business stakeholders with timely insights by tracking key data properties throughout your workflows in production environments. With",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Gateway level metrics and native autoscaling for Azure API Management v2 tiers ",
+    "link": "https://azure.microsoft.com/updates?id=501829",
+    "description": "Announcing gateway-level metrics and native autoscaling for Azure API Management v2 tiers: Basic v2, Standard v2, and Premium v2. These updates give you deeper visibility into gateway performance and enable automatic scaling based on real-time usage. Gate",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Logic Apps Hybrid Deployment Model ",
+    "link": "https://azure.microsoft.com/updates?id=501824",
+    "description": "Announcing the general availability of the Logic Apps Hybrid Deployment Model, offering customers unprecedented flexibility and control over where their integration workloads run. You can now host Logic Apps on customer-managed infrastructure, including o",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Organizational Templates in Azure Logic Apps  ",
+    "link": "https://azure.microsoft.com/updates?id=501819",
+    "description": "Announcing the public preview of Organizational Templates in Azure Logic Apps. This feature empowers teams to author, share, and reuse automation patterns within their own organization, helping standardize integration practices at scale. Organizational Te",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Confluent Kafka Connector in Azure Logic Apps (Standard)  ",
+    "link": "https://azure.microsoft.com/updates?id=501814",
+    "description": "Announcing the public preview of the Confluent Kafka Connector in Azure Logic Apps (Standard). This new connector allows you to both send and receive messages between Logic Apps and Confluent Kafka. Confluent Kafka is a distributed streaming platform wide",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Workspaces and workspace gateways in the Premium v2 tier of Azure API Management ",
+    "link": "https://azure.microsoft.com/updates?id=501809",
+    "description": "Announcing the general availability of workspaces and workspace gateways in the Premium v2 tier of Azure API Management. (Note: Premium v2 remains in preview at the time of this announcement.) Workspaces enable organizations to manage and govern APIs at s",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Expanded support for the Model Context Protocol (MCP) in Azure API Management ",
+    "link": "https://azure.microsoft.com/updates?id=501804",
+    "description": "We’re announcing expanded support for the Model Context Protocol (MCP) in Azure API Management with two new capabilities: MCP in v2 SKUs and the ability to expose existing MCP-compliant servers. These updates make it easier to connect APIs and AI agents w",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Enhanced Data Mapper Experience in Logic Apps (Standard)  ",
+    "link": "https://azure.microsoft.com/updates?id=501799",
+    "description": "Introducing the redesigned Data Mapper UX in the Azure Logic Apps (Standard) extension for Visual Studio Code is now generally available. The new experience, which was in public preview, becomes the default for creating and editing maps. This release is a",
+    "pubDate": "2025-09-03T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Analyze operational data on MongoDB Atlas using Azure Synapse Analytics",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/azure-synapse-analytics-integrate-mongodb-atlas",
+    "description": "Derive insights from siloed data. Connect operational data in MongoDB Atlas to Azure Synapse Analytics, and run real-time analytics on the data.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DataOps for the modern data warehouse",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/dataops-mdw",
+    "description": "How to apply DevOps principles to data pipelines built according to the modern data warehouse (MDW) architectural pattern with Microsoft Azure.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Migrate IBM z/OS OLTP Workloads to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/ibm-zos-online-transaction-processing-azure",
+    "description": "Migrate a z/OS online transaction processing (OLTP) workload to an Azure application that is cost effective, responsive, scalable, and adaptable.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate Mainframe and Midrange Data to Azure by Using Qlik",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-midrange-data-replication-azure-qlik",
+    "description": "Learn how to use Qlik Replicate to migrate mainframe and midrange systems to the cloud or extend those systems by using cloud applications.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Sandbox",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/azure-sandbox/azure-sandbox",
+    "description": "Accelerate your Azure project with a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Monitor hybrid availability, performance",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-perf-monitoring",
+    "description": "Use Azure Monitor to monitor performance and availability for OS workloads running on-premises, in third-party cloud providers, and in Microsoft Azure.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
+    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SAP HANA for Linux VMs in Scale-up Systems",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-hana-for-linux-virtual-machines",
+    "description": "Proven practices for running SAP HANA in a high-availability, scale-up environment that supports disaster recovery on Azure.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Data streaming with AKS",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/data-streaming-scenario",
+    "description": "Use AKS to easily ingest and process a real-time data stream, with millions of data points collected via sensors.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "IoT analytics with Azure Data Explorer and Azure IoT Hub",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/iot-azure-data-explorer",
+    "description": "Use Azure Data Explorer with Azure IoT Hub for near real-time IoT telemetry analytics on fast-flowing, high-volume streaming data from a wide variety of IoT devices.",
+    "pubDate": "2025-09-03T22:22:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Retirement: Confidential VM SKUs DCesv5, DCedsv5, ECesv5, ECedsv5 SKUs",
+    "link": "https://azure.microsoft.com/updates?id=502039",
+    "description": "Microsoft is announcing the retirement of Confidential VM SKUs DCesv5, DCedsv5, ECesv5, ECedsv5 SKUs, which will be succeeded by the DCesv6 and ECesv6 SKUs.  We recently announced the public preview of our next-generation Confidential VM sizes: DCesv6 and",
+    "pubDate": "2025-09-02T18:45:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure CDN – Migrate to Azure Front Door on December 1, 2025 ",
+    "link": "https://azure.microsoft.com/updates?id=501174",
+    "description": "Azure CDN which is currently provided in Microsoft Azure operated by 21Vianet (“Azure China”) will be retired on December 1, 2025. This change affects all customers currently using Azure CDN in China. Azure CDN is built on top of local CDN providers’ POPs",
+    "pubDate": "2025-09-02T18:00:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Playwright Workspaces in Azure App Testing",
+    "link": "https://azure.microsoft.com/updates?id=501953",
+    "description": "Playwright Workspaces capability in Azure App Testing is now generally available. Playwright Workspaces enables you to run end-to-end tests with high parallelization across multiple browsers and devices, to validate the functionality of your applications ",
+    "pubDate": "2025-09-02T17:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Ultra Disk Price Reduction in UK South",
+    "link": "https://azure.microsoft.com/updates?id=499411",
+    "description": "Ultra Disks are the most performant block storage option for Azure virtual machines offering consistent low sub-millisecond latency, extremely high performance. This makes Ultra disk ideal for a broad spectrum of the most demanding enterprise production w",
+    "pubDate": "2025-09-02T17:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Ultra Disk Price Reduction in Central US",
+    "link": "https://azure.microsoft.com/updates?id=499406",
+    "description": "Ultra Disks are the most performant block storage option for Azure virtual machines offering consistent low sub-millisecond latency, extremely high performance. This makes Ultra disk ideal for a broad spectrum of the most demanding enterprise production w",
+    "pubDate": "2025-09-02T17:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Ultra Disk Price Reduction in West US 2",
+    "link": "https://azure.microsoft.com/updates?id=499401",
+    "description": "Ultra Disks are the most performant block storage option for\r\nAzure virtual machines offering consistent low sub-millisecond latency,\r\nextremely high performance. This makes Ultra disk ideal for a broad spectrum of\r\nthe most demanding enterprise production w",
+    "pubDate": "2025-09-02T17:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Architectural Approaches for Cost Management and Allocation in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/cost-management-allocation",
+    "description": "Learn about cost management and allocation approaches for multitenant solutions, including Azure resource tagging, consumption tracking, and optimization.",
+    "pubDate": "2025-09-02T15:29:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure App Service - New Premium v4 Offering",
+    "link": "https://azure.microsoft.com/updates?id=500374",
+    "description": "The new Premium v4 offering provides faster processors, NVMe local storage, and memory-optimized options, running on the latest Azure hardware. Premium v4 is available for both Windows and Linux customers, and includes sizes starting from 1 vCPU and 4GB o",
+    "pubDate": "2025-09-01T15:00:58.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Front Door Standard and Premium are now available in Azure China. ",
+    "link": "https://azure.microsoft.com/updates?id=501200",
+    "description": "Azure Front Door Standard and Premium are now\r\ngenerally available in the Azure China regions (China North 3 and China East\r\n3), operated by 21Vianet. With this release, customers in China can deliver\r\nsecure, reliable, and high-performance applications usin",
+    "pubDate": "2025-09-01T10:00:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Minimal storage – change feed to replicate data",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/idea/minimal-storage-change-feed-replicate-data",
+    "description": "Architecture for a high-availability solution that uses two Azure storage services, one for quick access to high-demand data, the other for low-demand data.",
+    "pubDate": "2025-08-29T19:30:11.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "High Availability Enterprise Deployment that uses App Service Environment",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-high-availability-deployment",
+    "description": "Learn about the recommended architecture to deploy an enterprise application by using App Service Environment in multiple availability zones.",
+    "pubDate": "2025-08-29T19:14:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure Synapse Analytics to Design an Enterprise BI Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/analytics/enterprise-bi-synapse",
+    "description": "Learn how to implement a pipeline that moves data from an on-premises data warehouse into Azure Synapse Analytics and transforms the data for analysis.",
+    "pubDate": "2025-08-29T18:43:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Application Insights",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/application-insights",
+    "description": "Learn about tenancy models that you can use with Application Insights and features that are useful when you use this service in multitenant systems.",
+    "pubDate": "2025-08-29T16:29:04.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure database technology",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/databases",
+    "description": "Compare database technology differences between Azure and AWS. Review the Amazon RDS and Azure relational database services. See equivalents for analytics and big data.",
+    "pubDate": "2025-08-29T14:44:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "N-tier architecture style",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/n-tier",
+    "description": "Know the benefits, challenges, and best practices for N-tier architectures on Azure. An N-tier architecture splits an app into logical layers and physical tiers.",
+    "pubDate": "2025-08-28T18:40:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Database for PostgreSQL Entra ID group login using user credentials ",
+    "link": "https://azure.microsoft.com/updates?id=500790",
+    "description": "The public preview of Entra ID group login using user credentials, now available on newly provisioned servers. This anticipated feature simplifies user management and improves security within the Azure Database for PostgreSQL Flexible Server environments.",
+    "pubDate": "2025-08-28T14:45:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL updates for late-August 2025 ",
+    "link": "https://azure.microsoft.com/updates?id=500785",
+    "description": "In late August 2025, the following updates and enhancements were made to Azure SQL and SQL Server:  Easily spin up local SQL Server containers. Now generally available, the local SQL Server container enables container creation in the MSSQL extension for V",
+    "pubDate": "2025-08-28T14:45:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Choose an Azure Compute Service",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree",
+    "description": "Use this chart and other information to decide which compute service, or hosting model for computing resources, best suits your application.",
+    "pubDate": "2025-08-27T23:14:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL updates for late-August 2025 ",
+    "link": "https://azure.microsoft.com/updates?id=500780",
+    "description": "In late August 2025, the following updates and enhancements were made to Azure SQL: Azure SQL Database now offers a replication lag metric, providing real-time visibility into the recovery point objective (RPO) when Geo-DR is enabled. Learn more.   ",
+    "pubDate": "2025-08-27T16:00:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Schema migration is now available in Azure Database Migration Service (DMS) ",
+    "link": "https://azure.microsoft.com/updates?id=500770",
+    "description": "Announcing that Azure DMS now supports schema migration for Azure SQL Database—making your cloud migration journey smoother and more efficient than ever.  With just a single checkbox, you can now migrate missing schema objects along with your data. This i",
+    "pubDate": "2025-08-27T16:00:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore)—add shards and rebalance data ",
+    "link": "https://azure.microsoft.com/updates?id=500755",
+    "description": "Now you can add physical shards as your Azure Cosmos DB for MongoDB (vCore) clusters grow. Thanks to the elasticity of compute and storage configurations in Azure Cosmos DB for MongoDB (vCore), a single physical shard (node) typically delivers the desired",
+    "pubDate": "2025-08-27T16:00:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
+    "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
+    "pubDate": "2025-08-26T21:17:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Entra ID and RBAC support for GetAccountInfo and other supplemental APIs for Azure Storage",
+    "link": "https://azure.microsoft.com/updates?id=496287",
+    "description": "To align with security best practices, Entra ID and RBAC support is now generally available for the following APIs for Azure Storage: Get Account InformationGet Container ACLSet Container ACLGet Queue ACLSet Queue ACLGet Table ACLSet Table ACL To learn mo",
+    "pubDate": "2025-08-26T17:45:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Custom block response code and body for Application Gateway WAF ",
+    "link": "https://azure.microsoft.com/updates?id=501323",
+    "description": "Announcing the public preview of custom block response code and body for WAF integrated with Application Gateway.Azure WAF integrated with Application Gateway now supports customizable response status codes and bodies for blocked requests, enabling greate",
+    "pubDate": "2025-08-26T17:00:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: CNI Overlay for Application Gateway for Containers and AGIC",
+    "link": "https://azure.microsoft.com/updates?id=500991",
+    "description": "Azure CNI Overlay with Application Gateway for Containers and AGIC is now generally available.Azure CNI Overlay enables AKS clusters to use pod IPs from a separate CIDR, conserving VNet IP space and simplifying multi-cluster deployments. Paired with Appli",
+    "pubDate": "2025-08-26T16:00:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure NetApp Files short-term clones ",
+    "link": "https://azure.microsoft.com/updates?id=500914",
+    "description": "Azure NetApp Files short-term clones enable space-efficient, instant read/write access to data by creating temporary thin clones from existing volume snapshots, eliminating the need for full data copies and enabling capacity savings. Ideal for software de",
+    "pubDate": "2025-08-26T16:00:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Roslyn Analyzer for Durable Functions in .NET isolated ",
+    "link": "https://azure.microsoft.com/updates?id=500473",
+    "description": "Durable\r\nFunctions running in the .NET isolated model now has support for the Roslyn\r\nAnalyzer, a real-time code analyzer that helps developers adhere to durable\r\norchestrations’ coding constraints. This analyzer is enabled by\r\ndefault to analyze Durable Func",
+    "pubDate": "2025-08-25T16:00:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Azure now available from cloud region in Austria",
+    "link": "https://azure.microsoft.com/updates?id=500650",
+    "description": "Microsoft announces\r\nthe opening of its cloud region in Austria to accelerate digital transformation\r\nand AI innovation. The cloud region will enable companies and public\r\nadministration in Austria to store and process their data securely, in\r\ncompliance with",
+    "pubDate": "2025-08-25T13:00:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Azure App Service and Azure Functions Considerations for Multitenancy",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-service",
+    "description": "This article describes the features of Azure App Service and Azure Functions that are useful when working with multitenant systems.",
+    "pubDate": "2025-08-24T22:58:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure API Management in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/api-management",
+    "description": "Learn about Azure API Management features for multitenant solutions, including tenant isolation models, routing, authentication, caching, and rate limiting.",
+    "pubDate": "2025-08-24T22:58:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural Approaches for AI and Machine Learning in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-machine-learning",
+    "description": "Learn approaches for AI and machine learning multitenancy, including tenant isolation, model training, inference, and how to use Azure AI services.",
+    "pubDate": "2025-08-24T22:36:43.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design for Self-Healing",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/design-principles/self-healing",
+    "description": "Learn how to design self-healing Azure applications that detect, respond to, and recover from failures to ensure high availability and resilience.",
+    "pubDate": "2025-08-22T20:11:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions support for Node.js 22",
+    "link": "https://azure.microsoft.com/updates?id=500438",
+    "description": "Azure Functions support for Node.js 22 is now Generally Available. You\r\ncan now develop functions using Node.js 22 locally and deploy them to all Azure\r\nFunctions plans on Linux and Windows.Learn more. ",
+    "pubDate": "2025-08-22T11:45:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Migrate now supports migration to disks with Zone-Redundant Storage (ZRS) redundancy ",
+    "link": "https://azure.microsoft.com/updates?id=501233",
+    "description": " Azure\r\nMigrate now supports migration to Zone-Redundant Storage (ZRS) disks. With\r\nthe introduction of this new feature in Azure Migrate, you can now select ZRS\r\nas the redundancy option during server migration. This automatically\r\nprovisions a disk with ZRS",
+    "pubDate": "2025-08-22T11:00:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Build real-time monitoring and observable systems for media",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media",
+    "description": "Learn how to implement real-time monitoring and observability of systems and end-user device telemetry data.",
+    "pubDate": "2025-08-21T18:12:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate and Sync Mainframe Data to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
+    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
+    "pubDate": "2025-08-21T18:12:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Application Gateway adds MaxSurge support for zero-capacity-impact upgrades",
+    "link": "https://azure.microsoft.com/updates?id=501017",
+    "description": "Azure Application Gateway now\r\nsupports MaxSurge, enabling new instances to be provisioned during rolling\r\nupgrades without taking existing ones offline. This allows customers to\r\ntransition to newer gateway versions without any capacity degradation,\r\nensurin",
+    "pubDate": "2025-08-21T17:00:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally, Available: Search Job in Log Analytics - Now Supporting Up to 100 Million Results",
+    "link": "https://azure.microsoft.com/updates?id=500879",
+    "description": "Search Job lets you run asynchronous queries across all your workspace data, including long-term retention, and delivers results in new Analytics tables for further exploration.We’re excited to announce that the maximum number of records returned by a Sea",
+    "pubDate": "2025-08-21T16:45:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure NetApp Files file access logs",
+    "link": "https://azure.microsoft.com/updates?id=500760",
+    "description": "Azure NetApp Files file access logs feature is now generally available, delivering enterprise-grade visibility into file-level operations across SMB, NFSv4.1, and dual-protocol volumes. This feature empowers organizations to enhance their security posture",
+    "pubDate": "2025-08-21T16:30:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions Flex Consumption plan now supports 512 MB instance size and diagnostic settings",
+    "link": "https://azure.microsoft.com/updates?id=500369",
+    "description": "Azure\r\nFunctions now allows you to choose 512 MB in addition to 2048 MB and 4096 MB as\r\nthe memory instance size for your Flex Consumption apps. This enables you to further cost optimize\r\nyour apps that require less\r\nresources,\r\nand allows your apps to scale o",
+    "pubDate": "2025-08-21T15:30:02.000Z",
+    "source": "Azure Updates"
+  }
+]
