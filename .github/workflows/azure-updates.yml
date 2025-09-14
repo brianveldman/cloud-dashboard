@@ -37,25 +37,8 @@ jobs:
         
     - name: Setup dependencies
       run: |
-        # Create assets directory
-        mkdir -p docs/assets/css docs/assets/js docs/assets/fonts
-        
-        # Download Bootstrap CSS
-        curl -o docs/assets/css/bootstrap.min.css https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
-        
-        # Download Bootstrap JS
-        curl -o docs/assets/js/bootstrap.bundle.min.js https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js
-        
-        # Download Font Awesome CSS
-        curl -o docs/assets/css/fontawesome.min.css https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
-        
-        # Download Font Awesome fonts
-        curl -o docs/assets/fonts/fa-solid-900.woff2 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-solid-900.woff2
-        curl -o docs/assets/fonts/fa-regular-400.woff2 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-regular-400.woff2
-        curl -o docs/assets/fonts/fa-brands-400.woff2 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-brands-400.woff2
-        
-        # Fix Font Awesome font paths
-        sed -i 's|https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/|../fonts/|g' docs/assets/css/fontawesome.min.css
+        # Skip font downloads for now - use emoji icons instead
+        mkdir -p docs/assets
         
     - name: Fetch Azure Updates
       run: |
@@ -562,7 +545,7 @@ body {
         <div class="text-center mt-4">
             <small class="text-muted">
                 This dashboard is automatically updated every 6 hours via GitHub Actions.<br>
-                <a href="https://github.com/your-username/azure-updates" target="_blank" class="github-link">
+                <a href="https://github.com/brianveldman/azure-updates" target="_blank" class="github-link">
                     <i class="fab fa-github"></i> View on GitHub
                 </a>
             </small>
