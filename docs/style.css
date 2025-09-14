@@ -499,6 +499,14 @@ body.light-mode .date-text {
     
     .header h1 {
         font-size: 1.75rem;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .azure-logo {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+        margin-right: 0;
     }
     
     .theme-toggle {
