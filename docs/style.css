@@ -9,9 +9,9 @@
     line-height: 1;
 }
 
-.fa-microsoft::before { content: "🏢"; }
+.fa-microsoft::before { content: "☁️"; }
 .fa-newspaper::before { content: "📰"; }
-.fa-rss::before { content: "📡"; }
+.fa-rss::before { content: "✅"; }
 .fa-clock::before { content: "🕐"; }
 .fa-sync-alt::before { content: "🔄"; }
 .fa-calendar::before { content: "📅"; }
