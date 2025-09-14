@@ -35,14 +35,9 @@ jobs:
         npm init -y
         npm install axios xml2js fs-extra moment
         
-    - name: Setup dependencies
-      run: |
-        # Skip font downloads for now - use emoji icons instead
-        mkdir -p docs/assets
-        
     - name: Fetch Azure Updates
       run: |
-        cat > fetch-updates.js << 'EOF'
+        cat > fetch-updates.js << 'SCRIPT_END'
         const axios = require('axios');
         const xml2js = require('xml2js');
         const fs = require('fs-extra');
@@ -140,9 +135,8 @@ jobs:
           
           console.log(`Total updates collected: ${allUpdates.length}`);
           
-          // Generate HTML and CSS files
+          // Generate HTML file
           const html = generateHTML(allUpdates);
-          const css = generateCSS();
           
           // Ensure docs directory exists
           await fs.ensureDir('docs');
@@ -150,289 +144,10 @@ jobs:
           // Write HTML file
           await fs.writeFile('docs/index.html', html);
           
-          // Write CSS file
-          await fs.writeFile('docs/style.css', css);
-          
           // Write JSON data
           await fs.writeFile('docs/updates.json', JSON.stringify(allUpdates, null, 2));
           
           console.log('Files generated successfully!');
-        }
-
-        function generateCSS() {
-          return `/* Font Awesome Icons */
-@font-face {
-  font-family: "Font Awesome 6 Free";
-  font-style: normal;
-  font-weight: 900;
-  src: url("assets/fonts/fa-solid-900.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Font Awesome 6 Free";
-  font-style: normal;
-  font-weight: 400;
-  src: url("assets/fonts/fa-regular-400.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Font Awesome 6 Brands";
-  font-style: normal;
-  font-weight: 400;
-  src: url("assets/fonts/fa-brands-400.woff2") format("woff2");
-}
-
-.fas, .fa-solid {
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-}
-
-.far, .fa-regular {
-  font-family: "Font Awesome 6 Free";
-  font-weight: 400;
-}
-
-.fab, .fa-brands {
-  font-family: "Font Awesome 6 Brands";
-  font-weight: 400;
-}
-
-.fas::before, .far::before, .fab::before,
-.fa-solid::before, .fa-regular::before, .fa-brands::before {
-  display: inline-block;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-}
-
-/* Icon definitions */
-.fa-microsoft::before { content: "\\f3ca"; }
-.fa-newspaper::before { content: "\\f1ea"; }
-.fa-rss::before { content: "\\f09e"; }
-.fa-clock::before { content: "\\f017"; }
-.fa-sync-alt::before { content: "\\f2f1"; }
-.fa-calendar::before { content: "\\f073"; }
-.fa-github::before { content: "\\f09b"; }
-.fa-search::before { content: "\\f002"; }
-
-/* Main Styles */
-body {
-    background-color: #f8f9fa;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-}
-
-.header {
-    background: linear-gradient(135deg, #0078d4, #005a9e);
-    color: white;
-    padding: 2rem 0;
-    margin-bottom: 2rem;
-}
-
-.update-card {
-    transition: transform 0.2s;
-    border-left: 4px solid #0078d4;
-    border: 1px solid #dee2e6;
-    border-radius: 0.375rem;
-    background-color: white;
-}
-
-.update-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-}
-
-.card-body {
-    padding: 1rem;
-}
-
-.source-badge {
-    font-size: 0.75rem;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.25rem;
-    font-weight: 600;
-}
-
-.source-badge.azure-updates {
-    background-color: #0078d4 !important;
-    color: white !important;
-}
-
-.source-badge.azure-architecture {
-    background-color: #28a745 !important;
-    color: white !important;
-}
-
-.source-badge.azure-status {
-    background-color: #ffc107 !important;
-    color: #000 !important;
-}
-
-.source-badge.azure-landing-zones {
-    background-color: #6f42c1 !important;
-    color: white !important;
-}
-
-.date-text {
-    color: #6c757d;
-    font-size: 0.875rem;
-}
-
-.filter-section {
-    background: white;
-    border-radius: 8px;
-    padding: 1rem;
-    margin-bottom: 2rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.search-box {
-    border-radius: 25px;
-    border: 1px solid #ced4da;
-    padding: 0.375rem 0.75rem;
-}
-
-.search-box:focus {
-    border-color: #0078d4;
-    box-shadow: 0 0 0 0.2rem rgba(0, 120, 212, 0.25);
-}
-
-.stats-card {
-    background: linear-gradient(45deg, #0078d4, #40e0d0);
-    color: white;
-    border-radius: 12px;
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-    text-align: center;
-}
-
-.feature-highlight {
-    background: #e3f2fd;
-    border-left: 4px solid #2196f3;
-    padding: 1rem;
-    margin: 1rem 0;
-    border-radius: 0 8px 8px 0;
-}
-
-.github-link {
-    color: #6c757d;
-    text-decoration: none;
-}
-
-.github-link:hover {
-    color: #0078d4;
-}
-
-.btn {
-    border-radius: 0.375rem;
-    padding: 0.375rem 0.75rem;
-    font-weight: 400;
-    line-height: 1.5;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    border: 1px solid transparent;
-    cursor: pointer;
-    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-
-.form-control, .form-select {
-    display: block;
-    width: 100%;
-    padding: 0.375rem 0.75rem;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    background-color: #fff;
-    background-image: none;
-    border: 1px solid #ced4da;
-    border-radius: 0.375rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-
-.form-control:focus, .form-select:focus {
-    color: #212529;
-    background-color: #fff;
-    border-color: #86b7fe;
-    outline: 0;
-    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
-}
-
-/* Bootstrap Grid System */
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 1140px;
-}
-
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
-}
-
-.col-md-3, .col-md-4, .col-md-6, .col-md-8, .col-md-9, .col-12 {
-    position: relative;
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-@media (min-width: 768px) {
-    .col-md-3 { flex: 0 0 25%; max-width: 25%; }
-    .col-md-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
-    .col-md-6 { flex: 0 0 50%; max-width: 50%; }
-    .col-md-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
-    .col-md-9 { flex: 0 0 75%; max-width: 75%; }
-    .text-md-end { text-align: right !important; }
-}
-
-.col-12 { flex: 0 0 100%; max-width: 100%; }
-
-/* Utility Classes */
-.mb-0 { margin-bottom: 0 !important; }
-.mb-2 { margin-bottom: 0.5rem !important; }
-.mb-3 { margin-bottom: 1rem !important; }
-.mb-4 { margin-bottom: 1.5rem !important; }
-.mt-4 { margin-top: 1.5rem !important; }
-.mt-5 { margin-top: 3rem !important; }
-
-.text-center { text-align: center !important; }
-.text-muted { color: #6c757d !important; }
-.text-decoration-none { text-decoration: none !important; }
-
-.align-items-center { align-items: center !important; }
-
-@media (max-width: 768px) {
-    .header {
-        padding: 1rem 0;
-    }
-    
-    .stats-card {
-        margin-bottom: 0.5rem;
-    }
-    
-    .filter-section {
-        padding: 0.75rem;
-    }
-    
-    .update-card .col-md-3 {
-        margin-top: 1rem;
-    }
-    
-    .row {
-        margin-right: -10px;
-        margin-left: -10px;
-    }
-    
-    .col-md-3, .col-md-4, .col-md-6, .col-md-8, .col-md-9, .col-12 {
-        padding-right: 10px;
-        padding-left: 10px;
-    }
-}`;
         }
 
         function generateHTML(updates) {
@@ -448,37 +163,14 @@ body {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Azure Updates Dashboard</title>
-    <style>
-        body { background-color: #f8f9fa; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 0; }
-        .header { background: linear-gradient(135deg, #0078d4, #005a9e); color: white; padding: 2rem 0; margin-bottom: 2rem; }
-        .container { width: 100%; padding: 0 15px; margin: 0 auto; max-width: 1140px; }
-        .row { display: flex; flex-wrap: wrap; margin: 0 -15px; }
-        .col-md-3, .col-md-6, .col-md-8, .col-md-9, .col-12 { position: relative; width: 100%; padding: 0 15px; }
-        .update-card { transition: transform 0.2s; border-left: 4px solid #0078d4; border: 1px solid #dee2e6; border-radius: 0.375rem; background-color: white; margin-bottom: 1rem; }
-        .update-card:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        .card-body { padding: 1rem; }
-        .source-badge { font-size: 0.75rem; padding: 0.25rem 0.5rem; border-radius: 0.25rem; font-weight: 600; display: inline-block; }
-        .azure-updates { background-color: #0078d4; color: white; }
-        .azure-architecture { background-color: #28a745; color: white; }
-        .azure-status { background-color: #ffc107; color: black; }
-        .azure-landing-zones { background-color: #6f42c1; color: white; }
-        .filter-section { background: white; border-radius: 8px; padding: 1rem; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .search-box { border-radius: 25px; border: 1px solid #ced4da; padding: 0.375rem 0.75rem; width: 100%; }
-        .stats-card { background: linear-gradient(45deg, #0078d4, #40e0d0); color: white; border-radius: 12px; padding: 1.5rem; margin-bottom: 1rem; text-align: center; }
-        .form-control, .form-select { display: block; width: 100%; padding: 0.375rem 0.75rem; font-size: 1rem; color: #212529; background-color: white; border: 1px solid #ced4da; border-radius: 0.375rem; }
-        .mb-0 { margin-bottom: 0; } .mb-2 { margin-bottom: 0.5rem; } .mb-3 { margin-bottom: 1rem; } .mb-4 { margin-bottom: 1.5rem; } .mt-4 { margin-top: 1.5rem; }
-        .text-center { text-align: center; } .text-muted { color: #6c757d; } .text-decoration-none { text-decoration: none; } .align-items-center { align-items: center; }
-        .github-link { color: #6c757d; text-decoration: none; } .github-link:hover { color: #0078d4; }
-        .date-text { color: #6c757d; font-size: 0.875rem; }
-        @media (min-width: 768px) { .col-md-3 { flex: 0 0 25%; max-width: 25%; } .col-md-6 { flex: 0 0 50%; max-width: 50%; } .col-md-8 { flex: 0 0 66.666667%; max-width: 66.666667%; } .col-md-9 { flex: 0 0 75%; max-width: 75%; } .text-md-end { text-align: right; } }
-    </style>
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
     <div class="header">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-8">
-                    <h1>🏢 Azure Updates Dashboard</h1>
+                    <h1><i class="fab fa-microsoft"></i> Azure Updates Dashboard</h1>
                     <p class="mb-0">Updates from official Azure sources every 6 hours</p>
                 </div>
                 <div class="col-md-4 text-md-end">
@@ -493,28 +185,28 @@ body {
         <div class="row mb-4">
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h3>📰</h3>
+                    <h3><i class="fas fa-newspaper"></i></h3>
                     <h4>${updates.length}</h4>
                     <p class="mb-0">Total Updates</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h3>📡</h3>
+                    <h3><i class="fas fa-rss"></i></h3>
                     <h4>4</h4>
                     <p class="mb-0">Active Sources</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h3>🕐</h3>
+                    <h3><i class="fas fa-clock"></i></h3>
                     <h4>6 Hours</h4>
                     <p class="mb-0">Update Interval</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="stats-card">
-                    <h3>🔄</h3>
+                    <h3><i class="fas fa-sync-alt"></i></h3>
                     <h4>Auto</h4>
                     <p class="mb-0">Refresh</p>
                 </div>
@@ -541,7 +233,7 @@ body {
 
         <div id="updatesContainer">
             ${updates.map((update, index) => `
-                <div class="update-card" data-source="${update.source}">
+                <div class="update-card mb-3" data-source="${update.source}">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-9">
@@ -555,7 +247,8 @@ body {
                             <div class="col-md-3 text-md-end">
                                 <span class="source-badge ${getBadgeClass(update.source)} mb-2">${update.source}</span><br>
                                 <small class="date-text">
-                                    📅 ${moment(update.pubDate).format('MMM DD, YYYY')}
+                                    <i class="far fa-calendar"></i> 
+                                    ${moment(update.pubDate).format('MMM DD, YYYY')}
                                 </small>
                             </div>
                         </div>
@@ -568,7 +261,7 @@ body {
             <small class="text-muted">
                 This dashboard is automatically updated every 6 hours via GitHub Actions.<br>
                 <a href="https://github.com/brianveldman/azure-updates" target="_blank" class="github-link">
-                    🐙 View on GitHub
+                    <i class="fab fa-github"></i> View on GitHub
                 </a>
             </small>
         </div>
