@@ -70,6 +70,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A",
+    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/",
+    "description": "<p>The real power of agents comes from their ability to connect to each other, to enterprise data, and to the systems where work gets done.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/\">Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-10T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In development] Private Preview: Azure AMD-based Dasv7, Easv7, and Fasv7-series Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=500175",
     "description": "The general purpose Dasv7 and Dalsv7, memory-optimized Easv7, and compute-optimized Fasv7, Falsv7, Famsv7 VMs, are now available in preview with and without local disk support. These VMs are now available in the East US 2, North Europe, and West US 3 regi",
@@ -82,6 +89,13 @@
     "description": "The Multitenant Managed Logging feature in Container Insights is now generally available, offering customers who operate shared AKS clusters the ability to segregate container logs by team. This functionality enables teams to independently manage and acce",
     "pubDate": "2025-09-09T16:30:49.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Ask Ralph: Where style meets AI—a new era of conversational commerce",
+    "link": "https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/",
+    "description": "<p>Meet Ask Ralph, a new AI-powered styling companion that not only helps with product discovery but also inspires consumers with Ralph Lauren's unique and iconic take on style.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/\">Ask Ralph: Where style meets AI—a new era of conversational commerce</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-09T15:41:03.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Microsoft Playwright Testing (Preview) will be retired on March 8, 2026",
@@ -173,6 +187,13 @@
     "description": "You can now\r\ndevelop functions using Python 3.13 locally and deploy them to Azure Functions.  Starting with\r\nPython 3.13, Functions introduces runtime version control, a new opt-in\r\nfeature that lets you target specific versions of the Functions Python runti",
     "pubDate": "2025-09-05T15:15:38.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure mandatory multifactor authentication: Phase 2 starting in October 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/",
+    "description": "<p>Microsoft Azure is announcing the start of Phase 2 multifactor authentication enforcement at the Azure Resource Manager layer, starting October 1, 2025.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/\">Azure mandatory multifactor authentication: Phase 2 starting in October 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-05T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: .NET 10 Preview Now Available on Azure App Service",
@@ -278,6 +299,13 @@
     "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU.",
     "pubDate": "2025-09-04T15:47:07.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft Cost Management updates—July & August 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/",
+    "description": "<p>You need to know what you’re spending, where your money is being spent, and how to plan for the future. Nobody wants a surprise bill—and that’s where Microsoft Cost Management comes in.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/\">Microsoft Cost Management updates—July &amp; August 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-04T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Logic Apps Standard Automated Test Framework ",
@@ -418,6 +446,13 @@
     "description": "Use Azure Data Explorer with Azure IoT Hub for near real-time IoT telemetry analytics on fast-flowing, high-volume streaming data from a wide variety of IoT devices.",
     "pubDate": "2025-09-03T22:22:59.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Agent Factory: From prototype to production—developer tools and rapid agent development",
+    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/",
+    "description": "<p>It's no longer whether you can build an agent—it’s how fast and seamlessly you can go from idea to enterprise-ready deployment.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/\">Agent Factory: From prototype to production—developer tools and rapid agent development</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-03T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Confidential VM SKUs DCesv5, DCedsv5, ECesv5, ECedsv5 SKUs",
@@ -567,6 +602,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Agent Factory: Top 5 agent observability best practices for reliable AI",
+    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/",
+    "description": "<p>Ensuring the reliability, safety, and performance of AI agents is critical. That’s where agent observability comes in.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/\">Agent Factory: Top 5 agent observability best practices for reliable AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-08-27T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
     "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
@@ -602,11 +644,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Transforming scientific discovery with Microsoft Azure and NVIDIA",
+    "link": "https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/",
+    "description": "<p>Scientific innovation speeds up with Azure’s cloud and NVIDIA’s GPUs—see how researchers are transforming discovery.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/\">Transforming scientific discovery with Microsoft Azure and NVIDIA</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-08-26T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Roslyn Analyzer for Durable Functions in .NET isolated ",
     "link": "https://azure.microsoft.com/updates?id=500473",
     "description": "Durable\r\nFunctions running in the .NET isolated model now has support for the Roslyn\r\nAnalyzer, a real-time code analyzer that helps developers adhere to durable\r\norchestrations’ coding constraints. This analyzer is enabled by\r\ndefault to analyze Durable Func",
     "pubDate": "2025-08-25T16:00:39.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Protecting Azure Infrastructure from silicon to systems",
+    "link": "https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/",
+    "description": "<p>At Microsoft, secure design begins at the foundation of our computing stack—the silicon level—and extends through every layer of the cloud.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/\">Protecting Azure Infrastructure from silicon to systems</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-08-25T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Azure now available from cloud region in Austria",
@@ -642,61 +698,5 @@
     "description": "Learn how to design self-healing Azure applications that detect, respond to, and recover from failures to ensure high availability and resilience.",
     "pubDate": "2025-08-22T20:11:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Functions support for Node.js 22",
-    "link": "https://azure.microsoft.com/updates?id=500438",
-    "description": "Azure Functions support for Node.js 22 is now Generally Available. You\r\ncan now develop functions using Node.js 22 locally and deploy them to all Azure\r\nFunctions plans on Linux and Windows.Learn more. ",
-    "pubDate": "2025-08-22T11:45:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Migrate now supports migration to disks with Zone-Redundant Storage (ZRS) redundancy ",
-    "link": "https://azure.microsoft.com/updates?id=501233",
-    "description": " Azure\r\nMigrate now supports migration to Zone-Redundant Storage (ZRS) disks. With\r\nthe introduction of this new feature in Azure Migrate, you can now select ZRS\r\nas the redundancy option during server migration. This automatically\r\nprovisions a disk with ZRS",
-    "pubDate": "2025-08-22T11:00:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build real-time monitoring and observable systems for media",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media",
-    "description": "Learn how to implement real-time monitoring and observability of systems and end-user device telemetry data.",
-    "pubDate": "2025-08-21T18:12:08.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Replicate and Sync Mainframe Data to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
-    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
-    "pubDate": "2025-08-21T18:12:08.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Application Gateway adds MaxSurge support for zero-capacity-impact upgrades",
-    "link": "https://azure.microsoft.com/updates?id=501017",
-    "description": "Azure Application Gateway now\r\nsupports MaxSurge, enabling new instances to be provisioned during rolling\r\nupgrades without taking existing ones offline. This allows customers to\r\ntransition to newer gateway versions without any capacity degradation,\r\nensurin",
-    "pubDate": "2025-08-21T17:00:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally, Available: Search Job in Log Analytics - Now Supporting Up to 100 Million Results",
-    "link": "https://azure.microsoft.com/updates?id=500879",
-    "description": "Search Job lets you run asynchronous queries across all your workspace data, including long-term retention, and delivers results in new Analytics tables for further exploration.We’re excited to announce that the maximum number of records returned by a Sea",
-    "pubDate": "2025-08-21T16:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure NetApp Files file access logs",
-    "link": "https://azure.microsoft.com/updates?id=500760",
-    "description": "Azure NetApp Files file access logs feature is now generally available, delivering enterprise-grade visibility into file-level operations across SMB, NFSv4.1, and dual-protocol volumes. This feature empowers organizations to enhance their security posture",
-    "pubDate": "2025-08-21T16:30:27.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Functions Flex Consumption plan now supports 512 MB instance size and diagnostic settings",
-    "link": "https://azure.microsoft.com/updates?id=500369",
-    "description": "Azure\r\nFunctions now allows you to choose 512 MB in addition to 2048 MB and 4096 MB as\r\nthe memory instance size for your Flex Consumption apps. This enables you to further cost optimize\r\nyour apps that require less\r\nresources,\r\nand allows your apps to scale o",
-    "pubDate": "2025-08-21T15:30:02.000Z",
-    "source": "Azure Updates"
   }
 ]
