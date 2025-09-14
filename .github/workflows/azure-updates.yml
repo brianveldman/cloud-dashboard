@@ -147,8 +147,17 @@ jobs:
         async function generateHTML(updates) {
           const lastUpdated = moment().format('YYYY-MM-DD HH:mm:ss UTC');
           
-          // Read the HTML template
-          let template = await fs.readFile('docs/template.html', 'utf8');
+          // Check if template exists, if not create a simple one
+          let template;
+          try {
+            template = await fs.readFile('docs/template.html', 'utf8');
+          } catch (error) {
+            console.log('Template not found, creating simple HTML...');
+            // Fallback to simple HTML generation
+            const html = generateSimpleHTML(updates, lastUpdated);
+            await fs.writeFile('docs/index.html', html);
+            return;
+          }
           
           // Replace placeholders
           template = template.replace('{{LAST_UPDATED}}', lastUpdated);
@@ -188,6 +197,151 @@ jobs:
           
           // Write final HTML
           await fs.writeFile('docs/index.html', template);
+        }
+
+        function generateSimpleHTML(updates, lastUpdated) {
+          function getBadgeClass(source) {
+            return source.toLowerCase().replace(/\s+/g, '-');
+          }
+          
+          return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure Updates Dashboard</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1><i class="fab fa-microsoft"></i> Azure Updates Dashboard</h1>
+                    <p class="mb-0">Updates from official Azure sources every 6 hours</p>
+                </div>
+                <div class="col-md-4 text-md-end">
+                    <small>Last updated: ${lastUpdated}</small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Stats Overview -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h3><i class="fas fa-newspaper"></i></h3>
+                    <h4>${updates.length}</h4>
+                    <p class="mb-0">Total Updates</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h3><i class="fas fa-rss"></i></h3>
+                    <h4>4</h4>
+                    <p class="mb-0">Active Sources</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h3><i class="fas fa-clock"></i></h3>
+                    <h4>6 Hours</h4>
+                    <p class="mb-0">Update Interval</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <h3><i class="fas fa-sync-alt"></i></h3>
+                    <h4>Auto</h4>
+                    <p class="mb-0">Refresh</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-section">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <input type="text" id="searchInput" class="form-control search-box" 
+                           placeholder="🔍 Search updates...">
+                </div>
+                <div class="col-md-6">
+                    <select id="sourceFilter" class="form-select">
+                        <option value="">All sources</option>
+                        <option value="Azure Updates">Azure Updates</option>
+                        <option value="Azure Architecture">Azure Architecture</option>
+                        <option value="Azure Status">Azure Status</option>
+                        <option value="Azure Blog">Azure Blog</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div id="updatesContainer">
+            ${updates.map((update, index) => `
+                <div class="update-card mb-3" data-source="${update.source}">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-9">
+                                <h5>
+                                    <a href="${update.link}" target="_blank" class="text-decoration-none">
+                                        ${update.title}
+                                    </a>
+                                </h5>
+                                <p class="text-muted">${update.description.substring(0, 200)}${update.description.length > 200 ? '...' : ''}</p>
+                            </div>
+                            <div class="col-md-3 text-md-end">
+                                <span class="source-badge ${getBadgeClass(update.source)} mb-2">${update.source}</span><br>
+                                <small class="date-text">
+                                    <i class="far fa-calendar"></i> 
+                                    ${moment(update.pubDate).format('MMM DD, YYYY')}
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('')}
+        </div>
+
+        <div class="text-center mt-4">
+            <small class="text-muted">
+                This dashboard is automatically updated every 6 hours via GitHub Actions.<br>
+                <a href="https://github.com/brianveldman/azure-updates" target="_blank" class="github-link">
+                    <i class="fab fa-github"></i> View on GitHub
+                </a>
+            </small>
+        </div>
+    </div>
+
+    <script>
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', filterUpdates);
+        document.getElementById('sourceFilter').addEventListener('change', filterUpdates);
+
+        function filterUpdates() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const sourceFilter = document.getElementById('sourceFilter').value;
+            const cards = document.querySelectorAll('.update-card');
+
+            cards.forEach(card => {
+                const title = card.querySelector('h5').textContent.toLowerCase();
+                const description = card.querySelector('p').textContent.toLowerCase();
+                const source = card.getAttribute('data-source');
+
+                const matchesSearch = title.includes(searchTerm) || description.includes(searchTerm);
+                const matchesSource = !sourceFilter || source === sourceFilter;
+
+                if (matchesSearch && matchesSource) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>`;
         }
 
         fetchAzureUpdates().catch(console.error);
