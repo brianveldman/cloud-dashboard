@@ -31,13 +31,12 @@ jobs:
     - name: Install dependencies
       run: npm install axios xml2js moment
         
-    - name: Create fetcher script
+    - name: Create data fetcher
       run: |
         cat > fetch.js << 'EOF'
         const axios = require('axios');
         const xml2js = require('xml2js');
         const fs = require('fs');
-        const moment = require('moment');
 
         async function main() {
           console.log('Fetching Azure Updates...');
@@ -54,10 +53,7 @@ jobs:
           for (const source of sources) {
             try {
               console.log(`Fetching from ${source.name}...`);
-              const response = await axios.get(source.url, { 
-                timeout: 30000, 
-                headers: { 'User-Agent': 'Azure Updates Collector' } 
-              });
+              const response = await axios.get(source.url, { timeout: 30000, headers: { 'User-Agent': 'Azure Updates Collector' } });
               
               const parser = new xml2js.Parser();
               const result = await parser.parseStringPromise(response.data);
@@ -78,12 +74,9 @@ jobs:
                   description = item.description && item.description[0] ? item.description[0] : '';
                   pubDate = item.pubDate && item.pubDate[0] ? new Date(item.pubDate[0]) : new Date();
                 } else {
-                  title = item.title && item.title[0] && item.title[0]._ ? item.title[0]._ : 
-                         (item.title && item.title[0] ? item.title[0] : 'No title');
-                  link = item.link && item.link[0] && item.link[0].$ && item.link[0].$.href ? 
-                         item.link[0].$.href : '';
-                  description = item.summary && item.summary[0] && item.summary[0]._ ? item.summary[0]._ :
-                               (item.summary && item.summary[0] ? item.summary[0] : '');
+                  title = item.title && item.title[0] && item.title[0]._ ? item.title[0]._ : (item.title && item.title[0] ? item.title[0] : 'No title');
+                  link = item.link && item.link[0] && item.link[0].$ && item.link[0].$.href ? item.link[0].$.href : '';
+                  description = item.summary && item.summary[0] && item.summary[0]._ ? item.summary[0]._ : (item.summary && item.summary[0] ? item.summary[0] : '');
                   pubDate = item.updated && item.updated[0] ? new Date(item.updated[0]) : new Date();
                 }
                 
@@ -101,171 +94,67 @@ jobs:
           allUpdates.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
           allUpdates = allUpdates.slice(0, 100);
           
-          console.log(`Total updates collected: ${allUpdates.length}`);
+          console.log(`Total updates: ${allUpdates.length}`);
           
-          // Save JSON data
           if (!fs.existsSync('docs')) fs.mkdirSync('docs');
           fs.writeFileSync('docs/updates.json', JSON.stringify(allUpdates, null, 2));
           
-          console.log('JSON saved, now generating HTML...');
+          console.log('Data saved successfully!');
         }
 
         main().catch(console.error);
         EOF
     
-    - name: Create HTML generator
+    - name: Create HTML builder
       run: |
-        cat > generate.js << 'EOF'
+        cat > build.js << 'BUILDEOF'
         const fs = require('fs');
         const moment = require('moment');
 
-        // Read the updates
-        const allUpdates = JSON.parse(fs.readFileSync('docs/updates.json', 'utf8'));
+        // Read the updates and template
+        const updates = JSON.parse(fs.readFileSync('docs/updates.json', 'utf8'));
+        let template = fs.readFileSync('docs/template.html', 'utf8');
         
         const lastUpdated = moment().format('YYYY-MM-DD HH:mm:ss UTC');
-        const getBadgeClass = (source) => source.toLowerCase().replace(/\s+/g, '-');
-        
-        // Generate update cards HTML
-        const updateCards = allUpdates.map(update => {
-          const badgeClass = getBadgeClass(update.source);
+
+        // Replace placeholders
+        template = template.replace('{{LAST_UPDATED}}', lastUpdated);
+        template = template.replace('{{TOTAL_UPDATES}}', updates.length);
+
+        // Generate updates HTML
+        const updatesHTML = updates.map(update => {
+          const badgeClass = update.source.toLowerCase().replace(/\s+/g, '-');
           const formattedDate = moment(update.pubDate).format('MMM DD, YYYY');
           const shortDesc = update.description.substring(0, 200) + (update.description.length > 200 ? '...' : '');
           
-          return `<div class="update-card mb-3" data-source="${update.source}">
-            <div class="card-body">
-                <div class="row">
-                    <div class="col-md-9">
-                        <h5><a href="${update.link}" target="_blank" class="text-decoration-none">${update.title}</a></h5>
-                        <p class="text-muted">${shortDesc}</p>
-                    </div>
-                    <div class="col-md-3 text-md-end">
-                        <span class="source-badge ${badgeClass} mb-2">${update.source}</span><br>
-                        <small class="date-text"><i class="far fa-calendar"></i> ${formattedDate}</small>
-                    </div>
-                </div>
-            </div>
-          </div>`;
+          return '<div class="update-card mb-3" data-source="' + update.source + '">' +
+                 '<div class="card-body">' +
+                 '<div class="row">' +
+                 '<div class="col-md-9">' +
+                 '<h5><a href="' + update.link + '" target="_blank" class="text-decoration-none">' + update.title + '</a></h5>' +
+                 '<p class="text-muted">' + shortDesc + '</p>' +
+                 '</div>' +
+                 '<div class="col-md-3 text-md-end">' +
+                 '<span class="source-badge ' + badgeClass + ' mb-2">' + update.source + '</span><br>' +
+                 '<small class="date-text"><i class="far fa-calendar"></i> ' + formattedDate + '</small>' +
+                 '</div>' +
+                 '</div>' +
+                 '</div>' +
+                 '</div>';
         }).join('');
+
+        // Replace updates placeholder
+        template = template.replace('{{UPDATES_CONTENT}}', updatesHTML);
+
+        // Write final HTML
+        fs.writeFileSync('docs/index.html', template);
+        console.log('HTML generated from template successfully!');
+        BUILDEOF
         
-        // Build complete HTML
-        const html = `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Azure Updates Dashboard</title>
-    <link href="style.css" rel="stylesheet">
-</head>
-<body>
-    <div class="header">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-8">
-                    <h1><i class="fab fa-microsoft"></i> Azure Updates Dashboard</h1>
-                    <p class="mb-0">Updates from official Azure sources every 6 hours</p>
-                </div>
-                <div class="col-md-4 text-md-end">
-                    <small>Last updated: ${lastUpdated}</small>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="row mb-4">
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-newspaper"></i></h3>
-                    <h4>${allUpdates.length}</h4>
-                    <p class="mb-0">Total Updates</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-rss"></i></h3>
-                    <h4>4</h4>
-                    <p class="mb-0">Active Sources</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-clock"></i></h3>
-                    <h4>6 Hours</h4>
-                    <p class="mb-0">Update Interval</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-sync-alt"></i></h3>
-                    <h4>Auto</h4>
-                    <p class="mb-0">Refresh</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="filter-section">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <input type="text" id="searchInput" class="form-control search-box" placeholder="🔍 Search updates...">
-                </div>
-                <div class="col-md-6">
-                    <select id="sourceFilter" class="form-select">
-                        <option value="">All sources</option>
-                        <option value="Azure Updates">Azure Updates</option>
-                        <option value="Azure Architecture">Azure Architecture</option>
-                        <option value="Azure Status">Azure Status</option>
-                        <option value="Azure Blog">Azure Blog</option>
-                    </select>
-                </div>
-            </div>
-        </div>
-
-        <div id="updatesContainer">
-            ${updateCards}
-        </div>
-
-        <div class="text-center mt-4">
-            <small class="text-muted">
-                This dashboard is automatically updated every 6 hours via GitHub Actions.<br>
-                <a href="https://github.com/your-username/azure-updates" target="_blank" class="github-link">
-                    <i class="fab fa-github"></i> View on GitHub
-                </a>
-            </small>
-        </div>
-    </div>
-
-    <script>
-        document.getElementById('searchInput').addEventListener('input', filterUpdates);
-        document.getElementById('sourceFilter').addEventListener('change', filterUpdates);
-
-        function filterUpdates() {
-            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-            const sourceFilter = document.getElementById('sourceFilter').value;
-            const cards = document.querySelectorAll('.update-card');
-
-            cards.forEach(card => {
-                const title = card.querySelector('h5').textContent.toLowerCase();
-                const description = card.querySelector('p').textContent.toLowerCase();
-                const source = card.getAttribute('data-source');
-
-                const matchesSearch = title.includes(searchTerm) || description.includes(searchTerm);
-                const matchesSource = !sourceFilter || source === sourceFilter;
-
-                card.style.display = (matchesSearch && matchesSource) ? 'block' : 'none';
-            });
-        }
-    </script>
-</body>
-</html>`;
-        
-        fs.writeFileSync('docs/index.html', html);
-        console.log('HTML generated successfully!');
-        EOF
-        
-    - name: Run scripts
+    - name: Run build process
       run: |
         node fetch.js
-        node generate.js
+        node build.js
         
     - name: Commit and push
       run: |
