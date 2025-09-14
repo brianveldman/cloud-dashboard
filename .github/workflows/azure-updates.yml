@@ -616,7 +616,7 @@ body {
         }
 
         fetchAzureUpdates().catch(console.error);
-        EOF
+        SCRIPT_END
         
         node fetch-updates.js
         
