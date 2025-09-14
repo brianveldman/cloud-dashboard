@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Azure Updates Dashboard</title>
     <link href="style.css" rel="stylesheet">
 </head>
-
 <body>
     <div class="header">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-8">
-                    <h1><i class="fab fa-microsoft"></i> Azure Updates Dashboard</h1>
+                    <h1>
+                        <img src="docs/logos/azure.png" alt="Azure Logo" class="azure-logo">
+                        Azure Updates Dashboard
+                    </h1>
                     <p class="mb-0">Updates from official Azure sources every 6 hours</p>
                 </div>
                 <div class="col-md-4 text-md-end">
@@ -63,8 +64,8 @@
         <div class="filter-section">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <input type="text" id="searchInput" class="form-control search-box"
-                        placeholder="🔍 Search updates...">
+                    <input type="text" id="searchInput" class="form-control search-box" 
+                           placeholder="🔍 Search updates...">
                 </div>
                 <div class="col-md-6">
                     <select id="sourceFilter" class="form-select">
@@ -98,9 +99,9 @@
             const body = document.body;
             const themeIcon = document.getElementById('themeIcon');
             const themeText = document.getElementById('themeText');
-
+            
             body.classList.toggle('light-mode');
-
+            
             if (body.classList.contains('light-mode')) {
                 themeIcon.className = 'fas fa-moon';
                 themeText.textContent = 'Dark Mode';
@@ -118,7 +119,7 @@
             const body = document.body;
             const themeIcon = document.getElementById('themeIcon');
             const themeText = document.getElementById('themeText');
-
+            
             if (savedTheme === 'light') {
                 body.classList.add('light-mode');
                 themeIcon.className = 'fas fa-moon';
@@ -155,5 +156,4 @@
         document.addEventListener('DOMContentLoaded', loadTheme);
     </script>
 </body>
-
 </html>
