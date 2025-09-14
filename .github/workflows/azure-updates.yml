@@ -63,9 +63,9 @@ jobs:
               type: 'rss'
             },
             {
-              name: 'Azure Landing Zones',
-              url: 'https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/feed.atom',
-              type: 'atom'
+              name: 'Azure Blog',
+              url: 'https://azure.microsoft.com/en-us/blog/feed/',
+              type: 'rss'
             }
           ];
 
