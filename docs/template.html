@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Azure Updates Dashboard</title>
     <link href="style.css" rel="stylesheet">
 </head>
+
 <body>
     <div class="header">
         <div class="container">
@@ -19,6 +21,10 @@
                 </div>
             </div>
         </div>
+        <button class="theme-toggle" onclick="toggleTheme()">
+            <i class="fas fa-sun" id="themeIcon"></i>
+            <span id="themeText">Light Mode</span>
+        </button>
     </div>
 
     <div class="container">
@@ -57,8 +63,8 @@
         <div class="filter-section">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <input type="text" id="searchInput" class="form-control search-box" 
-                           placeholder="🔍 Search updates...">
+                    <input type="text" id="searchInput" class="form-control search-box"
+                        placeholder="🔍 Search updates...">
                 </div>
                 <div class="col-md-6">
                     <select id="sourceFilter" class="form-select">
@@ -87,6 +93,39 @@
     </div>
 
     <script>
+        // Theme toggle functionality
+        function toggleTheme() {
+            const body = document.body;
+            const themeIcon = document.getElementById('themeIcon');
+            const themeText = document.getElementById('themeText');
+
+            body.classList.toggle('light-mode');
+
+            if (body.classList.contains('light-mode')) {
+                themeIcon.className = 'fas fa-moon';
+                themeText.textContent = 'Dark Mode';
+                localStorage.setItem('theme', 'light');
+            } else {
+                themeIcon.className = 'fas fa-sun';
+                themeText.textContent = 'Light Mode';
+                localStorage.setItem('theme', 'dark');
+            }
+        }
+
+        // Load saved theme
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            const body = document.body;
+            const themeIcon = document.getElementById('themeIcon');
+            const themeText = document.getElementById('themeText');
+
+            if (savedTheme === 'light') {
+                body.classList.add('light-mode');
+                themeIcon.className = 'fas fa-moon';
+                themeText.textContent = 'Dark Mode';
+            }
+        }
+
         // Search functionality
         document.getElementById('searchInput').addEventListener('input', filterUpdates);
         document.getElementById('sourceFilter').addEventListener('change', filterUpdates);
@@ -111,6 +150,10 @@
                 }
             });
         }
+
+        // Initialize theme on page load
+        document.addEventListener('DOMContentLoaded', loadTheme);
     </script>
 </body>
+
 </html>
