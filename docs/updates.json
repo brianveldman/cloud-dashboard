@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: Enabling dedicated connections to backends in Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=503398",
+    "description": "Azure Application Gateway V2 now supports enabling dedicated connections\r\nfrom Application Gateway to backend server. By default, Application Gateway reuses the idle backend connections to\r\noptimize the resource usage of TCP connections helping both the gat",
+    "pubDate": "2025-09-15T16:45:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Backend TLS validation controls in Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=503393",
+    "description": "Azure\r\nApplication Gateway V2 announces general availability of customer-controlled\r\nbackend TLS validations. When the HTTPS protocol is selected in the Backend\r\nSettings of Azure Application Gateway, by default, it performs all validations\r\nin the TLS handsh",
+    "pubDate": "2025-09-15T16:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL hub experience in Azure portal ",
+    "link": "https://azure.microsoft.com/updates?id=502014",
+    "description": "Choosing the right Azure SQL service can be challenging. To make this easier, you can now visit the Azure SQL hub, a new home for everything related to Azure SQL in the Azure portal. Whether you’re new to Azure SQL or an experienced user, the hub helps yo",
+    "pubDate": "2025-09-15T16:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Linux 2.0 on AKS ",
+    "link": "https://azure.microsoft.com/updates?id=500645",
+    "description": "Azure Linux 2.0 on AKS will be retired on November 30, 2025, please transition to Azure\r\nLinux 3.0 by that date.   Azure Linux 2.0 has been replaced by the newer supported version Azure\r\nLinux 3.0. We encourage you to transition to Azure Linux 3.0 prior to ",
+    "pubDate": "2025-09-15T13:45:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service",
     "link": "https://azure.microsoft.com/updates?id=501891",
     "description": "Announcong that Azure App Service now supports Bring Your Own License (BYOL) for JBoss Enterprise Application Platform (EAP), enabling enterprise customers to deploy Java workloads with greater flexibility and cost efficiency.If you’ve evaluated Azure App",
@@ -670,33 +698,5 @@
     "description": "Microsoft announces\r\nthe opening of its cloud region in Austria to accelerate digital transformation\r\nand AI innovation. The cloud region will enable companies and public\r\nadministration in Austria to store and process their data securely, in\r\ncompliance with",
     "pubDate": "2025-08-25T13:00:07.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure App Service and Azure Functions Considerations for Multitenancy",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-service",
-    "description": "This article describes the features of Azure App Service and Azure Functions that are useful when working with multitenant systems.",
-    "pubDate": "2025-08-24T22:58:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure API Management in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/api-management",
-    "description": "Learn about Azure API Management features for multitenant solutions, including tenant isolation models, routing, authentication, caching, and rate limiting.",
-    "pubDate": "2025-08-24T22:58:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Architectural Approaches for AI and Machine Learning in Multitenant Solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-machine-learning",
-    "description": "Learn approaches for AI and machine learning multitenancy, including tenant isolation, model training, inference, and how to use Azure AI services.",
-    "pubDate": "2025-08-24T22:36:43.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design for Self-Healing",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/design-principles/self-healing",
-    "description": "Learn how to design self-healing Azure applications that detect, respond to, and recover from failures to ensure high availability and resilience.",
-    "pubDate": "2025-08-22T20:11:42.000Z",
-    "source": "Azure Architecture"
   }
 ]
