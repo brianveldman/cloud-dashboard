@@ -609,3 +609,38 @@ body.light-mode ::-webkit-scrollbar-thumb:hover {
         border: 1px solid #ccc;
     }
 }
+
+/* ========================================= */
+/* FIX FOR LIGHT MODE DROPDOWN DISPLAY ISSUE */
+/* ========================================= */
+
+/* Fix dropdown options visibility in light mode */
+body.light-mode .form-select option {
+    color: #1e293b !important;  /* Ensure text is dark */
+    background: white !important;  /* Ensure background is white */
+}
+
+/* Ensure the selected item text is visible */
+body.light-mode .form-select:not([multiple]) {
+    color: #1e293b !important;
+}
+
+/* Remove any icon content from options if present */
+body.light-mode .form-select option::before,
+body.light-mode .form-select option::after {
+    content: none !important;
+}
+
+/* Additional fix: Ensure FA icons don't interfere with dropdowns */
+.form-select .fas::before,
+.form-select .far::before,
+.form-select .fab::before,
+.form-select [class*="fa-"]::before {
+    content: none !important;
+}
+
+/* Ensure proper font family for dropdown to prevent icon font issues */
+.form-select,
+.form-select option {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
