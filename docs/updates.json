@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure File Sync in Poland Central and Spain Central",
+    "link": "https://azure.microsoft.com/updates?id=503421",
+    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
+    "pubDate": "2025-09-16T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure HBv5-series VMs",
+    "link": "https://azure.microsoft.com/updates?id=503129",
+    "description": "Azure HBv5-series VM are now available in Preview in the Azure South Central US region. HBv5 VMs are optimized for memory bandwidth-intensive HPC applications, such as computational fluid dynamics, automotive and aerospace simulations, weather modeling, e",
+    "pubDate": "2025-09-16T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: AKS Automatic ",
+    "link": "https://azure.microsoft.com/updates?id=503235",
+    "description": "Kubernetes is a game-changer for\r\nmodern apps, but it’s often slowed by operational complexity and a steep\r\nlearning curve. Many teams spend too much time managing clusters, tuning\r\ninfrastructure, and troubleshooting security or reliability risks when they’",
+    "pubDate": "2025-09-16T17:30:21.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees",
     "link": "https://azure.microsoft.com/updates?id=502853",
     "description": "Azure Container Storage (ACStor) v2.0.0 is now generally\r\navailable. This release delivers up to 7× higher IOPS and 4× lower latency on\r\nlocal NVMe compared to v1.3.1, making Container Storage v2.0.0 the fastest\r\nstorage available for Azure Kubernetes Servic",
@@ -675,27 +696,6 @@
     "title": "[In preview] Public Preview: Confluent Kafka Connector in Azure Logic Apps (Standard)  ",
     "link": "https://azure.microsoft.com/updates?id=501814",
     "description": "Announcing the public preview of the Confluent Kafka Connector in Azure Logic Apps (Standard). This new connector allows you to both send and receive messages between Logic Apps and Confluent Kafka. Confluent Kafka is a distributed streaming platform wide",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Workspaces and workspace gateways in the Premium v2 tier of Azure API Management ",
-    "link": "https://azure.microsoft.com/updates?id=501809",
-    "description": "Announcing the general availability of workspaces and workspace gateways in the Premium v2 tier of Azure API Management. (Note: Premium v2 remains in preview at the time of this announcement.) Workspaces enable organizations to manage and govern APIs at s",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Expanded support for the Model Context Protocol (MCP) in Azure API Management ",
-    "link": "https://azure.microsoft.com/updates?id=501804",
-    "description": "We’re announcing expanded support for the Model Context Protocol (MCP) in Azure API Management with two new capabilities: MCP in v2 SKUs and the ability to expose existing MCP-compliant servers. These updates make it easier to connect APIs and AI agents w",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Enhanced Data Mapper Experience in Logic Apps (Standard)  ",
-    "link": "https://azure.microsoft.com/updates?id=501799",
-    "description": "Introducing the redesigned Data Mapper UX in the Azure Logic Apps (Standard) extension for Visual Studio Code is now generally available. The new experience, which was in public preview, becomes the default for creating and editing maps. This release is a",
     "pubDate": "2025-09-03T23:15:04.000Z",
     "source": "Azure Updates"
   }
