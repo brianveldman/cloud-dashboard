@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
+    "link": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
+    "description": "<p>Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation\">FabCon Vienna: Build data-rich agents on an enterprise-ready foundation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-16T11:23:54.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Azure Databricks Standard tier will retire by October 2026",
     "link": "https://azure.microsoft.com/updates?id=502623",
     "description": "We are announcing the retirement of Azure Databricks Standard Tier. Azure subscriptions will no longer support creation of Azure Databricks Standard Tier workspaces after April 1st, 2026.   Starting October 1st, 2026, all Azure Databricks Standard tier wo",
@@ -691,12 +698,5 @@
     "description": "Introducing the redesigned Data Mapper UX in the Azure Logic Apps (Standard) extension for Visual Studio Code is now generally available. The new experience, which was in public preview, becomes the default for creating and editing maps. This release is a",
     "pubDate": "2025-09-03T23:15:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Analyze operational data on MongoDB Atlas using Azure Synapse Analytics",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/azure-synapse-analytics-integrate-mongodb-atlas",
-    "description": "Derive insights from siloed data. Connect operational data in MongoDB Atlas to Azure Synapse Analytics, and run real-time analytics on the data.",
-    "pubDate": "2025-09-03T22:22:59.000Z",
-    "source": "Azure Architecture"
   }
 ]
