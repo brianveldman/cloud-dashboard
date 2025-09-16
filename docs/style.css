@@ -644,3 +644,49 @@ body.light-mode .form-select option::after {
 .form-select option {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
 }
+
+
+/* ========================================= */
+/* FIX FOR LIGHT MODE SEARCH + SELECT        */
+/* ========================================= */
+
+/* Zorg dat tekst en cursor zichtbaar zijn */
+body.light-mode .search-box {
+    color: #0f172a;       /* donkere tekst */
+    caret-color: #0f172a; /* cursor goed zichtbaar */
+}
+
+/* Forceer één enkele dropdown-arrow en achtergrond */
+body.light-mode .form-select {
+    background-image:
+        url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%231e293b' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e"),
+        linear-gradient(#ffffff, #ffffff);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 0.75rem center, 0 0;
+    background-size: 16px 12px, 100% 100%;
+    padding-right: 2.25rem; /* ruimte voor arrow */
+}
+
+/* Verwijder ongewenste FA pseudo-content in select */
+body.light-mode .form-select .fas::before,
+body.light-mode .form-select .far::before,
+body.light-mode .form-select .fab::before,
+body.light-mode .form-select [class*="fa-"]::before {
+    content: none !important;
+}
+
+/* Leesbare dropdown opties */
+body.light-mode .form-select,
+body.light-mode .form-select option {
+    color: #1e293b !important;
+    background-color: #ffffff !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* Consistent gedrag in Safari/Firefox */
+body.light-mode .form-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-color: #e2e8f0;
+}
