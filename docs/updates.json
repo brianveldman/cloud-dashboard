@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: hsmPlatform 1 Keys in Azure Key Vault",
+    "link": "https://azure.microsoft.com/updates?id=494676",
+    "description": "As part of our ongoing commitment\r\nto improving security and performance, we will be retiring support for hsmPlatform\r\n1 keys, effective September 15, 2028. To ensure the continued security and\r\nfunctionality of your operations, we recommend transitioning to",
+    "pubDate": "2025-09-15T21:30:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Enabling dedicated connections to backends in Azure Application Gateway",
     "link": "https://azure.microsoft.com/updates?id=503398",
     "description": "Azure Application Gateway V2 now supports enabling dedicated connections\r\nfrom Application Gateway to backend server. By default, Application Gateway reuses the idle backend connections to\r\noptimize the resource usage of TCP connections helping both the gat",
@@ -691,12 +698,5 @@
     "description": "<p>At Microsoft, secure design begins at the foundation of our computing stack—the silicon level—and extends through every layer of the cloud.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/\">Protecting Azure Infrastructure from silicon to systems</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-08-25T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Azure now available from cloud region in Austria",
-    "link": "https://azure.microsoft.com/updates?id=500650",
-    "description": "Microsoft announces\r\nthe opening of its cloud region in Austria to accelerate digital transformation\r\nand AI innovation. The cloud region will enable companies and public\r\nadministration in Austria to store and process their data securely, in\r\ncompliance with",
-    "pubDate": "2025-08-25T13:00:07.000Z",
-    "source": "Azure Updates"
   }
 ]
