@@ -140,6 +140,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/",
+    "description": "<p>The next major release of Azure Container Storage delivers up to 7 times higher IOPS and 4 times less latency compared to previous versions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/\">Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-15T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Azure Linux 2.0 on AKS ",
     "link": "https://azure.microsoft.com/updates?id=500645",
     "description": "Azure Linux 2.0 on AKS will be retired on November 30, 2025, please transition to Azure\r\nLinux 3.0 by that date.   Azure Linux 2.0 has been replaced by the newer supported version Azure\r\nLinux 3.0. We encourage you to transition to Azure Linux 3.0 prior to ",
@@ -689,13 +696,6 @@
     "title": "DataOps for the modern data warehouse",
     "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/dataops-mdw",
     "description": "How to apply DevOps principles to data pipelines built according to the modern data warehouse (MDW) architectural pattern with Microsoft Azure.",
-    "pubDate": "2025-09-03T22:22:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate IBM z/OS OLTP Workloads to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/ibm-zos-online-transaction-processing-azure",
-    "description": "Migrate a z/OS online transaction processing (OLTP) workload to an Azure application that is cost effective, responsive, scalable, and adaptable.",
     "pubDate": "2025-09-03T22:22:59.000Z",
     "source": "Azure Architecture"
   }
