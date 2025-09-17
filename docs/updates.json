@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Functions .NET 10 support ",
+    "link": "https://azure.microsoft.com/updates?id=503134",
+    "description": "Azure Functions now supports .NET 10 in Public Preview. To use\r\n.NET 10, adjust the target framework in your Functions project, and update\r\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
+    "pubDate": "2025-09-17T17:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Introducing the new Network Security Hub experience",
+    "link": "https://azure.microsoft.com/updates?id=503617",
+    "description": "The Azure Firewall Manager\r\nexperience has been expanded and rebranded as the Network Security Hub—a\r\ncentralized interface that brings together Azure Firewall, Web\r\nApplication Firewall (WAF), and DDoS Protection. This change is part\r\nof a broader effort to ",
+    "pubDate": "2025-09-17T16:30:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Databricks One in Azure Databricks ",
+    "link": "https://azure.microsoft.com/updates?id=503408",
+    "description": "Databricks One in Azure Databricks delivers a unified, simplified experience that brings together data engineering, analytics, and AI development in a single, governed platform. By integrating collaborative workflows, enterprise-grade governance, and perf",
+    "pubDate": "2025-09-17T16:30:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Confidential computing for Azure Database for PostgreSQL flexible server ",
+    "link": "https://azure.microsoft.com/updates?id=500795",
+    "description": "Announcing support for confidential computing in Azure Database for PostgreSQL flexible server. Azure Confidential Computing encrypts data in hardware-based trusted execution environments (TEEs), processing data only when the cloud environment has been ve",
+    "pubDate": "2025-09-17T15:45:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: At-cost data transfer between Azure and an external endpoint",
     "link": "https://azure.microsoft.com/updates?id=501915",
     "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure now offers at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data\r\nvia the internet between Azure to ano",
@@ -33,13 +61,6 @@
     "description": "Kubernetes is a game-changer for\r\nmodern apps, but it’s often slowed by operational complexity and a steep\r\nlearning curve. Many teams spend too much time managing clusters, tuning\r\ninfrastructure, and troubleshooting security or reliability risks when they’",
     "pubDate": "2025-09-16T17:30:21.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/",
-    "description": "<p>Azure Kubernetes Service Automatic helps teams go from commit to cloud without friction, accelerating delivery and unleashing innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/\">Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees",
@@ -675,27 +696,6 @@
     "title": "[Launched] Generally Available: Azure Logic Apps Standard Automated Test Framework ",
     "link": "https://azure.microsoft.com/updates?id=501844",
     "description": "Announcing the general availability of the Azure Logic Apps Standard Automated Test Framework, enabling developers to build, test, and maintain enterprise-grade workflows with confidence. The framework allows teams to create unit tests for workflow defini",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom Code support in Azure Logic Apps Standard with .NET 8 ",
-    "link": "https://azure.microsoft.com/updates?id=501839",
-    "description": "Announcing the general availability of Custom Code support in Azure Logic Apps Standard with .NET 8. This release enables developers to embed .NET 8 code directly in workflows, unlocking advanced logic scenarios, code reuse, and seamless integration with ",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Business Process Tracking in Azure Logic Apps (Standard) ",
-    "link": "https://azure.microsoft.com/updates?id=501834",
-    "description": "Announcing the general availability of Business Process Tracking in Azure Logic Apps (Standard). This capability provides business stakeholders with timely insights by tracking key data properties throughout your workflows in production environments. With",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Gateway level metrics and native autoscaling for Azure API Management v2 tiers ",
-    "link": "https://azure.microsoft.com/updates?id=501829",
-    "description": "Announcing gateway-level metrics and native autoscaling for Azure API Management v2 tiers: Basic v2, Standard v2, and Premium v2. These updates give you deeper visibility into gateway performance and enable automatic scaling based on real-time usage. Gate",
     "pubDate": "2025-09-03T23:15:04.000Z",
     "source": "Azure Updates"
   }
