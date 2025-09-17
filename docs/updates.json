@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: At-cost data transfer between Azure and an external endpoint",
+    "link": "https://azure.microsoft.com/updates?id=501915",
+    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure now offers at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data\r\nvia the internet between Azure to ano",
+    "pubDate": "2025-09-16T21:30:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Kubernetes Service on VMware will be retired on March 16, 2026 - Replace with Azure Kubernetes Service on Azure Local ",
+    "link": "https://azure.microsoft.com/updates?id=500294",
+    "description": "Azure Kubernetes Service on VMware (preview) will be retired on March 16, 2026. Please transition to a supported Azure Kubernetes Service on Azure Local by that date if needed. We encourage you to transition to Azure Kubernetes Service on Azure Local befo",
+    "pubDate": "2025-09-16T19:45:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure File Sync in Poland Central and Spain Central",
     "link": "https://azure.microsoft.com/updates?id=503421",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -682,20 +696,6 @@
     "title": "[Launched] Generally Available: Logic Apps Hybrid Deployment Model ",
     "link": "https://azure.microsoft.com/updates?id=501824",
     "description": "Announcing the general availability of the Logic Apps Hybrid Deployment Model, offering customers unprecedented flexibility and control over where their integration workloads run. You can now host Logic Apps on customer-managed infrastructure, including o",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Organizational Templates in Azure Logic Apps  ",
-    "link": "https://azure.microsoft.com/updates?id=501819",
-    "description": "Announcing the public preview of Organizational Templates in Azure Logic Apps. This feature empowers teams to author, share, and reuse automation patterns within their own organization, helping standardize integration practices at scale. Organizational Te",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Confluent Kafka Connector in Azure Logic Apps (Standard)  ",
-    "link": "https://azure.microsoft.com/updates?id=501814",
-    "description": "Announcing the public preview of the Confluent Kafka Connector in Azure Logic Apps (Standard). This new connector allows you to both send and receive messages between Logic Apps and Confluent Kafka. Confluent Kafka is a distributed streaming platform wide",
     "pubDate": "2025-09-03T23:15:04.000Z",
     "source": "Azure Updates"
   }
