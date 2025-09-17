@@ -35,6 +35,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/",
+    "description": "<p>Azure Kubernetes Service Automatic helps teams go from commit to cloud without friction, accelerating delivery and unleashing innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/\">Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees",
     "link": "https://azure.microsoft.com/updates?id=502853",
     "description": "Azure Container Storage (ACStor) v2.0.0 is now generally\r\navailable. This release delivers up to 7× higher IOPS and 4× lower latency on\r\nlocal NVMe compared to v1.3.1, making Container Storage v2.0.0 the fastest\r\nstorage available for Azure Kubernetes Servic",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Gateway level metrics and native autoscaling for Azure API Management v2 tiers ",
     "link": "https://azure.microsoft.com/updates?id=501829",
     "description": "Announcing gateway-level metrics and native autoscaling for Azure API Management v2 tiers: Basic v2, Standard v2, and Premium v2. These updates give you deeper visibility into gateway performance and enable automatic scaling based on real-time usage. Gate",
-    "pubDate": "2025-09-03T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Logic Apps Hybrid Deployment Model ",
-    "link": "https://azure.microsoft.com/updates?id=501824",
-    "description": "Announcing the general availability of the Logic Apps Hybrid Deployment Model, offering customers unprecedented flexibility and control over where their integration workloads run. You can now host Logic Apps on customer-managed infrastructure, including o",
     "pubDate": "2025-09-03T23:15:04.000Z",
     "source": "Azure Updates"
   }
