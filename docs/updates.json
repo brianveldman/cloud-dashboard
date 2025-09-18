@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – update run approval gates",
+    "link": "https://azure.microsoft.com/updates?id=503245",
+    "description": "Azure Kubernetes\r\nFleet Manager update runs now support approval gates. Gates can be placed before and after update\r\ngroups and stages and provide additional control over the flow of the update\r\nrun. Gates allow you to either manually approve the update run ",
+    "pubDate": "2025-09-18T17:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Distributed tracing for Durable Functions ",
+    "link": "https://azure.microsoft.com/updates?id=503139",
+    "description": "Distributed tracing V2 for Durable Functions introduces a robust and comprehensive\r\ntracing model that enables developers to correlate operations in\r\norchestrations, activities, and durable entities. This capability is particularly\r\nuseful for Durable Functi",
+    "pubDate": "2025-09-18T17:00:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Functions .NET 10 support ",
     "link": "https://azure.microsoft.com/updates?id=503134",
     "description": "Azure Functions now supports .NET 10 in Public Preview. To use\r\n.NET 10, adjust the target framework in your Functions project, and update\r\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
@@ -61,6 +75,13 @@
     "description": "Kubernetes is a game-changer for\r\nmodern apps, but it’s often slowed by operational complexity and a steep\r\nlearning curve. Many teams spend too much time managing clusters, tuning\r\ninfrastructure, and troubleshooting security or reliability risks when they’",
     "pubDate": "2025-09-16T17:30:21.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/",
+    "description": "<p>Azure Kubernetes Service Automatic helps teams go from commit to cloud without friction, accelerating delivery and unleashing innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/\">Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-16T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=500765",
     "description": "You can now take advantage of near-zero-downtime maintenance for Azure Database for MySQL – Flexible Server with high availability (HA) enabled. This capability is now generally available and is supported by our new HA architecture based on a dedicated Az",
     "pubDate": "2025-09-04T16:30:46.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Overview of Microsoft Machine Learning Products and Technologies",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
-    "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
-    "pubDate": "2025-09-04T15:47:07.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Cost Management updates—July & August 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/",
-    "description": "<p>You need to know what you’re spending, where your money is being spent, and how to plan for the future. Nobody wants a surprise bill—and that’s where Microsoft Cost Management comes in.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/\">Microsoft Cost Management updates—July &amp; August 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-04T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Logic Apps Standard Automated Test Framework ",
-    "link": "https://azure.microsoft.com/updates?id=501844",
-    "description": "Announcing the general availability of the Azure Logic Apps Standard Automated Test Framework, enabling developers to build, test, and maintain enterprise-grade workflows with confidence. The framework allows teams to create unit tests for workflow defini",
-    "pubDate": "2025-09-03T23:15:04.000Z",
     "source": "Azure Updates"
   }
 ]
