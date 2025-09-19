@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel ",
+    "link": "https://azure.microsoft.com/updates?id=503240",
+    "description": "Azure Kubernetes Fleet Manager has a new auto-upgrade channel that\r\nallows you to set a target Kubernetes minor version. Using this channel means\r\nclusters on the target Kubernetes minor continue to receive only patch updates\r\nuntil the minor reaches the end",
+    "pubDate": "2025-09-19T17:30:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: High Scale mode for Azure Monitor – Container Insights ",
+    "link": "https://azure.microsoft.com/updates?id=503034",
+    "description": "Container Insights is Azure Monitor’s solution for collecting logs from your Azure Kubernetes Service clusters.   Announcing  the general availability of High scale mode in Container Insights to help customers achieve a higher log collection throughput fr",
+    "pubDate": "2025-09-19T13:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Managed Service for Prometheus now includes native Grafana dashboards within the Azure portal",
+    "link": "https://azure.microsoft.com/updates?id=503286",
+    "description": "Announcing the Azure Managed Service for\r\nPrometheus now includes native Grafana dashboards within the Azure portal at no\r\nadditional cost. This integration marks a major milestone in our mission to\r\nsimplify observability reducing the administrative overhea",
+    "pubDate": "2025-09-19T13:00:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Data Box Next Gen is now generally available in additional regions",
     "link": "https://azure.microsoft.com/updates?id=503350",
     "description": "Azure\r\nData Box Next Gen is now Generally Available in NEW regions including: India, Qatar, South Africa and Korea. With\r\nthis new addition, we now have:\r\n Both\r\n     Azure Data box 120TB and 525 TB generally available (GA) in the US, UK,\r\n     Europe, US Gov,",
@@ -33,27 +54,6 @@
     "description": "Distributed tracing V2 for Durable Functions introduces a robust and comprehensive\r\ntracing model that enables developers to correlate operations in\r\norchestrations, activities, and durable entities. This capability is particularly\r\nuseful for Durable Functi",
     "pubDate": "2025-09-18T17:00:27.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Inside the world’s most powerful AI datacenter",
-    "link": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
-    "description": "<p>Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to our Fairwater datacenter in Wisconsin, we also have multiple identical Fairwater datacenters under construction in other locations across the US.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/\">Inside the world’s most powerful AI datacenter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-18T15:45:10.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/",
-    "description": "<p>Microsoft has been named a Leader in the 2025 Gartner Magic Quadrant for Global Industrial IoT Platforms, highlighting its commitment to delivering intelligent, secure, and scalable industrial solutions with Azure. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-18T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Agent Factory: Creating a blueprint for safe and secure AI agents",
-    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/",
-    "description": "<p>Azure AI Foundry brings together security, safety, and governance in a layered process enterprises can follow to build trust in their agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/\">Agent Factory: Creating a blueprint for safe and secure AI agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-17T21:30:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Functions .NET 10 support ",
@@ -117,13 +117,6 @@
     "description": "Kubernetes is a game-changer for\r\nmodern apps, but it’s often slowed by operational complexity and a steep\r\nlearning curve. Many teams spend too much time managing clusters, tuning\r\ninfrastructure, and troubleshooting security or reliability risks when they’",
     "pubDate": "2025-09-16T17:30:21.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/",
-    "description": "<p>Azure Kubernetes Service Automatic helps teams go from commit to cloud without friction, accelerating delivery and unleashing innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/\">Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees",
@@ -696,6 +689,13 @@
     "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
     "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
+    "pubDate": "2025-09-04T17:29:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Greenfield lakehouse on Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
+    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
     "pubDate": "2025-09-04T17:29:02.000Z",
     "source": "Azure Architecture"
   }
