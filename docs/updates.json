@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: Licensing changes for future Azure VMware Solution subscriptions starting October 16, 2025.",
+    "link": "https://azure.microsoft.com/updates?id=503878",
+    "description": "Broadcom\r\nannounced changes to their VMware licensing policies. The change now\r\nrequires new customers to bring their own portable VCF subscriptions when\r\nusing hyperscaler platforms. Our current Azure VMware Solution (AVS) customers\r\ncan continue to operate ",
+    "pubDate": "2025-09-18T20:45:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs) ",
+    "link": "https://azure.microsoft.com/updates?id=502874",
+    "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North, Korea Central, West Central US, South Africa North, Switzerland North and UK South regions with 4th generation AM",
+    "pubDate": "2025-09-18T19:00:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – update run approval gates",
     "link": "https://azure.microsoft.com/updates?id=503245",
     "description": "Azure Kubernetes\r\nFleet Manager update runs now support approval gates. Gates can be placed before and after update\r\ngroups and stages and provide additional control over the flow of the update\r\nrun. Gates allow you to either manually approve the update run ",
@@ -684,19 +698,5 @@
     "description": "Learn how to design and implement a baseline architecture for Microsoft Azure Kubernetes Service (AKS) that runs on Azure Local.",
     "pubDate": "2025-09-04T17:29:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Files Accessed from On-Premises and Secured by AD DS in a Private Network",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/azure-files-on-premises-authentication",
-    "description": "Learn how to provide on-premises access to Azure Files with security provided by on-premises Windows Server Active Directory Domain Services (AD DS).",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Near-zero-downtime maintenance in Azure Database for MySQL ",
-    "link": "https://azure.microsoft.com/updates?id=500765",
-    "description": "You can now take advantage of near-zero-downtime maintenance for Azure Database for MySQL – Flexible Server with high availability (HA) enabled. This capability is now generally available and is supported by our new HA architecture based on a dedicated Az",
-    "pubDate": "2025-09-04T16:30:46.000Z",
-    "source": "Azure Updates"
   }
 ]
