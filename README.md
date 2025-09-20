@@ -1,9 +1,9 @@
-## Azure Updates
+## Cloud Dashboard
 An automatically updated dashboard that collects daily Azure updates from official Microsoft sources and presents them via GitHub Pages.
 
 ## Features
 
-- 🔄 **Automatic updates**: Daily at 06:00 UTC via GitHub Actions
+- 🔄 **Automatic updates**: Daily every 3 hours via GitHub Actions
 - 📰 **Multiple sources**: Azure Updates, Azure Architecture Center, Azure Status
 - 🔍 **Search functionality**: Filter updates by text and source
 - 📱 **Responsive design**: Works on desktop and mobile
