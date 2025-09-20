@@ -1,6 +1,6 @@
 ## Cloud Dashboard
 An automatically updated dashboard that collects daily Azure updates from official Microsoft sources and presents them via GitHub Pages.
-Website is available via: `https://cloud-dashboard.com`
+Website is available via: [https://cloud-dashboard.com](https://cloud-dashboard.com)
 
 ## Features
 
@@ -14,11 +14,14 @@ Website is available via: `https://cloud-dashboard.com`
 
 The dashboard collects updates from:
 
-1. **Azure Updates** - Official Azure service updates (Available)
+1. **Azure Updates** - Official Azure service updates - (Available)
    - URL: `https://www.microsoft.com/releasecommunications/api/v2/azure/rss`
    
-2. **Azure Architecture Center** - New architecture guides and patterns (Available)
+2. **Azure Architecture Center** - New architecture guides and patterns - (Available)
    - URL: `https://learn.microsoft.com/en-us/azure/architecture/feed.atom`
-   
-3. **Azure Status** - Service status and incident updates (Currently working on)
+  
+3. **Azure Blog** - Newest blogs - (Available)
+   - URL: `https://azure.microsoft.com/en-us/blog/feed/`
+     
+4. **Azure Status** - Service status and incident updates - (Currently working on)
    - URL: `https://azure.status.microsoft/status/feed/`
