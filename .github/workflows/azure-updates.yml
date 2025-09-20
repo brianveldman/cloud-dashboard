@@ -3,7 +3,7 @@ name: Azure Updates Collector
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -161,7 +161,7 @@ jobs:
         git config --local user.email "${{ github.actor }}@users.noreply.github.com"
         git config --local user.name "${{ github.actor }}"
         git add docs/
-        git diff --staged --quiet || git commit -m "Update Azure updates - $(date +'%Y-%m-%d %H:%M:%S')"
+        git diff --staged --quiet || git commit -m "Update Cloud Dashboard - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
 
   deploy:
