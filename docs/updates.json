@@ -56,6 +56,27 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Inside the world’s most powerful AI datacenter",
+    "link": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+    "description": "<p>Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to our Fairwater datacenter in Wisconsin, we also have multiple identical Fairwater datacenters under construction in other locations across the US.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/\">Inside the world’s most powerful AI datacenter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-18T15:45:10.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/",
+    "description": "<p>Microsoft has been named a Leader in the 2025 Gartner Magic Quadrant for Global Industrial IoT Platforms, highlighting its commitment to delivering intelligent, secure, and scalable industrial solutions with Azure. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-18T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Agent Factory: Creating a blueprint for safe and secure AI agents",
+    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/",
+    "description": "<p>Azure AI Foundry brings together security, safety, and governance in a layered process enterprises can follow to build trust in their agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/\">Agent Factory: Creating a blueprint for safe and secure AI agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-17T21:30:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Functions .NET 10 support ",
     "link": "https://azure.microsoft.com/updates?id=503134",
     "description": "Azure Functions now supports .NET 10 in Public Preview. To use\r\n.NET 10, adjust the target framework in your Functions project, and update\r\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
@@ -119,11 +140,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/",
+    "description": "<p>Azure Kubernetes Service Automatic helps teams go from commit to cloud without friction, accelerating delivery and unleashing innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/\">Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees",
     "link": "https://azure.microsoft.com/updates?id=502853",
     "description": "Azure Container Storage (ACStor) v2.0.0 is now generally\r\navailable. This release delivers up to 7× higher IOPS and 4× lower latency on\r\nlocal NVMe compared to v1.3.1, making Container Storage v2.0.0 the fastest\r\nstorage available for Azure Kubernetes Servic",
     "pubDate": "2025-09-16T14:30:41.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
+    "link": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
+    "description": "<p>Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation\">FabCon Vienna: Build data-rich agents on an enterprise-ready foundation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-16T11:23:54.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Databricks Standard tier will retire by October 2026",
@@ -264,6 +299,13 @@
     "description": "Use Microsoft Fabric and Azure Databricks to build a modern data platform architecture designed for small and medium businesses.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/",
+    "description": "<p>The next major release of Azure Container Storage delivers up to 7 times higher IOPS and 4 times less latency compared to previous versions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/\">Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-15T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Linux 2.0 on AKS ",
@@ -656,47 +698,5 @@
     "description": "Announcing general availability support to enable Trusted launch on existing Azure Gen1 VMs by upgrading the Gen1 VM to\r\nGen2-Trusted launch. This will help improve the foundational\r\nsecurity of existing Azure VMs. Trusted Launch VMs\r\nprovide foundational co",
     "pubDate": "2025-09-04T18:15:11.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Certificate Lifecycle Management on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/certificate-lifecycle/index",
-    "description": "Learn how to create an infrastructure and workflow to automate the renewal process for certificates issued by a nonintegrated certification authority (CA).",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Data warehousing and analytics",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/data-warehouse",
-    "description": "This example demonstrates a data pipeline that integrates large amounts of data from multiple sources into a unified analytics platform in Azure.",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
-    "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Greenfield lakehouse on Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
-    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Analytics end-to-end with Azure Synapse",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
-    "description": "Learn how to use Azure Data Services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Computer Forensics Chain of Custody in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/forensics/index",
-    "description": "Learn how to create an infrastructure and workflow to help ensure a valid digital evidence chain of custody (CoC) for computer forensics in Azure.",
-    "pubDate": "2025-09-04T17:29:02.000Z",
-    "source": "Azure Architecture"
   }
 ]
