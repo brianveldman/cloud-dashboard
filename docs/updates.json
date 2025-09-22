@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Using Server-sent events with Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=503909",
+    "description": "Azure Application Gateway supports use of Server-sent events in general\r\navailability, enabling real-time data streaming from server to client.\r\nServer-sent events utilize server push technology on a persistent HTTP\r\nconnection for seamless updates to the cl",
+    "pubDate": "2025-09-22T17:00:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
+    "link": "https://azure.microsoft.com/updates?id=501169",
+    "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
+    "pubDate": "2025-09-22T17:00:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Vaulted backup for Azure Files (Premium)",
+    "link": "https://azure.microsoft.com/updates?id=503806",
+    "description": "Announcing the General availability of vaulted backup for Azure Files shares premium!  Azure Backup brings vaulted protection to Azure Files shares premium, to ensure business\r\ncontinuity and compliance, even in the face of accidental deletion, malicious\r\na",
+    "pubDate": "2025-09-22T16:15:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel ",
     "link": "https://azure.microsoft.com/updates?id=503240",
     "description": "Azure Kubernetes Fleet Manager has a new auto-upgrade channel that\r\nallows you to set a target Kubernetes minor version. Using this channel means\r\nclusters on the target Kubernetes minor continue to receive only patch updates\r\nuntil the minor reaches the end",
@@ -37,7 +58,7 @@
   {
     "title": "[Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs) ",
     "link": "https://azure.microsoft.com/updates?id=502874",
-    "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North, Korea Central, West Central US, South Africa North, Switzerland North and UK South regions with 4th generation AM",
+    "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North and Korea Central regions with 4th generation AMD EPYC™ processors. Featuring Secure Encrypted Virtualization – Se",
     "pubDate": "2025-09-18T19:00:07.000Z",
     "source": "Azure Updates"
   },
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=501896",
     "description": "Announcing .NET 10 Preview is now available on Azure App Service for both Windows and Linux! Whether you’re building modern web apps with ASP.NET, experimenting with Blazor, or exploring the simplicity of Minimal APIs, you can now take advantage of the la",
     "pubDate": "2025-09-05T14:15:34.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks",
-    "link": "https://azure.microsoft.com/updates?id=502583",
-    "description": "Support for multiple address\r\nprefixes in a subnet is now generally available in Azure Virtual Networks. Azure Virtual Network subnets\r\nsupported only a single address prefix, which limited the scale out for certain\r\napplications when the address space was e",
-    "pubDate": "2025-09-04T21:00:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Enterprise Deployment that uses App Service Environment",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-standard-deployment",
-    "description": "Learn about the recommended architecture for deploying an enterprise application by using App Service Environment version 3 in Azure.",
-    "pubDate": "2025-09-04T20:13:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Upgrade existing Azure Gen1 VMs to Gen2-Trusted launch",
-    "link": "https://azure.microsoft.com/updates?id=499104",
-    "description": "Announcing general availability support to enable Trusted launch on existing Azure Gen1 VMs by upgrading the Gen1 VM to\r\nGen2-Trusted launch. This will help improve the foundational\r\nsecurity of existing Azure VMs. Trusted Launch VMs\r\nprovide foundational co",
-    "pubDate": "2025-09-04T18:15:11.000Z",
     "source": "Azure Updates"
   }
 ]
