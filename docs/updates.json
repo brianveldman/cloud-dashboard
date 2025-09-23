@@ -1,6 +1,13 @@
 [
   {
-    "title": "Retirement: NVv3-series Azure Virtual Machines will be retired on September 30,2026",
+    "title": "[Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks",
+    "link": "https://azure.microsoft.com/updates?id=502998",
+    "description": "Announcing the General Availability of Azure Site Recovery (ASR) for Virtual Machines with Premium SSD v2 disks. ASR provides seamless disaster recovery for Virtual Machines across Azure Regions and from on-premises to Azure, helping organizations maintai",
+    "pubDate": "2025-09-23T17:30:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: NVv3-series Azure Virtual Machines will be retired on September 30 ,2026",
     "link": "https://azure.microsoft.com/updates?id=500573",
     "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series virtual machines (VMs). To avoid any d",
     "pubDate": "2025-09-23T16:00:30.000Z",
@@ -689,13 +696,6 @@
     "title": "Migrate IBM mainframe apps to Azure with TmaxSoft OpenFrame",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-mainframe-apps-with-tmaxsoft-openframe",
     "description": "Migrate IBM zSeries mainframe applications to Azure. Use a no-code approach that TmaxSoft OpenFrame offers for this lift and shift operation.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multilayered protection for Azure virtual machines",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm",
-    "description": "Protect access to Azure VMs through a multilayer approach, using Azure and Entra ID security services. These recommendations align with security principles and best practices, such as defense in depth, least privilege, and zero trust.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
