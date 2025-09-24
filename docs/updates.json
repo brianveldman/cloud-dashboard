@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Disk Encryption",
+    "link": "https://azure.microsoft.com/updates?id=493779",
+    "description": "Azure\r\nDisk Encryption will be retired on September 15, 2028 and we recommend you transition to Encryption\r\nat Host by that date.   Alternate disk encryption solutions such as\r\nEncryption At Host and CVM OS disk encryption offer broader operating system\r\nsupp",
+    "pubDate": "2025-09-24T11:45:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks",
     "link": "https://azure.microsoft.com/updates?id=502998",
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) for Virtual Machines with Premium SSD v2 disks. ASR provides seamless disaster recovery for Virtual Machines across Azure Regions and from on-premises to Azure, helping organizations maintai",
@@ -19,6 +26,20 @@
     "description": "App modernization is essential for enterprises to stay\r\nsecure, scalable and innovative—but traditionally it requires a lot of effort\r\nthat can be redundant and complex. With GitHub Copilot app modernization,\r\ndevelopers can now stay focused on innovation wh",
     "pubDate": "2025-09-23T15:00:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results",
+    "link": "https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/",
+    "description": "<p>Cobalt 100 systems are designed to deliver high performance, energy efficiency, and cost effectiveness for a wide range of workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/\">How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Accelerate migration and modernization with agentic AI",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/",
+    "description": "<p>At the Migrate and Modernize Summit, we’re announcing a comprehensive set of agentic AI solutions and offerings to accelerate transformation and reduce friction.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/\">Accelerate migration and modernization with agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T13:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Understand Data Models",
@@ -675,27 +696,6 @@
     "title": "Build the second layer of defense with Microsoft Defender XDR Solutions",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense",
     "description": "Add additional security to your IT environment by using Microsoft 365 security service in addition to Azure security. This article is part of a series. Now with the information about Sentinel running in the unified portal.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Integrate Azure and Microsoft Defender XDR security services",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure",
-    "description": "Integrate security solutions from Azure and Microsoft 365 to create robust security for your hybrid and cloud IT environments. This article is part of a series.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate Cloud Workloads Across Security Tenants",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-cloud-workloads-across-security-tenants",
-    "description": "Learn how to define and implement a cross-tenant workload migration strategy to address business transformations like acquisitions or divestitures.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate IBM mainframe apps to Azure with TmaxSoft OpenFrame",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-mainframe-apps-with-tmaxsoft-openframe",
-    "description": "Migrate IBM zSeries mainframe applications to Azure. Use a no-code approach that TmaxSoft OpenFrame offers for this lift and shift operation.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
