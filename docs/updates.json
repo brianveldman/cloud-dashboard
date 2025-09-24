@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Discover and assess PostgreSQL in Azure Migrate ",
+    "link": "https://azure.microsoft.com/updates?id=503641",
+    "description": "Planning the next move for your PostgreSQL workloads just got easier. Azure Migrate now enables you to discover and assess PostgreSQL resources across VMware, Hyper‑V, physical servers, and other cloud environments. Azure Migrate provides a centralized hu",
+    "pubDate": "2025-09-24T17:00:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Delete on-demand backup in Azure DB for MySQL - Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=503622",
+    "description": "You can now manually trigger on-demand backups in Azure DB for MySQL - Flexible Server instead of solely relying on the system-initiated automated backups and schedule. As part of August 2025 release, you can delete on-demand backups that are no longer ne",
+    "pubDate": "2025-09-24T17:00:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Azure Disk Encryption",
     "link": "https://azure.microsoft.com/updates?id=493779",
     "description": "Azure\r\nDisk Encryption will be retired on September 15, 2028 and we recommend you transition to Encryption\r\nat Host by that date.   Alternate disk encryption solutions such as\r\nEncryption At Host and CVM OS disk encryption offer broader operating system\r\nsupp",
@@ -26,6 +40,20 @@
     "description": "App modernization is essential for enterprises to stay\r\nsecure, scalable and innovative—but traditionally it requires a lot of effort\r\nthat can be redundant and complex. With GitHub Copilot app modernization,\r\ndevelopers can now stay focused on innovation wh",
     "pubDate": "2025-09-23T15:00:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results",
+    "link": "https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/",
+    "description": "<p>Cobalt 100 systems are designed to deliver high performance, energy efficiency, and cost effectiveness for a wide range of workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/\">How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Accelerate migration and modernization with agentic AI",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/",
+    "description": "<p>At the Migrate and Modernize Summit, we’re announcing a comprehensive set of agentic AI solutions and offerings to accelerate transformation and reduce friction.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/\">Accelerate migration and modernization with agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T13:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Understand Data Models",
@@ -668,34 +696,6 @@
     "title": "Mainframe File Replication and Sync on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/mainframe-azure-file-replication",
     "description": "Learn about several options for moving, converting, transforming, and storing mainframe and midrange file system data on-premises and in Azure.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Map threats to your IT environment",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/map-threats-it-environment",
-    "description": "Diagram the IT environment of your organization and develop a threat map to plan and build your defensive layer of security. This article is the second in a part of a series.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build the second layer of defense with Microsoft Defender XDR Solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense",
-    "description": "Add additional security to your IT environment by using Microsoft 365 security service in addition to Azure security. This article is part of a series. Now with the information about Sentinel running in the unified portal.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Integrate Azure and Microsoft Defender XDR security services",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure",
-    "description": "Integrate security solutions from Azure and Microsoft 365 to create robust security for your hybrid and cloud IT environments. This article is part of a series.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate Cloud Workloads Across Security Tenants",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-cloud-workloads-across-security-tenants",
-    "description": "Learn how to define and implement a cross-tenant workload migration strategy to address business transformations like acquisitions or divestitures.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
