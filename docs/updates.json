@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure NetApp Files Flexible service level",
+    "link": "https://azure.microsoft.com/updates?id=503687",
+    "description": "Flexible service level allows you to independently configure storage capacity and throughput, optimizing costs and performance by right-sizing based on your needs. This new service level avoids overprovisioning by supporting a customizable throughput whic",
+    "pubDate": "2025-09-25T17:00:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: The Insights blade in AKS is now called Monitor",
     "link": "https://azure.microsoft.com/updates?id=497368",
     "description": "The Insights blade in AKS has been renamed to Monitor and relocated\r\nfrom the Monitoring section to the top level of the table of contents for\r\nincreased visibility. You’ll continue to have access to the same monitoring\r\ndata and features—there are no change",
@@ -689,13 +696,6 @@
     "title": "Highly available SharePoint farm",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm",
     "description": "Deploy a highly available SharePoint farm for intranet capabilities that uses Microsoft Entra ID, a SQL always on instance, and SharePoint resources.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build ETL pipelines with Azure Databricks and Delta Lake",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ingest-etl-stream-with-adb",
-    "description": "Create ETL pipelines for batch and streaming data with Azure Databricks to simplify data lake ingestion at any scale.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
