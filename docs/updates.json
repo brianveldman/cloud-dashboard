@@ -42,6 +42,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results",
+    "link": "https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/",
+    "description": "<p>Cobalt 100 systems are designed to deliver high performance, energy efficiency, and cost effectiveness for a wide range of workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/\">How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Accelerate migration and modernization with agentic AI",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/",
+    "description": "<p>At the Migrate and Modernize Summit, we’re announcing a comprehensive set of agentic AI solutions and offerings to accelerate transformation and reduce friction.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/\">Accelerate migration and modernization with agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T13:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Understand Data Models",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/understand-data-store-models",
     "description": "Learn how to evaluate Azure data store models based on workload patterns, scale, consistency, and governance to guide service selection.",
@@ -682,20 +696,6 @@
     "title": "Mainframe File Replication and Sync on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/mainframe-azure-file-replication",
     "description": "Learn about several options for moving, converting, transforming, and storing mainframe and midrange file system data on-premises and in Azure.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Map threats to your IT environment",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/map-threats-it-environment",
-    "description": "Diagram the IT environment of your organization and develop a threat map to plan and build your defensive layer of security. This article is the second in a part of a series.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build the second layer of defense with Microsoft Defender XDR Solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense",
-    "description": "Add additional security to your IT environment by using Microsoft 365 security service in addition to Azure security. This article is part of a series. Now with the information about Sentinel running in the unified portal.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
