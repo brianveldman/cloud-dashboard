@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
+    "link": "https://azure.microsoft.com/updates?id=500016",
+    "description": "Beginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.To continue to host your application workloads, we request you migrate to other solutions su",
+    "pubDate": "2025-09-26T11:45:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure NetApp Files Flexible service level",
     "link": "https://azure.microsoft.com/updates?id=503687",
     "description": "Flexible service level allows you to independently configure storage capacity and throughput, optimizing costs and performance by right-sizing based on your needs. This new service level avoids overprovisioning by supporting a customizable throughput whic",
@@ -689,13 +696,6 @@
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Highly available SharePoint farm",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm",
-    "description": "Deploy a highly available SharePoint farm for intranet capabilities that uses Microsoft Entra ID, a SQL always on instance, and SharePoint resources.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
