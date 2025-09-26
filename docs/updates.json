@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption.",
+    "link": "https://azure.microsoft.com/updates?id=499451",
+    "description": "The Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected reso",
+    "pubDate": "2025-09-26T16:30:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2 ",
+    "link": "https://azure.microsoft.com/updates?id=498563",
+    "description": "We recommend upgrading from BlobFuse v1 to BlobFuse\r\nv2, as all future enhancements and innovations related to Azure Blob Storage file system access will be focused exclusively on BlobFuse v2. Please note that support for BlobFuse v1 will be discontinued e",
+    "pubDate": "2025-09-26T16:00:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
     "link": "https://azure.microsoft.com/updates?id=500016",
     "description": "Beginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.To continue to host your application workloads, we request you migrate to other solutions su",
@@ -61,6 +75,20 @@
     "description": "App modernization is essential for enterprises to stay\r\nsecure, scalable and innovative—but traditionally it requires a lot of effort\r\nthat can be redundant and complex. With GitHub Copilot app modernization,\r\ndevelopers can now stay focused on innovation wh",
     "pubDate": "2025-09-23T15:00:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results",
+    "link": "https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/",
+    "description": "<p>Cobalt 100 systems are designed to deliver high performance, energy efficiency, and cost effectiveness for a wide range of workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/\">How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Accelerate migration and modernization with agentic AI",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/",
+    "description": "<p>At the Migrate and Modernize Summit, we’re announcing a comprehensive set of agentic AI solutions and offerings to accelerate transformation and reduce friction.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/\">Accelerate migration and modernization with agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-23T13:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Understand Data Models",
@@ -668,34 +696,6 @@
     "title": "Use AI enrichment with image and text processing",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ai-search-skillsets",
     "description": "Learn how to transform unstructured image and text data into full-text searchable content with Azure AI Search prebuilt skills and custom skills.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Building the First Layer of Defense with Azure Security Services",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
-    "description": "Secure your IT environment by using Azure security services and Azure Security Benchmark. This article is part of a series.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "DevSecOps for Infrastructure as Code (IaC)",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
-    "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Highly available SharePoint farm",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm",
-    "description": "Deploy a highly available SharePoint farm for intranet capabilities that uses Microsoft Entra ID, a SQL always on instance, and SharePoint resources.",
-    "pubDate": "2025-09-15T15:04:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build ETL pipelines with Azure Databricks and Delta Lake",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ingest-etl-stream-with-adb",
-    "description": "Create ETL pipelines for batch and streaming data with Azure Databricks to simplify data lake ingestion at any scale.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
