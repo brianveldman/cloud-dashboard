@@ -63,20 +63,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results",
-    "link": "https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/",
-    "description": "<p>Cobalt 100 systems are designed to deliver high performance, energy efficiency, and cost effectiveness for a wide range of workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/\">How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-23T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Accelerate migration and modernization with agentic AI",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/",
-    "description": "<p>At the Migrate and Modernize Summit, we’re announcing a comprehensive set of agentic AI solutions and offerings to accelerate transformation and reduce friction.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/\">Accelerate migration and modernization with agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-23T13:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Understand Data Models",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/understand-data-store-models",
     "description": "Learn how to evaluate Azure data store models based on workload patterns, scale, consistency, and governance to guide service selection.",
@@ -696,6 +682,20 @@
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
+    "pubDate": "2025-09-15T15:04:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Highly available SharePoint farm",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm",
+    "description": "Deploy a highly available SharePoint farm for intranet capabilities that uses Microsoft Entra ID, a SQL always on instance, and SharePoint resources.",
+    "pubDate": "2025-09-15T15:04:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build ETL pipelines with Azure Databricks and Delta Lake",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ingest-etl-stream-with-adb",
+    "description": "Create ETL pipelines for batch and streaming data with Azure Databricks to simplify data lake ingestion at any scale.",
     "pubDate": "2025-09-15T15:04:10.000Z",
     "source": "Azure Architecture"
   }
