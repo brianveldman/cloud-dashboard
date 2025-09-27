@@ -1,5 +1,19 @@
 [
   {
+    "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
+    "link": "https://azure.microsoft.com/updates?id=503883",
+    "description": "Microsoft is announcing the retirement of the AV36 node type\r\non June 30, 2028. The terms of your current AV36 Reserved Instance (RI) are\r\nnot affected by this announcement. At this time, we recommend that you review your current AV36\r\nRI expiration timeline",
+    "pubDate": "2025-09-27T00:30:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Multi-service impact in Switzerland North",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "<p><strong>Impact Statement: </strong>Starting at 23:54 UTC September 26, customers in Switzerland North may experience service unavailability or degraded performances for resources hosted in the region.</p><p><strong>Current Status:</strong> We have identified an issue in the Switzerland North region impacting multiple services. Our automated monitoring detected this problem after observing significant drops in network traffic and service availability.</p><p>We are actively investigating a recent networking change and are preparing a hotfix. The next update will be provided within 2 hours, or sooner if new information becomes available.</p><p><strong>Workaround: </strong>We recommend customers evaluate failover options to alternate regions to help maintain continuity for critical workloads.</p>",
+    "pubDate": "2025-09-27T00:03:00.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Retirement: Entity Linking from Azure AI Language",
     "link": "https://azure.microsoft.com/updates?id=499851",
     "description": "Microsoft\r\nis announcing the planned retirement of Entity Linking from Azure AI Language. We\r\nrecommend considering a replacement solution; Named\r\nEntity Recognition from Azure AI Language also supports entity\r\nidentification. Microsoft\r\nwill provide full supp",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=503398",
     "description": "Azure Application Gateway V2 now supports enabling dedicated connections\r\nfrom Application Gateway to backend server. By default, Application Gateway reuses the idle backend connections to\r\noptimize the resource usage of TCP connections helping both the gat",
     "pubDate": "2025-09-15T16:45:57.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Backend TLS validation controls in Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=503393",
-    "description": "Azure\r\nApplication Gateway V2 announces general availability of customer-controlled\r\nbackend TLS validations. When the HTTPS protocol is selected in the Backend\r\nSettings of Azure Application Gateway, by default, it performs all validations\r\nin the TLS handsh",
-    "pubDate": "2025-09-15T16:30:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SQL hub experience in Azure portal ",
-    "link": "https://azure.microsoft.com/updates?id=502014",
-    "description": "Choosing the right Azure SQL service can be challenging. To make this easier, you can now visit the Azure SQL hub, a new home for everything related to Azure SQL in the Azure portal. Whether you’re new to Azure SQL or an experienced user, the hub helps yo",
-    "pubDate": "2025-09-15T16:30:18.000Z",
     "source": "Azure Updates"
   }
 ]
