@@ -9,7 +9,7 @@
   {
     "title": "Multi-service impact in Switzerland North",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "<p><strong>Impact Statement: </strong>Starting at 23:54 UTC September 26, customers in Switzerland North may experience service unavailability or degraded performances for resources hosted in the region.</p><p><strong>Current Status:</strong> We have identified an issue in the Switzerland North region impacting multiple services. Our automated monitoring detected this problem after observing significant drops in network traffic and service availability.</p><p>We are actively investigating a recent networking change and are preparing a hotfix. The next update will be provided within 2 hours, or sooner if new information becomes available.</p><p><strong>Workaround: </strong>We recommend customers evaluate failover options to alternate regions to help maintain continuity for critical workloads.</p>",
+    "description": "<p><strong>Impact Statement:&nbsp;</strong>Starting at 23:54 UTC on 26 September 2025, customers in Switzerland North may experience service unavailability or degraded performances for resources hosted in the region. Virtual Machines may have shutdown to preserve data integrity.&nbsp;</p><p><strong>Current Status:</strong>&nbsp;We were alerted to this issue by our telemetry informing us in a significant drop in traffic. It was discovered that a recent deployment introduced a malformed prefix in one of the certificates used for connection authorization. We have pinpointed the deployment error involving the certificate prefix and are rolling back the faulty deployment to restore normal traffic flow and service availability.</p><p>Majority of the impacted services have been fully recovered, and a subset are nearing completion. We continue to monitor traffic and service stability to ensure full recovery.</p>",
     "pubDate": "2025-09-27T00:03:00.000Z",
     "source": "Azure Status"
   },
@@ -49,6 +49,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
+    "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
+    "description": "<p>A new breed of industry-leading company is taking shape — Frontier Firms. These organizations blend human ambition with AI-powered technology to reshape how innovation is scaled, work is orchestrated and value is created. They’re accelerating AI transformation to enrich employee experiences, reinvent customer engagement, reshape business processes and unlock creativity and innovation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-25T16:03:19.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: The Insights blade in AKS is now called Monitor",
     "link": "https://azure.microsoft.com/updates?id=497368",
     "description": "The Insights blade in AKS has been renamed to Monitor and relocated\r\nfrom the Monitoring section to the top level of the table of contents for\r\nincreased visibility. You’ll continue to have access to the same monitoring\r\ndata and features—there are no change",
@@ -68,6 +75,13 @@
     "description": "You can now manually trigger on-demand backups in Azure DB for MySQL - Flexible Server instead of solely relying on the system-initiated automated backups and schedule. As part of August 2025 release, you can delete on-demand backups that are no longer ne",
     "pubDate": "2025-09-24T17:00:24.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Agent Factory: Designing the open agentic web stack",
+    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/",
+    "description": "<p>Unlock enterprise value with an open, secure, and interoperable AI agent ecosystem.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/\">Agent Factory: Designing the open agentic web stack</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-24T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Disk Encryption",
@@ -684,19 +698,5 @@
     "description": "Get information about doing a failure mode analysis (FMA) for cloud solutions that are based on Azure.",
     "pubDate": "2025-09-15T20:13:37.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Extract, transform, load (ETL)",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/etl",
-    "description": "Learn about extract, transform, load (ETL) and extract, load, transform (ELT) data transformation pipelines, and how to use control flows and data flows.",
-    "pubDate": "2025-09-15T19:33:51.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Enabling dedicated connections to backends in Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=503398",
-    "description": "Azure Application Gateway V2 now supports enabling dedicated connections\r\nfrom Application Gateway to backend server. By default, Application Gateway reuses the idle backend connections to\r\noptimize the resource usage of TCP connections helping both the gat",
-    "pubDate": "2025-09-15T16:45:57.000Z",
-    "source": "Azure Updates"
   }
 ]
