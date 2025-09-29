@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=506317",
+    "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
+    "pubDate": "2025-09-29T15:30:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
     "link": "https://azure.microsoft.com/updates?id=503883",
     "description": "Microsoft is announcing the retirement of the AV36 node type\r\non June 30, 2028. The terms of your current AV36 Reserved Instance (RI) are\r\nnot affected by this announcement. At this time, we recommend that you review your current AV36\r\nRI expiration timeline",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/resiliency/failure-mode-analysis",
     "description": "Get information about doing a failure mode analysis (FMA) for cloud solutions that are based on Azure.",
     "pubDate": "2025-09-15T20:13:37.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extract, transform, load (ETL)",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/etl",
-    "description": "Learn about extract, transform, load (ETL) and extract, load, transform (ELT) data transformation pipelines, and how to use control flows and data flows.",
-    "pubDate": "2025-09-15T19:33:51.000Z",
     "source": "Azure Architecture"
   }
 ]
