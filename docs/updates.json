@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
+    "link": "https://azure.microsoft.com/updates?id=506886",
+    "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
+    "pubDate": "2025-09-30T19:30:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Support for Service Connector (preview) on Azure Container Apps will end on March 30th, 2026",
+    "link": "https://azure.microsoft.com/updates?id=501528",
+    "description": "Support for Service Connector (preview) on Azure Container Apps will end on March 30, 2026. After this date, Service Connector (preview) will no longer be supported on Azure Container Apps. If you created service connections using the Azure Portal, your e",
+    "pubDate": "2025-09-30T17:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: NVv4-series Azure Virtual Machines will be retired on September 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=500578",
+    "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV4as_v4, Standard_NV4ahs_v4,Standard_NV8as_v4, Standard_NV8ahs_v4,Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-seri",
+    "pubDate": "2025-09-30T17:15:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Spark Native Connector for Semantic Link ",
     "link": "https://azure.microsoft.com/updates?id=502602",
     "description": "Starting October 1, 2025, the Spark native connector will be officially retired. This decision is based on internal analysis indicating low usage, high maintenance costs, and potential security vulnerabilities. To ensure continued support and improved sec",
@@ -677,26 +698,5 @@
     "description": "<p>Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation\">FabCon Vienna: Build data-rich agents on an enterprise-ready foundation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-09-16T11:23:54.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Retirement: Azure Databricks Standard tier will retire by October 2026",
-    "link": "https://azure.microsoft.com/updates?id=502623",
-    "description": "We are announcing the retirement of Azure Databricks Standard Tier. Azure subscriptions will no longer support creation of Azure Databricks Standard Tier workspaces after April 1st, 2026.   Starting October 1st, 2026, all Azure Databricks Standard tier wo",
-    "pubDate": "2025-09-16T00:15:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: hsmPlatform 1 Keys in Azure Key Vault",
-    "link": "https://azure.microsoft.com/updates?id=494676",
-    "description": "As part of our ongoing commitment\r\nto improving security and performance, we will be retiring support for hsmPlatform\r\n1 keys, effective September 15, 2028. To ensure the continued security and\r\nfunctionality of your operations, we recommend transitioning to",
-    "pubDate": "2025-09-15T21:30:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Busy Front End antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/busy-front-end",
-    "description": "Asynchronous work on a large number of background threads can starve other foreground tasks of resources.",
-    "pubDate": "2025-09-15T20:13:37.000Z",
-    "source": "Azure Architecture"
   }
 ]
