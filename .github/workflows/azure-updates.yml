@@ -46,6 +46,7 @@ jobs:
             { name: 'Azure Architecture', url: 'https://learn.microsoft.com/en-us/azure/architecture/feed.atom', type: 'atom' },
             { name: 'Azure Status', url: 'https://azure.status.microsoft/status/feed/', type: 'rss' },
             { name: 'Azure Blog', url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss' },
+            { name: 'Microsoft 365', url: 'https://www.microsoft.com/en-us/microsoft-365/blog/feed/', type: 'rss' },
             { name: 'Security', url: 'https://www.microsoft.com/en-us/security/blog/feed/', type: 'rss' }
           ];
 
