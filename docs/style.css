@@ -260,6 +260,12 @@ body.light-mode .card-body p {
     box-shadow: 0 2px 8px rgba(14, 165, 233, 0.3);
 }
 
+.security {
+    background: linear-gradient(45deg, #9b59b6, #8e44ad);
+    color: white;
+    box-shadow: 0 2px 8px rgba(155, 89, 182, 0.3);
+}
+
 /* Filter Section - Dark Theme */
 .filter-section {
     background: linear-gradient(145deg, #2d1b69, #1e1440);
