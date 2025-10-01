@@ -105,13 +105,6 @@
     "source": "Security"
   },
   {
-    "title": "Empower your workforce with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>We're announcing the launch of the Microsoft Marketplace, a unified web destination to find, try, and buy our full catalog of cloud solutions, AI apps, and agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/\">Empower your workforce with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-25T14:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Retirement: The Insights blade in AKS is now called Monitor",
     "link": "https://azure.microsoft.com/updates?id=497368",
     "description": "The Insights blade in AKS has been renamed to Monitor and relocated\r\nfrom the Monitoring section to the top level of the table of contents for\r\nincreased visibility. You’ll continue to have access to the same monitoring\r\ndata and features—there are no change",
@@ -145,13 +138,6 @@
     "description": "<p>Unlock enterprise value with an open, secure, and interoperable AI agent ecosystem.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/\">Agent Factory: Designing the open agentic web stack</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-09-24T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Expanding model choice in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
-    "description": "<p>We’re excited to announce that we’re expanding the models that power Microsoft 365 Copilot with the addition of Anthropic models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/\">Expanding model choice in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-24T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "AI vs. AI: Detecting an AI-obfuscated phishing campaign",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=503421",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
     "pubDate": "2025-09-16T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure HBv5-series VMs",
+    "link": "https://azure.microsoft.com/updates?id=503129",
+    "description": "Azure HBv5-series VM are now available in Preview in the Azure South Central US region. HBv5 VMs are optimized for memory bandwidth-intensive HPC applications, such as computational fluid dynamics, automotive and aerospace simulations, weather modeling, e",
+    "pubDate": "2025-09-16T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: AKS Automatic ",
+    "link": "https://azure.microsoft.com/updates?id=503235",
+    "description": "Kubernetes is a game-changer for\r\nmodern apps, but it’s often slowed by operational complexity and a steep\r\nlearning curve. Many teams spend too much time managing clusters, tuning\r\ninfrastructure, and troubleshooting security or reliability risks when they’",
+    "pubDate": "2025-09-16T17:30:21.000Z",
     "source": "Azure Updates"
   }
 ]
