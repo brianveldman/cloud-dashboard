@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft named a Leader in the IDC MarketScape for XDR",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/",
+    "description": "<p>Microsoft has been named a Leader in IDC’s inaugural category for Worldwide Extended Detection and Response (XDR) Software for 2025, recognized for its deep integration, intelligent automation, and unified security operations solutions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/\">Microsoft named a Leader in the IDC MarketScape for XDR</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-02T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager",
+    "link": "https://azure.microsoft.com/updates?id=509097",
+    "description": "Azure Traffic Manager has\r\nintroduced new health check infrastructure to improve the resiliency and\r\nscalability of the service. This infrastructure is now available, and customers\r\nare being moved onto the new infrastructure. The rollout of the new probing\r\n",
+    "pubDate": "2025-10-02T16:36:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: MSSQL extension integration with Microsoft Fabric ",
     "link": "https://azure.microsoft.com/updates?id=503646",
     "description": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric ",
@@ -26,6 +40,13 @@
     "description": "In late September 2025, the following updates and enhancements were made to Azure SQL:  Protection from ransomware attacks to long-term retention (LTR) backups via immutability. Learn more. ",
     "pubDate": "2025-10-01T16:00:52.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
+    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-01T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Cybersecurity Awareness Month: Security starts with you",
@@ -82,6 +103,13 @@
     "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
     "pubDate": "2025-09-29T15:30:44.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
+    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T13:30:44.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
@@ -670,33 +698,5 @@
     "description": "Databricks One in Azure Databricks delivers a unified, simplified experience that brings together data engineering, analytics, and AI development in a single, governed platform. By integrating collaborative workflows, enterprise-grade governance, and perf",
     "pubDate": "2025-09-17T16:30:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Confidential computing for Azure Database for PostgreSQL flexible server ",
-    "link": "https://azure.microsoft.com/updates?id=500795",
-    "description": "Announcing support for confidential computing in Azure Database for PostgreSQL flexible server. Azure Confidential Computing encrypts data in hardware-based trusted execution environments (TEEs), processing data only when the cloud environment has been ve",
-    "pubDate": "2025-09-17T15:45:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: At-cost data transfer between Azure and an external endpoint",
-    "link": "https://azure.microsoft.com/updates?id=501915",
-    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure now offers at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data\r\nvia the internet between Azure to ano",
-    "pubDate": "2025-09-16T21:30:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Kubernetes Service on VMware will be retired on March 16, 2026 - Replace with Azure Kubernetes Service on Azure Local ",
-    "link": "https://azure.microsoft.com/updates?id=500294",
-    "description": "Azure Kubernetes Service on VMware (preview) will be retired on March 16, 2026. Please transition to a supported Azure Kubernetes Service on Azure Local by that date if needed. We encourage you to transition to Azure Kubernetes Service on Azure Local befo",
-    "pubDate": "2025-09-16T19:45:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build real-time monitoring and observable systems for media",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media",
-    "description": "Learn how to implement real-time monitoring and observability of systems and end-user device telemetry data.",
-    "pubDate": "2025-09-16T19:04:06.000Z",
-    "source": "Azure Architecture"
   }
 ]
