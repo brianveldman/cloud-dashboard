@@ -149,13 +149,6 @@
   {
     "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
     "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
-    "description": "<p>A new breed of industry-leading company is taking shape — Frontier Firms. These organizations blend human ambition with AI-powered technology to reshape how innovation is scaled, work is orchestrated and value is created. They’re accelerating AI transformation to enrich employee experiences, reinvent customer engagement, reshape business processes and unlock creativity and innovation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-25T16:03:19.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
-    "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
     "description": "<p>To empower customers in becoming Frontier, we’re excited to announce the launch of the reimagined Microsoft Marketplace, your trusted source for cloud solutions, AI apps and agents.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-25T15:47:32.000Z",
     "source": "Security"
@@ -166,13 +159,6 @@
     "description": "<p>Microsoft Threat Intelligence has uncovered a new variant of the XCSSET malware, which is designed to infect Xcode projects, typically used by software developers building Apple or macOS-related applications. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/\">XCSSET evolves again: Analyzing the latest updates to XCSSET’s inventory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-25T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Empower your workforce with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>We're announcing the launch of the Microsoft Marketplace, a unified web destination to find, try, and buy our full catalog of cloud solutions, AI apps, and agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/\">Empower your workforce with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-25T14:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Retirement: The Insights blade in AKS is now called Monitor",
@@ -201,20 +187,6 @@
     "description": "<p>In the latest edition of our Cyberattack Series, we dive into real-world cases targeting retail organizations. With 60% of retail companies reporting operational disruptions from cyberattacks and 43% experiencing breaches in the past year, the stakes have never been higher. This post unpacks where a single alert led to the discovery of a major persistent threat, how attackers exploited unpatched SharePoint vulnerabilities and compromised identities to infiltrate networks—and how the Microsoft Incident Response—the Detection and Response Team (DART) swiftly stepped in with forensic insights and actionable guidance. Download the full report to learn more about how one small signal exposed a much larger danger, and how you can strengthen your defenses against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/24/retail-at-risk-how-one-alert-uncovered-a-persistent-cyberthreat/\">Retail at risk: How one alert uncovered a persistent cyberthreat​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-24T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Agent Factory: Designing the open agentic web stack",
-    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/",
-    "description": "<p>Unlock enterprise value with an open, secure, and interoperable AI agent ecosystem.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/\">Agent Factory: Designing the open agentic web stack</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-24T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Expanding model choice in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
-    "description": "<p>We’re excited to announce that we’re expanding the models that power Microsoft 365 Copilot with the addition of Anthropic models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/\">Expanding model choice in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-24T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "AI vs. AI: Detecting an AI-obfuscated phishing campaign",
@@ -696,6 +668,34 @@
     "title": "Build real-time monitoring and observable systems for media",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media",
     "description": "Learn how to implement real-time monitoring and observability of systems and end-user device telemetry data.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy microservices with Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Deploy existing microservice applications with Azure Container Apps.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AIX UNIX on-premises to Azure Linux migration",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/unix-migration/migrate-aix-azure-linux",
+    "description": "Migrate an on-premises IBM AIX system and web application to a highly available, secure RedHat Enterprise Linux solution in Azure.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design great API developer experiences using API Management and GitHub",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/web/design-api-developer-experiences-management-github",
+    "description": "Create great experiences for developers, support community engagement & contribution, and monetize your API offerings.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "CI/CD for AKS apps with Azure Pipelines",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-cicd-azure-pipelines",
+    "description": "Deploying Azure Kubernetes Service (AKS) apps with Azure Pipelines.",
     "pubDate": "2025-09-16T19:04:06.000Z",
     "source": "Azure Architecture"
   }
