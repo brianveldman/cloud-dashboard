@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=501673",
+    "description": "After\r\nSeptember 30, 2026, customers will no longer be able to access the\r\nservice. Please see our retirement\r\ndocumentation for more details. Recommended\r\naction If\r\nyour goal is to monitor on-premises workloads, please transition to Operations Manager\r\non-pre",
+    "pubDate": "2025-10-03T18:15:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: CLI command for migration from Availability Sets and basic load balancer on AKS ",
     "link": "https://azure.microsoft.com/updates?id=503258",
     "description": "Availability Sets and the basic load\r\nbalancer are being deprecated on September 30 2025. AKS now supports, a simple\r\nAzure CLI command that will automatically migrate your AKS cluster from\r\nAvailability Sets to the new Virtual Machines node pool and upgrade",
@@ -84,6 +91,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
+    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-01T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Cybersecurity Awareness Month: Security starts with you",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/",
     "description": "<p>At Microsoft, we believe that cybersecurity is as much about people as it is about technology. Explore some of our resources for Cybersecurity Awareness Month to stay safe online. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/\">Cybersecurity Awareness Month: Security starts with you</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -138,6 +152,13 @@
     "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
     "pubDate": "2025-09-29T15:30:44.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
+    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T13:30:44.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
@@ -677,26 +698,5 @@
     "description": "<p>Microsoft 365 Copilot introduces AI agents that support teamwork—helping groups plan, meet, and communicate more effectively across Teams, SharePoint, and Viva Engage.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/18/microsoft-365-copilot-enabling-human-agent-teams/\">Microsoft 365 Copilot: Enabling human-agent teams</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-09-18T16:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Inside the world’s most powerful AI datacenter",
-    "link": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
-    "description": "<p>Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to our Fairwater datacenter in Wisconsin, we also have multiple identical Fairwater datacenters under construction in other locations across the US.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/\">Inside the world’s most powerful AI datacenter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-18T15:45:10.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/",
-    "description": "<p>Microsoft has been named a Leader in the 2025 Gartner Magic Quadrant for Global Industrial IoT Platforms, highlighting its commitment to delivering intelligent, secure, and scalable industrial solutions with Azure. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-18T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Guidance for using Azure Key Vault in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
-    "description": "This article describes the features of Azure Key Vault that are useful when you work with multitenanted systems, and it provides links to guidance for how to use Azure Key Vault in a multitenant solution.",
-    "pubDate": "2025-09-17T22:27:44.000Z",
-    "source": "Azure Architecture"
   }
 ]
