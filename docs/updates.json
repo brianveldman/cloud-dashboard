@@ -42,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
-    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Cybersecurity Awareness Month: Security starts with you",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/",
     "description": "<p>At Microsoft, we believe that cybersecurity is as much about people as it is about technology. Explore some of our resources for Cybersecurity Awareness Month to stay safe online. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/\">Cybersecurity Awareness Month: Security starts with you</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -103,13 +96,6 @@
     "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
     "pubDate": "2025-09-29T15:30:44.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
-    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T13:30:44.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
@@ -189,13 +175,6 @@
     "source": "Security"
   },
   {
-    "title": "Empower your workforce with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>We're announcing the launch of the Microsoft Marketplace, a unified web destination to find, try, and buy our full catalog of cloud solutions, AI apps, and agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/\">Empower your workforce with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-25T14:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Retirement: The Insights blade in AKS is now called Monitor",
     "link": "https://azure.microsoft.com/updates?id=497368",
     "description": "The Insights blade in AKS has been renamed to Monitor and relocated\r\nfrom the Monitoring section to the top level of the table of contents for\r\nincreased visibility. You’ll continue to have access to the same monitoring\r\ndata and features—there are no change",
@@ -222,13 +201,6 @@
     "description": "<p>In the latest edition of our Cyberattack Series, we dive into real-world cases targeting retail organizations. With 60% of retail companies reporting operational disruptions from cyberattacks and 43% experiencing breaches in the past year, the stakes have never been higher. This post unpacks where a single alert led to the discovery of a major persistent threat, how attackers exploited unpatched SharePoint vulnerabilities and compromised identities to infiltrate networks—and how the Microsoft Incident Response—the Detection and Response Team (DART) swiftly stepped in with forensic insights and actionable guidance. Download the full report to learn more about how one small signal exposed a much larger danger, and how you can strengthen your defenses against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/24/retail-at-risk-how-one-alert-uncovered-a-persistent-cyberthreat/\">Retail at risk: How one alert uncovered a persistent cyberthreat​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-24T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Expanding model choice in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
-    "description": "<p>We’re excited to announce that we’re expanding the models that power Microsoft 365 Copilot with the addition of Anthropic models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/\">Expanding model choice in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-24T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "AI vs. AI: Detecting an AI-obfuscated phishing campaign",
@@ -698,5 +670,33 @@
     "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure now offers at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data\r\nvia the internet between Azure to ano",
     "pubDate": "2025-09-16T21:30:32.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Kubernetes Service on VMware will be retired on March 16, 2026 - Replace with Azure Kubernetes Service on Azure Local ",
+    "link": "https://azure.microsoft.com/updates?id=500294",
+    "description": "Azure Kubernetes Service on VMware (preview) will be retired on March 16, 2026. Please transition to a supported Azure Kubernetes Service on Azure Local by that date if needed. We encourage you to transition to Azure Kubernetes Service on Azure Local befo",
+    "pubDate": "2025-09-16T19:45:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Build real-time monitoring and observable systems for media",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media",
+    "description": "Learn how to implement real-time monitoring and observability of systems and end-user device telemetry data.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy microservices with Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Deploy existing microservice applications with Azure Container Apps.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AIX UNIX on-premises to Azure Linux migration",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/unix-migration/migrate-aix-azure-linux",
+    "description": "Migrate an on-premises IBM AIX system and web application to a highly available, secure RedHat Enterprise Linux solution in Azure.",
+    "pubDate": "2025-09-16T19:04:06.000Z",
+    "source": "Azure Architecture"
   }
 ]
