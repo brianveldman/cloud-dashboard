@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Launched] Generally Available: CLI command for migration from Availability Sets and basic load balancer on AKS ",
+    "link": "https://azure.microsoft.com/updates?id=503258",
+    "description": "Availability Sets and the basic load\r\nbalancer are being deprecated on September 30 2025. AKS now supports, a simple\r\nAzure CLI command that will automatically migrate your AKS cluster from\r\nAvailability Sets to the new Virtual Machines node pool and upgrade",
+    "pubDate": "2025-10-03T16:45:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption",
+    "link": "https://azure.microsoft.com/updates?id=501340",
+    "description": "Cross-tenant Customer-Managed Keys (CMK) for Azure NetApp Files volume encryption is now generally available, empowering customers to manage their own encryption keys across different Azure tenancies. This capability enhances control and flexibility in mu",
+    "pubDate": "2025-10-03T16:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Static Web Apps database connection feature",
+    "link": "https://azure.microsoft.com/updates?id=500848",
+    "description": "Due to changes in underlying infrastructure, the database connections feature of Static Web Apps this feature (currently in public preview), will be deprecated effective November 30, 2025. \r\nTo avoid issues in deployments using this feature you can refacto",
+    "pubDate": "2025-10-03T16:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview:  Azure NetApp Files Support for OpenLDAP, FreeIPA, and Red Hat Directory Server LDAP services    ",
+    "link": "https://azure.microsoft.com/updates?id=508748",
+    "description": "Azure NetApp Files now supports integration with FreeIPA, OpenLDAP, and Red Hat Directory Server—available in public preview. This LDAP integration enables secure LDAP over TLS connectivity for NFSv3 and NFSv4.1 volumes, allowing enterprises to use these ",
+    "pubDate": "2025-10-03T16:01:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure VPN Gateway support for SSTP Protocol will be retired on March 31, 2027",
+    "link": "https://azure.microsoft.com/updates?id=499923",
+    "description": "Due to its limited\r\nscalability and suboptimal performance, support for SSTP will be phased out. We\r\nstrongly recommend transitioning to IKEv2 or OpenVPN, which offer\r\nsignificantly enhanced capabilities—including support for up to 10,000\r\nconnections and 10 ",
+    "pubDate": "2025-10-03T16:01:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts  ",
     "link": "https://azure.microsoft.com/updates?id=496964",
     "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
@@ -47,13 +82,6 @@
     "description": "In late September 2025, the following updates and enhancements were made to Azure SQL:  Protection from ransomware attacks to long-term retention (LTR) backups via immutability. Learn more. ",
     "pubDate": "2025-10-01T16:00:52.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
-    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Cybersecurity Awareness Month: Security starts with you",
@@ -110,13 +138,6 @@
     "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
     "pubDate": "2025-09-29T15:30:44.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
-    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T13:30:44.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
@@ -677,26 +698,5 @@
     "description": "This article describes the features of Azure Key Vault that are useful when you work with multitenanted systems, and it provides links to guidance for how to use Azure Key Vault in a multitenant solution.",
     "pubDate": "2025-09-17T22:27:44.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Agent Factory: Creating a blueprint for safe and secure AI agents",
-    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/",
-    "description": "<p>Azure AI Foundry brings together security, safety, and governance in a layered process enterprises can follow to build trust in their agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/\">Agent Factory: Creating a blueprint for safe and secure AI agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-17T21:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Functions .NET 10 support ",
-    "link": "https://azure.microsoft.com/updates?id=503134",
-    "description": "Azure Functions now supports .NET 10 in Public Preview. To use\r\n.NET 10, adjust the target framework in your Functions project, and update\r\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
-    "pubDate": "2025-09-17T17:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Introducing the new Network Security Hub experience",
-    "link": "https://azure.microsoft.com/updates?id=503617",
-    "description": "The Azure Firewall Manager\r\nexperience has been expanded and rebranded as the Network Security Hub—a\r\ncentralized interface that brings together Azure Firewall, Web\r\nApplication Firewall (WAF), and DDoS Protection. This change is part\r\nof a broader effort to ",
-    "pubDate": "2025-09-17T16:30:45.000Z",
-    "source": "Azure Updates"
   }
 ]
