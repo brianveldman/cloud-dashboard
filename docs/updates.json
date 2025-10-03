@@ -56,6 +56,13 @@
     "source": "Security"
   },
   {
+    "title": "Introducing Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
+    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-01T14:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
     "link": "https://azure.microsoft.com/updates?id=506886",
     "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
@@ -96,6 +103,13 @@
     "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
     "pubDate": "2025-09-29T22:05:36.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
+    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
+    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T16:15:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=503134",
     "description": "Azure Functions now supports .NET 10 in Public Preview. To use\r\n.NET 10, adjust the target framework in your Functions project, and update\r\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
     "pubDate": "2025-09-17T17:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Introducing the new Network Security Hub experience",
-    "link": "https://azure.microsoft.com/updates?id=503617",
-    "description": "The Azure Firewall Manager\r\nexperience has been expanded and rebranded as the Network Security Hub—a\r\ncentralized interface that brings together Azure Firewall, Web\r\nApplication Firewall (WAF), and DDoS Protection. This change is part\r\nof a broader effort to ",
-    "pubDate": "2025-09-17T16:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Databricks One in Azure Databricks ",
-    "link": "https://azure.microsoft.com/updates?id=503408",
-    "description": "Databricks One in Azure Databricks delivers a unified, simplified experience that brings together data engineering, analytics, and AI development in a single, governed platform. By integrating collaborative workflows, enterprise-grade governance, and perf",
-    "pubDate": "2025-09-17T16:30:45.000Z",
     "source": "Azure Updates"
   }
 ]
