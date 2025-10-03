@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts  ",
+    "link": "https://azure.microsoft.com/updates?id=496964",
+    "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
+    "pubDate": "2025-10-03T14:15:21.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft named a Leader in the IDC MarketScape for XDR",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/",
     "description": "<p>Microsoft has been named a Leader in IDC’s inaugural category for Worldwide Extended Detection and Response (XDR) Software for 2025, recognized for its deep integration, intelligent automation, and unified security operations solutions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/\">Microsoft named a Leader in the IDC MarketScape for XDR</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -40,6 +47,13 @@
     "description": "In late September 2025, the following updates and enhancements were made to Azure SQL:  Protection from ransomware attacks to long-term retention (LTR) backups via immutability. Learn more. ",
     "pubDate": "2025-10-01T16:00:52.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
+    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-01T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Cybersecurity Awareness Month: Security starts with you",
@@ -96,6 +110,13 @@
     "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
     "pubDate": "2025-09-29T15:30:44.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
+    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T13:30:44.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
@@ -163,6 +184,13 @@
   {
     "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
     "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
+    "description": "<p>A new breed of industry-leading company is taking shape — Frontier Firms. These organizations blend human ambition with AI-powered technology to reshape how innovation is scaled, work is orchestrated and value is created. They’re accelerating AI transformation to enrich employee experiences, reinvent customer engagement, reshape business processes and unlock creativity and innovation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-25T16:03:19.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
+    "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
     "description": "<p>To empower customers in becoming Frontier, we’re excited to announce the launch of the reimagined Microsoft Marketplace, your trusted source for cloud solutions, AI apps and agents.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-25T15:47:32.000Z",
     "source": "Security"
@@ -173,6 +201,13 @@
     "description": "<p>Microsoft Threat Intelligence has uncovered a new variant of the XCSSET malware, which is designed to infect Xcode projects, typically used by software developers building Apple or macOS-related applications. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/\">XCSSET evolves again: Analyzing the latest updates to XCSSET’s inventory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-25T15:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Empower your workforce with agents in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/",
+    "description": "<p>We're announcing the launch of the Microsoft Marketplace, a unified web destination to find, try, and buy our full catalog of cloud solutions, AI apps, and agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/\">Empower your workforce with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-25T14:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Retirement: The Insights blade in AKS is now called Monitor",
@@ -201,6 +236,20 @@
     "description": "<p>In the latest edition of our Cyberattack Series, we dive into real-world cases targeting retail organizations. With 60% of retail companies reporting operational disruptions from cyberattacks and 43% experiencing breaches in the past year, the stakes have never been higher. This post unpacks where a single alert led to the discovery of a major persistent threat, how attackers exploited unpatched SharePoint vulnerabilities and compromised identities to infiltrate networks—and how the Microsoft Incident Response—the Detection and Response Team (DART) swiftly stepped in with forensic insights and actionable guidance. Download the full report to learn more about how one small signal exposed a much larger danger, and how you can strengthen your defenses against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/24/retail-at-risk-how-one-alert-uncovered-a-persistent-cyberthreat/\">Retail at risk: How one alert uncovered a persistent cyberthreat​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-24T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Agent Factory: Designing the open agentic web stack",
+    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/",
+    "description": "<p>Unlock enterprise value with an open, secure, and interoperable AI agent ecosystem.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/\">Agent Factory: Designing the open agentic web stack</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-24T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Expanding model choice in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
+    "description": "<p>We’re excited to announce that we’re expanding the models that power Microsoft 365 Copilot with the addition of Anthropic models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/\">Expanding model choice in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-24T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "AI vs. AI: Detecting an AI-obfuscated phishing campaign",
@@ -649,54 +698,5 @@
     "description": "The Azure Firewall Manager\r\nexperience has been expanded and rebranded as the Network Security Hub—a\r\ncentralized interface that brings together Azure Firewall, Web\r\nApplication Firewall (WAF), and DDoS Protection. This change is part\r\nof a broader effort to ",
     "pubDate": "2025-09-17T16:30:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Databricks One in Azure Databricks ",
-    "link": "https://azure.microsoft.com/updates?id=503408",
-    "description": "Databricks One in Azure Databricks delivers a unified, simplified experience that brings together data engineering, analytics, and AI development in a single, governed platform. By integrating collaborative workflows, enterprise-grade governance, and perf",
-    "pubDate": "2025-09-17T16:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Confidential computing for Azure Database for PostgreSQL flexible server ",
-    "link": "https://azure.microsoft.com/updates?id=500795",
-    "description": "Announcing support for confidential computing in Azure Database for PostgreSQL flexible server. Azure Confidential Computing encrypts data in hardware-based trusted execution environments (TEEs), processing data only when the cloud environment has been ve",
-    "pubDate": "2025-09-17T15:45:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: At-cost data transfer between Azure and an external endpoint",
-    "link": "https://azure.microsoft.com/updates?id=501915",
-    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure now offers at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data\r\nvia the internet between Azure to ano",
-    "pubDate": "2025-09-16T21:30:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Kubernetes Service on VMware will be retired on March 16, 2026 - Replace with Azure Kubernetes Service on Azure Local ",
-    "link": "https://azure.microsoft.com/updates?id=500294",
-    "description": "Azure Kubernetes Service on VMware (preview) will be retired on March 16, 2026. Please transition to a supported Azure Kubernetes Service on Azure Local by that date if needed. We encourage you to transition to Azure Kubernetes Service on Azure Local befo",
-    "pubDate": "2025-09-16T19:45:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build real-time monitoring and observable systems for media",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/monitoring/monitoring-observable-systems-media",
-    "description": "Learn how to implement real-time monitoring and observability of systems and end-user device telemetry data.",
-    "pubDate": "2025-09-16T19:04:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy microservices with Azure Container Apps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
-    "description": "Deploy existing microservice applications with Azure Container Apps.",
-    "pubDate": "2025-09-16T19:04:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "AIX UNIX on-premises to Azure Linux migration",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/unix-migration/migrate-aix-azure-linux",
-    "description": "Migrate an on-premises IBM AIX system and web application to a highly available, secure RedHat Enterprise Linux solution in Azure.",
-    "pubDate": "2025-09-16T19:04:06.000Z",
-    "source": "Azure Architecture"
   }
 ]
