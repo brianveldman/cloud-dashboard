@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: Legacy Authentication in Azure Monitor - Container Insights will be retired on September 30, 2026.",
+    "link": "https://azure.microsoft.com/updates?id=500853",
+    "description": "Legacy Authentication in Azure Monitor - Container\r\nInsights will be retired on September 30, 2026.  Legacy authentication has been replaced by the\r\nmore secure Managed Identity\r\nauthentication method. Migrating to Managed Identity also gives customers\r\nacces",
+    "pubDate": "2025-10-07T13:00:16.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: AI toolchain operator add-on (KAITO) for AKS ",
+    "link": "https://azure.microsoft.com/updates?id=503263",
+    "description": "The AI toolchain operator add-on\r\n(KAITO) is now generally available on AKS, streamlining the deployment of AI\r\ninference and fine-tuning workflows using popular open-source frameworks. With\r\nvLLM as the default inference engine, this addon reduces managemen",
+    "pubDate": "2025-10-07T12:00:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Inside Microsoft Threat Intelligence: Calm in the chaos",
     "link": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video",
     "description": "<p>Incident response is never orderly. Threat actors don’t wait. Environments are compromised. Data is missing. Confidence is shaken. But for Microsoft’s Incident Response (IR) team, that chaos is exactly where the work begins.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video\">Inside Microsoft Threat Intelligence: Calm in the chaos</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=503878",
     "description": "Broadcom\r\nannounced changes to their VMware licensing policies. The change now\r\nrequires new customers to bring their own portable VCF subscriptions when\r\nusing hyperscaler platforms. Our current Azure VMware Solution (AVS) customers\r\ncan continue to operate ",
     "pubDate": "2025-09-18T20:45:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs) ",
-    "link": "https://azure.microsoft.com/updates?id=502874",
-    "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North and Korea Central regions with 4th generation AMD EPYC™ processors. Featuring Secure Encrypted Virtualization – Se",
-    "pubDate": "2025-09-18T19:00:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – update run approval gates",
-    "link": "https://azure.microsoft.com/updates?id=503245",
-    "description": "Azure Kubernetes\r\nFleet Manager update runs now support approval gates. Gates can be placed before and after update\r\ngroups and stages and provide additional control over the flow of the update\r\nrun. Gates allow you to either manually approve the update run ",
-    "pubDate": "2025-09-18T17:30:18.000Z",
     "source": "Azure Updates"
   }
 ]
