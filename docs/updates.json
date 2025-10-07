@@ -126,13 +126,6 @@
     "source": "Security"
   },
   {
-    "title": "Introducing Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
-    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T14:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
     "link": "https://azure.microsoft.com/updates?id=506886",
     "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
@@ -173,13 +166,6 @@
     "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
     "pubDate": "2025-09-29T22:05:36.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
-    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
-    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T16:15:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
@@ -261,13 +247,6 @@
   {
     "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
     "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
-    "description": "<p>A new breed of industry-leading company is taking shape — Frontier Firms. These organizations blend human ambition with AI-powered technology to reshape how innovation is scaled, work is orchestrated and value is created. They’re accelerating AI transformation to enrich employee experiences, reinvent customer engagement, reshape business processes and unlock creativity and innovation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-25T16:03:19.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.",
-    "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
     "description": "<p>To empower customers in becoming Frontier, we’re excited to announce the launch of the reimagined Microsoft Marketplace, your trusted source for cloud solutions, AI apps and agents.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/\">Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-25T15:47:32.000Z",
     "source": "Security"
@@ -313,13 +292,6 @@
     "description": "<p>In the latest edition of our Cyberattack Series, we dive into real-world cases targeting retail organizations. With 60% of retail companies reporting operational disruptions from cyberattacks and 43% experiencing breaches in the past year, the stakes have never been higher. This post unpacks where a single alert led to the discovery of a major persistent threat, how attackers exploited unpatched SharePoint vulnerabilities and compromised identities to infiltrate networks—and how the Microsoft Incident Response—the Detection and Response Team (DART) swiftly stepped in with forensic insights and actionable guidance. Download the full report to learn more about how one small signal exposed a much larger danger, and how you can strengthen your defenses against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/24/retail-at-risk-how-one-alert-uncovered-a-persistent-cyberthreat/\">Retail at risk: How one alert uncovered a persistent cyberthreat​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-09-24T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Agent Factory: Designing the open agentic web stack",
-    "link": "https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/",
-    "description": "<p>Unlock enterprise value with an open, secure, and interoperable AI agent ecosystem.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/\">Agent Factory: Designing the open agentic web stack</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-24T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Expanding model choice in Microsoft 365 Copilot",
@@ -698,5 +670,33 @@
     "description": "Broadcom\r\nannounced changes to their VMware licensing policies. The change now\r\nrequires new customers to bring their own portable VCF subscriptions when\r\nusing hyperscaler platforms. Our current Azure VMware Solution (AVS) customers\r\ncan continue to operate ",
     "pubDate": "2025-09-18T20:45:29.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs) ",
+    "link": "https://azure.microsoft.com/updates?id=502874",
+    "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North and Korea Central regions with 4th generation AMD EPYC™ processors. Featuring Secure Encrypted Virtualization – Se",
+    "pubDate": "2025-09-18T19:00:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – update run approval gates",
+    "link": "https://azure.microsoft.com/updates?id=503245",
+    "description": "Azure Kubernetes\r\nFleet Manager update runs now support approval gates. Gates can be placed before and after update\r\ngroups and stages and provide additional control over the flow of the update\r\nrun. Gates allow you to either manually approve the update run ",
+    "pubDate": "2025-09-18T17:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Distributed tracing for Durable Functions ",
+    "link": "https://azure.microsoft.com/updates?id=503139",
+    "description": "Distributed tracing V2 for Durable Functions introduces a robust and comprehensive\r\ntracing model that enables developers to correlate operations in\r\norchestrations, activities, and durable entities. This capability is particularly\r\nuseful for Durable Functi",
+    "pubDate": "2025-09-18T17:00:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft 365 Copilot: Enabling human-agent teams",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/18/microsoft-365-copilot-enabling-human-agent-teams/",
+    "description": "<p>Microsoft 365 Copilot introduces AI agents that support teamwork—helping groups plan, meet, and communicate more effectively across Teams, SharePoint, and Viva Engage.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/18/microsoft-365-copilot-enabling-human-agent-teams/\">Microsoft 365 Copilot: Enabling human-agent teams</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-18T16:00:00.000Z",
+    "source": "Microsoft 365"
   }
 ]
