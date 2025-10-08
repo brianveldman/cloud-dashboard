@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=500273",
+    "description": "On September 30, 2026, we’ll end support for Azure Network Policy Manager (NPM) on Windows nodes in AKS. To ensure your setup continues to receive support, security updates, and deployment compatibility, please explore alternative options, such as using N",
+    "pubDate": "2025-10-07T21:30:21.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Disrupting threats targeting Microsoft Teams",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/",
     "description": "<p>Threat actors seek to abuse Microsoft Teams features and capabilities across the attack chain, underscoring the importance for defenders to proactively monitor, detect, and respond effectively. In this blog, we recommend countermeasures and optimal controls across identity, endpoints, data apps, and network layers to help strengthen protection for enterprise Teams users.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/\">Disrupting threats targeting Microsoft Teams</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -54,6 +61,13 @@
     "description": "PostgreSQL minor versions 17.6, 16.10, 15.14, 14.19, 13.22, and 18 Beta 3 are now supported by Azure Database for PostgreSQL – Flexible Server.      These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azu",
     "pubDate": "2025-10-06T20:45:03.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
+    "link": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
+    "description": "<p>Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/\">Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-06T18:03:45.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
@@ -154,11 +168,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
+    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-01T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Cybersecurity Awareness Month: Security starts with you",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/",
     "description": "<p>At Microsoft, we believe that cybersecurity is as much about people as it is about technology. Explore some of our resources for Cybersecurity Awareness Month to stay safe online. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/01/cybersecurity-awareness-month-security-starts-with-you/\">Cybersecurity Awareness Month: Security starts with you</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-01T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
+    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-01T14:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
@@ -203,11 +231,25 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
+    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
+    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T16:15:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
     "link": "https://azure.microsoft.com/updates?id=506317",
     "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
     "pubDate": "2025-09-29T15:30:44.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
+    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T13:30:44.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
@@ -655,48 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=503240",
     "description": "Azure Kubernetes Fleet Manager has a new auto-upgrade channel that\r\nallows you to set a target Kubernetes minor version. Using this channel means\r\nclusters on the target Kubernetes minor continue to receive only patch updates\r\nuntil the minor reaches the end",
     "pubDate": "2025-09-19T17:30:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: High Scale mode for Azure Monitor – Container Insights ",
-    "link": "https://azure.microsoft.com/updates?id=503034",
-    "description": "Container Insights is Azure Monitor’s solution for collecting logs from your Azure Kubernetes Service clusters.   Announcing  the general availability of High scale mode in Container Insights to help customers achieve a higher log collection throughput fr",
-    "pubDate": "2025-09-19T13:30:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Managed Service for Prometheus now includes native Grafana dashboards within the Azure portal",
-    "link": "https://azure.microsoft.com/updates?id=503286",
-    "description": "Announcing the Azure Managed Service for\r\nPrometheus now includes native Grafana dashboards within the Azure portal at no\r\nadditional cost. This integration marks a major milestone in our mission to\r\nsimplify observability reducing the administrative overhea",
-    "pubDate": "2025-09-19T13:00:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Data Box Next Gen is now generally available in additional regions",
-    "link": "https://azure.microsoft.com/updates?id=503350",
-    "description": "Azure\r\nData Box Next Gen is now Generally Available in NEW regions including: India, Qatar, South Africa and Korea. With\r\nthis new addition, we now have:\r\n Both\r\n     Azure Data box 120TB and 525 TB generally available (GA) in the US, UK,\r\n     Europe, US Gov,",
-    "pubDate": "2025-09-19T12:00:46.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "N-tier Architecture Style",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/n-tier",
-    "description": "Learn about the benefits, challenges, and best practices for N-tier architectures on Azure, which separates an app into logical layers and physical tiers.",
-    "pubDate": "2025-09-18T21:38:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use AI to Forecast Customer Orders",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
-    "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU. See the Azure services that you can use in this solution.",
-    "pubDate": "2025-09-18T21:25:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Licensing changes for future Azure VMware Solution subscriptions starting October 16, 2025.",
-    "link": "https://azure.microsoft.com/updates?id=503878",
-    "description": "Broadcom\r\nannounced changes to their VMware licensing policies. The change now\r\nrequires new customers to bring their own portable VCF subscriptions when\r\nusing hyperscaler platforms. Our current Azure VMware Solution (AVS) customers\r\ncan continue to operate ",
-    "pubDate": "2025-09-18T20:45:29.000Z",
     "source": "Azure Updates"
   }
 ]
