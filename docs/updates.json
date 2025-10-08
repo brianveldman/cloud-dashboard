@@ -63,13 +63,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-    "link": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-    "description": "<p>Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/\">Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-06T18:03:45.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/",
     "description": "<p>Storm-1175, a financially motivated actor known for deploying Medusa ransomware and exploiting public-facing applications for initial access, was observed exploiting the deserialization vulnerability in GoAnywhere MFT's License Servlet, tracked as CVE-2025-10035. We are publishing this blog post to increase awareness of this threat and to share end-to-end protection coverage details across Microsoft Defender.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/\">Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -126,6 +119,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "SQL Server on Azure Virtual Machines With Azure NetApp Files",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/file-storage/sql-server-azure-netapp-files",
+    "description": "Learn how to implement a high-bandwidth, low-latency solution for SQL Server workloads. Use Azure NetApp Files for enterprise-scale performance and reduced costs.",
+    "pubDate": "2025-10-02T20:44:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate and Sync Mainframe Data to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
+    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
+    "pubDate": "2025-10-02T17:23:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a Leader in the IDC MarketScape for XDR",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/",
     "description": "<p>Microsoft has been named a Leader in IDC’s inaugural category for Worldwide Extended Detection and Response (XDR) Software for 2025, recognized for its deep integration, intelligent automation, and unified security operations solutions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/\">Microsoft named a Leader in the IDC MarketScape for XDR</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -138,6 +145,41 @@
     "description": "Azure Traffic Manager has\r\nintroduced new health check infrastructure to improve the resiliency and\r\nscalability of the service. This infrastructure is now available, and customers\r\nare being moved onto the new infrastructure. The rollout of the new probing\r\n",
     "pubDate": "2025-10-02T16:36:44.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Build a CI/CD Pipeline for AKS Apps by Using Azure Pipelines",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-cicd-azure-pipelines",
+    "description": "Learn how to build a CI/CD pipeline for AKS apps by using Azure Pipelines, with integrated testing, staging, and production deployment.",
+    "pubDate": "2025-10-02T16:33:33.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Online Transaction Processing (OLTP)",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
+    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
+    "pubDate": "2025-10-02T02:14:23.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build a Multiple-Agent Workflow Automation Solution with Semantic Kernel",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation",
+    "description": "Learn how to design scalable automation pipelines where multiple AI agents collaborate by using Semantic Kernel and Azure Container Apps for enterprise-grade tasks.",
+    "pubDate": "2025-10-01T23:58:32.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AI Agent Orchestration Patterns",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/ai-agent-design-patterns",
+    "description": "Learn about fundamental orchestration patterns for AI agent architectures, including sequential, concurrent, group chat, handoff, and magentic patterns.",
+    "pubDate": "2025-10-01T17:57:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure Key Vault in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
+    "description": "Learn how to use Azure Key Vault in multitenant solutions, including isolation models, tenant-specific vaults, shared vaults, and multitenancy features.",
+    "pubDate": "2025-10-01T17:47:38.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: MSSQL extension integration with Microsoft Fabric ",
@@ -182,11 +224,11 @@
     "source": "Security"
   },
   {
-    "title": "Introducing Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
-    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T14:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Use Azure Red Hat OpenShift in the Financial Services Industry",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads",
+    "description": "Learn how to use an Azure Red Hat OpenShift landing zone to create secure, resilient, and compliant solutions in a hybrid cloud environment.",
+    "pubDate": "2025-09-30T20:31:35.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
@@ -194,6 +236,20 @@
     "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
     "pubDate": "2025-09-30T19:30:35.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure Virtual Desktop Landing Zone Design Guide",
+    "link": "https://learn.microsoft.com/azure/architecture/landing-zones/azure-virtual-desktop/design-guide",
+    "description": "Learn about the design areas in the Azure landing zone architecture for Azure Virtual Desktop, including resource organization and networking.",
+    "pubDate": "2025-09-30T19:14:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure landing zones - Bicep modules design considerations",
+    "link": "https://learn.microsoft.com/azure/architecture/landing-zones/bicep/landing-zone-bicep",
+    "description": "Design considerations for the Azure landing zones Bicep modules.",
+    "pubDate": "2025-09-30T19:14:59.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Retirement: Support for Service Connector (preview) on Azure Container Apps will end on March 30th, 2026",
@@ -217,6 +273,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Big Data Architectures",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/big-data-architectures",
+    "description": "Learn how big data architectures manage the ingestion, processing, and analysis of data that's too large or complex for traditional database systems.",
+    "pubDate": "2025-09-30T13:20:49.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Empowering defenders in the era of agentic AI with Microsoft Sentinel",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/09/30/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/",
     "description": "<p>Microsoft Sentinel is expanding into an agentic platform with general availability of the Sentinel data lake, and the public preview of Sentinel graph and Sentinel Model Context Protocol (MCP) server. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/30/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/\">Empowering defenders in the era of agentic AI with Microsoft Sentinel</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -229,13 +292,6 @@
     "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
     "pubDate": "2025-09-29T22:05:36.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
-    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
-    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T16:15:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
@@ -642,61 +698,5 @@
     "description": "Use Azure Kubernetes Service (AKS) and Azure Service Bus to implement high-volume batch transaction processing.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Re-engineer IBM z/OS batch applications on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/reengineer-mainframe-batch-apps-azure",
-    "description": "Use Azure services to re-engineer mainframe batch applications. This architecture change can reduce costs and improve scalability.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Refactor IBM z/TPF mainframe systems to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/refactor-ibm-ztpf-mainframe",
-    "description": "Learn how to refactor IBM z/TPF mainframe systems to functionally equivalent systems on Microsoft Azure.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Refactor mainframe applications with Advanced",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/refactor-mainframe-applications-advanced",
-    "description": "Learn how to use the Automated COBOL Refactoring solution from Advanced to modernize your mainframe COBOL applications, run them on Azure, and reduce costs.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Refactor mainframe applications with Astadia",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/refactor-mainframe-applications-astadia",
-    "description": "See an architecture that uses Astadia to migrate COBOL applications from an on-premises environment to the cloud.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Rehost IMS DC and IMS DB on Azure by Using Raincode IMSql",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/rehost-ims-raincode-imsql",
-    "description": "Learn how to rehost IBM IMS DC and IMS DB on Azure by using Raincode IMSql. Rehost seamlessly without translating or changing your application.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Rehost mainframe applications by using NTT DATA UniKix",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/rehost-mainframe-ntt-data-unikix",
-    "description": "Improve efficiency and cut costs by running mainframe applications and workloads on Azure. Use UniKix software from NTT DATA to rehost legacy assets.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Replatform AIX workloads on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/replatform-aix-workloads",
-    "description": "Learn how to replatform AIX workloads on Azure to reduce your TCO, improve business agility, and improve operational resiliency.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel ",
-    "link": "https://azure.microsoft.com/updates?id=503240",
-    "description": "Azure Kubernetes Fleet Manager has a new auto-upgrade channel that\r\nallows you to set a target Kubernetes minor version. Using this channel means\r\nclusters on the target Kubernetes minor continue to receive only patch updates\r\nuntil the minor reaches the end",
-    "pubDate": "2025-09-19T17:30:11.000Z",
-    "source": "Azure Updates"
   }
 ]
