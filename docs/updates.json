@@ -84,13 +84,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-    "link": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-    "description": "<p>Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/\">Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-06T18:03:45.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/",
     "description": "<p>Storm-1175, a financially motivated actor known for deploying Medusa ransomware and exploiting public-facing applications for initial access, was observed exploiting the deserialization vulnerability in GoAnywhere MFT's License Servlet, tracked as CVE-2025-10035. We are publishing this blog post to increase awareness of this threat and to share end-to-end protection coverage details across Microsoft Defender.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/\">Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -252,13 +245,6 @@
     "source": "Security"
   },
   {
-    "title": "Introducing Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
-    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T14:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Use Azure Red Hat OpenShift in the Financial Services Industry",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads",
     "description": "Learn how to use an Azure Red Hat OpenShift landing zone to create secure, resilient, and compliant solutions in a hybrid cloud environment.",
@@ -327,13 +313,6 @@
     "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
     "pubDate": "2025-09-29T22:05:36.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
-    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
-    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T16:15:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
@@ -696,6 +675,27 @@
     "title": "Replicate Mainframe Data by using Precisely Connect",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
     "description": "Learn how to use Precisely Connect to migrate legacy mainframe and midrange systems to the Azure platform.",
+    "pubDate": "2025-09-19T19:20:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Micro Focus Enterprise Server on Azure VMs",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/micro-focus-server",
+    "description": "Optimize, modernize, and streamline IBM z/OS mainframe applications by using Micro Focus Enterprise Server 6.0 on Azure VMs.",
+    "pubDate": "2025-09-19T19:20:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Migrate AIX workloads to Azure with Skytap",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-aix-workloads-to-azure-with-skytap",
+    "description": "This example illustrates a migration of AIX logical partitions (LPARs) to Skytap on Azure.",
+    "pubDate": "2025-09-19T19:20:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Migrate IBM i series to Azure with Skytap",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-ibm-i-series-to-azure-with-skytap",
+    "description": "This example architecture shows how to use the native IBM i backup and recovery services with Microsoft Azure components.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
   }
