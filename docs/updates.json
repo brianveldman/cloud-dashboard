@@ -1,5 +1,12 @@
 [
   {
+    "title": " Azure Front Door capacity issue in multiple regions",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "<p>Impact Statement: Starting at 07:40 UTC on 09 October 2025, Azure customers using Azure Front Door (AFD) may experience intermittent delays or timeouts when accessing their services. This includes the ability to access the Azure Portal and the Entra Admin Portal.</p><p>Current Status: As we continue our mitigation efforts, we have successfully recovered 96% of impacted resources, teams are working on recovering the remaining 4% of impacted customers.</p><p>The next update will be provided within 60 minutes.</p>",
+    "pubDate": "2025-10-09T07:40:00.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "[In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage",
     "link": "https://azure.microsoft.com/updates?id=508971",
     "description": "Announcing the Public Preview of Vaulted Backup\r\nfor Azure Data Lake Storage (ADLS)!Azure Backup now\r\nsupports vaulted protection for ADLS, delivering secure, off-site backups that\r\nensure business continuity and compliance—even in cases of accidental deleti",
@@ -689,13 +696,6 @@
     "title": "Modernize Mainframe Workloads by using BMC AMI Cloud",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-modernization-bmc-ami-cloud",
     "description": "Learn how to use BMC AMI Cloud to send mainframe data directly to Azure Blob Storage as part of a mainframe modernization migration.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Replicate Mainframe Data by using Precisely Connect",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
-    "description": "Learn how to use Precisely Connect to migrate legacy mainframe and midrange systems to the Azure platform.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
   }
