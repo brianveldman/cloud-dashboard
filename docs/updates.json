@@ -1,8 +1,22 @@
 [
   {
-    "title": " Azure Front Door capacity issue in multiple regions",
+    "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc ",
+    "link": "https://azure.microsoft.com/updates?id=512201",
+    "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
+    "pubDate": "2025-10-09T14:15:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure AI Health Insights and related models",
+    "link": "https://azure.microsoft.com/updates?id=502049",
+    "description": " As part of a strategic review of our AI portfolio, Azure AI Health Insights service and the Clinical Trials Matcher and Radiology Insights models will be retired on December 31, 2025, and will no longer be available for use or integration. As a result, e",
+    "pubDate": "2025-10-09T12:45:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Azure Front Door service issue in EMEA, Middle East, Africa",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "<p>Impact Statement: Starting at 07:40 UTC on 09 October 2025, Azure customers using Azure Front Door (AFD) may experience intermittent delays or timeouts when accessing their services. This includes the ability to access the Azure Portal and the Entra Admin Portal.</p><p>Current Status: As we continue our mitigation efforts, we have successfully recovered 96% of impacted resources, teams are working on recovering the remaining 4% of impacted customers.</p><p>The next update will be provided within 60 minutes.</p>",
+    "description": "<p>Impact Statement: Starting at 07:40 UTC on 09 October 2025, Azure customers using Azure Front Door (AFD) from EMEA, Middle East and Africa may experience intermittent delays or timeouts when accessing their services.</p><p>Current Status: Azure customers using Azure Front Door (AFD) should see consistent availability with slightly higher latencies decreasing as we continue to recover additional resources.</p><p>The next update will be provided within 60 minutes.</p>",
     "pubDate": "2025-10-09T07:40:00.000Z",
     "source": "Azure Status"
   },
@@ -682,20 +696,6 @@
     "title": "Migrate mainframe data tier to Azure with mLogica LIBER*IRIS",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-data-platform",
     "description": "Find out how mLogica LIBER*IRIS provides a proven solution for bulk data migration from a mainframe to Azure for enterprise workloads.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate Mainframe Data to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-rdrs",
-    "description": "Learn how to use RDRS, a mainframe data replication solution, to migrate data to and from multiple Azure data platform services.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Modernize Mainframe Workloads by using BMC AMI Cloud",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-modernization-bmc-ami-cloud",
-    "description": "Learn how to use BMC AMI Cloud to send mainframe data directly to Azure Blob Storage as part of a mainframe modernization migration.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
   }
