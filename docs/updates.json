@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage",
+    "link": "https://azure.microsoft.com/updates?id=508971",
+    "description": "Announcing the Public Preview of Vaulted Backup\r\nfor Azure Data Lake Storage (ADLS)!Azure Backup now\r\nsupports vaulted protection for ADLS, delivering secure, off-site backups that\r\nensure business continuity and compliance—even in cases of accidental deleti",
+    "pubDate": "2025-10-09T00:00:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Cache for Redis Enterprise is retiring on March 30, 2027",
+    "link": "https://azure.microsoft.com/updates?id=499606",
+    "description": "Azure Cache for Redis Enterprise and Enterprise Flash tiers is retiring on March 31, 2027 and we recommend you migrate your workloads to use Azure Managed Redis by that date. Starting April 1, 2026, users will not be able to create new instances of Azure ",
+    "pubDate": "2025-10-08T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Cache for Redis is retiring on September 30, 2028",
+    "link": "https://azure.microsoft.com/updates?id=499577",
+    "description": "Azure Cache for Redis (Basic, Standard and Premium) will be retired on September 30, 2028 and we recommend you migrate your workloads to use Azure Managed Redis before September 30, 2028. Azure Cache for Redis instances that are not migrated by September ",
+    "pubDate": "2025-10-08T23:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026",
     "link": "https://azure.microsoft.com/updates?id=500273",
     "description": "On September 30, 2026, we’ll end support for Azure Network Policy Manager (NPM) on Windows nodes in AKS. To ensure your setup continues to receive support, security updates, and deployment compatibility, please explore alternative options, such as using N",
@@ -675,27 +696,6 @@
     "title": "Replicate Mainframe Data by using Precisely Connect",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
     "description": "Learn how to use Precisely Connect to migrate legacy mainframe and midrange systems to the Azure platform.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Micro Focus Enterprise Server on Azure VMs",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/micro-focus-server",
-    "description": "Optimize, modernize, and streamline IBM z/OS mainframe applications by using Micro Focus Enterprise Server 6.0 on Azure VMs.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate AIX workloads to Azure with Skytap",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-aix-workloads-to-azure-with-skytap",
-    "description": "This example illustrates a migration of AIX logical partitions (LPARs) to Skytap on Azure.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate IBM i series to Azure with Skytap",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-ibm-i-series-to-azure-with-skytap",
-    "description": "This example architecture shows how to use the native IBM i backup and recovery services with Microsoft Azure components.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
   }
