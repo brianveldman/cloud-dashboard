@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Firewall updates - Customer provided public IP address support in secured hubs",
+    "link": "https://azure.microsoft.com/updates?id=512875",
+    "description": "Azure Firewall in Virtual WAN\r\nsecured hubs now supports the use of customer-provided public IP addresses.\r\nThis capability enables organizations to bring their own public IP addresses\r\nwhen deploying Azure Firewall in a secured Virtual WAN hub, providing gr",
+    "pubDate": "2025-10-09T17:00:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
+    "description": "<p>​Security is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/\">Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Investigating targeted “payroll pirate” attacks affecting US universities",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/investigating-targeted-payroll-pirate-attacks-affecting-us-universities/",
+    "description": "<p>Microsoft Threat Intelligence has identified a financially motivated threat actor that we track as Storm-2657 compromising employee accounts to gain unauthorized access to employee profiles and divert salary payments to attacker-controlled accounts, attacks that have been dubbed “payroll pirate”. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/investigating-targeted-payroll-pirate-attacks-affecting-us-universities/\">Investigating targeted “payroll pirate” attacks affecting US universities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc ",
     "link": "https://azure.microsoft.com/updates?id=512201",
     "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
@@ -12,13 +33,6 @@
     "description": " As part of a strategic review of our AI portfolio, Azure AI Health Insights service and the Clinical Trials Matcher and Radiology Insights models will be retired on December 31, 2025, and will no longer be available for use or integration. As a result, e",
     "pubDate": "2025-10-09T12:45:35.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Front Door service issue in EMEA, Middle East, Africa",
-    "link": "https://status.azure.com/en-us/status/",
-    "description": "<p>Impact Statement: Starting at 07:40 UTC on 09 October 2025, Azure customers using Azure Front Door (AFD) from EMEA, Middle East and Africa may experience intermittent delays or timeouts when accessing their services.</p><p>Current Status: Azure customers using Azure Front Door (AFD) should see consistent availability with slightly higher latencies decreasing as we continue to recover additional resources.</p><p>The next update will be provided within 60 minutes.</p>",
-    "pubDate": "2025-10-09T07:40:00.000Z",
-    "source": "Azure Status"
   },
   {
     "title": "[In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage",
@@ -65,7 +79,7 @@
   {
     "title": "New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/",
-    "description": "<p>Microsoft Secure Future Initiative (SFI) patterns and practices are practical, actionable, insights from practitioners for practitioners based on Microsoft’s implementation of Zero Trust through the Microsoft Secure Future Initiatives. By adopting these patterns, organizations can accelerate their security maturity, reduce implementation friction, and build systems that are more secure by design, default, and in operation.  ​</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/\">New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>Microsoft Secure Future Initiative (SFI) patterns and practices are practical, actionable, insights from practitioners for practitioners based on Microsoft’s implementation of Zero Trust through the Microsoft Secure Future Initiatives. By adopting these patterns, organizations can accelerate their security maturity, reduce implementation friction, and build systems that are more secure by design, default, and in operation.  </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/\">New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-07T16:00:00.000Z",
     "source": "Security"
   },
@@ -103,13 +117,6 @@
     "description": "PostgreSQL minor versions 17.6, 16.10, 15.14, 14.19, 13.22, and 18 Beta 3 are now supported by Azure Database for PostgreSQL – Flexible Server.      These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azu",
     "pubDate": "2025-10-06T20:45:03.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-    "link": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-    "description": "<p>Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/\">Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-06T18:03:45.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
@@ -273,13 +280,6 @@
     "source": "Security"
   },
   {
-    "title": "Introducing Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
-    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T14:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Use Azure Red Hat OpenShift in the Financial Services Industry",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads",
     "description": "Learn how to use an Azure Red Hat OpenShift landing zone to create secure, resilient, and compliant solutions in a hybrid cloud environment.",
@@ -348,13 +348,6 @@
     "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
     "pubDate": "2025-09-29T22:05:36.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
-    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
-    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T16:15:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
@@ -448,13 +441,6 @@
     "source": "Security"
   },
   {
-    "title": "XCSSET evolves again: Analyzing the latest updates to XCSSET’s inventory",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/",
-    "description": "<p>Microsoft Threat Intelligence has uncovered a new variant of the XCSSET malware, which is designed to infect Xcode projects, typically used by software developers building Apple or macOS-related applications. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/\">XCSSET evolves again: Analyzing the latest updates to XCSSET’s inventory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-09-25T15:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Empower your workforce with agents in Microsoft 365 Copilot",
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/",
     "description": "<p>We're announcing the launch of the Microsoft Marketplace, a unified web destination to find, try, and buy our full catalog of cloud solutions, AI apps, and agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/\">Empower your workforce with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -481,13 +467,6 @@
     "description": "You can now manually trigger on-demand backups in Azure DB for MySQL - Flexible Server instead of solely relying on the system-initiated automated backups and schedule. As part of August 2025 release, you can delete on-demand backups that are no longer ne",
     "pubDate": "2025-09-24T17:00:24.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retail at risk: How one alert uncovered a persistent cyberthreat​​",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/09/24/retail-at-risk-how-one-alert-uncovered-a-persistent-cyberthreat/",
-    "description": "<p>In the latest edition of our Cyberattack Series, we dive into real-world cases targeting retail organizations. With 60% of retail companies reporting operational disruptions from cyberattacks and 43% experiencing breaches in the past year, the stakes have never been higher. This post unpacks where a single alert led to the discovery of a major persistent threat, how attackers exploited unpatched SharePoint vulnerabilities and compromised identities to infiltrate networks—and how the Microsoft Incident Response—the Detection and Response Team (DART) swiftly stepped in with forensic insights and actionable guidance. Download the full report to learn more about how one small signal exposed a much larger danger, and how you can strengthen your defenses against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/24/retail-at-risk-how-one-alert-uncovered-a-persistent-cyberthreat/\">Retail at risk: How one alert uncovered a persistent cyberthreat​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-09-24T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Agent Factory: Designing the open agentic web stack",
@@ -696,6 +675,27 @@
     "title": "Migrate mainframe data tier to Azure with mLogica LIBER*IRIS",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-data-platform",
     "description": "Find out how mLogica LIBER*IRIS provides a proven solution for bulk data migration from a mainframe to Azure for enterprise workloads.",
+    "pubDate": "2025-09-19T19:20:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Migrate Mainframe Data to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-rdrs",
+    "description": "Learn how to use RDRS, a mainframe data replication solution, to migrate data to and from multiple Azure data platform services.",
+    "pubDate": "2025-09-19T19:20:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Modernize Mainframe Workloads by using BMC AMI Cloud",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-modernization-bmc-ami-cloud",
+    "description": "Learn how to use BMC AMI Cloud to send mainframe data directly to Azure Blob Storage as part of a mainframe modernization migration.",
+    "pubDate": "2025-09-19T19:20:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate Mainframe Data by using Precisely Connect",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
+    "description": "Learn how to use Precisely Connect to migrate legacy mainframe and midrange systems to the Azure platform.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
   }
