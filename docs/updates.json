@@ -1,9 +1,9 @@
 [
   {
-    "title": "Issues accessing the Azure Portal",
+    "title": "Extended Recovery - Issues accessing the Azure Portal",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "Impact Summary: Starting at 19:43 UTC on 09 October 2025, a subset of customers may experience issues accessing the Azure Portal or Azure Portal extensions. There is no impact to the availability of Azure resources as a result of this.Current Status: We’ve identified an underlying issue and are currently failing away from content delivery service resources that the Azure Portal interface relies on to mitigate. The next update will be provided in 60 minutes or as events warrant.",
-    "pubDate": "2025-10-09T21:02:32.000Z",
+    "description": "<p><strong>Impact Summary:</strong> Starting at 19:43 UTC on 09 October 2025, a subset of customers may experience issues accessing the Azure Portal, Entra Admin Portal, Intune Admin Portal and Portal extensions. The availability of Azure resources or the management of resources via programmatic methods like API is not impacted.</p><p><strong>Current Status:</strong> We have moved traffic away from the previous content delivery service resources that the Azure Portal relied on for extension content, and taken additional steps to purge caches to mitigate impact. To mitigate residual impact, we are evaluating our configuration and additional recovery steps to migrate traffic to content hosting endpoints. Some customers should be able to access. For customers continuing to experience issues, we recommend attempting a cache refresh on your browser. The next update will be provided in 2 hours or as events warrant.</p>",
+    "pubDate": "2025-10-09T19:43:00.000Z",
     "source": "Azure Status"
   },
   {
