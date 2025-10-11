@@ -14,11 +14,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
+    "description": "<p>Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/\">Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
     "description": "<p>​Security is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/\">Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-09T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in Asia",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/",
+    "description": "<p>Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/\">Microsoft&#8217;s commitment to supporting cloud infrastructure demand in Asia</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Investigating targeted “payroll pirate” attacks affecting US universities",
@@ -682,20 +696,6 @@
     "title": "Refactor mainframe architecture by using CloudFrame Renovate",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/cloudframe-renovate-mainframe-refactor",
     "description": "Refactor your mainframe architecture to Azure by using the CloudFrame Renovate code migration tool. Renovate migrates COBOL to Java.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extend mainframe applications to Azure by using Verastream Host Integrator",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/extend-mainframe-applications",
-    "description": "Extend your mainframe applications to Azure by using the Verastream Host Integrator (VHI). VHI simplifies mainframe and host-based application functionality into a web service.",
-    "pubDate": "2025-09-19T19:20:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Mainframe file and tape backup to Azure using Luminex",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/luminex-mainframe-file-tape-transfer",
-    "description": "Use Luminex products to transfer mainframe file and tape data to and from Azure to meet backup, archival, and other business needs.",
     "pubDate": "2025-09-19T19:20:39.000Z",
     "source": "Azure Architecture"
   }
