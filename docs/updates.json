@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
+    "link": "https://azure.microsoft.com/updates?id=513855",
+    "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
+    "pubDate": "2025-10-14T20:15:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
     "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "Networking and connectivity for mission-critical workloads on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-networking",
     "description": "Networking decisions for the architecture of a mission-critical workload on Azure.",
-    "pubDate": "2025-09-22T17:12:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Operations for mission-critical workloads on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-operations",
-    "description": "Guidance for operations for the architecture of a mission-critical workload on Azure.",
     "pubDate": "2025-09-22T17:12:32.000Z",
     "source": "Azure Architecture"
   }
