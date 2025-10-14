@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
+    "link": "https://azure.microsoft.com/updates?id=513518",
+    "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
+    "pubDate": "2025-10-14T10:30:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Environmental sustainability features in Azure API Management",
     "link": "https://azure.microsoft.com/updates?id=513074",
     "description": "Azure API Management now supports environmental sustainability features in public preview. These capabilities help organizations minimize the carbon footprint of their API infrastructure by making API traffic and policy behavior carbon-aware.With these ne",
@@ -691,12 +698,5 @@
     "description": "Learn about the security considerations for a workload that's accessed over a public endpoint without dependencies on other company resources.",
     "pubDate": "2025-09-22T17:12:32.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Using Server-sent events with Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=503909",
-    "description": "Azure Application Gateway supports use of Server-sent events in general\r\navailability, enabling real-time data streaming from server to client.\r\nServer-sent events utilize server push technology on a persistent HTTP\r\nconnection for seamless updates to the cl",
-    "pubDate": "2025-09-22T17:00:22.000Z",
-    "source": "Azure Updates"
   }
 ]
