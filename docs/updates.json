@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
+    "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Spot Placement Score ",
+    "link": "https://azure.microsoft.com/updates?id=511898",
+    "description": "Today, we are announcing the general availability of Azure Spot Placement Score, a feature that allows you to assess the likelihood of deployment success for your Spot virtual machines. Spot availability can vary across different combinations of Azure loc",
+    "pubDate": "2025-10-14T15:00:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
     "link": "https://azure.microsoft.com/updates?id=513518",
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
@@ -40,13 +54,6 @@
     "description": "We\r\nare announcing the release of Azure\r\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\r\naccelerator designed to enhance the security and performance of cryptographic\r\noperations in virtual machines. For customers who heavily rely on\r\ncrypto",
     "pubDate": "2025-10-13T15:30:40.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "FYAI: Why developers will lead AI transformation across the enterprise",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
-    "description": "<p>Discover how developers are unlocking AI's full potential by using copilots and agents to reshape customer experiences and streamline operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/\">FYAI: Why developers will lead AI transformation across the enterprise</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-13T15:10:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
@@ -425,13 +432,6 @@
     "description": "Learn how big data architectures manage the ingestion, processing, and analysis of data that's too large or complex for traditional database systems.",
     "pubDate": "2025-09-30T13:20:49.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Empowering defenders in the era of agentic AI with Microsoft Sentinel",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/09/30/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/",
-    "description": "<p>Microsoft Sentinel is expanding into an agentic platform with general availability of the Sentinel data lake, and the public preview of Sentinel graph and Sentinel Model Context Protocol (MCP) server. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/09/30/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/\">Empowering defenders in the era of agentic AI with Microsoft Sentinel</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-09-30T13:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "WordPress on Azure Kubernetes Service",
