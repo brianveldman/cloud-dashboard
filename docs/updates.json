@@ -42,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "FYAI: Why developers will lead AI transformation across the enterprise",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
+    "description": "<p>Discover how developers are unlocking AI's full potential by using copilots and agents to reshape customer experiences and streamline operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/\">FYAI: Why developers will lead AI transformation across the enterprise</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-13T15:10:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
     "link": "https://azure.microsoft.com/updates?id=508413",
     "description": "You can now access code samples for Entra ID token refresh using Python and .NET in Azure Database for PostgreSQL. These samples are designed to help you securely manage authentication tokens when connecting to your PostgreSQL database with Entra ID, ensu",
@@ -689,13 +696,6 @@
     "title": "Operations for mission-critical workloads on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-operations",
     "description": "Guidance for operations for the architecture of a mission-critical workload on Azure.",
-    "pubDate": "2025-09-22T17:12:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Security Considerations for Mission-Critical Workloads on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-security",
-    "description": "Learn about the security considerations for a workload that's accessed over a public endpoint without dependencies on other company resources.",
     "pubDate": "2025-09-22T17:12:32.000Z",
     "source": "Azure Architecture"
   }
