@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption ",
+    "link": "https://azure.microsoft.com/updates?id=512379",
+    "description": "You can now enable\r\navailability zones for your Azure Functions Flex Consumption apps during both\r\ncreation and post-deployment. When enabled, instances are automatically\r\ndistributed across zones, enhancing reliability and fault tolerance. New Region\r\nSuppor",
+    "pubDate": "2025-10-15T18:00:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Storage Discovery",
     "link": "https://azure.microsoft.com/updates?id=515479",
     "description": "Azure Storage Discovery provides enterprise-wide\r\nvisibility into your Azure Storage data estate. Insights that weren’t available before are now at\r\nyour fingertips. Deeply analyze\r\nused capacity and activity, optimize costs, enhance\r\nsecurity, and drive oper",
@@ -49,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
+    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
     "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -68,6 +82,13 @@
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
     "pubDate": "2025-10-14T10:30:39.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
+    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T00:35:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Architecture Styles",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=499451",
     "description": "The Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected reso",
     "pubDate": "2025-09-26T16:30:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2 ",
-    "link": "https://azure.microsoft.com/updates?id=498563",
-    "description": "We recommend upgrading from BlobFuse v1 to BlobFuse\r\nv2,as all future enhancements and innovations related to Azure Blob Storage file system access will be focused exclusively on BlobFuse v2. Please note that support for BlobFuse v1 will be discontinued ef",
-    "pubDate": "2025-09-26T16:00:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build and Deploy Custom Document Processing Models on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
-    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
-    "pubDate": "2025-09-26T15:30:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
-    "link": "https://azure.microsoft.com/updates?id=500016",
-    "description": "Beginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.To continue to host your application workloads, we request you migrate to other solutions su",
-    "pubDate": "2025-09-26T11:45:02.000Z",
     "source": "Azure Updates"
   }
 ]
