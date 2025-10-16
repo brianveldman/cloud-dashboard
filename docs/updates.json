@@ -1,5 +1,12 @@
 [
   {
+    "title": "Extortion and ransomware drive over half of cyberattacks",
+    "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
+    "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering. </p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-16T14:05:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service  ",
     "link": "https://azure.microsoft.com/updates?id=500775",
     "description": "Announcing the general availability (GA) of automation support for Azure Database Migration Service (DMS) through PowerShell, custom cmdlets, and the Python SDK. Using Azure PowerShell Az.DataMigration or Azure CLI az datamigration, you can migrate databa",
@@ -63,6 +70,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
+    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
     "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -82,6 +96,13 @@
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
     "pubDate": "2025-10-14T10:30:39.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
+    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T00:35:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Architecture Styles",
@@ -159,6 +180,13 @@
     "description": "We\r\nare announcing the release of Azure\r\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\r\naccelerator designed to enhance the security and performance of cryptographic\r\noperations in virtual machines. For customers who heavily rely on\r\ncrypto",
     "pubDate": "2025-10-13T15:30:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "FYAI: Why developers will lead AI transformation across the enterprise",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
+    "description": "<p>Discover how developers are unlocking AI's full potential by using copilots and agents to reshape customer experiences and streamline operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/\">FYAI: Why developers will lead AI transformation across the enterprise</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-13T15:10:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
@@ -280,11 +308,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
+    "description": "<p>Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/\">Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
     "description": "<p>​Security is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/\">Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-09T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in Asia",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/",
+    "description": "<p>Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/\">Microsoft&#8217;s commitment to supporting cloud infrastructure demand in Asia</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Investigating targeted “payroll pirate” attacks affecting US universities",
@@ -483,13 +525,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft named a Leader in the IDC MarketScape for XDR",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/",
-    "description": "<p>Microsoft has been named a Leader in IDC’s inaugural category for Worldwide Extended Detection and Response (XDR) Software for 2025, recognized for its deep integration, intelligent automation, and unified security operations solutions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/\">Microsoft named a Leader in the IDC MarketScape for XDR</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-02T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager",
     "link": "https://azure.microsoft.com/updates?id=509097",
     "description": "Azure Traffic Manager has\r\nintroduced new health check infrastructure to improve the resiliency and\r\nscalability of the service. This infrastructure is now available, and customers\r\nare being moved onto the new infrastructure. The rollout of the new probing\r\n",
@@ -663,40 +698,5 @@
     "description": "Microsoft\r\nis announcing the planned retirement of Entity Linking from Azure AI Language. We\r\nrecommend considering a replacement solution; Named\r\nEntity Recognition from Azure AI Language also supports entity\r\nidentification. Microsoft\r\nwill provide full supp",
     "pubDate": "2025-09-26T22:00:37.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption.",
-    "link": "https://azure.microsoft.com/updates?id=499451",
-    "description": "The Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected reso",
-    "pubDate": "2025-09-26T16:30:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2 ",
-    "link": "https://azure.microsoft.com/updates?id=498563",
-    "description": "We recommend upgrading from BlobFuse v1 to BlobFuse\r\nv2,as all future enhancements and innovations related to Azure Blob Storage file system access will be focused exclusively on BlobFuse v2. Please note that support for BlobFuse v1 will be discontinued ef",
-    "pubDate": "2025-09-26T16:00:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build and Deploy Custom Document Processing Models on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
-    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
-    "pubDate": "2025-09-26T15:30:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
-    "link": "https://azure.microsoft.com/updates?id=500016",
-    "description": "Beginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.To continue to host your application workloads, we request you migrate to other solutions su",
-    "pubDate": "2025-09-26T11:45:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Design Principles for Azure Applications",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/design-principles",
-    "description": "Learn key design principles for Azure applications, including self-healing, redundancy, scaling, partitioning, and using managed services effectively.",
-    "pubDate": "2025-09-25T19:17:12.000Z",
-    "source": "Azure Architecture"
   }
 ]
