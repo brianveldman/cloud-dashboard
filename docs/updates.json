@@ -56,25 +56,11 @@
     "source": "Security"
   },
   {
-    "title": "What’s new in Copilot Studio: September 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/",
-    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-15T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
     "link": "https://azure.microsoft.com/updates?id=513855",
     "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
     "pubDate": "2025-10-14T20:15:14.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
-    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
-    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=503883",
     "description": "Microsoft is announcing the retirement of the AV36 node type\r\non June 30, 2028. The terms of your current AV36 Reserved Instance (RI) are\r\nnot affected by this announcement. At this time, we recommend that you review your current AV36\r\nRI expiration timeline",
     "pubDate": "2025-09-27T00:30:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Entity Linking from Azure AI Language",
+    "link": "https://azure.microsoft.com/updates?id=499851",
+    "description": "Microsoft\r\nis announcing the planned retirement of Entity Linking from Azure AI Language. We\r\nrecommend considering a replacement solution; Named\r\nEntity Recognition from Azure AI Language also supports entity\r\nidentification. Microsoft\r\nwill provide full supp",
+    "pubDate": "2025-09-26T22:00:37.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption.",
+    "link": "https://azure.microsoft.com/updates?id=499451",
+    "description": "The Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected reso",
+    "pubDate": "2025-09-26T16:30:29.000Z",
     "source": "Azure Updates"
   }
 ]
