@@ -84,13 +84,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
-    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T00:35:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Architecture Styles",
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles",
     "description": "Learn about architecture styles for cloud applications, including descriptions, recommendations, best practices, and recommended deployment with Azure services.",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=499451",
     "description": "The Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected reso",
     "pubDate": "2025-09-26T16:30:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2 ",
+    "link": "https://azure.microsoft.com/updates?id=498563",
+    "description": "We recommend upgrading from BlobFuse v1 to BlobFuse\r\nv2,as all future enhancements and innovations related to Azure Blob Storage file system access will be focused exclusively on BlobFuse v2. Please note that support for BlobFuse v1 will be discontinued ef",
+    "pubDate": "2025-09-26T16:00:55.000Z",
     "source": "Azure Updates"
   }
 ]
