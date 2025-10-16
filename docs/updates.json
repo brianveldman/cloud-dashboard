@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service  ",
+    "link": "https://azure.microsoft.com/updates?id=500775",
+    "description": "Announcing the general availability (GA) of automation support for Azure Database Migration Service (DMS) through PowerShell, custom cmdlets, and the Python SDK. Using Azure PowerShell Az.DataMigration or Azure CLI az datamigration, you can migrate databa",
+    "pubDate": "2025-10-15T22:15:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption ",
     "link": "https://azure.microsoft.com/updates?id=512379",
     "description": "You can now enable\r\navailability zones for your Azure Functions Flex Consumption apps during both\r\ncreation and post-deployment. When enabled, instances are automatically\r\ndistributed across zones, enhancing reliability and fault tolerance. New Region\r\nSuppor",
@@ -54,13 +61,6 @@
     "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
     "pubDate": "2025-10-14T20:15:14.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
-    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
-    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
