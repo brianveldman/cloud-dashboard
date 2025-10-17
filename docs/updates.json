@@ -91,11 +91,25 @@
     "source": "Security"
   },
   {
+    "title": "What’s new in Copilot Studio: September 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/",
+    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-15T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
     "link": "https://azure.microsoft.com/updates?id=513855",
     "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
     "pubDate": "2025-10-14T20:15:14.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
+    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T18:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
@@ -117,6 +131,13 @@
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
     "pubDate": "2025-10-14T10:30:39.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
+    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T00:35:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Architecture Styles",
@@ -677,26 +698,5 @@
     "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-09-29T16:15:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
-    "link": "https://azure.microsoft.com/updates?id=506317",
-    "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
-    "pubDate": "2025-09-29T15:30:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
-    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-09-29T13:30:44.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
-    "link": "https://azure.microsoft.com/updates?id=503883",
-    "description": "Microsoft is announcing the retirement of the AV36 node type\r\non June 30, 2028. The terms of your current AV36 Reserved Instance (RI) are\r\nnot affected by this announcement. At this time, we recommend that you review your current AV36\r\nRI expiration timeline",
-    "pubDate": "2025-09-27T00:30:39.000Z",
-    "source": "Azure Updates"
   }
 ]
