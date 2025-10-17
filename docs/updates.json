@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)",
+    "link": "https://azure.microsoft.com/updates?id=513752",
+    "description": "Microsoft is expanding its digital infrastructure footprint further with a new datacenter region, Southeast Asia 3, planned in Malaysia. This datacenter region will feature Microsoft's most comprehensive and strategic cloud services, designed to support a",
+    "pubDate": "2025-10-17T15:15:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: New OS SKU enum to migrate to Azure Linux 3.0 ",
+    "link": "https://azure.microsoft.com/updates?id=512396",
+    "description": "You can now\r\nmigrate to Azure Linux 3.0 with a new OS SKU enum, ‘AzureLinux3’, in Kubernetes\r\nversion 1.28-1.36.   This new\r\noption provides increased control over OS upgrades by decoupling them from Kubernetes\r\nupgrades. Customers using LTS version 1.28-1.31",
+    "pubDate": "2025-10-17T15:15:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions support for Python 3.13 ",
+    "link": "https://azure.microsoft.com/updates?id=512374",
+    "description": "You can now\r\ndevelop functions using Python 3.13 locally and deploy them to Azure Functions.   Starting with\r\nPython 3.13, Functions introduces runtime version control, a new opt-in\r\nfeature that lets you target specific versions of the Functions Python runt",
+    "pubDate": "2025-10-17T15:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/",
     "description": "<p>We’re honored to share that Microsoft has again been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -677,26 +698,5 @@
     "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV4as_v4, Standard_NV4ahs_v4,Standard_NV8as_v4, Standard_NV8ahs_v4,Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-seri",
     "pubDate": "2025-09-30T17:15:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Spark Native Connector for Semantic Link ",
-    "link": "https://azure.microsoft.com/updates?id=502602",
-    "description": "Starting October 1, 2025, the Spark native connector will be officially retired. This decision is based on internal analysis indicating low usage, high maintenance costs, and potential security vulnerabilities. To ensure continued support and improved sec",
-    "pubDate": "2025-09-30T13:45:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Big Data Architectures",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/big-data-architectures",
-    "description": "Learn how big data architectures manage the ingestion, processing, and analysis of data that's too large or complex for traditional database systems.",
-    "pubDate": "2025-09-30T13:20:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "WordPress on Azure Kubernetes Service",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-container",
-    "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
-    "pubDate": "2025-09-29T22:05:36.000Z",
-    "source": "Azure Architecture"
   }
 ]
