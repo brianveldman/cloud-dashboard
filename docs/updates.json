@@ -49,13 +49,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/",
-    "description": "<p>We are excited to announce the general availability of Azure Storage Discovery.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/\">From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-16T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Extortion and ransomware drive over half of cyberattacks",
     "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
     "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering. </p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -75,13 +68,6 @@
     "description": "You can now enable\r\navailability zones for your Azure Functions Flex Consumption apps during both\r\ncreation and post-deployment. When enabled, instances are automatically\r\ndistributed across zones, enhancing reliability and fault tolerance. New Region\r\nSuppor",
     "pubDate": "2025-10-15T18:00:12.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Sora 2 now available in Azure AI Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/",
-    "description": "<p>Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/\">Sora 2 now available in Azure AI Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-15T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Storage Discovery",
@@ -140,13 +126,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
-    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
-    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
     "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -166,13 +145,6 @@
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
     "pubDate": "2025-10-14T10:30:39.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
-    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T00:35:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Architecture Styles",
@@ -250,13 +222,6 @@
     "description": "We\r\nare announcing the release of Azure\r\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\r\naccelerator designed to enhance the security and performance of cryptographic\r\noperations in virtual machines. For customers who heavily rely on\r\ncrypto",
     "pubDate": "2025-10-13T15:30:40.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "FYAI: Why developers will lead AI transformation across the enterprise",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
-    "description": "<p>Discover how developers are unlocking AI's full potential by using copilots and agents to reshape customer experiences and streamline operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/\">FYAI: Why developers will lead AI transformation across the enterprise</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-13T15:10:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
@@ -378,25 +343,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
-    "description": "<p>Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/\">Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-09T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
     "description": "<p>​Security is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/\">Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-09T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in Asia",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/",
-    "description": "<p>Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/\">Microsoft&#8217;s commitment to supporting cloud infrastructure demand in Asia</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-09T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Investigating targeted “payroll pirate” attacks affecting US universities",
@@ -698,5 +649,54 @@
     "description": "Support for Service Connector (preview) on Azure Container Apps will end on March 30, 2026. After this date, Service Connector (preview) will no longer be supported on Azure Container Apps. If you created service connections using the Azure Portal, your e",
     "pubDate": "2025-09-30T17:30:02.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: NVv4-series Azure Virtual Machines will be retired on September 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=500578",
+    "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV4as_v4, Standard_NV4ahs_v4,Standard_NV8as_v4, Standard_NV8ahs_v4,Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-seri",
+    "pubDate": "2025-09-30T17:15:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Spark Native Connector for Semantic Link ",
+    "link": "https://azure.microsoft.com/updates?id=502602",
+    "description": "Starting October 1, 2025, the Spark native connector will be officially retired. This decision is based on internal analysis indicating low usage, high maintenance costs, and potential security vulnerabilities. To ensure continued support and improved sec",
+    "pubDate": "2025-09-30T13:45:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Big Data Architectures",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/big-data-architectures",
+    "description": "Learn how big data architectures manage the ingestion, processing, and analysis of data that's too large or complex for traditional database systems.",
+    "pubDate": "2025-09-30T13:20:49.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "WordPress on Azure Kubernetes Service",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/wordpress-container",
+    "description": "Use Azure Kubernetes Service (AKS) to deploy a highly scalable and secure installation of WordPress for large, storage-intensive applications.",
+    "pubDate": "2025-09-29T22:05:36.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities",
+    "link": "https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/",
+    "description": "<p>Microsoft has collaborated closely with xAI to bring Grok 4, their most advanced model, to Azure AI Foundry—delivering powerful reasoning within a platform designed for business-ready safety and control.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/\">Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T16:15:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=506317",
+    "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
+    "pubDate": "2025-09-29T15:30:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/",
+    "description": "<p>Today, we're bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/29/vibe-working-introducing-agent-mode-and-office-agent-in-microsoft-365-copilot/\">Vibe working: Introducing Agent Mode and Office Agent in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-09-29T13:30:44.000Z",
+    "source": "Microsoft 365"
   }
 ]
