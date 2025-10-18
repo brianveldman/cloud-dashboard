@@ -126,13 +126,6 @@
     "source": "Security"
   },
   {
-    "title": "What’s new in Copilot Studio: September 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/",
-    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-15T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
     "link": "https://azure.microsoft.com/updates?id=513855",
     "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=501528",
     "description": "Support for Service Connector (preview) on Azure Container Apps will end on March 30, 2026. After this date, Service Connector (preview) will no longer be supported on Azure Container Apps. If you created service connections using the Azure Portal, your e",
     "pubDate": "2025-09-30T17:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: NVv4-series Azure Virtual Machines will be retired on September 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=500578",
+    "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV4as_v4, Standard_NV4ahs_v4,Standard_NV8as_v4, Standard_NV8ahs_v4,Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-seri",
+    "pubDate": "2025-09-30T17:15:32.000Z",
     "source": "Azure Updates"
   }
 ]
