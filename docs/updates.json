@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover",
+    "link": "https://azure.microsoft.com/updates?id=514653",
+    "description": "Azure Storage Mover’s new AWS S3 to Azure Blob migration feature\r\nis now generally available, empowering organizations to move data directly from\r\nAWS to Azure securely, reliably, and at scale. With this\r\nrelease, customers can eliminate manual pipelines and",
+    "pubDate": "2025-10-20T21:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Open Source: Containerization Assist MCP Server ",
+    "link": "https://azure.microsoft.com/updates?id=503268",
+    "description": "Containerization Assist solves the\r\nchallenge of manual, error-prone containerization by automating Dockerfile creation\r\nand Kubernetes manifest generation. Unlike basic AI coding tools, it is a full\r\ncontainerization platform built on AKS Draft’s proven rea",
+    "pubDate": "2025-10-20T21:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Sharing Capacity Reservation Groups",
     "link": "https://azure.microsoft.com/updates?id=516897",
     "description": "The ability to share Capacity Reservation\r\nGroups (CRGs) with subscriptions is now in Public Preview.  Previously, customers could deploy VMs in a Capacity\r\nReservation Group within the same subscription only. On-demand Capacity\r\nReservation Group (CRG) can ",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads",
     "description": "Learn how to use an Azure Red Hat OpenShift landing zone to create secure, resilient, and compliant solutions in a hybrid cloud environment.",
     "pubDate": "2025-09-30T20:31:35.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
-    "link": "https://azure.microsoft.com/updates?id=506886",
-    "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
-    "pubDate": "2025-09-30T19:30:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Virtual Desktop Landing Zone Design Guide",
-    "link": "https://learn.microsoft.com/azure/architecture/landing-zones/azure-virtual-desktop/design-guide",
-    "description": "Learn about the design areas in the Azure landing zone architecture for Azure Virtual Desktop, including resource organization and networking.",
-    "pubDate": "2025-09-30T19:14:59.000Z",
     "source": "Azure Architecture"
   }
 ]
