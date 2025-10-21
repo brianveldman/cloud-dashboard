@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Generative AI Operations for Organizations with MLOps Investments",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
+    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
+    "pubDate": "2025-10-17T13:55:05.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/",
     "description": "<p>We’re honored to share that Microsoft has again been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -161,11 +168,39 @@
     "source": "Security"
   },
   {
+    "title": "Use Azure Databricks to Orchestrate MLOps",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/orchestrate-machine-learning-azure-databricks",
+    "description": "Learn about an approach for machine learning operations (MLOps) that uses Azure Databricks to run model training and batch scoring.",
+    "pubDate": "2025-10-15T15:32:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "What’s new in Copilot Studio: September 2025",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/",
     "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-10-15T15:00:00.000Z",
     "source": "Microsoft 365"
+  },
+  {
+    "title": "Global routing redundancy for mission-critical web applications",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
+    "description": "Learn how to develop highly resilient global web applications.",
+    "pubDate": "2025-10-15T09:00:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
+    "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
+    "pubDate": "2025-10-14T20:38:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Machine learning operations",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/machine-learning-operations-v2",
+    "description": "Learn about a single deployable set of repeatable and maintainable patterns for creating machine learning CI/CD and retraining pipelines.",
+    "pubDate": "2025-10-14T20:38:30.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
@@ -189,11 +224,39 @@
     "source": "Security"
   },
   {
+    "title": "Databases architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/index",
+    "description": "Learn about the different Azure database solutions described in Azure Architecture Center.",
+    "pubDate": "2025-10-14T15:57:05.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate and Sync Mainframe Data to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
+    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
+    "pubDate": "2025-10-14T15:21:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Spot Placement Score ",
     "link": "https://azure.microsoft.com/updates?id=511898",
     "description": "Today, we are announcing the general availability of Azure Spot Placement Score, a feature that allows you to assess the likelihood of deployment success for your Spot virtual machines. Spot availability can vary across different combinations of Azure loc",
     "pubDate": "2025-10-14T15:00:50.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Choose an Analytical Data Store in Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-analytical-data-stores",
+    "description": "Evaluate analytical data store options in Microsoft Fabric based on data volumes, types, compute engine, ingestion, transformation, and query patterns.",
+    "pubDate": "2025-10-14T14:46:49.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Greenfield lakehouse on Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
+    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
+    "pubDate": "2025-10-14T14:26:04.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
@@ -208,6 +271,13 @@
     "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-10-14T00:35:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Azure App Configuration Considerations for Multitenancy",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
+    "description": "Learn about the features of Azure App Configuration that are useful when working with multitenant systems, and use the provided links for guidance and examples.",
+    "pubDate": "2025-10-13T21:53:04.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Architecture Styles",
@@ -609,13 +679,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Replicate and Sync Mainframe Data to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
-    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
-    "pubDate": "2025-10-02T17:23:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
     "title": "[Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager",
     "link": "https://azure.microsoft.com/updates?id=509097",
     "description": "Azure Traffic Manager has\r\nintroduced new health check infrastructure to improve the resiliency and\r\nscalability of the service. This infrastructure is now available, and customers\r\nare being moved onto the new infrastructure. The rollout of the new probing\r\n",
@@ -634,69 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
     "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
     "pubDate": "2025-10-02T02:14:23.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "AI Agent Orchestration Patterns",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/ai-agent-design-patterns",
-    "description": "Learn about fundamental orchestration patterns for AI agent architectures, including sequential, concurrent, group chat, handoff, and magentic patterns.",
-    "pubDate": "2025-10-01T17:57:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure Key Vault in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
-    "description": "Learn how to use Azure Key Vault in multitenant solutions, including isolation models, tenant-specific vaults, shared vaults, and multitenancy features.",
-    "pubDate": "2025-10-01T17:47:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: MSSQL extension integration with Microsoft Fabric ",
-    "link": "https://azure.microsoft.com/updates?id=503646",
-    "description": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric ",
-    "pubDate": "2025-10-01T17:30:57.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Machine Learning - Data labeling Deprecation",
-    "link": "https://azure.microsoft.com/updates?id=501692",
-    "description": "On September 30, 2026, Azure Machine data labeling will be retired. Please transition to 3rd party data labeling providers by 30 September 2026.  From today to September 30, 2026, you can continue to use data labelling without disruption. On September 30,",
-    "pubDate": "2025-10-01T17:30:57.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Network Policy Manager (NPM) for Linux nodes on AKS to Be Retired by September 30, 2028",
-    "link": "https://azure.microsoft.com/updates?id=500268",
-    "description": "On September 30, 2028, we’ll end support for Azure Network Policy Manager (NPM) on Linux nodes in AKS. To avoid disruptions, migrate AKS clusters running Linux nodes from NPM to Cilium Network Policy by that date.      Transitioning to Cilium Network Poli",
-    "pubDate": "2025-10-01T17:15:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for late September 2025 ",
-    "link": "https://azure.microsoft.com/updates?id=503612",
-    "description": "In late September 2025, the following updates and enhancements were made to Azure SQL:  Protection from ransomware attacks to long-term retention (LTR) backups via immutability. Learn more. ",
-    "pubDate": "2025-10-01T16:00:52.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Meet Microsoft 365 Premium: Your AI and productivity powerhouse",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/",
-    "description": "<p>We’re taking a big step forward with major updates to our individual subscription plans, combining the best of AI and productivity at an unbeatable price.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/01/meet-microsoft-365-premium-your-ai-and-productivity-powerhouse/\">Meet Microsoft 365 Premium: Your AI and productivity powerhouse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Introducing Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/",
-    "description": "<p>Microsoft Agent Framework, now in public preview, and new capabilities in Azure AI Foundry make it easier for developers to build, observe, and govern multi-agent systems.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/\">Introducing Microsoft Agent Framework</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-01T14:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Use Azure Red Hat OpenShift in the Financial Services Industry",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads",
-    "description": "Learn how to use an Azure Red Hat OpenShift landing zone to create secure, resilient, and compliant solutions in a hybrid cloud environment.",
-    "pubDate": "2025-09-30T20:31:35.000Z",
     "source": "Azure Architecture"
   }
 ]
