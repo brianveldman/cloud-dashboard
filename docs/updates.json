@@ -35,13 +35,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
-    "description": "<p>Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/\">Innovation spotlight: How 3 customers are driving change with migration to Azure SQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-20T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/20/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/",
     "description": "<p>Azure Blob Storage is a high-value target for threat actors due to its critical role in storing and managing massive amounts of unstructured data at scale across diverse workloads and is increasingly targeted through sophisticated attack chains that exploit misconfigurations, exposed credentials, and evolving cloud tactics.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/20/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/\">Inside the attack chain: Threat activity targeting Azure Blob Storage</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-cicd-azure-pipelines",
     "description": "Learn how to build a CI/CD pipeline for AKS apps by using Azure Pipelines, with integrated testing, staging, and production deployment.",
     "pubDate": "2025-10-02T16:33:33.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Online Transaction Processing (OLTP)",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
+    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
+    "pubDate": "2025-10-02T02:14:23.000Z",
     "source": "Azure Architecture"
   }
 ]
