@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores",
+    "link": "https://azure.microsoft.com/updates?id=516990",
+    "description": "Azure announces the public preview of VM Customization\r\nfeatures, a new capability that gives customers greater control over virtual CPU\r\nconfigurations to optimize performance and licensing costs. This feature\r\nintroduces two powerful options: Disable Simul",
+    "pubDate": "2025-10-22T17:15:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL updates for mid-October 2025   ",
+    "link": "https://azure.microsoft.com/updates?id=513240",
+    "description": "In mid-October 2025, the following updates and enhancements were made to Azure SQL:   Improve the redirect connection type to require only port 1433 and promote to default. Learn more. Convert Azure SQL Database to Hyperscale while preserving existing geo",
+    "pubDate": "2025-10-22T16:30:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers ",
+    "link": "https://azure.microsoft.com/updates?id=502004",
+    "description": "You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process usually takes less than 30 seconds, while traditional scaling can take 2 to 10 minutes. This new capabilit",
+    "pubDate": "2025-10-22T16:00:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/",
+    "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-22T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "The new Microsoft Security Store unites partners and innovation",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/",
     "description": "<p>The Microsoft Security Store is the gateway for customers to easily discover, buy, and deploy trusted security solutions and AI agents from leading partners.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/\">The new Microsoft Security Store unites partners and innovation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -33,6 +61,13 @@
     "description": "Azure Application\r\nGateway introduces two new PowerShell scripts to simplify migration from V1\r\n(Standard or WAF) to V2 (Standard_V2 or WAF_V2) services.  As V1 SKUs’ is scheduled to retire by April 2026, we advise\r\nmigrating early and take advantage of Appl",
     "pubDate": "2025-10-20T17:00:28.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
+    "description": "<p>Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/\">Innovation spotlight: How 3 customers are driving change with migration to Azure SQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-20T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -567,13 +602,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Disrupting threats targeting Microsoft Teams",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/",
-    "description": "<p>Threat actors seek to abuse Microsoft Teams features and capabilities across the attack chain, underscoring the importance for defenders to proactively monitor, detect, and respond effectively. In this blog, we recommend countermeasures and optimal controls across identity, endpoints, data apps, and network layers to help strengthen protection for enterprise Teams users.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/\">Disrupting threats targeting Microsoft Teams</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-07T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy ",
     "link": "https://azure.microsoft.com/updates?id=511722",
     "description": "Azure Firewall Policy now supports up to 600 IP Groups per policy, up from the previous limit of 200. This enhancement enables users to: Reduce rule complexity by replacing long lists of IPs with more well-organized IP Groups, making rule sets easier to m",
@@ -670,33 +698,5 @@
     "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
     "pubDate": "2025-10-03T14:15:21.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "SQL Server on Azure Virtual Machines With Azure NetApp Files",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/file-storage/sql-server-azure-netapp-files",
-    "description": "Learn how to implement a high-bandwidth, low-latency solution for SQL Server workloads. Use Azure NetApp Files for enterprise-scale performance and reduced costs.",
-    "pubDate": "2025-10-02T20:44:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager",
-    "link": "https://azure.microsoft.com/updates?id=509097",
-    "description": "Azure Traffic Manager has\r\nintroduced new health check infrastructure to improve the resiliency and\r\nscalability of the service. This infrastructure is now available, and customers\r\nare being moved onto the new infrastructure. The rollout of the new probing\r\n",
-    "pubDate": "2025-10-02T16:36:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build a CI/CD Pipeline for AKS Apps by Using Azure Pipelines",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-cicd-azure-pipelines",
-    "description": "Learn how to build a CI/CD pipeline for AKS apps by using Azure Pipelines, with integrated testing, staging, and production deployment.",
-    "pubDate": "2025-10-02T16:33:33.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Online Transaction Processing (OLTP)",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
-    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
-    "pubDate": "2025-10-02T02:14:23.000Z",
-    "source": "Azure Architecture"
   }
 ]
