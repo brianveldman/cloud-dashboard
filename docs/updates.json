@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028 ",
+    "link": "https://azure.microsoft.com/updates?id=502909",
+    "description": "Microsoft is announcing the planned retirement of the Azure Computer Vision – Image Analysis service. \t Microsoft will provide full support for all existing Azure Computer Vision – Image Analysis customers until 9/25/2028. During this support window, cust",
+    "pubDate": "2025-10-23T14:15:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores",
     "link": "https://azure.microsoft.com/updates?id=516990",
     "description": "Azure announces the public preview of VM Customization\r\nfeatures, a new capability that gives customers greater control over virtual CPU\r\nconfigurations to optimize performance and licensing costs. This feature\r\nintroduces two powerful options: Disable Simul",
@@ -691,12 +698,5 @@
     "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
     "pubDate": "2025-10-03T14:15:21.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "SQL Server on Azure Virtual Machines With Azure NetApp Files",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/file-storage/sql-server-azure-netapp-files",
-    "description": "Learn how to implement a high-bandwidth, low-latency solution for SQL Server workloads. Use Azure NetApp Files for enterprise-scale performance and reduced costs.",
-    "pubDate": "2025-10-02T20:44:46.000Z",
-    "source": "Azure Architecture"
   }
 ]
