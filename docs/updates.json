@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fully managed cloud-to-cloud transfers with Azure Storage Mover",
+    "link": "https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/",
+    "description": "<p>Move data from Files Shares and NAS Storage into Azure Object and File storage with minimal disruption.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/\">Fully managed cloud-to-cloud transfers with Azure Storage Mover</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-23T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Harden your identity defense with improved protection, deeper correlation, and richer context",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/",
     "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -35,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "description": "<p>We’re proud that Microsoft has once again been named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-22T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/",
     "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -47,6 +61,13 @@
     "description": "<p>The Microsoft Security Store is the gateway for customers to easily discover, buy, and deploy trusted security solutions and AI agents from leading partners.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/\">The new Microsoft Security Store unites partners and innovation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-21T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "The Signals Loop: Fine-tuning for world-class AI apps and agents ",
+    "link": "https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/",
+    "description": "<p>Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/\">The Signals Loop: Fine-tuning for world-class AI apps and agents </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-21T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover",
@@ -75,6 +96,13 @@
     "description": "Azure Application\r\nGateway introduces two new PowerShell scripts to simplify migration from V1\r\n(Standard or WAF) to V2 (Standard_V2 or WAF_V2) services.  As V1 SKUs’ is scheduled to retire by April 2026, we advise\r\nmigrating early and take advantage of Appl",
     "pubDate": "2025-10-20T17:00:28.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
+    "description": "<p>Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/\">Innovation spotlight: How 3 customers are driving change with migration to Azure SQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-20T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -140,6 +168,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available",
+    "link": "https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/",
+    "description": "<p>We are excited to announce the general availability of Azure Storage Discovery.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/\">From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-16T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Extortion and ransomware drive over half of cyberattacks",
     "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
     "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering. </p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -159,6 +194,13 @@
     "description": "You can now enable\r\navailability zones for your Azure Functions Flex Consumption apps during both\r\ncreation and post-deployment. When enabled, instances are automatically\r\ndistributed across zones, enhancing reliability and fault tolerance. New Region\r\nSuppor",
     "pubDate": "2025-10-15T18:00:12.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Sora 2 now available in Azure AI Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/",
+    "description": "<p>Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/\">Sora 2 now available in Azure AI Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-15T18:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Storage Discovery",
@@ -245,6 +287,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
+    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
     "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -292,6 +341,13 @@
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
     "pubDate": "2025-10-14T10:30:39.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
+    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T00:35:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Azure App Configuration Considerations for Multitenancy",
@@ -376,6 +432,13 @@
     "description": "We\r\nare announcing the release of Azure\r\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\r\naccelerator designed to enhance the security and performance of cryptographic\r\noperations in virtual machines. For customers who heavily rely on\r\ncrypto",
     "pubDate": "2025-10-13T15:30:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "FYAI: Why developers will lead AI transformation across the enterprise",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
+    "description": "<p>Discover how developers are unlocking AI's full potential by using copilots and agents to reshape customer experiences and streamline operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/\">FYAI: Why developers will lead AI transformation across the enterprise</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-13T15:10:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
@@ -497,6 +560,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
+    "description": "<p>Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/\">Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-09T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
     "description": "<p>​Security is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/\">Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -595,13 +665,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-    "link": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-    "description": "<p>Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/\">Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-06T18:03:45.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026",
     "link": "https://azure.microsoft.com/updates?id=501673",
     "description": "After\r\nSeptember 30, 2026, customers will no longer be able to access the\r\nservice. Please see our retirement\r\ndocumentation for more details. Recommended\r\naction If\r\nyour goal is to monitor on-premises workloads, please transition to Operations Manager\r\non-pre",
@@ -634,69 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=508748",
     "description": "Azure NetApp Files now supports integration with FreeIPA, OpenLDAP, and Red Hat Directory Server—available in public preview. This LDAP integration enables secure LDAP over TLS connectivity for NFSv3 and NFSv4.1 volumes, allowing enterprises to use these ",
     "pubDate": "2025-10-03T16:01:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure VPN Gateway support for SSTP Protocol will be retired on March 31, 2027",
-    "link": "https://azure.microsoft.com/updates?id=499923",
-    "description": "Due to its limited\r\nscalability and suboptimal performance, support for SSTP will be phased out. We\r\nstrongly recommend transitioning to IKEv2 or OpenVPN, which offer\r\nsignificantly enhanced capabilities—including support for up to 10,000\r\nconnections and 10 ",
-    "pubDate": "2025-10-03T16:01:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts  ",
-    "link": "https://azure.microsoft.com/updates?id=496964",
-    "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
-    "pubDate": "2025-10-03T14:15:21.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "SQL Server on Azure Virtual Machines With Azure NetApp Files",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/file-storage/sql-server-azure-netapp-files",
-    "description": "Learn how to implement a high-bandwidth, low-latency solution for SQL Server workloads. Use Azure NetApp Files for enterprise-scale performance and reduced costs.",
-    "pubDate": "2025-10-02T20:44:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager",
-    "link": "https://azure.microsoft.com/updates?id=509097",
-    "description": "Azure Traffic Manager has\r\nintroduced new health check infrastructure to improve the resiliency and\r\nscalability of the service. This infrastructure is now available, and customers\r\nare being moved onto the new infrastructure. The rollout of the new probing\r\n",
-    "pubDate": "2025-10-02T16:36:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build a CI/CD Pipeline for AKS Apps by Using Azure Pipelines",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-cicd-azure-pipelines",
-    "description": "Learn how to build a CI/CD pipeline for AKS apps by using Azure Pipelines, with integrated testing, staging, and production deployment.",
-    "pubDate": "2025-10-02T16:33:33.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Online Transaction Processing (OLTP)",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
-    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
-    "pubDate": "2025-10-02T02:14:23.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "AI Agent Orchestration Patterns",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/ai-agent-design-patterns",
-    "description": "Learn about fundamental orchestration patterns for AI agent architectures, including sequential, concurrent, group chat, handoff, and magentic patterns.",
-    "pubDate": "2025-10-01T17:57:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure Key Vault in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
-    "description": "Learn how to use Azure Key Vault in multitenant solutions, including isolation models, tenant-specific vaults, shared vaults, and multitenancy features.",
-    "pubDate": "2025-10-01T17:47:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: MSSQL extension integration with Microsoft Fabric ",
-    "link": "https://azure.microsoft.com/updates?id=503646",
-    "description": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric ",
-    "pubDate": "2025-10-01T17:30:57.000Z",
     "source": "Azure Updates"
   }
 ]
