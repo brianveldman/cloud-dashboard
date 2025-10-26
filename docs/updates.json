@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fully managed cloud-to-cloud transfers with Azure Storage Mover",
+    "link": "https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/",
+    "description": "<p>Move data from Files Shares and NAS Storage into Azure Object and File storage with minimal disruption.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/\">Fully managed cloud-to-cloud transfers with Azure Storage Mover</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-23T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Harden your identity defense with improved protection, deeper correlation, and richer context",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/",
     "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -35,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "description": "<p>We’re proud that Microsoft has once again been named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-22T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/",
     "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -47,6 +61,13 @@
     "description": "<p>The Microsoft Security Store is the gateway for customers to easily discover, buy, and deploy trusted security solutions and AI agents from leading partners.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/\">The new Microsoft Security Store unites partners and innovation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-21T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "The Signals Loop: Fine-tuning for world-class AI apps and agents ",
+    "link": "https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/",
+    "description": "<p>Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/\">The Signals Loop: Fine-tuning for world-class AI apps and agents </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-21T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover",
@@ -553,13 +574,6 @@
     "source": "Security"
   },
   {
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in Asia",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/",
-    "description": "<p>Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/\">Microsoft&#8217;s commitment to supporting cloud infrastructure demand in Asia</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-09T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc ",
     "link": "https://azure.microsoft.com/updates?id=512201",
     "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
@@ -651,13 +665,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-    "link": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-    "description": "<p>Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/\">Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-06T18:03:45.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026",
     "link": "https://azure.microsoft.com/updates?id=501673",
     "description": "After\r\nSeptember 30, 2026, customers will no longer be able to access the\r\nservice. Please see our retirement\r\ndocumentation for more details. Recommended\r\naction If\r\nyour goal is to monitor on-premises workloads, please transition to Operations Manager\r\non-pre",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview:  Azure NetApp Files Support for OpenLDAP, FreeIPA, and Red Hat Directory Server LDAP services    ",
     "link": "https://azure.microsoft.com/updates?id=508748",
     "description": "Azure NetApp Files now supports integration with FreeIPA, OpenLDAP, and Red Hat Directory Server—available in public preview. This LDAP integration enables secure LDAP over TLS connectivity for NFSv3 and NFSv4.1 volumes, allowing enterprises to use these ",
-    "pubDate": "2025-10-03T16:01:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure VPN Gateway support for SSTP Protocol will be retired on March 31, 2027",
-    "link": "https://azure.microsoft.com/updates?id=499923",
-    "description": "Due to its limited\r\nscalability and suboptimal performance, support for SSTP will be phased out. We\r\nstrongly recommend transitioning to IKEv2 or OpenVPN, which offer\r\nsignificantly enhanced capabilities—including support for up to 10,000\r\nconnections and 10 ",
     "pubDate": "2025-10-03T16:01:01.000Z",
     "source": "Azure Updates"
   }
