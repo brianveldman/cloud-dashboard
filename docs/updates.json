@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
+    "link": "https://azure.microsoft.com/updates?id=501169",
+    "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
+    "pubDate": "2025-10-28T18:00:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door ",
     "link": "https://azure.microsoft.com/updates?id=512751",
     "description": "Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving threats, including bots, web scrapers, and brute-force attacks, many of which can bypass traditional securi",
@@ -691,12 +698,5 @@
     "description": "Learn how to design scalable automation pipelines where multiple AI agents collaborate by using Microsoft Agent Framework and Azure Container Apps for enterprise-grade tasks.",
     "pubDate": "2025-10-06T21:49:03.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=503636",
-    "description": "PostgreSQL minor versions 17.6, 16.10, 15.14, 14.19, 13.22, and 18 Beta 3 are now supported by Azure Database for PostgreSQL – Flexible Server.      These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azu",
-    "pubDate": "2025-10-06T20:45:03.000Z",
-    "source": "Azure Updates"
   }
 ]
