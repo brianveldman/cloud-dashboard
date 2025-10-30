@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption",
+    "link": "https://azure.microsoft.com/updates?id=520822",
+    "description": "Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  Instead of forcefully restarting all instances during code or configuration updates, the platform graceful",
+    "pubDate": "2025-10-30T18:00:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "The 5 generative AI security threats you need to know about detailed in new e-book",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/30/the-5-generative-ai-security-threats-you-need-to-know-about-detailed-in-new-e-book/",
+    "description": "<p>In this blog post, we’ll highlight the key themes covered in the e-book, including the challenges organizations face, the top generative AI threats to organizations, and how companies can enhance their security posture to meet the dangers of today’s unpredictable AI environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/30/the-5-generative-ai-security-threats-you-need-to-know-about-detailed-in-new-e-book/\">The 5 generative AI security threats you need to know about detailed in new e-book</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-30T18:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: High Scale Private Endpoints  ",
     "link": "https://azure.microsoft.com/updates?id=522813",
     "description": "You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limits are restricted to 1,000 private endpoints per Virtual Network. Any attempts to create additional endpo",
@@ -637,13 +651,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
-    "description": "<p>​Security is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/\">Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-09T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc ",
     "link": "https://azure.microsoft.com/updates?id=512201",
     "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=500273",
     "description": "On September 30, 2026, we’ll end support for Azure Network Policy Manager (NPM) on Windows nodes in AKS. To ensure your setup continues to receive support, security updates, and deployment compatibility, please explore alternative options, such as using N",
     "pubDate": "2025-10-07T21:30:21.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy ",
-    "link": "https://azure.microsoft.com/updates?id=511722",
-    "description": "Azure Firewall Policy now supports up to 600 IP Groups per policy, up from the previous limit of 200. This enhancement enables users to: Reduce rule complexity by replacing long lists of IPs with more well-organized IP Groups, making rule sets easier to m",
-    "pubDate": "2025-10-07T16:30:20.000Z",
     "source": "Azure Updates"
   }
 ]
