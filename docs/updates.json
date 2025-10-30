@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: High Scale Private Endpoints  ",
+    "link": "https://azure.microsoft.com/updates?id=522813",
+    "description": "You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limits are restricted to 1,000 private endpoints per Virtual Network. Any attempts to create additional endpo",
+    "pubDate": "2025-10-30T16:30:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage",
+    "link": "https://azure.microsoft.com/updates?id=520805",
+    "description": "Announcing the Public Preview of Instant Access Snapshots for Premium\r\nSSD v2 (Pv2) and Ultra Disks. This new capability enables you to\r\nrestore new disks immediately after creating snapshots of Pv2 and Ultra disks. Restore\r\ndisks deliver high performance in",
+    "pubDate": "2025-10-30T16:00:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Support for Node.js 20 ends on April 30, 2026 – upgrade your apps to Node.js 22 ",
+    "link": "https://azure.microsoft.com/updates?id=502957",
+    "description": "In alignment with the end of community\r\nsupport, on April 30, 2026, support for Node.js 20 in Azure Functions will end.\r\nYour apps that are hosted on Functions will continue to run, but security\r\nupdates and performance optimizations will no longer be availa",
+    "pubDate": "2025-10-30T16:00:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Remove dependency on these preview features before March 31, 2026 ",
     "link": "https://azure.microsoft.com/updates?id=501663",
     "description": "On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipeline jobs to debug failures or unexpected issues  Import data into a data labelling project  Use v2 data ",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=511722",
     "description": "Azure Firewall Policy now supports up to 600 IP Groups per policy, up from the previous limit of 200. This enhancement enables users to: Reduce rule complexity by replacing long lists of IPs with more well-organized IP Groups, making rule sets easier to m",
     "pubDate": "2025-10-07T16:30:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Avaialbe: Azure NetApp Files short-term clones ",
-    "link": "https://azure.microsoft.com/updates?id=503836",
-    "description": "Azure NetApp Files short-term clones enable space-efficient, instant read/write access to data by creating temporary thin clones from existing volume snapshots, eliminating the need for full data copies and enabling capacity savings. Ideal for software de",
-    "pubDate": "2025-10-07T14:30:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Legacy Authentication in Azure Monitor - Container Insights will be retired on September 30, 2026.",
-    "link": "https://azure.microsoft.com/updates?id=500853",
-    "description": "Legacy Authentication in Azure Monitor - Container\r\nInsights will be retired on September 30, 2026.  Legacy authentication has been replaced by the\r\nmore secure Managed Identity\r\nauthentication method. Migrating to Managed Identity also gives customers\r\nacces",
-    "pubDate": "2025-10-07T13:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: AI toolchain operator add-on (KAITO) for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=503263",
-    "description": "The AI toolchain operator add-on\r\n(KAITO) is now generally available on AKS, streamlining the deployment of AI\r\ninference and fine-tuning workflows using popular open-source frameworks. With\r\nvLLM as the default inference engine, this addon reduces managemen",
-    "pubDate": "2025-10-07T12:00:49.000Z",
     "source": "Azure Updates"
   }
 ]
