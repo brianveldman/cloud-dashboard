@@ -1,5 +1,12 @@
 [
   {
+    "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/",
+    "description": "<p>Microsoft Incident Response – Detection and Response Team (DART) researchers uncovered a new backdoor that is notable for its novel use of the OpenAI Assistants Application Programming Interface (API) as a mechanism for command-and-control (C2) communications. Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised environment. To do this, a component of the backdoor uses the OpenAI Assistants API as a storage or relay mechanism to fetch commands and run tasks for the threat actor.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/\">SesameOp: Novel backdoor uses OpenAI Assistants API for command and control</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-11-03T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption",
     "link": "https://azure.microsoft.com/updates?id=520822",
     "description": "Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  Instead of forcefully restarting all instances during code or configuration updates, the platform graceful",
@@ -488,13 +495,6 @@
     "description": "Microsoft is announcing the planned retirement of the Azure Custom Vision service.  Microsoft will provide full support for all existing Azure Custom Vision customers until 9/25/2028. During this support window, customers are encouraged to begin planning ",
     "pubDate": "2025-10-13T16:00:05.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Building a lasting security culture at Microsoft",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/13/building-a-lasting-security-culture-at-microsoft/",
-    "description": "<p>At Microsoft, building a lasting security culture is more than a strategic priority—it is a call to action. Security begins and ends with people, which is why every employee plays a critical role in protecting both Microsoft and our customers. When secure practices are woven into how we think, work, and collaborate, individual actions come together to form a unified, proactive, and resilient defense. ​</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/13/building-a-lasting-security-culture-at-microsoft/\">Building a lasting security culture at Microsoft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-13T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
