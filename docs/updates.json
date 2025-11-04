@@ -1,5 +1,12 @@
 [
   {
+    "title": "​​Learn what generative AI can do for your security operations center",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/",
+    "description": "<p>This new e-book showcases what generative AI can do for your SOC, from reducing alert fatigue and enabling quicker triage to getting ahead of cyberattacks with proactive threat hunting, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/\">​​Learn what generative AI can do for your security operations center</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-11-04T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure NetApp Files Object REST API ",
     "link": "https://azure.microsoft.com/updates?id=516643",
     "description": "The Object REST API, an S3-compatible REST API, on Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services, enabling customers to use their existing data in new ways. By providing integration via Microsoft Fabri",
@@ -390,13 +397,6 @@
     "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-10-14T18:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/",
-    "description": "<p>ExCyTIn-Bench is Microsoft’s newest open-source benchmarking tool designed to evaluate how well AI systems perform real-world cybersecurity investigations. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/14/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/\">Microsoft raises the bar: A smarter way to measure AI for cybersecurity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Databases architecture design",
