@@ -35,6 +35,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Thermal event in West Europe region",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "<p>Impact Statement: Starting at approximately 17:00 UTC on 05 November 2025, a subset of customers using Virtual Machine, Azure Databricks, Azure Database for PostgreSQL flexible servers, MySQL flexible servers, Azure Kubernetes Service, Storage, Service Bus and Virtual Machine Scale Sets, among other affected services in the West Europe region may experience service disruptions or degraded performance due to a subset of storage scale units going offline due to a thermal event impacting data center cooling systems in a single availability zone.&nbsp;Resources in other availability zones reliant on these storage scale units may be impacted.</p><p>Current Status: We detected this issue via our automated service monitoring, which identified a spike in hardware temperatures and service incidents affecting multiple storage scale units. Cooling has been restored, and teams are working to recover the impacted storage scale units. The next update will be provided within 60 minutes, or as events warrant.</p>",
+    "pubDate": "2025-11-05T17:00:00.000Z",
+    "source": "Azure Status"
+  },
+  {
+    "title": "​​Securing critical infrastructure: Why Europe’s risk-based regulations matter",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/05/securing-critical-infrastructure-why-europes-risk-based-regulations-matter/",
+    "description": "<p>Learn how CISOs can use new European Union legislation to strengthen their cybersecurity measures.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/05/securing-critical-infrastructure-why-europes-risk-based-regulations-matter/\">​​Securing critical infrastructure: Why Europe’s risk-based regulations matter</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: ExpressRoute resiliency validation",
     "link": "https://azure.microsoft.com/updates?id=525429",
     "description": "Resiliency validation is a capability designed to assess\r\nthe resiliency of network connectivity for ExpressRoute-enabled workloads. This\r\nfeature allows you to perform site failovers for your Virtual Network Gateway,\r\nhelping to evaluate network resiliency ",
@@ -47,13 +61,6 @@
     "description": "Now you can use the open-source DocumentDB Kubernetes Operator to run DocumentDB on Kubernetes. DocumentDB is a Mongo-DB–compatible, open-source document database built on PostgreSQL. The operator extends Kubernetes with custom resource definitions (CRDs)",
     "pubDate": "2025-11-05T16:00:17.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
-    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "​​Learn what generative AI can do for your security operations center",
@@ -70,11 +77,60 @@
     "source": "Azure Updates"
   },
   {
+    "title": "DR for Azure Data Platform - Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
+    "description": "Second article in a series covering disaster recovery for an Azure data platform",
+    "pubDate": "2025-11-03T17:27:11.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/",
     "description": "<p>Microsoft Incident Response – Detection and Response Team (DART) researchers uncovered a new backdoor that is notable for its novel use of the OpenAI Assistants Application Programming Interface (API) as a mechanism for command-and-control (C2) communications. Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised environment. To do this, a component of the backdoor uses the OpenAI Assistants API as a storage or relay mechanism to fetch commands and run tasks for the threat actor.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/\">SesameOp: Novel backdoor uses OpenAI Assistants API for command and control</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-11-03T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Data and AI",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/data-ai",
+    "description": "Compare Azure data and AI services to corresponding AWS services. Understand key differences in data integration, analytics, machine learning, and AI capabilities.",
+    "pubDate": "2025-11-01T00:03:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "GitOps for Azure Kubernetes Service",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks",
+    "description": "Learn techniques for using GitOps principles to operate and manage an Azure Kubernetes Services (AKS) cluster. The solutions use Flux v2 and Argo CD.",
+    "pubDate": "2025-10-31T23:48:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
+    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
+    "pubDate": "2025-10-31T22:55:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Greenfield Lakehouse on Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
+    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
+    "pubDate": "2025-10-31T10:26:04.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "The journey to SaaS: Dynamics 365",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/saas/case-studies/dynamics-365-journey-saas",
+    "description": "Learn from a first-hand account about the journey and decisions that made Microsoft Dynamics 365 a successful SaaS product.",
+    "pubDate": "2025-10-30T21:45:04.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multi-region load balancing",
+    "link": "https://learn.microsoft.com/azure/architecture/high-availability/reference-architecture-traffic-manager-application-gateway",
+    "description": "Learn how to build an Azure system that serves web and non-web workloads with resilient multi-tier applications in multiple Azure regions.",
+    "pubDate": "2025-10-30T21:45:04.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption",
@@ -112,11 +168,53 @@
     "source": "Azure Updates"
   },
   {
-    "title": "GitHub Universe 2025: Where developer innovation took center stage",
-    "link": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
-    "description": "<p>At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/\">GitHub Universe 2025: Where developer innovation took center stage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-30T15:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Improper Instantiation antipattern",
+    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/improper-instantiation",
+    "description": "Avoid continually creating new instances of an object that is meant to be created once and then shared.",
+    "pubDate": "2025-10-30T14:46:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Web API Implementation",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/api-implementation",
+    "description": "Learn about best practices for implementing a web API and publishing it to make it available to client applications.",
+    "pubDate": "2025-10-30T14:46:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Background jobs guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/background-jobs",
+    "description": "Learn about background tasks that run independently of the user interface, such as batch jobs, intensive processing tasks, and long-running processes.",
+    "pubDate": "2025-10-30T14:46:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Data partitioning guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning",
+    "description": "View guidance for how to separate data partitions to be managed and accessed separately. Understand horizontal, vertical, and functional partitioning strategies.",
+    "pubDate": "2025-10-30T14:46:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Data partitioning strategies",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning-strategies",
+    "description": "View guidance on separating data partitions to be managed and accessed separately in different services, such as Azure AI Search, Azure storage queues, and more.",
+    "pubDate": "2025-10-30T14:46:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Monitoring and diagnostics guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
+    "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
+    "pubDate": "2025-10-30T14:46:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "API design",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/api-design",
+    "description": "Learn about good API design in a microservices architecture. APIs should be efficient and have well-defined semantics and versioning schemes.",
+    "pubDate": "2025-10-30T14:32:11.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Retirement: Remove dependency on these preview features before March 31, 2026 ",
@@ -126,11 +224,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
-    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
-    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T18:30:00.000Z",
-    "source": "Azure Blog"
+    "title": "Baseline architecture for an AKS cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2025-10-29T09:50:13.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
@@ -147,13 +245,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing Agent HQ: Any agent, any way you work",
-    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
-    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T16:38:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=519310",
     "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
@@ -161,11 +252,18 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
-    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T13:30:00.000Z",
-    "source": "Microsoft 365"
+    "title": "Azure Virtual Machines baseline architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline",
+    "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
+    "pubDate": "2025-10-28T13:50:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Azure OpenAI",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
+    "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
+    "pubDate": "2025-10-28T02:55:35.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target",
@@ -187,6 +285,27 @@
     "description": "Red Hat\r\nEnterprise Linux (RHEL) software reservations are now available again for\r\npurchase on Azure following important updates to billing meters and pricing.\r\nThis update addresses issues with previous billing meters and aligns with Red\r\nHat's new pricing ",
     "pubDate": "2025-10-27T16:45:57.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Minimal storage – change feed to replicate data",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/idea/minimal-storage-change-feed-replicate-data",
+    "description": "Architecture for a high-availability solution that uses two Azure storage services, one for quick access to high-demand data, the other for low-demand data.",
+    "pubDate": "2025-10-24T14:18:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Building the First Layer of Defense with Azure Security Services",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
+    "description": "Secure your IT environment by using Azure security services and Azure Security Benchmark. This article is part of a series.",
+    "pubDate": "2025-10-24T13:18:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Virtual Network Connectivity Options and Spoke-To-Spoke Communication",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/virtual-network-peering",
+    "description": "Compare virtual network peering and VPN gateways for Azure connectivity. Learn spoke-to-spoke communication patterns in hub-and-spoke architectures.",
+    "pubDate": "2025-10-23T22:02:33.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Fully managed cloud-to-cloud transfers with Azure Storage Mover",
@@ -245,6 +364,13 @@
     "source": "Security"
   },
   {
+    "title": "Basic Azure AI Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat",
+    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Azure AI Foundry and Azure App Service.",
+    "pubDate": "2025-10-21T21:43:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "The new Microsoft Security Store unites partners and innovation",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/",
     "description": "<p>The Microsoft Security Store is the gateway for customers to easily discover, buy, and deploy trusted security solutions and AI agents from leading partners.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/\">The new Microsoft Security Store unites partners and innovation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -257,6 +383,20 @@
     "description": "<p>Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/\">The Signals Loop: Fine-tuning for world-class AI apps and agents </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-10-21T15:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Basic Web Application",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/basic-web-app",
+    "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
+    "pubDate": "2025-10-21T14:46:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Service for Vector Search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
+    "pubDate": "2025-10-20T21:35:02.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover",
@@ -427,13 +567,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The importance of hardening customer support tools against cyberattacks",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/15/the-importance-of-hardening-customer-support-tools-against-attack/",
-    "description": "<p>As customer support tools become more connected and data-rich, they’re increasingly targeted by cyberattacks. Hardening these systems is no longer optional—it’s essential to protect customer trust, sensitive data, and business continuity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/15/the-importance-of-hardening-customer-support-tools-against-attack/\">The importance of hardening customer support tools against cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-15T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Use Azure Databricks to Orchestrate MLOps",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/orchestrate-machine-learning-azure-databricks",
     "description": "Learn about an approach for machine learning operations (MLOps) that uses Azure Databricks to run model training and batch scoring.",
@@ -511,18 +644,18 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Greenfield lakehouse on Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
-    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
-    "pubDate": "2025-10-14T14:26:04.000Z",
-    "source": "Azure Architecture"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
     "link": "https://azure.microsoft.com/updates?id=513518",
     "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
     "pubDate": "2025-10-14T10:30:39.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
+    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T00:35:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Azure App Configuration Considerations for Multitenancy",
@@ -565,138 +698,5 @@
     "description": "Azure API Management now supports environmental sustainability features in public preview. These capabilities help organizations minimize the carbon footprint of their API infrastructure by making API traffic and policy behavior carbon-aware.With these ne",
     "pubDate": "2025-10-13T16:30:27.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: PostgreSQL 18 on Azure Database for PostgreSQL – Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=508403",
-    "description": "You can now try PostgreSQL 18 in public preview on Azure Database for PostgreSQL – Flexible Server. PostgreSQL 18 introduces new performance, scalability, and developer productivity improvements. With this preview, you get early access to the latest commu",
-    "pubDate": "2025-10-13T16:00:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Custom Vision will be retired on September 25, 2028 ",
-    "link": "https://azure.microsoft.com/updates?id=502914",
-    "description": "Microsoft is announcing the planned retirement of the Azure Custom Vision service.  Microsoft will provide full support for all existing Azure Custom Vision customers until 9/25/2028. During this support window, customers are encouraged to begin planning ",
-    "pubDate": "2025-10-13T16:00:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
-    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
-    "pubDate": "2025-10-13T15:55:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run SAP BW/4HANA with Linux VMs",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-bw4hana-with-linux-virtual-machines",
-    "description": "Learn about the SAP BW/4HANA application tier and how it's suitable for a high availability, small-scale production environment of SAP BW/4HANA on Azure.",
-    "pubDate": "2025-10-13T15:38:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Integrated HSM",
-    "link": "https://azure.microsoft.com/updates?id=503325",
-    "description": "We\r\nare announcing the release of Azure\r\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\r\naccelerator designed to enhance the security and performance of cryptographic\r\noperations in virtual machines. For customers who heavily rely on\r\ncrypto",
-    "pubDate": "2025-10-13T15:30:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
-    "link": "https://azure.microsoft.com/updates?id=508413",
-    "description": "You can now access code samples for Entra ID token refresh using Python and .NET in Azure Database for PostgreSQL. These samples are designed to help you securely manage authentication tokens when connecting to your PostgreSQL database with Entra ID, ensu",
-    "pubDate": "2025-10-13T15:00:46.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Stream Processing with Databricks",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
-    "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
-    "pubDate": "2025-10-10T15:16:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extraneous Fetching antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/extraneous-fetching",
-    "description": "Learn about ways to mitigate the Extraneous Fetching antipattern, the common design flaw of fetching more data than needed for a business operation.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Web API Implementation",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/api-implementation",
-    "description": "Learn about best practices for implementing a web API and publishing it to make it available to client applications.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Caching guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
-    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "CDN guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
-    "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Pricing models for a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/pricing-models",
-    "description": "This article describes the considerations for planning pricing models for a multitenant solution.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Data considerations for microservices",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/data-considerations",
-    "description": "Learn about managing data in a microservices architecture. Data integrity and data consistency are critical challenges for microservices.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Interservice communication in microservices",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/interservice-communication",
-    "description": "Learn about the tradeoffs between asynchronous messaging versus synchronous APIs for communication between microservices and some challenges in communication.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Bulkhead pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/bulkhead",
-    "description": "Isolate elements of an application into pools so that if one fails, the others will continue to function.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Gateway Aggregation pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-aggregation",
-    "description": "Learn about the Gateway Aggregation pattern, which uses a gateway to aggregate many individual requests into a single request.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Rate Limiting pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/rate-limiting-pattern",
-    "description": "You can use a rate limiting pattern to help you avoid or minimize throttling errors.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Resilient design guidance for Event Hubs and Functions",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/resilient-design",
-    "description": "Learn how to develop resilient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multi-Region App Service App Approaches for Disaster Recovery",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/multi-region-app-service/multi-region-app-service",
-    "description": "Learn about common approaches to deploy Azure App Service apps across multiple regions for disaster recovery purposes.",
-    "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
   }
 ]
