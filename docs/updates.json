@@ -1,5 +1,61 @@
 [
   {
+    "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
+    "link": "https://azure.microsoft.com/updates?id=525442",
+    "description": "Connection Monitor integration streamlines the setup of end-to-end\r\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\r\nConnection Monitor directly while creating or updating your ExpressRoute\r\nconnections. This removes the need ",
+    "pubDate": "2025-11-05T17:00:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: ExpressRoute resiliency insights",
+    "link": "https://azure.microsoft.com/updates?id=525424",
+    "description": "Resiliency\r\ninsights is an assessment capability designed to measure your network's\r\nreliability for ExpressRoute workloads. At the core of this capability is the resiliency\r\nindex, a percentage score calculated based on factors such as route\r\nresilience, zon",
+    "pubDate": "2025-11-05T17:00:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for MySQL – Flexible Server now supports high availability with dedicated Azure Standard Load Balancer ",
+    "link": "https://azure.microsoft.com/updates?id=520705",
+    "description": "Announcing the general availability of a dedicated Azure Standard Load Balancer in Azure Database for MySQL - Flexible Server for high availability-enabled servers. With this feature, a high availability configuration gets the benefit of a dedicated Stand",
+    "pubDate": "2025-11-05T17:00:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Query Advisor in Azure Cosmos DB ",
+    "link": "https://azure.microsoft.com/updates?id=520696",
+    "description": "Azure Cosmos DB for NoSQL includes Query Advisor, now generally available in the .NET SDK. Query Advisor helps you write faster, more efficient queries by analyzing your query structure and providing clear, actionable recommendations. It identifies ways t",
+    "pubDate": "2025-11-05T17:00:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: ORDER BY ST_DISTANCE in Azure Cosmos DB for NoSQL Geospatial Queries ",
+    "link": "https://azure.microsoft.com/updates?id=520691",
+    "description": "Azure Cosmos DB for NoSQL now supports ORDER BY ST_DISTANCE for geospatial queries, now generally available. With this feature, you can sort query results by their distance from a given point or GeoJSON object directly within Azure Cosmos DB. You no longe",
+    "pubDate": "2025-11-05T17:00:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: ExpressRoute resiliency validation",
+    "link": "https://azure.microsoft.com/updates?id=525429",
+    "description": "Resiliency validation is a capability designed to assess\r\nthe resiliency of network connectivity for ExpressRoute-enabled workloads. This\r\nfeature allows you to perform site failovers for your Virtual Network Gateway,\r\nhelping to evaluate network resiliency ",
+    "pubDate": "2025-11-05T16:30:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Open Source: Announcing the DocumentDB Kubernetes Operator ",
+    "link": "https://azure.microsoft.com/updates?id=520686",
+    "description": "Now you can use the open-source DocumentDB Kubernetes Operator to run DocumentDB on Kubernetes. DocumentDB is a Mongo-DB–compatible, open-source document database built on PostgreSQL. The operator extends Kubernetes with custom resource definitions (CRDs)",
+    "pubDate": "2025-11-05T16:00:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
+    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T07:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "​​Learn what generative AI can do for your security operations center",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/",
     "description": "<p>This new e-book showcases what generative AI can do for your SOC, from reducing alert fatigue and enabling quicker triage to getting ahead of cyberattacks with proactive threat hunting, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/\">​​Learn what generative AI can do for your security operations center</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -56,11 +112,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "GitHub Universe 2025: Where developer innovation took center stage",
+    "link": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
+    "description": "<p>At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/\">GitHub Universe 2025: Where developer innovation took center stage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-30T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Remove dependency on these preview features before March 31, 2026 ",
     "link": "https://azure.microsoft.com/updates?id=501663",
     "description": "On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipeline jobs to debug failures or unexpected issues  Import data into a data labelling project  Use v2 data ",
     "pubDate": "2025-10-29T21:00:13.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
+    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
+    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T18:30:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
@@ -77,11 +147,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Introducing Agent HQ: Any agent, any way you work",
+    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
+    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T16:38:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=519310",
     "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
     "pubDate": "2025-10-28T14:15:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
+    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T13:30:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target",
@@ -441,13 +525,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
-    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T00:35:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Azure App Configuration Considerations for Multitenancy",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
     "description": "Learn about the features of Azure App Configuration that are useful when working with multitenant systems, and use the provided links for guidance and examples.",
@@ -523,13 +600,6 @@
     "description": "We\r\nare announcing the release of Azure\r\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\r\naccelerator designed to enhance the security and performance of cryptographic\r\noperations in virtual machines. For customers who heavily rely on\r\ncrypto",
     "pubDate": "2025-10-13T15:30:40.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "FYAI: Why developers will lead AI transformation across the enterprise",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
-    "description": "<p>Discover how developers are unlocking AI's full potential by using copilots and agents to reshape customer experiences and streamline operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/\">FYAI: Why developers will lead AI transformation across the enterprise</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-13T15:10:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET ",
@@ -627,76 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/multi-region-app-service/multi-region-app-service",
     "description": "Learn about common approaches to deploy Azure App Service apps across multiple regions for disaster recovery purposes.",
     "pubDate": "2025-10-10T07:36:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Natural Language Processing Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/natural-language-processing",
-    "description": "Choose a natural language processing service for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
-    "pubDate": "2025-10-09T18:00:12.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom port support for Azure Database for MySQL – Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=503627",
-    "description": "You can now configure a custom port (25001–26000) during server creation for both public and private access-enabled servers—enabling you to integrate more easily with existing applications and improve alignment with security postures. By default, MySQL se",
-    "pubDate": "2025-10-09T17:30:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Firewall updates - Customer provided public IP address support in secured hubs",
-    "link": "https://azure.microsoft.com/updates?id=512875",
-    "description": "Azure Firewall in Virtual WAN\r\nsecured hubs now supports the use of customer-provided public IP addresses.\r\nThis capability enables organizations to bring their own public IP addresses\r\nwhen deploying Azure Firewall in a secured Virtual WAN hub, providing gr",
-    "pubDate": "2025-10-09T17:00:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
-    "description": "<p>Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. </p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/\">Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-09T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc ",
-    "link": "https://azure.microsoft.com/updates?id=512201",
-    "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
-    "pubDate": "2025-10-09T14:15:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure AI Health Insights and related models",
-    "link": "https://azure.microsoft.com/updates?id=502049",
-    "description": " As part of a strategic review of our AI portfolio, Azure AI Health Insights service and the Clinical Trials Matcher and Radiology Insights models will be retired on December 31, 2025, and will no longer be available for use or integration. As a result, e",
-    "pubDate": "2025-10-09T12:45:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage",
-    "link": "https://azure.microsoft.com/updates?id=508971",
-    "description": "Announcing the Public Preview of Vaulted Backup\r\nfor Azure Data Lake Storage (ADLS)!Azure Backup now\r\nsupports vaulted protection for ADLS, delivering secure, off-site backups that\r\nensure business continuity and compliance—even in cases of accidental deleti",
-    "pubDate": "2025-10-09T00:00:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Cache for Redis Enterprise is retiring on March 30, 2027",
-    "link": "https://azure.microsoft.com/updates?id=499606",
-    "description": "Azure Cache for Redis Enterprise and Enterprise Flash tiers is retiring on March 31, 2027 and we recommend you migrate your workloads to use Azure Managed Redis by that date. Starting April 1, 2026, users will not be able to create new instances of Azure ",
-    "pubDate": "2025-10-08T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Cache for Redis is retiring on September 30, 2028",
-    "link": "https://azure.microsoft.com/updates?id=499577",
-    "description": "Azure Cache for Redis (Basic, Standard and Premium) will be retired on September 30, 2028 and we recommend you migrate your workloads to use Azure Managed Redis before September 30, 2028. Azure Cache for Redis instances that are not migrated by September ",
-    "pubDate": "2025-10-08T23:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Use AI Enrichment With Image and Text Processing",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ai-search-skillsets",
-    "description": "Learn how to transform unstructured image and text data into full-text searchable content with Azure AI Search prebuilt skills and custom skills.",
-    "pubDate": "2025-10-08T14:18:13.000Z",
     "source": "Azure Architecture"
   }
 ]
