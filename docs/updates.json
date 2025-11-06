@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Planned Failover for Azure Storage",
+    "link": "https://azure.microsoft.com/updates?id=522086",
+    "description": "Planned\r\nFailover is a customer-managed failover that provides the ability to failover\r\nyour geo-redundant storage account while keeping geo-redundancy and data durability. You can seamlessly swap the\r\nprimary and secondary storage endpoints of your geo-redu",
+    "pubDate": "2025-11-05T22:30:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
     "link": "https://azure.microsoft.com/updates?id=525442",
     "description": "Connection Monitor integration streamlines the setup of end-to-end\r\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\r\nConnection Monitor directly while creating or updating your ExpressRoute\r\nconnections. This removes the need ",
@@ -37,7 +44,7 @@
   {
     "title": "Thermal event in West Europe region",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "<p>Impact Statement: Starting at approximately 17:00 UTC on 05 November 2025, a subset of customers using Virtual Machine, Azure Databricks, Azure Database for PostgreSQL flexible servers, MySQL flexible servers, Azure Kubernetes Service, Storage, Service Bus and Virtual Machine Scale Sets, among other affected services in the West Europe region may experience service disruptions or degraded performance due to a subset of storage scale units going offline due to a thermal event impacting data center cooling systems in a single availability zone.&nbsp;Resources in other availability zones reliant on these storage scale units may be impacted.</p><p>Current Status: We detected this issue via our automated service monitoring, which identified a spike in hardware temperatures and service incidents affecting multiple storage scale units. Cooling has been restored, and teams are working to recover the impacted storage scale units. The next update will be provided within 60 minutes, or as events warrant.</p>",
+    "description": "<p>Impact Statement: Starting at approximately 17:00 UTC on 05 November 2025, a subset of customers in the West Europe region may experience service disruptions or degraded performance across multiple services, including Virtual Machines, Azure Database for PostgreSQL Flexible Servers, MySQL Flexible Servers, Azure Kubernetes Service, Storage, Service Bus, and Virtual Machine Scale Sets, among others. Customers using Azure Databricks in West Europe may see degraded performance when launching or scaling all-purpose and jobs compute workloads, impacting Unity Catalog and Databricks SQL operations.</p><p>The issue was caused by a thermal event affecting datacenter cooling systems, which led to a subset of storage scale units going offline in a single availability zone. Resources in other availability zones that depend on these storage units may also be impacted.</p><p>Current Status: We have recovered one of the impacted Storage scale units and customers are starting to see signs of recovery. Recovery efforts remain in progress on other impacted Storage scale units and we anticipate seeing signs of recovery in approximately on these storage scale units in approximately 90 minutes. The next update will be provided within 2 hours, or as events warrant.</p>",
     "pubDate": "2025-11-05T17:00:00.000Z",
     "source": "Azure Status"
   },
@@ -691,12 +698,5 @@
     "description": "Learn how to design Azure Local infrastructure by using a storage switchless architecture, with a focus on reliability, security, and hybrid workload management.",
     "pubDate": "2025-10-13T17:04:09.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Environmental sustainability features in Azure API Management",
-    "link": "https://azure.microsoft.com/updates?id=513074",
-    "description": "Azure API Management now supports environmental sustainability features in public preview. These capabilities help organizations minimize the carbon footprint of their API infrastructure by making API traffic and policy behavior carbon-aware.With these ne",
-    "pubDate": "2025-10-13T16:30:27.000Z",
-    "source": "Azure Updates"
   }
 ]
