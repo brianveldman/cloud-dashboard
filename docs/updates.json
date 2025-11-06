@@ -42,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Thermal event in West Europe region",
-    "link": "https://status.azure.com/en-us/status/",
-    "description": "<p>Impact Statement: Starting at approximately 17:00 UTC on 05 November 2025, a subset of customers in the West Europe region may experience service disruptions or degraded performance across multiple services, including Virtual Machines, Azure Database for PostgreSQL Flexible Servers, MySQL Flexible Servers, Azure Kubernetes Service, Storage, Service Bus, and Virtual Machine Scale Sets, among others. Customers using Azure Databricks in West Europe may see degraded performance when launching or scaling all-purpose and jobs compute workloads, impacting Unity Catalog and Databricks SQL operations.</p><p>The issue was caused by a thermal event affecting datacenter cooling systems, which led to a subset of storage scale units going offline in a single availability zone. Resources in other availability zones that depend on these storage units may also be impacted.</p><p>Current Status: We have recovered one of the impacted Storage scale units and customers are starting to see signs of recovery. Recovery efforts remain in progress on other impacted Storage scale units and we anticipate seeing signs of recovery in approximately on these storage scale units in approximately 90 minutes. The next update will be provided within 2 hours, or as events warrant.</p>",
-    "pubDate": "2025-11-05T17:00:00.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "​​Securing critical infrastructure: Why Europe’s risk-based regulations matter",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/05/securing-critical-infrastructure-why-europes-risk-based-regulations-matter/",
     "description": "<p>Learn how CISOs can use new European Union legislation to strengthen their cybersecurity measures.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/05/securing-critical-infrastructure-why-europes-risk-based-regulations-matter/\">​​Securing critical infrastructure: Why Europe’s risk-based regulations matter</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -68,6 +61,13 @@
     "description": "Now you can use the open-source DocumentDB Kubernetes Operator to run DocumentDB on Kubernetes. DocumentDB is a Mongo-DB–compatible, open-source document database built on PostgreSQL. The operator extends Kubernetes with custom resource definitions (CRDs)",
     "pubDate": "2025-11-05T16:00:17.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
+    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T07:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "​​Learn what generative AI can do for your security operations center",
@@ -175,6 +175,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "GitHub Universe 2025: Where developer innovation took center stage",
+    "link": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
+    "description": "<p>At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/\">GitHub Universe 2025: Where developer innovation took center stage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-30T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Improper Instantiation antipattern",
     "link": "https://learn.microsoft.com/azure/architecture/antipatterns/improper-instantiation",
     "description": "Avoid continually creating new instances of an object that is meant to be created once and then shared.",
@@ -238,6 +245,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
+    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
+    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T18:30:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
     "link": "https://azure.microsoft.com/updates?id=501169",
     "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
@@ -252,6 +266,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Introducing Agent HQ: Any agent, any way you work",
+    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
+    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T16:38:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=519310",
     "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
@@ -264,6 +285,13 @@
     "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
     "pubDate": "2025-10-28T13:50:14.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
+    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T13:30:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Multitenancy and Azure OpenAI",
@@ -324,7 +352,7 @@
   {
     "title": "Harden your identity defense with improved protection, deeper correlation, and richer context",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/",
-    "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-23T16:00:00.000Z",
     "source": "Security"
   },
@@ -366,7 +394,7 @@
   {
     "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/",
-    "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-22T16:00:00.000Z",
     "source": "Security"
   },
@@ -513,7 +541,7 @@
   {
     "title": "Extortion and ransomware drive over half of cyberattacks",
     "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
-    "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering. </p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-16T14:05:00.000Z",
     "source": "Security"
   },
@@ -658,13 +686,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
-    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T00:35:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Azure App Configuration Considerations for Multitenancy",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
     "description": "Learn about the features of Azure App Configuration that are useful when working with multitenant systems, and use the provided links for guidance and examples.",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles",
     "description": "Learn about architecture styles for cloud applications, including descriptions, recommendations, best practices, and recommended deployment with Azure services.",
     "pubDate": "2025-10-13T20:35:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Entra security for AWS",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/aws/aws-azure-ad-security",
-    "description": "Learn how Microsoft Entra ID can help secure and protect Amazon Web Services (AWS) identity management and account access. Discover Microsoft security solutions.",
-    "pubDate": "2025-10-13T20:34:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Local Baseline Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
-    "description": "Learn how to design Azure Local for highly available virtualized and containerized workloads, focusing on reliability and security.",
-    "pubDate": "2025-10-13T17:04:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Local Storage Switchless Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless",
-    "description": "Learn how to design Azure Local infrastructure by using a storage switchless architecture, with a focus on reliability, security, and hybrid workload management.",
-    "pubDate": "2025-10-13T17:04:09.000Z",
     "source": "Azure Architecture"
   }
 ]
