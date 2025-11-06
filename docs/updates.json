@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "New IDC research highlights a major cloud security shift",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/",
+    "description": "<p>New IDC research shows why CISOs must move toward AI-powered, integrated platforms like CNAPP, XDR, and SIEM to reduce risk, cut complexity, and strengthen resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/\">New IDC research highlights a major cloud security shift</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-11-06T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Object Replication Metrics",
     "link": "https://azure.microsoft.com/updates?id=520201",
     "description": "Blob storage Object Replication metrics for pending operations and pending bytes are now generally available in all regions. These replication metrics will empower you to optimize the performance, troubleshoot replication delays, and maintain high availab",
@@ -544,13 +551,6 @@
     "description": "<p>We are excited to announce the general availability of Azure Storage Discovery.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/\">From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-10-16T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Extortion and ransomware drive over half of cyberattacks",
-    "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
-    "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-10-16T14:05:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service  ",
