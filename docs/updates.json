@@ -63,11 +63,18 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
-    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "title": "Microsoft strengthens sovereign cloud capabilities with new services",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/",
+    "description": "<p>We continue to adapt our sovereignty approach—innovating to meet customer needs and regulatory requirements within our Sovereign Public Cloud and Sovereign Private Cloud. We are announcing a new wave of capabilities, building upon our digital sovereignty controls, to deliver advanced AI and scale, strengthened by our ecosystem of specialized in-country partner experts.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/\">Microsoft strengthens sovereign cloud capabilities with new services</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Microsoft 365"
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
+    "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
+    "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-04T20:58:41.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "​​Learn what generative AI can do for your security operations center",
@@ -89,6 +96,13 @@
     "description": "Second article in a series covering disaster recovery for an Azure data platform",
     "pubDate": "2025-11-03T17:27:11.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Enhancing software supply chain security with Microsoft’s Signing Transparency",
+    "link": "https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/",
+    "description": "<p>Microsoft is announcing the preview of Signing Transparency to address software supply chain threats that traditional code signing alone cannot fully prevent, building on the Zero Trust principle of “never trust, always verify.” Signing Transparency uses an append-only log to verifiably record each signature, with keys protected in a secure confidential computing enclave.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/\">Enhancing software supply chain security with Microsoft&#8217;s Signing Transparency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-03T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
@@ -117,6 +131,13 @@
     "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
     "pubDate": "2025-10-31T22:55:58.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Resiliency in the cloud—empowered by shared responsibility and Azure Essentials",
+    "link": "https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/",
+    "description": "<p>Empowering organizations to shape the future of cloud with resilient, always-on solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/\">Resiliency in the cloud—empowered by shared responsibility and Azure Essentials</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-31T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Greenfield Lakehouse on Microsoft Fabric",
@@ -287,13 +308,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
-    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T13:30:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Multitenancy and Azure OpenAI",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
     "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
@@ -352,7 +366,7 @@
   {
     "title": "Harden your identity defense with improved protection, deeper correlation, and richer context",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/",
-    "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-23T16:00:00.000Z",
     "source": "Security"
   },
@@ -394,7 +408,7 @@
   {
     "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/",
-    "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-22T16:00:00.000Z",
     "source": "Security"
   },
@@ -462,13 +476,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
-    "description": "<p>Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/\">Innovation spotlight: How 3 customers are driving change with migration to Azure SQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-20T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/10/20/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/",
     "description": "<p>Azure Blob Storage is a high-value target for threat actors due to its critical role in storing and managing massive amounts of unstructured data at scale across diverse workloads and is increasingly targeted through sophisticated attack chains that exploit misconfigurations, exposed credentials, and evolving cloud tactics.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/20/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/\">Inside the attack chain: Threat activity targeting Azure Blob Storage</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -532,16 +539,9 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/",
-    "description": "<p>We are excited to announce the general availability of Azure Storage Discovery.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/\">From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-16T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Extortion and ransomware drive over half of cyberattacks",
     "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
-    "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>In 80% of the cyber incidents Microsoft’s security teams investigated last year, attackers sought to steal data—a trend driven more by financial gain than intelligence gathering. </p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/\">Extortion and ransomware drive over half of cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-16T14:05:00.000Z",
     "source": "Security"
   },
@@ -558,13 +558,6 @@
     "description": "You can now enable\r\navailability zones for your Azure Functions Flex Consumption apps during both\r\ncreation and post-deployment. When enabled, instances are automatically\r\ndistributed across zones, enhancing reliability and fault tolerance. New Region\r\nSuppor",
     "pubDate": "2025-10-15T18:00:12.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Sora 2 now available in Azure AI Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/",
-    "description": "<p>Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/\">Sora 2 now available in Azure AI Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-15T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Storage Discovery",
@@ -644,13 +637,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
-    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
-    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Databases architecture design",
     "link": "https://learn.microsoft.com/azure/architecture/databases/index",
     "description": "Learn about the different Azure database solutions described in Azure Architecture Center.",
@@ -697,6 +683,20 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles",
     "description": "Learn about architecture styles for cloud applications, including descriptions, recommendations, best practices, and recommended deployment with Azure services.",
     "pubDate": "2025-10-13T20:35:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft Entra security for AWS",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/aws/aws-azure-ad-security",
+    "description": "Learn how Microsoft Entra ID can help secure and protect Amazon Web Services (AWS) identity management and account access. Discover Microsoft security solutions.",
+    "pubDate": "2025-10-13T20:34:27.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Local Baseline Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
+    "description": "Learn how to design Azure Local for highly available virtualized and containerized workloads, focusing on reliability and security.",
+    "pubDate": "2025-10-13T17:04:09.000Z",
     "source": "Azure Architecture"
   }
 ]
