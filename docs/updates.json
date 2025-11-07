@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows",
+    "link": "https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/",
+    "description": "<p>Automate healthcare workflows with Azure AI Foundry and UiPath to improve efficiency, reduce costs, and deliver real ROI across patient care.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/\">Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
     "link": "https://azure.microsoft.com/updates?id=525442",
     "description": "Connection Monitor integration streamlines the setup of end-to-end\r\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\r\nConnection Monitor directly while creating or updating your ExpressRoute\r\nconnections. This removes the need ",
@@ -112,6 +119,27 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft strengthens sovereign cloud capabilities with new services",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/",
+    "description": "<p>We continue to adapt our sovereignty approach—innovating to meet customer needs and regulatory requirements within our Sovereign Public Cloud and Sovereign Private Cloud. We are announcing a new wave of capabilities, building upon our digital sovereignty controls, to deliver advanced AI and scale, strengthened by our ecosystem of specialized in-country partner experts.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/\">Microsoft strengthens sovereign cloud capabilities with new services</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T07:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
+    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T07:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
+    "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
+    "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-04T20:58:41.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "​​Learn what generative AI can do for your security operations center",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/",
     "description": "<p>This new e-book showcases what generative AI can do for your SOC, from reducing alert fatigue and enabling quicker triage to getting ahead of cyberattacks with proactive threat hunting, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/\">​​Learn what generative AI can do for your security operations center</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -131,6 +159,13 @@
     "description": "Second article in a series covering disaster recovery for an Azure data platform",
     "pubDate": "2025-11-03T17:27:11.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Enhancing software supply chain security with Microsoft’s Signing Transparency",
+    "link": "https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/",
+    "description": "<p>Microsoft is announcing the preview of Signing Transparency to address software supply chain threats that traditional code signing alone cannot fully prevent, building on the Zero Trust principle of “never trust, always verify.” Signing Transparency uses an append-only log to verifiably record each signature, with keys protected in a secure confidential computing enclave.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/\">Enhancing software supply chain security with Microsoft&#8217;s Signing Transparency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-03T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
@@ -159,6 +194,13 @@
     "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
     "pubDate": "2025-10-31T22:55:58.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Resiliency in the cloud—empowered by shared responsibility and Azure Essentials",
+    "link": "https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/",
+    "description": "<p>Empowering organizations to shape the future of cloud with resilient, always-on solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/\">Resiliency in the cloud—empowered by shared responsibility and Azure Essentials</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-31T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Greenfield Lakehouse on Microsoft Fabric",
@@ -215,6 +257,13 @@
     "description": "In alignment with the end of community\r\nsupport, on April 30, 2026, support for Node.js 20 in Azure Functions will end.\r\nYour apps that are hosted on Functions will continue to run, but security\r\nupdates and performance optimizations will no longer be availa",
     "pubDate": "2025-10-30T16:00:54.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "GitHub Universe 2025: Where developer innovation took center stage",
+    "link": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
+    "description": "<p>At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/\">GitHub Universe 2025: Where developer innovation took center stage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-30T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Improper Instantiation antipattern",
@@ -280,6 +329,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
+    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
+    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T18:30:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
     "link": "https://azure.microsoft.com/updates?id=501169",
     "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
@@ -294,6 +350,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Introducing Agent HQ: Any agent, any way you work",
+    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
+    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T16:38:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=519310",
     "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
@@ -306,6 +369,13 @@
     "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
     "pubDate": "2025-10-28T13:50:14.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
+    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T13:30:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Multitenancy and Azure OpenAI",
@@ -427,13 +497,6 @@
     "source": "Security"
   },
   {
-    "title": "The Signals Loop: Fine-tuning for world-class AI apps and agents ",
-    "link": "https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/",
-    "description": "<p>Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/\">The Signals Loop: Fine-tuning for world-class AI apps and agents </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-21T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Basic Web Application",
     "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/basic-web-app",
     "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
@@ -474,13 +537,6 @@
     "description": "Azure Application\r\nGateway introduces two new PowerShell scripts to simplify migration from V1\r\n(Standard or WAF) to V2 (Standard_V2 or WAF_V2) services.  As V1 SKUs’ is scheduled to retire by April 2026, we advise\r\nmigrating early and take advantage of Appl",
     "pubDate": "2025-10-20T17:00:28.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
-    "description": "<p>Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/\">Innovation spotlight: How 3 customers are driving change with migration to Azure SQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-20T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -546,13 +602,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/",
-    "description": "<p>We are excited to announce the general availability of Azure Storage Discovery.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/\">From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-16T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service  ",
     "link": "https://azure.microsoft.com/updates?id=500775",
     "description": "Announcing the general availability (GA) of automation support for Azure Database Migration Service (DMS) through PowerShell, custom cmdlets, and the Python SDK. Using Azure PowerShell Az.DataMigration or Azure CLI az datamigration, you can migrate databa",
@@ -565,13 +614,6 @@
     "description": "You can now enable\r\navailability zones for your Azure Functions Flex Consumption apps during both\r\ncreation and post-deployment. When enabled, instances are automatically\r\ndistributed across zones, enhancing reliability and fault tolerance. New Region\r\nSuppor",
     "pubDate": "2025-10-15T18:00:12.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Sora 2 now available in Azure AI Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/",
-    "description": "<p>Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/\">Sora 2 now available in Azure AI Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-15T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Storage Discovery",
@@ -618,7 +660,7 @@
   {
     "title": "What’s new in Copilot Studio: September 2025",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/",
-    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-10-15T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -651,52 +693,10 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
-    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
-    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Databases architecture design",
     "link": "https://learn.microsoft.com/azure/architecture/databases/index",
     "description": "Learn about the different Azure database solutions described in Azure Architecture Center.",
     "pubDate": "2025-10-14T15:57:05.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Replicate and Sync Mainframe Data to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
-    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
-    "pubDate": "2025-10-14T15:21:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Spot Placement Score ",
-    "link": "https://azure.microsoft.com/updates?id=511898",
-    "description": "Today, we are announcing the general availability of Azure Spot Placement Score, a feature that allows you to assess the likelihood of deployment success for your Spot virtual machines. Spot availability can vary across different combinations of Azure loc",
-    "pubDate": "2025-10-14T15:00:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose an Analytical Data Store in Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-analytical-data-stores",
-    "description": "Evaluate analytical data store options in Microsoft Fabric based on data volumes, types, compute engine, ingestion, transformation, and query patterns.",
-    "pubDate": "2025-10-14T14:46:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
-    "link": "https://azure.microsoft.com/updates?id=513518",
-    "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
-    "pubDate": "2025-10-14T10:30:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Accelerating open-source infrastructure development for frontier AI at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/",
-    "description": "<p>Microsoft is contributing new standards across power, cooling, sustainability, security, networking, and fleet resiliency to advance innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/\">Accelerating open-source infrastructure development for frontier AI at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-14T00:35:00.000Z",
-    "source": "Azure Blog"
   }
 ]
