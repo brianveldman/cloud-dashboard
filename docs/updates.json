@@ -392,6 +392,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
+    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T13:30:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Multitenancy and Azure OpenAI",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
     "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
@@ -691,12 +698,5 @@
     "description": "Learn about a single deployable set of repeatable and maintainable patterns for creating machine learning CI/CD and retraining pipelines.",
     "pubDate": "2025-10-14T20:38:30.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
-    "link": "https://azure.microsoft.com/updates?id=513855",
-    "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
-    "pubDate": "2025-10-14T20:15:14.000Z",
-    "source": "Azure Updates"
   }
 ]
