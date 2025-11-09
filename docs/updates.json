@@ -35,6 +35,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage",
+    "link": "https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/",
+    "description": "<p>Since its launch at Microsoft Ignite 2019, Azure Ultra Disk has powered some of the world's most demanding applications and workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/\">The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "New IDC research highlights a major cloud security shift",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/",
     "description": "<p>New IDC research shows why CISOs must move toward AI-powered, integrated platforms like CNAPP, XDR, and SIEM to reduce risk, cut complexity, and strengthen resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/\">New IDC research highlights a major cloud security shift</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -481,13 +488,6 @@
     "description": "You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process usually takes less than 30 seconds, while traditional scaling can take 2 to 10 minutes. This new capabilit",
     "pubDate": "2025-10-22T16:00:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-    "description": "<p>We’re proud that Microsoft has once again been named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-22T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
