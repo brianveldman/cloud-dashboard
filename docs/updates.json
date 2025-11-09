@@ -161,13 +161,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Enhancing software supply chain security with Microsoft’s Signing Transparency",
-    "link": "https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/",
-    "description": "<p>Microsoft is announcing the preview of Signing Transparency to address software supply chain threats that traditional code signing alone cannot fully prevent, building on the Zero Trust principle of “never trust, always verify.” Signing Transparency uses an append-only log to verifiably record each signature, with keys protected in a secure confidential computing enclave.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/\">Enhancing software supply chain security with Microsoft&#8217;s Signing Transparency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-03T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/",
     "description": "<p>Microsoft Incident Response – Detection and Response Team (DART) researchers uncovered a new backdoor that is notable for its novel use of the OpenAI Assistants Application Programming Interface (API) as a mechanism for command-and-control (C2) communications. Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised environment. To do this, a component of the backdoor uses the OpenAI Assistants API as a storage or relay mechanism to fetch commands and run tasks for the threat actor.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/\">SesameOp: Novel backdoor uses OpenAI Assistants API for command and control</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -194,13 +187,6 @@
     "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
     "pubDate": "2025-10-31T22:55:58.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Resiliency in the cloud—empowered by shared responsibility and Azure Essentials",
-    "link": "https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/",
-    "description": "<p>Empowering organizations to shape the future of cloud with resilient, always-on solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/\">Resiliency in the cloud—empowered by shared responsibility and Azure Essentials</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-31T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Greenfield Lakehouse on Microsoft Fabric",
@@ -257,13 +243,6 @@
     "description": "In alignment with the end of community\r\nsupport, on April 30, 2026, support for Node.js 20 in Azure Functions will end.\r\nYour apps that are hosted on Functions will continue to run, but security\r\nupdates and performance optimizations will no longer be availa",
     "pubDate": "2025-10-30T16:00:54.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "GitHub Universe 2025: Where developer innovation took center stage",
-    "link": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
-    "description": "<p>At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/\">GitHub Universe 2025: Where developer innovation took center stage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-30T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Improper Instantiation antipattern",
@@ -329,13 +308,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
-    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
-    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T18:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
     "link": "https://azure.microsoft.com/updates?id=501169",
     "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
@@ -348,13 +320,6 @@
     "description": "Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving threats, including bots, web scrapers, and brute-force attacks, many of which can bypass traditional securi",
     "pubDate": "2025-10-28T16:45:07.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Introducing Agent HQ: Any agent, any way you work",
-    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
-    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T16:38:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
@@ -623,6 +588,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Sora 2 now available in Azure AI Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/",
+    "description": "<p>Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/\">Sora 2 now available in Azure AI Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-15T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Storage Discovery",
     "link": "https://azure.microsoft.com/updates?id=515479",
     "description": "Azure Storage Discovery provides enterprise-wide\r\nvisibility into your Azure Storage data estate. Insights that weren’t available before are now at\r\nyour fingertips. Deeply analyze\r\nused capacity and activity, optimize costs, enhance\r\nsecurity, and drive oper",
@@ -697,6 +669,34 @@
     "link": "https://azure.microsoft.com/updates?id=513855",
     "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
     "pubDate": "2025-10-14T20:15:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
+    "description": "<p>Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/\">Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-14T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Databases architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/index",
+    "description": "Learn about the different Azure database solutions described in Azure Architecture Center.",
+    "pubDate": "2025-10-14T15:57:05.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate and Sync Mainframe Data to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
+    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
+    "pubDate": "2025-10-14T15:21:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Spot Placement Score ",
+    "link": "https://azure.microsoft.com/updates?id=511898",
+    "description": "Today, we are announcing the general availability of Azure Spot Placement Score, a feature that allows you to assess the likelihood of deployment success for your Spot virtual machines. Spot availability can vary across different combinations of Azure loc",
+    "pubDate": "2025-10-14T15:00:50.000Z",
     "source": "Azure Updates"
   }
 ]
