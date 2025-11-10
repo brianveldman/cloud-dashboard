@@ -161,13 +161,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
-    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
     "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
     "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -404,13 +397,6 @@
     "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
     "pubDate": "2025-10-28T13:50:14.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
-    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T13:30:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Multitenancy and Azure OpenAI",
@@ -681,7 +667,7 @@
   {
     "title": "What’s new in Copilot Studio: September 2025",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/",
-    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "description": "<p>In the September 2025 edition of our monthly roundup, we’re recapping the most exciting new features recently released in Microsoft Copilot Studio. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-september-2025/\">What’s new in Copilot Studio: September 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-10-15T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -698,5 +684,19 @@
     "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
     "pubDate": "2025-10-14T20:38:30.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Machine learning operations",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/machine-learning-operations-v2",
+    "description": "Learn about a single deployable set of repeatable and maintainable patterns for creating machine learning CI/CD and retraining pipelines.",
+    "pubDate": "2025-10-14T20:38:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Event Grid new capabilities ",
+    "link": "https://azure.microsoft.com/updates?id=513855",
+    "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\r\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\r\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\r\n(",
+    "pubDate": "2025-10-14T20:15:14.000Z",
+    "source": "Azure Updates"
   }
 ]
