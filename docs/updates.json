@@ -350,13 +350,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
-    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
     "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
     "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -698,5 +691,12 @@
     "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-22T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Basic Azure AI Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat",
+    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Azure AI Foundry and Azure App Service.",
+    "pubDate": "2025-10-21T21:43:35.000Z",
+    "source": "Azure Architecture"
   }
 ]
