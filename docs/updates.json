@@ -189,13 +189,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage",
-    "link": "https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/",
-    "description": "<p>Since its launch at Microsoft Ignite 2019, Azure Ultra Disk has powered some of the world's most demanding applications and workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/\">The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-06T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "New IDC research highlights a major cloud security shift",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/",
     "description": "<p>New IDC research shows why CISOs must move toward AI-powered, integrated platforms like CNAPP, XDR, and SIEM to reduce risk, cut complexity, and strengthen resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/\">New IDC research highlights a major cloud security shift</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -322,13 +315,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows",
-    "link": "https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/",
-    "description": "<p>Automate healthcare workflows with Azure AI Foundry and UiPath to improve efficiency, reduce costs, and deliver real ROI across patient care.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/\">Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
     "link": "https://azure.microsoft.com/updates?id=525442",
     "description": "Connection Monitor integration streamlines the setup of end-to-end\r\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\r\nConnection Monitor directly while creating or updating your ExpressRoute\r\nconnections. This removes the need ",
@@ -390,13 +376,6 @@
     "description": "<p>We continue to adapt our sovereignty approach—innovating to meet customer needs and regulatory requirements within our Sovereign Public Cloud and Sovereign Private Cloud. We are announcing a new wave of capabilities, building upon our digital sovereignty controls, to deliver advanced AI and scale, strengthened by our ecosystem of specialized in-country partner experts.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/\">Microsoft strengthens sovereign cloud capabilities with new services</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-11-05T07:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
-    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
@@ -630,13 +609,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
-    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T13:30:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Multitenancy and Azure OpenAI",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
     "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
@@ -698,5 +670,33 @@
     "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-23T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028 ",
+    "link": "https://azure.microsoft.com/updates?id=502909",
+    "description": "Microsoft is announcing the planned retirement of the Azure Computer Vision – Image Analysis service. \t Microsoft will provide full support for all existing Azure Computer Vision – Image Analysis customers until 9/25/2028. During this support window, cust",
+    "pubDate": "2025-10-23T14:15:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores",
+    "link": "https://azure.microsoft.com/updates?id=516990",
+    "description": "Azure announces the public preview of VM Customization\r\nfeatures, a new capability that gives customers greater control over virtual CPU\r\nconfigurations to optimize performance and licensing costs. This feature\r\nintroduces two powerful options: Disable Simul",
+    "pubDate": "2025-10-22T17:15:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL updates for mid-October 2025   ",
+    "link": "https://azure.microsoft.com/updates?id=513240",
+    "description": "In mid-October 2025, the following updates and enhancements were made to Azure SQL:   Improve the redirect connection type to require only port 1433 and promote to default. Learn more. Convert Azure SQL Database to Hyperscale while preserving existing geo",
+    "pubDate": "2025-10-22T16:30:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers ",
+    "link": "https://azure.microsoft.com/updates?id=502004",
+    "description": "You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process usually takes less than 30 seconds, while traditional scaling can take 2 to 10 minutes. This new capabilit",
+    "pubDate": "2025-10-22T16:00:32.000Z",
+    "source": "Azure Updates"
   }
 ]
