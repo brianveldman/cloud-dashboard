@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: .NET 10 ",
+    "link": "https://azure.microsoft.com/updates?id=526895",
+    "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With ",
+    "pubDate": "2025-11-12T17:15:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] General Availability: Server Parameters support for lower_case_table_names in Azure Database for MySQL- Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=523787",
+    "description": "We are thrilled to announce the General Availability of a highly requested feature: Self-serve configuration of the lower_case_table_names server parameter during server creation. For MySQL version 8.0+ you can configure lower_case_table_names only when y",
+    "pubDate": "2025-11-12T17:00:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Scheduler profile configuration for AKS ",
+    "link": "https://azure.microsoft.com/updates?id=523134",
+    "description": "Organizations running complex workloads on Kubernetes often face\r\nchallenges in optimizing pod placement for performance, cost, or resource\r\nefficiency. To address this, Azure Kubernetes Service now offers scheduler\r\nprofile configuration with in-tree plugin",
+    "pubDate": "2025-11-12T17:00:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for MySQL Triggers for Azure Functions ",
+    "link": "https://azure.microsoft.com/updates?id=508390",
+    "description": "Azure Database for MySQL triggers for Azure Functions are now generally available, enabling you to set up change tracking and develop event-driven applications at scale on any MySQL table. You can trigger a function when a row in a MySQL table is created,",
+    "pubDate": "2025-11-12T17:00:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: LocalDNS for AKS",
     "link": "https://azure.microsoft.com/updates?id=523057",
     "description": "LocalDNS for AKS is\r\nnow generally available.   Large-scale Kubernetes clusters often face DNS resolution\r\ndelays and reliability issues, especially during upstream outages or high query\r\nvolumes. To address this, Azure Kubernetes Service (AKS) now offers Lo",
@@ -670,33 +698,5 @@
     "description": "<p>Expanded ITDR features—including the new Microsoft Defender for Identity sensor, now generally available—bring improved protection, correlation, and context to help customers modernize their identity defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/23/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/\">Harden your identity defense with improved protection, deeper correlation, and richer context</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-10-23T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028 ",
-    "link": "https://azure.microsoft.com/updates?id=502909",
-    "description": "Microsoft is announcing the planned retirement of the Azure Computer Vision – Image Analysis service. \t Microsoft will provide full support for all existing Azure Computer Vision – Image Analysis customers until 9/25/2028. During this support window, cust",
-    "pubDate": "2025-10-23T14:15:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores",
-    "link": "https://azure.microsoft.com/updates?id=516990",
-    "description": "Azure announces the public preview of VM Customization\r\nfeatures, a new capability that gives customers greater control over virtual CPU\r\nconfigurations to optimize performance and licensing costs. This feature\r\nintroduces two powerful options: Disable Simul",
-    "pubDate": "2025-10-22T17:15:22.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SQL updates for mid-October 2025   ",
-    "link": "https://azure.microsoft.com/updates?id=513240",
-    "description": "In mid-October 2025, the following updates and enhancements were made to Azure SQL:   Improve the redirect connection type to require only port 1433 and promote to default. Learn more. Convert Azure SQL Database to Hyperscale while preserving existing geo",
-    "pubDate": "2025-10-22T16:30:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers ",
-    "link": "https://azure.microsoft.com/updates?id=502004",
-    "description": "You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process usually takes less than 30 seconds, while traditional scaling can take 2 to 10 minutes. This new capabilit",
-    "pubDate": "2025-10-22T16:00:32.000Z",
-    "source": "Azure Updates"
   }
 ]
