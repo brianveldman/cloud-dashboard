@@ -371,20 +371,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft strengthens sovereign cloud capabilities with new services",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/",
-    "description": "<p>We continue to adapt our sovereignty approach—innovating to meet customer needs and regulatory requirements within our Sovereign Public Cloud and Sovereign Private Cloud. We are announcing a new wave of capabilities, building upon our digital sovereignty controls, to deliver advanced AI and scale, strengthened by our ecosystem of specialized in-country partner experts.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/\">Microsoft strengthens sovereign cloud capabilities with new services</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
-    "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
-    "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-04T20:58:41.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "​​Learn what generative AI can do for your security operations center",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/",
     "description": "<p>This new e-book showcases what generative AI can do for your SOC, from reducing alert fatigue and enabling quicker triage to getting ahead of cyberattacks with proactive threat hunting, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/04/learn-what-generative-ai-can-do-for-your-security-operations-center-soc/\">​​Learn what generative AI can do for your security operations center</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -397,13 +383,6 @@
     "description": "The Object REST API, an S3-compatible REST API, on Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services, enabling customers to use their existing data in new ways. By providing integration via Microsoft Fabri",
     "pubDate": "2025-11-03T17:30:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Enhancing software supply chain security with Microsoft’s Signing Transparency",
-    "link": "https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/",
-    "description": "<p>Microsoft is announcing the preview of Signing Transparency to address software supply chain threats that traditional code signing alone cannot fully prevent, building on the Zero Trust principle of “never trust, always verify.” Signing Transparency uses an append-only log to verifiably record each signature, with keys protected in a secure confidential computing enclave.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/\">Enhancing software supply chain security with Microsoft&#8217;s Signing Transparency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-03T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
@@ -432,13 +411,6 @@
     "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
     "pubDate": "2025-10-31T22:55:58.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Resiliency in the cloud—empowered by shared responsibility and Azure Essentials",
-    "link": "https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/",
-    "description": "<p>Empowering organizations to shape the future of cloud with resilient, always-on solutions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/\">Resiliency in the cloud—empowered by shared responsibility and Azure Essentials</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-31T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Greenfield Lakehouse on Microsoft Fabric",
@@ -495,13 +467,6 @@
     "description": "In alignment with the end of community\r\nsupport, on April 30, 2026, support for Node.js 20 in Azure Functions will end.\r\nYour apps that are hosted on Functions will continue to run, but security\r\nupdates and performance optimizations will no longer be availa",
     "pubDate": "2025-10-30T16:00:54.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "GitHub Universe 2025: Where developer innovation took center stage",
-    "link": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
-    "description": "<p>At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/\">GitHub Universe 2025: Where developer innovation took center stage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-30T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Improper Instantiation antipattern",
@@ -567,13 +532,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
-    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
-    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T18:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
     "link": "https://azure.microsoft.com/updates?id=501169",
     "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
@@ -586,13 +544,6 @@
     "description": "Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving threats, including bots, web scrapers, and brute-force attacks, many of which can bypass traditional securi",
     "pubDate": "2025-10-28T16:45:07.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Introducing Agent HQ: Any agent, any way you work",
-    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
-    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T16:38:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
@@ -698,5 +649,54 @@
     "description": "You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process usually takes less than 30 seconds, while traditional scaling can take 2 to 10 minutes. This new capabilit",
     "pubDate": "2025-10-22T16:00:32.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "description": "<p>We’re proud that Microsoft has once again been named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-22T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "The CISO imperative: Building resilience in an era of accelerated cyberthreats",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/",
+    "description": "<p>The latest Microsoft Digital Defense Report 2025 paints a vivid picture of a cyberthreat landscape in flux. The surge in financially motivated cyberattacks and the persistent risk of nation-state actors demand urgent attention. But for those of us in the Office of the CISO, the real challenge, and opportunity, lies in how organizations respond, adapt, and build resilience for what comes next.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/\">The CISO imperative: Building resilience in an era of accelerated cyberthreats</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-22T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Basic Azure AI Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat",
+    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Azure AI Foundry and Azure App Service.",
+    "pubDate": "2025-10-21T21:43:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "The new Microsoft Security Store unites partners and innovation",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/",
+    "description": "<p>The Microsoft Security Store is the gateway for customers to easily discover, buy, and deploy trusted security solutions and AI agents from leading partners.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/\">The new Microsoft Security Store unites partners and innovation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-10-21T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "The Signals Loop: Fine-tuning for world-class AI apps and agents ",
+    "link": "https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/",
+    "description": "<p>Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/\">The Signals Loop: Fine-tuning for world-class AI apps and agents </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-21T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Basic Web Application",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/basic-web-app",
+    "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
+    "pubDate": "2025-10-21T14:46:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Service for Vector Search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
+    "pubDate": "2025-10-20T21:35:02.000Z",
+    "source": "Azure Architecture"
   }
 ]
