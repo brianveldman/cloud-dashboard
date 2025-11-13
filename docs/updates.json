@@ -315,13 +315,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows",
-    "link": "https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/",
-    "description": "<p>Automate healthcare workflows with Azure AI Foundry and UiPath to improve efficiency, reduce costs, and deliver real ROI across patient care.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/\">Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
     "link": "https://azure.microsoft.com/updates?id=525442",
     "description": "Connection Monitor integration streamlines the setup of end-to-end\r\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\r\nConnection Monitor directly while creating or updating your ExpressRoute\r\nconnections. This removes the need ",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=513240",
     "description": "In mid-October 2025, the following updates and enhancements were made to Azure SQL:   Improve the redirect connection type to require only port 1433 and promote to default. Learn more. Convert Azure SQL Database to Hyperscale while preserving existing geo",
     "pubDate": "2025-10-22T16:30:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers ",
+    "link": "https://azure.microsoft.com/updates?id=502004",
+    "description": "You can now scale your Azure Database for PostgreSQL servers that have high availability (HA) enabled with minimal impact to your users. The process usually takes less than 30 seconds, while traditional scaling can take 2 to 10 minutes. This new capabilit",
+    "pubDate": "2025-10-22T16:00:32.000Z",
     "source": "Azure Updates"
   }
 ]
