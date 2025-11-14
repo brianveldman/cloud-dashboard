@@ -210,6 +210,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage",
+    "link": "https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/",
+    "description": "<p>Since its launch at Microsoft Ignite 2019, Azure Ultra Disk has powered some of the world's most demanding applications and workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/\">The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "New IDC research highlights a major cloud security shift",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/",
     "description": "<p>New IDC research shows why CISOs must move toward AI-powered, integrated platforms like CNAPP, XDR, and SIEM to reduce risk, cut complexity, and strengthen resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/\">New IDC research highlights a major cloud security shift</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
     "description": "Secure your IT environment by using Azure security services and Azure Security Benchmark. This article is part of a series.",
     "pubDate": "2025-10-24T13:18:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Virtual Network Connectivity Options and Spoke-To-Spoke Communication",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/virtual-network-peering",
-    "description": "Compare virtual network peering and VPN gateways for Azure connectivity. Learn spoke-to-spoke communication patterns in hub-and-spoke architectures.",
-    "pubDate": "2025-10-23T22:02:33.000Z",
     "source": "Azure Architecture"
   }
 ]
