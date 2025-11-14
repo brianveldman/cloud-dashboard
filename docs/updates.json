@@ -21,13 +21,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Infinite scale: The architecture behind the Azure AI superfactory",
-    "link": "https://aka.ms/AAyjgcy",
-    "description": "<p>Today, we are unveiling the next Fairwater site of Azure AI datacenters in Atlanta, Georgia. This purpose-built datacenter is connected to our first Fairwater site in Wisconsin, prior generations of AI supercomputers and the broader Azure global datacenter footprint to create the world’s first planet-scale AI superfactory.</p>\n<p>The post <a href=\"https://aka.ms/AAyjgcy\">Infinite scale: The architecture behind the Azure AI superfactory</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-12T17:33:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: .NET 10 ",
     "link": "https://azure.microsoft.com/updates?id=526895",
     "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With ",
@@ -140,13 +133,6 @@
     "source": "Microsoft 365"
   },
   {
-    "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
-    "description": "<p>When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-10T17:25:17.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)",
     "link": "https://azure.microsoft.com/updates?id=525419",
     "description": "Announcing Azure\r\nWeb\r\nApplication Firewall (WAF) support for Azure\r\nApplication\r\nGateway for Containers is now generally available. Application Gateway for Containers is the\r\nnext evolution of Application Gateway + Application Gateway Ingress Controller.\r\nWith",
@@ -229,13 +215,6 @@
     "description": "Announcing the General Availability of\r\nUltra Disk’s new flexible provisioning model. This enhancement gives you\r\nthe freedom to configure capacity, IOPS, and throughput (MBPS) more independently—so\r\nyou can tailor performance to your workload needs and opti",
     "pubDate": "2025-11-06T17:00:51.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage",
-    "link": "https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/",
-    "description": "<p>Since its launch at Microsoft Ignite 2019, Azure Ultra Disk has powered some of the world's most demanding applications and workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/\">The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-06T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "New IDC research highlights a major cloud security shift",
@@ -362,13 +341,6 @@
     "description": "Learn how to use Azure Data Services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
     "pubDate": "2025-11-05T18:05:18.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows",
-    "link": "https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/",
-    "description": "<p>Automate healthcare workflows with Azure AI Foundry and UiPath to improve efficiency, reduce costs, and deliver real ROI across patient care.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/\">Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
@@ -651,6 +623,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Introducing Agent HQ: Any agent, any way you work",
+    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
+    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-10-28T16:38:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=519310",
     "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
@@ -698,5 +677,26 @@
     "description": "Red Hat\r\nEnterprise Linux (RHEL) software reservations are now available again for\r\npurchase on Azure following important updates to billing meters and pricing.\r\nThis update addresses issues with previous billing meters and aligns with Red\r\nHat's new pricing ",
     "pubDate": "2025-10-27T16:45:57.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Minimal storage – change feed to replicate data",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/idea/minimal-storage-change-feed-replicate-data",
+    "description": "Architecture for a high-availability solution that uses two Azure storage services, one for quick access to high-demand data, the other for low-demand data.",
+    "pubDate": "2025-10-24T14:18:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Building the First Layer of Defense with Azure Security Services",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
+    "description": "Secure your IT environment by using Azure security services and Azure Security Benchmark. This article is part of a series.",
+    "pubDate": "2025-10-24T13:18:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Virtual Network Connectivity Options and Spoke-To-Spoke Communication",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/virtual-network-peering",
+    "description": "Compare virtual network peering and VPN gateways for Azure connectivity. Learn spoke-to-spoke communication patterns in hub-and-spoke architectures.",
+    "pubDate": "2025-10-23T22:02:33.000Z",
+    "source": "Azure Architecture"
   }
 ]
