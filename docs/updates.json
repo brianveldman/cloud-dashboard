@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc",
+    "link": "https://azure.microsoft.com/updates?id=499906",
+    "description": "Announcing the  retirement of Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc in October 2026. ",
+    "pubDate": "2025-11-14T18:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Pod CIDR expansion in Azure CNI Overlay for AKS",
     "link": "https://azure.microsoft.com/updates?id=523086",
     "description": "Pod CIDR expansion in Azure CNI\r\nOverlay for AKS is now available in public preview. To meet the growing demands of dynamic and large-scale\r\nKubernetes workloads, Azure Kubernetes Service now offers Pod CIDR Expansion in\r\npublic preview for clusters using Az",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=513254",
     "description": "PgBouncer 1.23.1 is now generally available in Azure Database for PostgreSQL – Flexible Server. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived ",
     "pubDate": "2025-10-27T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: RHEL Software Reservations Now Available on Azure with Updated Pricing",
-    "link": "https://azure.microsoft.com/updates?id=519526",
-    "description": "Red Hat\r\nEnterprise Linux (RHEL) software reservations are now available again for\r\npurchase on Azure following important updates to billing meters and pricing.\r\nThis update addresses issues with previous billing meters and aligns with Red\r\nHat's new pricing ",
-    "pubDate": "2025-10-27T16:45:57.000Z",
     "source": "Azure Updates"
   }
 ]
