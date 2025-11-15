@@ -161,6 +161,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "What’s new in Copilot Studio: October 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/",
+    "description": "<p>In this edition of our monthly roundup, we’re recapping the most exciting new features Microsoft Copilot Studio released in October 2025.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/\">What’s new in Copilot Studio: October 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-10T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
     "description": "<p>When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-10-28T13:30:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Multitenancy and Azure OpenAI",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
-    "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
-    "pubDate": "2025-10-28T02:55:35.000Z",
-    "source": "Azure Architecture"
   }
 ]
