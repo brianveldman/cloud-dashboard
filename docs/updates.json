@@ -49,6 +49,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Infinite scale: The architecture behind the Azure AI superfactory",
+    "link": "https://aka.ms/AAyjgcy",
+    "description": "<p>Today, we are unveiling the next Fairwater site of Azure AI datacenters in Atlanta, Georgia. This purpose-built datacenter is connected to our first Fairwater site in Wisconsin, prior generations of AI supercomputers and the broader Azure global datacenter footprint to create the world’s first planet-scale AI superfactory.</p>\n<p>The post <a href=\"https://aka.ms/AAyjgcy\">Infinite scale: The architecture behind the Azure AI superfactory</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-12T17:33:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: .NET 10 ",
     "link": "https://azure.microsoft.com/updates?id=526895",
     "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With ",
@@ -152,6 +159,13 @@
     "description": "Packet capture is meant to capture specific flows for customers which can be filtered based on protocol, flags and filters. Packet captures can be initiated via a portal experience or via code using PowerShell.Learn more:For more information on how to use",
     "pubDate": "2025-11-10T18:45:51.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
+    "description": "<p>When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-10T17:25:17.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)",
@@ -658,13 +672,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing Agent HQ: Any agent, any way you work",
-    "link": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
-    "description": "<p>At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&#038;utm_medium=social&#038;utm_campaign=universe25\">Introducing Agent HQ: Any agent, any way you work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T16:38:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=519310",
     "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
@@ -691,12 +698,5 @@
     "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
     "pubDate": "2025-10-28T02:55:35.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target",
-    "link": "https://azure.microsoft.com/updates?id=514658",
-    "description": "Azure Storage Mover can now migrate your NFS File shares to Azure File Shares (NFS 4.1). Storage Mover is a fully managed migration service that enables you to migrate on-premises files and folders to Azure Storage while minimizing downtime for your workl",
-    "pubDate": "2025-10-27T18:45:01.000Z",
-    "source": "Azure Updates"
   }
 ]
