@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Introducing SDK Stats to the Azure Monitor OpenTelemetry Distro",
+    "link": "https://azure.microsoft.com/updates?id=529528",
+    "description": "As part of our journey to make Azure the most observable cloud, we are adding a new way for you to observe your Azure Monitor Application Insights data collection pipeline. One of the foremost reasons customers file support tickets against Azure Monitor A",
+    "pubDate": "2025-11-17T20:00:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Visual Studio 2026",
+    "link": "https://azure.microsoft.com/updates?id=526900",
+    "description": "Visual Studio 2026 is the next evolution of the world’s most trusted IDE—modernized with AI deeply integrated into everyday workflows. By seamlessly integrating GitHub Copilot and agentic workflows, Visual Studio empowers professional developers to move f",
+    "pubDate": "2025-11-17T18:45:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Collaborative research by Microsoft and NVIDIA on real-time immunity",
     "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/4470164",
     "description": "<p>Read about Microsoft and NVIDIA joint research on real-time immunity.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/4470164\">Collaborative research by Microsoft and NVIDIA on real-time immunity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -189,11 +203,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
-    "description": "<p>When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-10T17:25:17.000Z",
-    "source": "Azure Blog"
+    "title": "What’s new in Copilot Studio: October 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/",
+    "description": "<p>In this edition of our monthly roundup, we’re recapping the most exciting new features Microsoft Copilot Studio released in October 2025.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/\">What’s new in Copilot Studio: October 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-10T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)",
@@ -684,19 +698,5 @@
     "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-10-28T18:30:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
-    "link": "https://azure.microsoft.com/updates?id=501169",
-    "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
-    "pubDate": "2025-10-28T18:00:34.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door ",
-    "link": "https://azure.microsoft.com/updates?id=512751",
-    "description": "Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving threats, including bots, web scrapers, and brute-force attacks, many of which can bypass traditional securi",
-    "pubDate": "2025-10-28T16:45:07.000Z",
-    "source": "Azure Updates"
   }
 ]
