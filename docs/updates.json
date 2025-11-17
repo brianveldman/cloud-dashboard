@@ -1,5 +1,40 @@
 [
   {
+    "title": "Collaborative research by Microsoft and NVIDIA on real-time immunity",
+    "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/4470164",
+    "description": "<p>Read about Microsoft and NVIDIA joint research on real-time immunity.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/4470164\">Collaborative research by Microsoft and NVIDIA on real-time immunity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-11-17T17:03:54.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Seamless failback for HyperV-to-Azure: Managed Disk support in Azure Site Recovery ",
+    "link": "https://azure.microsoft.com/updates?id=530092",
+    "description": "Azure Site Recovery now enables failback from Azure VMs to on-premises Hyper-V, even if replication from on-premises to Azure happened to storage account and the failed-over Azure VM uses managed disks. Learn more. ",
+    "pubDate": "2025-11-17T16:30:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Support for Linux major OS upgrades with Azure Site Recovery",
+    "link": "https://azure.microsoft.com/updates?id=530087",
+    "description": "You can now perform major Linux OS version upgrades — without disabling Azure Site Recovery, interrupting their replication, or losing existing recovery points. This is supported on RHEL and SLES. (e.g. update from RHEL 8 to RHEL 9). This simplifies the O",
+    "pubDate": "2025-11-17T16:30:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Support 5x churn in Azure Site Recovery ",
+    "link": "https://azure.microsoft.com/updates?id=530078",
+    "description": "Azure Site Recovery now supports up to 5x churn (500 MB/s per VM). This major enhancement empowers customers to confidently run high IOPS workloads with Azure Site Recovery, ensuring robust disaster recovery for even the most demanding applications like d",
+    "pubDate": "2025-11-17T16:30:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Capacity guidance for Azure Site Recovery",
+    "link": "https://azure.microsoft.com/updates?id=530073",
+    "description": "Azure Site Recovery now offers alternative VM Size recommendations during ASR failover when the current target VM Size may have limited allocation availability due to capacity constraints. This feature enhances disaster recovery by providing guidance on s",
+    "pubDate": "2025-11-17T16:30:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Support for Python 3.10 ends on October 1st, 2026",
     "link": "https://azure.microsoft.com/updates?id=509686",
     "description": "On October 1, 2026 extended\r\nsupport for Python 3.10 will end. Your\r\napps that are hosted on App Service will continue to run, but security updates will\r\nno longer be available, and we’ll no longer provide customer service for Python 3.10. Learn more about A",
@@ -47,13 +82,6 @@
     "description": "Azure Virtual Network Manager peering\r\ncompliance is now generally available, providing a secure and compliant mechanism to\r\nprotect network connectivity managed by Azure Virtual Network Manager. In\r\nlarge-scale environments, it’s essential to prevent uninte",
     "pubDate": "2025-11-13T17:00:24.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Infinite scale: The architecture behind the Azure AI superfactory",
-    "link": "https://aka.ms/AAyjgcy",
-    "description": "<p>Today, we are unveiling the next Fairwater site of Azure AI datacenters in Atlanta, Georgia. This purpose-built datacenter is connected to our first Fairwater site in Wisconsin, prior generations of AI supercomputers and the broader Azure global datacenter footprint to create the world’s first planet-scale AI superfactory.</p>\n<p>The post <a href=\"https://aka.ms/AAyjgcy\">Infinite scale: The architecture behind the Azure AI superfactory</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-12T17:33:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: .NET 10 ",
@@ -670,33 +698,5 @@
     "description": "Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving threats, including bots, web scrapers, and brute-force attacks, many of which can bypass traditional securi",
     "pubDate": "2025-10-28T16:45:07.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation",
-    "link": "https://azure.microsoft.com/updates?id=519310",
-    "description": "Azure Sphere OS version 25.10 is now available for evaluation in the Retail Eval feed. The retail evaluation period for this release provides 14 days (about 2 weeks) of testing. During this time, please verify that your applications and devices operate pr",
-    "pubDate": "2025-10-28T14:15:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Virtual Machines baseline architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline",
-    "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
-    "pubDate": "2025-10-28T13:50:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft 365 Copilot now enables you to build apps and workflows",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/",
-    "description": "<p>We're bringing AI-powered building to employees across the organization, with new Frontier agents for Microsoft 365 Copilot customers: App Builder and Workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/10/28/microsoft-365-copilot-now-enables-you-to-build-apps-and-workflows/\">Microsoft 365 Copilot now enables you to build apps and workflows</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T13:30:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Multitenancy and Azure OpenAI",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
-    "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
-    "pubDate": "2025-10-28T02:55:35.000Z",
-    "source": "Azure Architecture"
   }
 ]
