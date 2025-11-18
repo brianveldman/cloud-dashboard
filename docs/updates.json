@@ -217,13 +217,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "What’s new in Copilot Studio: October 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/",
-    "description": "<p>In this edition of our monthly roundup, we’re recapping the most exciting new features Microsoft Copilot Studio released in October 2025.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/\">What’s new in Copilot Studio: October 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-10T18:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
     "description": "<p>When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -518,13 +511,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
-    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-05T07:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
     "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
     "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -697,6 +683,20 @@
     "link": "https://learn.microsoft.com/azure/architecture/microservices/design/api-design",
     "description": "Learn about good API design in a microservices architecture. APIs should be efficient and have well-defined semantics and versioning schemes.",
     "pubDate": "2025-10-30T14:32:11.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Retirement: Remove dependency on these preview features before March 31, 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=501663",
+    "description": "On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipeline jobs to debug failures or unexpected issues  Import data into a data labelling project  Use v2 data ",
+    "pubDate": "2025-10-29T21:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Baseline architecture for an AKS cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2025-10-29T09:50:13.000Z",
     "source": "Azure Architecture"
   }
 ]
