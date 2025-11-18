@@ -203,13 +203,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "What’s new in Copilot Studio: October 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/",
-    "description": "<p>In this edition of our monthly roundup, we’re recapping the most exciting new features Microsoft Copilot Studio released in October 2025.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/\">What’s new in Copilot Studio: October 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-11-10T18:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)",
     "link": "https://azure.microsoft.com/updates?id=525419",
     "description": "Announcing Azure\r\nWeb\r\nApplication Firewall (WAF) support for Azure\r\nApplication\r\nGateway for Containers is now generally available. Application Gateway for Containers is the\r\nnext evolution of Application Gateway + Application Gateway Ingress Controller.\r\nWith",
@@ -698,5 +691,12 @@
     "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-10-28T18:30:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "[In preview] Public Preview: Signed request on Azure Front Door ",
+    "link": "https://azure.microsoft.com/updates?id=501169",
+    "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
+    "pubDate": "2025-10-28T18:00:34.000Z",
+    "source": "Azure Updates"
   }
 ]
