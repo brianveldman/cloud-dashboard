@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: The Archive access tier for Azure Blob Storage is now generally available in the Taiwan North region",
+    "link": "https://azure.microsoft.com/updates?id=527181",
+    "description": "The Archive access tier for Azure Blob Storage is now generally available in the Taiwan North region.With this regional expansion, customers in Taiwan can now store infrequently accessed data in the cost-effective Archive tier, while meeting data residenc",
+    "pubDate": "2025-11-18T14:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public preview: Support for large volume breakthrough mode",
+    "link": "https://azure.microsoft.com/updates?id=516656",
+    "description": "Breakthrough mode in Azure NetApp Files enables extreme performance and scalability for demanding HPC and EDA workloads. It supports large volumes up to 2PiB, delivering throughput up to 50GiBps, depending on workload characteristics. Breakthrough mode us",
+    "pubDate": "2025-11-18T14:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Threat Detection in Azure Backup powered by MDC",
+    "link": "https://azure.microsoft.com/updates?id=520454",
+    "description": "Azure Backup has introduced threat detection capabilities for Azure VM backups, powered by Microsoft Defender for Cloud (MDC). This new capability enables customers to assess the health of their Azure VM backup restore points (RPs) by identifying maliciou",
+    "pubDate": "2025-11-18T13:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Query-based metric alerts in Azure Monitor",
     "link": "https://azure.microsoft.com/updates?id=518469",
     "description": "Azure Monitor metric\r\nalerts now support all Azure metrics - including platform,\r\nPrometheus, and custom metrics - giving you complete coverage for your monitoring\r\nneeds. In addition, metric alerts now offer powerful query capabilities with PromQL, the indu",
@@ -105,13 +126,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Infinite scale: The architecture behind the Azure AI superfactory",
-    "link": "https://aka.ms/AAyjgcy",
-    "description": "<p>Today, we are unveiling the next Fairwater site of Azure AI datacenters in Atlanta, Georgia. This purpose-built datacenter is connected to our first Fairwater site in Wisconsin, prior generations of AI supercomputers and the broader Azure global datacenter footprint to create the world’s first planet-scale AI superfactory.</p>\n<p>The post <a href=\"https://aka.ms/AAyjgcy\">Infinite scale: The architecture behind the Azure AI superfactory</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-12T17:33:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: .NET 10 ",
     "link": "https://azure.microsoft.com/updates?id=526895",
     "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With ",
@@ -215,13 +229,6 @@
     "description": "Packet capture is meant to capture specific flows for customers which can be filtered based on protocol, flags and filters. Packet captures can be initiated via a portal experience or via code using PowerShell.Learn more:For more information on how to use",
     "pubDate": "2025-11-10T18:45:51.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
-    "description": "<p>When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-10T17:25:17.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)",
@@ -511,6 +518,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
+    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T07:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
     "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
     "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/microservices/design/api-design",
     "description": "Learn about good API design in a microservices architecture. APIs should be efficient and have well-defined semantics and versioning schemes.",
     "pubDate": "2025-10-30T14:32:11.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Remove dependency on these preview features before March 31, 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=501663",
-    "description": "On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipeline jobs to debug failures or unexpected issues  Import data into a data labelling project  Use v2 data ",
-    "pubDate": "2025-10-29T21:00:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline architecture for an AKS cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2025-10-29T09:50:13.000Z",
     "source": "Azure Architecture"
   }
 ]
