@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Query-based metric alerts in Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=518469",
+    "description": "Azure Monitor metric\r\nalerts now support all Azure metrics - including platform,\r\nPrometheus, and custom metrics - giving you complete coverage for your monitoring\r\nneeds. In addition, metric alerts now offer powerful query capabilities with PromQL, the indu",
+    "pubDate": "2025-11-18T08:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Introducing SDK Stats to the Azure Monitor OpenTelemetry Distro",
     "link": "https://azure.microsoft.com/updates?id=529528",
     "description": "As part of our journey to make Azure the most observable cloud, we are adding a new way for you to observe your Azure Monitor Application Insights data collection pipeline. One of the foremost reasons customers file support tickets against Azure Monitor A",
@@ -208,6 +215,13 @@
     "description": "Packet capture is meant to capture specific flows for customers which can be filtered based on protocol, flags and filters. Packet captures can be initiated via a portal experience or via code using PowerShell.Learn more:For more information on how to use",
     "pubDate": "2025-11-10T18:45:51.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "What’s new in Copilot Studio: October 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/",
+    "description": "<p>In this edition of our monthly roundup, we’re recapping the most exciting new features Microsoft Copilot Studio released in October 2025.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/\">What’s new in Copilot Studio: October 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-10T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative",
@@ -504,6 +518,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/",
+    "description": "<p>Microsoft is pleased to announce that we are making in-country data processing for customers’ Microsoft 365 Copilot interactions available in 15 countries around the world.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/\">Microsoft offers in-country data processing to 15 countries to strengthen sovereign controls for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-11-05T07:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Powering Distributed AI/ML at Scale with Azure and Anyscale",
     "link": "https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/",
     "description": "<p>The path from prototype to production for AI/ML workloads is rarely straightforward. As data pipelines expand and model complexity grows, teams can find themselves spending more time orchestrating distributed compute than building the intelligence that powers their products. Scaling from a laptop experiment to a production-grade workload still feels like reinventing the wheel. What if scaling AI workloads felt as natural as writing in Python itself? That’s the idea behind Ray, the open-source distributed computing framework born at UC Berkeley’s RISELab, and now, it’s coming to Azure in a whole new way.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/\">Powering Distributed AI/ML at Scale with Azure and Anyscale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -677,26 +698,5 @@
     "description": "Learn about good API design in a microservices architecture. APIs should be efficient and have well-defined semantics and versioning schemes.",
     "pubDate": "2025-10-30T14:32:11.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Remove dependency on these preview features before March 31, 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=501663",
-    "description": "On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipeline jobs to debug failures or unexpected issues  Import data into a data labelling project  Use v2 data ",
-    "pubDate": "2025-10-29T21:00:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline architecture for an AKS cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2025-10-29T09:50:13.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
-    "link": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/",
-    "description": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-10-28T18:30:00.000Z",
-    "source": "Azure Blog"
   }
 ]
