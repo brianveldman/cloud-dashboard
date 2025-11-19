@@ -1,8 +1,43 @@
 [
   {
-    "title": "[Launched] Generally Available: Claude in Microsoft Foundry",
+    "title": "[In preview] Public Preview: Azure Managed Redis integration with Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=532188",
+    "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
+    "pubDate": "2025-11-19T17:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: TLS and TCP termination on Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=532202",
+    "description": "Azure Application Gateway has introduced general availability support\r\nfor TLS and TCP protocol termination. This enhancement enables you to load\r\nbalance and securely process non-HTTP(S) traffic for applications that rely on\r\nTCP or TLS protocols. The gatew",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft Foundry data connection for Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=527678",
+    "description": "Azure Databricks Genie is now integrated with Microsoft Foundry and in public preview. You can now connect Genie spaces directly to Microsoft Foundry agents using Model Context Protocol (MCP), giving you seamless access to trusted data for building intell",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Databricks Genie in Copilot Studio ",
+    "link": "https://azure.microsoft.com/updates?id=527668",
+    "description": "Azure Databricks Genie is now available in Microsoft Copilot Studio, giving you direct access to intelligent, enterprise-grade AI answers across your full Azure Databricks data estate. This integration unlocks enterprise-grade, conversational analytics ac",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure API Management adds support for A2A Agent APIs",
+    "link": "https://azure.microsoft.com/updates?id=527635",
+    "description": "Announcing the public preview of A2A API support in Azure API Management.\r\nWith this new capability, organizations can manage and govern agent APIs\r\nalongside other API types — AI model APIs, Model Context Protocol (MCP) tools,\r\nand traditional APIs such as ",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Claude in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=532303",
-    "description": "Claude models by Anthropic are now\r\navailable in Microsoft Foundry, expanding the platform’s unified ecosystem of\r\nfrontier AI. Enterprises can access Claude Sonnet 4.5, Opus 4.1, and Haiku 4.5\r\nfor advanced long-context reasoning, coding, and multimodal com",
+    "description": "Claude models by Anthropic are now\r\navailable for Public Preview in Microsoft Foundry, expanding the platform’s unified ecosystem of\r\nfrontier AI. Enterprises can access Claude Sonnet 4.5, Opus 4.1, and Haiku 4.5\r\nfor advanced long-context reasoning, coding,",
     "pubDate": "2025-11-19T00:00:31.000Z",
     "source": "Azure Updates"
   },
@@ -661,41 +696,6 @@
     "title": "[Launched] Generally Available: Resale enabled offers through Microsoft Marketplace  ",
     "link": "https://azure.microsoft.com/updates?id=530593",
     "description": "To help commercial customers maximize their technology innovation with Azure, Microsoft Marketplace is fully embracing the channel-led Marketplace opportunity with the general availability of resale enabled offers.  Resale enabled offers enable software c",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: GitHub Copilot app modernization expanded capabilities",
-    "link": "https://azure.microsoft.com/updates?id=530257",
-    "description": "Announcing new enhancements to GitHub Copilot App\r\nModernization that are in Public Preview, making it easier than ever to modernize applications,\r\ndatabases, containers, and accelerate migration to Azure. Below are the new\r\ncapabilities in public preview.  ",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Industry-leading storage performance Ebsv6 VM series",
-    "link": "https://azure.microsoft.com/updates?id=529416",
-    "description": "Announcing the public preview of the new Azure Ebsv6 VM series, powered by 5th Generation Intel® Xeon® processors. The Ebsv6 and Ebdsv6 VMs deliver up to and industry leading 800,000 IOPS and 14 GBps of remote disk storage throughput, providing high-perfo",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Public Preview: User and group quota reports in Azure NetApp Files ",
-    "link": "https://azure.microsoft.com/updates?id=528899",
-    "description": "For organizations leveraging individual user and group quotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol volumes, the user and group quota reporting feature offers clear visibility into key metrics such as quota limits, used c",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: New Hybrid Integration Connectors for Azure Logic Apps",
-    "link": "https://azure.microsoft.com/updates?id=527683",
-    "description": "Announcing new capabilities in Azure Logic\r\nApps that expand hybrid integration through a rich set of connectors. The following connectors are now generally available: Confluent Kafka connector: Connect Logic Apps to\r\nConfluent Cloud for event streaming and",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Redesigned designer experience for Azure Logic Apps [Standard]",
-    "link": "https://azure.microsoft.com/updates?id=527673",
-    "description": "Announcing the public preview of the\r\nredesigned designer experience for Azure Logic Apps (Standard), a major update\r\nthat makes building, editing, and managing workflows faster and more intuitive. The new designer brings run history and workflow editing\r\ncl",
     "pubDate": "2025-11-18T16:00:16.000Z",
     "source": "Azure Updates"
   }
