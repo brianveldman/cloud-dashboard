@@ -77,7 +77,7 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: NVv6 Virtual Machines",
+    "title": "[In preview] Public Preview: NCv6 Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=530208",
     "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\r\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\r\navailable on Azure.\r\nNvidia RTC PRO 6000 BSE GPUs are designed to accelerate a wide array of\r\nworkloads including v",
     "pubDate": "2025-11-18T17:01:02.000Z",
