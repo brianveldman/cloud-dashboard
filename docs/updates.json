@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Auto-import for Azure Managed Lustre",
+    "link": "https://azure.microsoft.com/updates?id=529342",
+    "description": "The Auto-import feature for Azure Managed Lustre (AMLFS) is now available in public preview. Auto-import enables seamless, policy-driven synchronization of data from Azure Blob Storage containers into AMLFS clusters, automatically reflecting new, changed,",
+    "pubDate": "2025-11-19T20:00:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Recommended alerts for Azure Monitor Workspace",
+    "link": "https://azure.microsoft.com/updates?id=515505",
+    "description": "Azure Monitor now offers one-click enablement of recommended alerts directly in the Azure Portal for Azure Monitor Managed service for Prometheus customers. These alerts enable you to monitor the ingestion limits for Azure Monitor Workspace and avoid metr",
+    "pubDate": "2025-11-19T17:45:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Managed Redis integration with Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=532188",
     "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
@@ -114,7 +128,7 @@
   {
     "title": "[In preview] Public Preview: NCv6 Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=530208",
-    "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\r\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\r\navailable on Azure.\r\nNvidia RTC PRO 6000 BSE GPUs are designed to accelerate a wide array of\r\nworkloads including v",
+    "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\r\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\r\navailable on Azure.\r\nNvidia RTX PRO 6000 BSE GPUs are designed to accelerate a wide array of\r\nworkloads including v",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   },
@@ -682,20 +696,6 @@
     "title": "[Launched] Generally Available: Scheduled Actions ",
     "link": "https://azure.microsoft.com/updates?id=530797",
     "description": "Schedule Actions gives the ability to manage the lifecycle of VMs at high scale on a periodic basis. Subscription throttling and retries due to transient errors are handled automatically to ensure that your operations succeed without additional overhead.W",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Marketplace",
-    "link": "https://azure.microsoft.com/updates?id=530614",
-    "description": "Microsoft Marketplace — your trusted source for cloud solutions, AI apps, and agents — is now globally available following its launch in the United States in September. All traffic from legacy storefronts (Azure Marketplace and AppSource) is now redirecte",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Resale enabled offers through Microsoft Marketplace  ",
-    "link": "https://azure.microsoft.com/updates?id=530593",
-    "description": "To help commercial customers maximize their technology innovation with Azure, Microsoft Marketplace is fully embracing the channel-led Marketplace opportunity with the general availability of resale enabled offers.  Resale enabled offers enable software c",
     "pubDate": "2025-11-18T16:00:16.000Z",
     "source": "Azure Updates"
   }
