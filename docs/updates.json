@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Claude in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=532303",
+    "description": "Claude models by Anthropic are now\r\navailable in Microsoft Foundry, expanding the platform’s unified ecosystem of\r\nfrontier AI. Enterprises can access Claude Sonnet 4.5, Opus 4.1, and Haiku 4.5\r\nfor advanced long-context reasoning, coding, and multimodal com",
+    "pubDate": "2025-11-19T00:00:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Copilot agents - a closer look at the deployment agent ",
     "link": "https://azure.microsoft.com/updates?id=526751",
     "description": "Following our Azure Copilot announcement introducing agentic\r\ncapabilities, this update focuses on one of the six new agents: the deployment\r\nagent. The deployment agent helps you discover, plan, and deploy cloud\r\nworkloads faster and with confidence using n",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Redesigned designer experience for Azure Logic Apps [Standard]",
     "link": "https://azure.microsoft.com/updates?id=527673",
     "description": "Announcing the public preview of the\r\nredesigned designer experience for Azure Logic Apps (Standard), a major update\r\nthat makes building, editing, and managing workflows faster and more intuitive. The new designer brings run history and workflow editing\r\ncl",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: New Agent Loop capabilities in Azure Logic Apps",
-    "link": "https://azure.microsoft.com/updates?id=527663",
-    "description": "Announcing a new set of capabilities for\r\nAgent Loop in Azure Logic Apps, now in public preview. These updates expand how\r\norganizations can build, secure, and deploy agentic workflows across their\r\nenterprise environments enabling more flexible AI orchestra",
     "pubDate": "2025-11-18T16:00:16.000Z",
     "source": "Azure Updates"
   }
