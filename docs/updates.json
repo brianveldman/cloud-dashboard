@@ -1,5 +1,54 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Copilot agents - a closer look at the deployment agent ",
+    "link": "https://azure.microsoft.com/updates?id=526751",
+    "description": "Following our Azure Copilot announcement introducing agentic\r\ncapabilities, this update focuses on one of the six new agents: the deployment\r\nagent. The deployment agent helps you discover, plan, and deploy cloud\r\nworkloads faster and with confidence using n",
+    "pubDate": "2025-11-18T20:15:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: Azure HorizonDB ",
+    "link": "https://azure.microsoft.com/updates?id=529806",
+    "description": "Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance than open-source PostgreSQL, and rapid compute scalability to 3,072 vCores. Now in private preview, Azure ",
+    "pubDate": "2025-11-18T18:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Private Marketplace for VS Code",
+    "link": "https://azure.microsoft.com/updates?id=526909",
+    "description": "The VS Code Private Marketplace is a secure, enterprise-ready way to host and manage extensions internally—fully integrated with VS Code. Teams can self-host, deploy easily, and manage updates with flexibility and control.Learn more.",
+    "pubDate": "2025-11-18T18:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft Defender for Cloud + GitHub Advanced Security ",
+    "link": "https://azure.microsoft.com/updates?id=526876",
+    "description": "With Microsoft Defender for Cloud and GitHub Advanced\r\nSecurity, protect cloud-native applications across the full app lifecycle from\r\ncode to cloud. This natively integrated solution helps unify developers and\r\nsecurity teams in one workflow while staying i",
+    "pubDate": "2025-11-18T18:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Smart Tier account level tiering (Azure Blob Storage and ADLS)",
+    "link": "https://azure.microsoft.com/updates?id=526188",
+    "description": "Introducing smart tier Public Preview for account level\r\ntiering Announcing the public preview of smart\r\ntier for Azure Blob Storage and Azure Data Lake Storage (ADLS). Smart tier\r\nis a fully managed and automated data tiering solution, avoiding manual tier\r\n",
+    "pubDate": "2025-11-18T18:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Managed Instance on Azure App Service",
+    "link": "https://azure.microsoft.com/updates?id=523623",
+    "description": "Announcing Managed Instance on Azure App Service, now in Public Preview! This new capability makes it easy to move web apps to the cloud with minimal configuration—no code rewrites required. Whether your .NET apps run on-premises or in VMs, you can move t",
+    "pubDate": "2025-11-18T18:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Entra-only identities support with Azure Files SMB ",
+    "link": "https://azure.microsoft.com/updates?id=527713",
+    "description": "Azure Files now supports Entra-only identities, enabling customers to retire on-premises domain controllers while maintaining secure SMB access to file shares. This feature delivers a fully cloud-native authentication model using Microsoft Entra Kerberos ",
+    "pubDate": "2025-11-18T17:30:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In development] Private Preview: Azure Boost confidential device",
     "link": "https://azure.microsoft.com/updates?id=530661",
     "description": "The\r\nAzure Boost confidential device feature is now in preview. Azure Boost\r\nis a Microsoft Azure system that offloads virtualization tasks—such as\r\nnetworking, storage, and host management—from the hypervisor and host OS to\r\npurpose-built hardware and softwa",
@@ -630,13 +679,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: Entra-only identities support with Azure Files SMB ",
-    "link": "https://azure.microsoft.com/updates?id=527713",
-    "description": "Azure Files now supports Entra-only identities, enabling customers to retire on-premises domain controllers while maintaining secure SMB access to file shares. This feature delivers a fully cloud-native authentication model using Microsoft Entra Kerberos ",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "[Launched] Generally Available: New Hybrid Integration Connectors for Azure Logic Apps",
     "link": "https://azure.microsoft.com/updates?id=527683",
     "description": "Announcing new capabilities in Azure Logic\r\nApps that expand hybrid integration through a rich set of connectors. The following connectors are now generally available: Confluent Kafka connector: Connect Logic Apps to\r\nConfluent Cloud for event streaming and",
@@ -654,48 +696,6 @@
     "title": "[In preview] Public Preview: New Agent Loop capabilities in Azure Logic Apps",
     "link": "https://azure.microsoft.com/updates?id=527663",
     "description": "Announcing a new set of capabilities for\r\nAgent Loop in Azure Logic Apps, now in public preview. These updates expand how\r\norganizations can build, secure, and deploy agentic workflows across their\r\nenterprise environments enabling more flexible AI orchestra",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Agent Loop in Azure Logic Apps [Consumption]",
-    "link": "https://azure.microsoft.com/updates?id=527658",
-    "description": "Announcing the public preview of Agent Loop\r\nin Azure Logic Apps (Consumption) — bringing agentic intelligence and adaptive\r\nworkflows to the serverless Logic Apps runtime. Agent Loop enables you to move beyond traditional, static\r\nautomation by creating goa",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Agent Loop in Azure Logic Apps [Standard]",
-    "link": "https://azure.microsoft.com/updates?id=527649",
-    "description": "Announcing the general availability of Agent\r\nLoop in Azure Logic Apps (Standard), a breakthrough capability that redefines\r\nhow organizations design and automate business processes. Agent Loop enables you to move beyond traditional workflow\r\nautomation by b",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Automated Testing Framework for Logic Apps [Standard]",
-    "link": "https://azure.microsoft.com/updates?id=527644",
-    "description": "We’re pleased to\r\nannounce the general availability of automated testing for Azure Logic Apps\r\n(Standard) in the Visual Studio Code extension. This new capability empowers\r\ndevelopers and integration specialists to build more reliable workflows by\r\nsimplifyin",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Govern Model Context Protocol (MCP) endpoints using Azure API Management",
-    "link": "https://azure.microsoft.com/updates?id=527626",
-    "description": "Model Context Protocol (MCP) governance in\r\nAzure API Management (APIM) is now generally available.This release extends Azure API Management’s proven\r\ngovernance, security, and observability model to a new generation of AI-driven\r\nworkloads. Enterprises can ",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Announcing: API Center Standard now included at no additional cost for linked Azure API Management Standard and Premium tiers",
-    "link": "https://azure.microsoft.com/updates?id=527621",
-    "description": "API Center Standard,\r\npreviously a separate paid offering, is now included at no additional cost for\r\nall Azure API Management Standard and Premium customers, when an API Center\r\ninstance is linked with a corresponding Azure API Management service (for both\r\n",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Premium v2 tier in Azure API Management",
-    "link": "https://azure.microsoft.com/updates?id=527612",
-    "description": "Announcing the general availability of the Azure API Management Premium v2 tier,\r\nour most powerful and scalable option for managing APIs at enterprise scale. Premium v2\r\ndelivers superior performance, the highest entity limits, unlimited included\r\nAPI calls",
     "pubDate": "2025-11-18T16:00:16.000Z",
     "source": "Azure Updates"
   }
