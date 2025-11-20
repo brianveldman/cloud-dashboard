@@ -1,5 +1,47 @@
 [
   {
+    "title": "[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS ",
+    "link": "https://azure.microsoft.com/updates?id=523076",
+    "description": "Container network metrics\r\nfiltering in Azure Container Networking Services (ACNS) is now available in\r\npublic preview. In\r\ncontainerized environments, the ingestion of excessive network metrics can lead\r\nto inflated storage costs and cluttered dashboards, ma",
+    "pubDate": "2025-11-20T20:00:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: MCP support for AI toolchain operator add-on in AKS",
+    "link": "https://azure.microsoft.com/updates?id=523152",
+    "description": "MCP support for AI toolchain operator add-on is\r\nnow Generally Available.    The AI Toolchain Operator add-on now supports\r\nKAITO inference workspaces with integrated tool calling and Model Context\r\nProtocol (MCP), addressing key challenges around dynamic mo",
+    "pubDate": "2025-11-20T18:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS ",
+    "link": "https://azure.microsoft.com/updates?id=523120",
+    "description": "Cluster-wide Cilium network\r\npolicy for AKS clusters using Azure CNI powered by Cilium is now Generally\r\nAvailable.   Managing consistent network policies across Kubernetes\r\nnamespaces has long been a challenge for platform teams, especially in\r\nmulti-tenant ",
+    "pubDate": "2025-11-20T18:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS ",
+    "link": "https://azure.microsoft.com/updates?id=523081",
+    "description": "Local redirect policy with Azure\r\nCNI powered by Cilium for AKS is now generally available. Customers running high-scale AKS workloads often experience\r\nlatency and performance bottlenecks due to cross-node traffic routing. The new local\r\nredirect policy add",
+    "pubDate": "2025-11-20T18:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS",
+    "link": "https://azure.microsoft.com/updates?id=523115",
+    "description": "To address the growing need for granular traffic control in\r\nmicroservices architectures, Azure Container Networking Services now offers\r\nLayer 7 Policy as a generally available feature. This capability empowers\r\ncustomers to enforce fine-grained traffic con",
+    "pubDate": "2025-11-20T18:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure NetApp Files single file restore from backup ",
+    "link": "https://azure.microsoft.com/updates?id=522077",
+    "description": "With Azure NetApp Files single file restore from backup, you can restore individual files from Azure NetApp Files backup vault without needing to restore an entire volume. By restoring only the necessary files, you can save time and cost needed for restor",
+    "pubDate": "2025-11-20T18:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: DNS security policy Threat Intelligence feed",
     "link": "https://azure.microsoft.com/updates?id=530183",
     "description": "Azure\r\nDNS security policy Threat Intelligence feed is now generally available.\r\nProtect against known malicious domains with Microsoft’s managed Threat\r\nIntelligent feed.  Smart Protection  \r\n Almost all attacks begin with\r\n     a DNS query. Threat Intelligen",
@@ -212,7 +254,7 @@
   {
     "title": "[In preview] Public Preview: Azure Network Watcher Topology – Agentless Connection Troubleshoot",
     "link": "https://azure.microsoft.com/updates?id=527815",
-    "description": "Azure Kubernetes Service (AKS) visualization in\r\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\r\nclusters directly within the Azure networking experience. Customers can now\r\nexplore their Kubernetes environments, including th",
+    "description": "Agentless Connection Troubleshoot (public preview)\r\nintroduces a faster, simpler, and fully agentless way to diagnose network\r\nconnectivity issues across Azure resources. Previously, running connectivity\r\nchecks required installing the Network Watcher Extens",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   },
@@ -654,48 +696,6 @@
     "title": "[Launched] Generally Available: SQL Server Management Studio (SSMS) 22 ",
     "link": "https://azure.microsoft.com/updates?id=522586",
     "description": "SQL Server Management Studio (SSMS) has long been the trusted tool for managing SQL databases, writing T-SQL, and troubleshooting issues. With SSMS 22, built on Visual Studio 2026, you get support for SQL Server 2025, improved integration with SQL databas",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Python driver for SQL Server ",
-    "link": "https://azure.microsoft.com/updates?id=522581",
-    "description": "Announcing that the mssql-python driver is now generally available. This milestone marks a major step forward in delivering a modern, high-performance, and developer-friendly experience for Python developers working with SQL Server, Azure SQL Database, an",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: New SQL Server migration in Azure Arc ",
-    "link": "https://azure.microsoft.com/updates?id=522572",
-    "description": "A new SQL Server migration in Azure Arc solution streamlines and accelerates your journey to Azure SQL Managed Instance. Powered by Azure Database Migration Service and assisted by Copilot, it delivers an automated, end-to-end migration process that inclu",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Availabe: SQL Server 2025 ",
-    "link": "https://azure.microsoft.com/updates?id=522559",
-    "description": "SQL Server 2025, the AI-ready enterprise database, is now generally available, marking a major milestone in Microsoft’s mission to modernize enterprise data platforms. This release introduces built-in AI capabilities, seamless integration with Microsoft F",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SQL updates for November 2025 ",
-    "link": "https://azure.microsoft.com/updates?id=522523",
-    "description": "In November 2025, the following updates and enhancements were made to Azure SQL:  Apply the reservation discount for a 1-year or 3-year reservation of a zone-redundant Azure SQL Managed Instance in the General Purpose tier to both the standard compute and",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for November 2025 ",
-    "link": "https://azure.microsoft.com/updates?id=522514",
-    "description": "In November 2025, the following updates and enhancements were made to Azure SQL: View, modify, insert rows in a table without manually writing T-SQL code using the interactive Edit Data interface in the MSSQL extension for Visual Studio Code. Learn more. ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Dynamic sessions shell environment and MCP support in Azure Container Apps",
-    "link": "https://azure.microsoft.com/updates?id=512949",
-    "description": "Azure Container Apps now supports dynamic shell sessions in public\r\npreview. A shell session is a platform-managed built-in container used to\r\nrun and execute common shell commands in an isolated sandboxed\r\nenvironment.  With Azure Container Apps dynamic ses",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
