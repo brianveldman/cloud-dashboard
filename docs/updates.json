@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: DNS security policy Threat Intelligence feed",
+    "link": "https://azure.microsoft.com/updates?id=530183",
+    "description": "Azure\r\nDNS security policy Threat Intelligence feed is now generally available.\r\nProtect against known malicious domains with Microsoft’s managed Threat\r\nIntelligent feed.  Smart Protection  \r\n Almost all attacks begin with\r\n     a DNS query. Threat Intelligen",
+    "pubDate": "2025-11-20T17:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Sphere OS version 25.10 is now available",
+    "link": "https://azure.microsoft.com/updates?id=522390",
+    "description": "Azure Sphere OS version 25.10 is now available in the Retail feed. This release includes updates to Azure Sphere OS only; it does not include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.Th",
+    "pubDate": "2025-11-20T16:00:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images ",
+    "link": "https://azure.microsoft.com/updates?id=529797",
+    "description": "Announcing that\r\nTrusted Launch supported Arm64 Images are now available in the Azure\r\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\r\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost\r\n",
+    "pubDate": "2025-11-20T15:00:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support) ",
     "link": "https://azure.microsoft.com/updates?id=525620",
     "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
@@ -675,27 +696,6 @@
     "title": "[In preview] Public Preview: Dynamic sessions shell environment and MCP support in Azure Container Apps",
     "link": "https://azure.microsoft.com/updates?id=512949",
     "description": "Azure Container Apps now supports dynamic shell sessions in public\r\npreview. A shell session is a platform-managed built-in container used to\r\nrun and execute common shell commands in an isolated sandboxed\r\nenvironment.  With Azure Container Apps dynamic ses",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Deployment labels in Azure Container Apps",
-    "link": "https://azure.microsoft.com/updates?id=512900",
-    "description": "Azure\r\nContainer Apps now supports deployment labels in public preview as a new\r\ndeployment mode. This feature simplifies environment management and enables\r\nadvanced deployment strategies for your applications by allowing you to assign\r\nmeaningful names—such",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Rule-based routing in Azure Container Apps",
-    "link": "https://azure.microsoft.com/updates?id=512850",
-    "description": "Azure Container Apps support for rule-based routing is now\r\ngenerally available. This feature provides greater flexibility and\r\ncomposability to your Azure Container Apps by simplifying your architecture for\r\nmicroservice applications, A/B testing, blue-gree",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Premium Ingress in Azure Container Apps",
-    "link": "https://azure.microsoft.com/updates?id=512813",
-    "description": "Azure\r\nContainer Apps support for premium ingress is now generally available. This\r\nfeature introduces environment-level ingress configuration options, with the\r\nprimary highlight being customizable ingress scaling. This capability supports\r\nthe scaling of th",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
