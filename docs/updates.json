@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support) ",
+    "link": "https://azure.microsoft.com/updates?id=525620",
+    "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
+    "pubDate": "2025-11-20T13:45:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure NetApp Files cache volumes    ",
+    "link": "https://azure.microsoft.com/updates?id=523917",
+    "description": "Azure NetApp Files cache volumes are now available in public preview. The cache volumes feature is a new capability built on NetApp’s ONTAP FlexCache technology that provides a persistent, high-performance cache in Azure for data stored on ONTAP-based sto",
+    "pubDate": "2025-11-20T13:45:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
     "link": "https://azure.microsoft.com/updates?id=530174",
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor now supports Azure Arc-enabled Kubernetes with OpenShift",
@@ -682,20 +696,6 @@
     "title": "[Launched] Generally Available: Premium Ingress in Azure Container Apps",
     "link": "https://azure.microsoft.com/updates?id=512813",
     "description": "Azure\r\nContainer Apps support for premium ingress is now generally available. This\r\nfeature introduces environment-level ingress configuration options, with the\r\nprimary highlight being customizable ingress scaling. This capability supports\r\nthe scaling of th",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: JWT Validation in Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=489855",
-    "description": "Announcing the preview of JSON Web Token (JWT) validation in Azure Application Gateway — enabling authentication and token validation right at the Application gateway before traffic reaches your backend applications or APIs.Why It mattersProtect at the pe",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Application Gateway mTLS passthrough support",
-    "link": "https://azure.microsoft.com/updates?id=488990",
-    "description": "Announcing a new mTLS enhancement in Azure Application Gateway for backend applications that perform client certificate and authorization header validation at the backend while still requiring web traffic inspection through the Web Application Firewall (W",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
