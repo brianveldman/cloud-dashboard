@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
+    "link": "https://azure.microsoft.com/updates?id=530174",
+    "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor now supports Azure Arc-enabled Kubernetes with OpenShift",
+    "pubDate": "2025-11-20T08:00:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server",
     "link": "https://azure.microsoft.com/updates?id=529381",
     "description": "Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developers and infrastructure teams to manage Azure resources—including Azure Managed Lustre file systems—using na",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=488990",
     "description": "Announcing a new mTLS enhancement in Azure Application Gateway for backend applications that perform client certificate and authorization header validation at the backend while still requiring web traffic inspection through the Web Application Firewall (W",
     "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Copilot observability agent",
-    "link": "https://azure.microsoft.com/updates?id=528538",
-    "description": "Cloud operations need more than reactive troubleshooting, they demand intelligent observability that scales across resources and delivers actionable insights when services aren’t performing as expected.Introducing the Azure Copilot observability agent tha",
-    "pubDate": "2025-11-18T16:30:36.000Z",
     "source": "Azure Updates"
   }
 ]
