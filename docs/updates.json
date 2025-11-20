@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server",
+    "link": "https://azure.microsoft.com/updates?id=529381",
+    "description": "Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developers and infrastructure teams to manage Azure resources—including Azure Managed Lustre file systems—using na",
+    "pubDate": "2025-11-19T21:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre",
+    "link": "https://azure.microsoft.com/updates?id=529368",
+    "description": "CSI Dynamic Provisioning for Azure Managed Lustre (AMLFS) is now generally available. With dynamic provisioning, Kubernetes applications can request AMLFS-backed persistent volumes on demand using standard StorageClass and PersistentVolumeClaim objects—no",
+    "pubDate": "2025-11-19T21:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: 20 MB/s/TiB Performance Tier for Azure Managed Lustre ",
+    "link": "https://azure.microsoft.com/updates?id=529359",
+    "description": "Azure Managed Lustre now offers a new 20 MB/s/TiB performance tier in public preview, designed to meet the demands of large-scale AI and high-performance computing (HPC) workloads. This tier enables customers to provision file systems up to 25 PiB in a si",
+    "pubDate": "2025-11-19T21:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Auto-import for Azure Managed Lustre",
     "link": "https://azure.microsoft.com/updates?id=529342",
     "description": "The Auto-import feature for Azure Managed Lustre (AMLFS) is now available in public preview. Auto-import enables seamless, policy-driven synchronization of data from Azure Blob Storage containers into AMLFS clusters, automatically reflecting new, changed,",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=528538",
     "description": "Cloud operations need more than reactive troubleshooting, they demand intelligent observability that scales across resources and delivers actionable insights when services aren’t performing as expected.Introducing the Azure Copilot observability agent tha",
     "pubDate": "2025-11-18T16:30:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: ActiveMQ and JMS connector for Azure Logic Apps",
-    "link": "https://azure.microsoft.com/updates?id=531783",
-    "description": "Announcing private preview of Active MQ/JMS connector in Azure Logic Apps. With this capability, you can now connect to enterprise messaging systems built on ActiveMQ and JMS for advanced hybrid integration scenarios. ",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: New healthcare connectors for Azure Logic Apps",
-    "link": "https://azure.microsoft.com/updates?id=531778",
-    "description": "Announcing new capabilities in Azure Logic Apps that expand healthcare interoperability support through a rich set of connectors. The following connectors are now in public preview: HL7 connector: Enable seamless healthcare data exchange using HL7 messagi",
-    "pubDate": "2025-11-18T16:00:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Scheduled Actions ",
-    "link": "https://azure.microsoft.com/updates?id=530797",
-    "description": "Schedule Actions gives the ability to manage the lifecycle of VMs at high scale on a periodic basis. Subscription throttling and retries due to transient errors are handled automatically to ensure that your operations succeed without additional overhead.W",
-    "pubDate": "2025-11-18T16:00:16.000Z",
     "source": "Azure Updates"
   }
 ]
