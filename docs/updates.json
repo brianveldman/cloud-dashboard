@@ -252,7 +252,7 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: Azure Network Watcher Topology – Agentless Connection Troubleshoot",
+    "title": "[In preview] Public Preview: Azure Network Watcher – Agentless Connection Troubleshoot ",
     "link": "https://azure.microsoft.com/updates?id=527815",
     "description": "Agentless Connection Troubleshoot (public preview)\r\nintroduces a faster, simpler, and fully agentless way to diagnose network\r\nconnectivity issues across Azure resources. Previously, running connectivity\r\nchecks required installing the Network Watcher Extens",
     "pubDate": "2025-11-18T17:01:02.000Z",
