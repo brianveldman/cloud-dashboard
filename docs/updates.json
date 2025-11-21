@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/",
+    "description": "<p>We’re happy to share that Microsoft has been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/\">Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-11-21T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS ",
     "link": "https://azure.microsoft.com/updates?id=523076",
     "description": "Container network metrics\r\nfiltering in Azure Container Networking Services (ACNS) is now available in\r\npublic preview. In\r\ncontainerized environments, the ingestion of excessive network metrics can lead\r\nto inflated storage costs and cluttered dashboards, ma",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Azure SQL Database long-term retention (LTR) backup immutability ",
     "link": "https://azure.microsoft.com/updates?id=523095",
     "description": "You can now configure immutability for Azure SQL Database LTR backups to meet compliance and regulatory needs. Once immutability is configured, the backups can’t be edited or deleted until the specified retention expires, mitigating any potential ransomwa",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL Server Management Studio (SSMS) 22 ",
-    "link": "https://azure.microsoft.com/updates?id=522586",
-    "description": "SQL Server Management Studio (SSMS) has long been the trusted tool for managing SQL databases, writing T-SQL, and troubleshooting issues. With SSMS 22, built on Visual Studio 2026, you get support for SQL Server 2025, improved integration with SQL databas",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
