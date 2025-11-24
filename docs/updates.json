@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=534541",
+    "description": "Claude Opus 4.5 is now available in public preview on\r\nMicrosoft Foundry, bringing advanced coding, agentic workflows, and enterprise\r\nproductivity to Azure customers. Claude Opus 4.5 sets a new benchmark for performance\r\nand versatility, outperforming previ",
+    "pubDate": "2025-11-24T20:30:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
+    "link": "https://azure.microsoft.com/updates?id=533437",
+    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
+    "pubDate": "2025-11-24T18:00:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Entra ID support for RDP connections ",
     "link": "https://azure.microsoft.com/updates?id=526018",
     "description": "Announcing Azure Bastion now supports Microsoft Entra ID\r\nauthentication for RDP connections to Windows VMs directly in the portal. This update\r\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Azure SQL change event streaming ",
     "link": "https://azure.microsoft.com/updates?id=523533",
     "description": "You can now stream data changes in near real time from Azure SQL Database directly into Azure Event Hubs. With the public preview of change event streaming (CES), you can streamline data integration and support enhanced analytics, event-driven architectur",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PostgreSQL 18 with in-place upgrade on Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=523196",
-    "description": "You can now use PostgreSQL 18 on Azure Database for PostgreSQL. This release introduces the latest PostgreSQL innovations along with seamless in-place upgrade support, allowing you to move from earlier versions without changing your server endpoint, recon",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PostgreSQL extension for Visual Studio Code with GitHub Copilot  ",
-    "link": "https://azure.microsoft.com/updates?id=523187",
-    "description": "Announcing that the PostgreSQL extension for Visual Studio Code is generally available. With this powerful tool, you can connect to PostgreSQL database instances, run queries, create and manage connection profiles, and take advantage of Microsoft Entra ID",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
