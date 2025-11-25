@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture",
+    "link": "https://azure.microsoft.com/updates?id=534482",
+    "description": "VNET flow log captures IP\r\ntraffic flowing through VNETs, subnets, and NICs for monitoring, troubleshooting,\r\nnetwork optimization, security, and compliance needs and stores the logs in Azure\r\nStorage Traffic Analytics leverages\r\nVNET flow logs and aggregates",
+    "pubDate": "2025-11-25T16:45:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=534541",
     "description": "Claude Opus 4.5 is now available in public preview on\r\nMicrosoft Foundry, bringing advanced coding, agentic workflows, and enterprise\r\nproductivity to Azure customers. Claude Opus 4.5 sets a new benchmark for performance\r\nand versatility, outperforming previ",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension ",
     "link": "https://azure.microsoft.com/updates?id=523559",
     "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more. ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL change event streaming ",
-    "link": "https://azure.microsoft.com/updates?id=523533",
-    "description": "You can now stream data changes in near real time from Azure SQL Database directly into Azure Event Hubs. With the public preview of change event streaming (CES), you can streamline data integration and support enhanced analytics, event-driven architectur",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
