@@ -1,5 +1,12 @@
 [
   {
+    "title": "Active - Azure Databricks connection failures in West US 3",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "<p>We are investigating an alert for Azure Databricks service in West US 3. We will provide more information as it becomes available.</p>",
+    "pubDate": "2025-11-26T23:09:00.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Charting the future of SOC: Human and AI collaboration for better security",
     "link": "https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688",
     "description": "<p>This blog shares our journey and insights from building autonomous AI agents for MDR operations and explores how the shift to a GenAI-powered SOC redefines collaboration between humans and AI.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688\">Charting the future of SOC: Human and AI collaboration for better security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server anon extension ",
     "link": "https://azure.microsoft.com/updates?id=523569",
     "description": "The anon extension is now generally available in Azure Database for PostgreSQL flexible server. This extension provides data anonymization tools. Learn more. ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
-    "link": "https://azure.microsoft.com/updates?id=523564",
-    "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
