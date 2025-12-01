@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Perth - Azure Extended Zones",
+    "link": "https://azure.microsoft.com/updates?id=535363",
+    "description": "We are announcing the general availability of the Perth\r\nAzure Extended Zone.   Azure Extended Zones are small-footprint extensions of Azure\r\nplaced in metro areas, industry centers, or specific jurisdictions, to serve\r\nlow latency and data residency workloa",
+    "pubDate": "2025-12-01T17:30:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Charting the future of SOC: Human and AI collaboration for better security",
     "link": "https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688",
     "description": "<p>This blog shares our journey and insights from building autonomous AI agents for MDR operations and explores how the shift to a GenAI-powered SOC redefines collaboration between humans and AI.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688\">Charting the future of SOC: Human and AI collaboration for better security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
     "link": "https://azure.microsoft.com/updates?id=523564",
     "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension ",
-    "link": "https://azure.microsoft.com/updates?id=523559",
-    "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more. ",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
