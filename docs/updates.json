@@ -21,13 +21,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
-    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-24T18:53:42.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
     "link": "https://azure.microsoft.com/updates?id=533437",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -696,6 +689,13 @@
     "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
     "link": "https://azure.microsoft.com/updates?id=523564",
     "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension ",
+    "link": "https://azure.microsoft.com/updates?id=523559",
+    "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more. ",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
