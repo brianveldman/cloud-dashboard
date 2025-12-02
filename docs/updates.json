@@ -7,6 +7,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Deploy Microservices to Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
+    "pubDate": "2025-11-26T17:52:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural approaches for messaging in multitenant solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/messaging",
+    "description": "This article describes approaches for messaging in a multitenant solution.",
+    "pubDate": "2025-11-26T03:18:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Charting the future of SOC: Human and AI collaboration for better security",
     "link": "https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688",
     "description": "<p>This blog shares our journey and insights from building autonomous AI agents for MDR operations and explores how the shift to a GenAI-powered SOC redefines collaboration between humans and AI.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688\">Charting the future of SOC: Human and AI collaboration for better security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -21,11 +35,46 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Mission-critical global content delivery",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-content-delivery",
+    "description": "Learn how to develop highly resilient global HTTP applications when your focus is on content delivery and caching.",
+    "pubDate": "2025-11-25T09:42:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Mission-critical global HTTP ingress",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-global-http-ingress",
+    "description": "Learn how to develop highly resilient global HTTP applications when your focus is on HTTP ingress.",
+    "pubDate": "2025-11-25T09:42:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Global routing redundancy for mission-critical web applications",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
+    "description": "Learn how to develop highly resilient global web applications.",
+    "pubDate": "2025-11-25T09:42:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=534541",
     "description": "Claude Opus 4.5 is now available in public preview on\r\nMicrosoft Foundry, bringing advanced coding, agentic workflows, and enterprise\r\nproductivity to Azure customers. Claude Opus 4.5 sets a new benchmark for performance\r\nand versatility, outperforming previ",
     "pubDate": "2025-11-24T20:30:10.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Choose a Data Transfer Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-transfer",
+    "description": "Learn about data transfer options like the Azure Import/Export service, Azure Data Box, Azure Data Factory, Fabric Data Factory, and command-line and graphical interface tools.",
+    "pubDate": "2025-11-24T19:48:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Web-Queue-Worker Architecture Style",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/web-queue-worker",
+    "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
+    "pubDate": "2025-11-24T19:28:10.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
@@ -35,11 +84,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Automate Document Classification in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
+    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
+    "pubDate": "2025-11-24T17:31:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Entra ID support for RDP connections ",
     "link": "https://azure.microsoft.com/updates?id=526018",
     "description": "Announcing Azure Bastion now supports Microsoft Entra ID\r\nauthentication for RDP connections to Windows VMs directly in the portal. This update\r\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
     "pubDate": "2025-11-24T17:15:03.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Choose an Azure AI Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
+    "description": "Learn about Azure AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
+    "pubDate": "2025-11-24T17:03:41.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Load Testing in Italy North",
@@ -77,11 +140,60 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Data Considerations for Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/data-considerations",
+    "description": "Learn about managing data in a microservices architecture. Data integrity and data consistency pose critical challenges for microservices.",
+    "pubDate": "2025-11-21T18:12:54.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate Mainframe Data by Using Precisely Connect",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
+    "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
+    "pubDate": "2025-11-21T17:50:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/",
     "description": "<p>We’re happy to share that Microsoft has been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/\">Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-11-21T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Develop a RAG Solution - Chunking Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
+    "description": "Learn about the various chunking strategies like boundary based, custom code, and document analysis models. Also learn about how the document structure should influence your chunking strategy.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Chunk Enrichment Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase",
+    "description": "Learn how to augment your chunks with metadata like title, summary, keywords, entities, and more and learn common cleaning methods that can improve vector matches.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Generate Embeddings Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings",
+    "description": "Learn how embeddings work, how to choose an embedding model, and how your embedding model can affect your vector search results.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Large Language Model End-to-End Evaluation Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase",
+    "description": "Learn about how to evaluate your RAG solution from end to end by calculating and evaluating key large language model and similarity metrics.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Preparation Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-preparation-phase",
+    "description": "Learn how to analyze and gather representative content such as documents, images, videos, and audio files and develop test queries to validate your RAG solution.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS ",
@@ -126,6 +238,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
+    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
+    "pubDate": "2025-11-20T17:46:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Microservices Architecture on Azure Kubernetes Service",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices",
+    "description": "Learn about the infrastructure and DevOps considerations to deploy and run a microservices architecture on Azure Kubernetes Service (AKS).",
+    "pubDate": "2025-11-20T17:46:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: DNS security policy Threat Intelligence feed",
     "link": "https://azure.microsoft.com/updates?id=530183",
     "description": "Azure\r\nDNS security policy Threat Intelligence feed is now generally available.\r\nProtect against known malicious domains with Microsoft’s managed Threat\r\nIntelligent feed.  Smart Protection  \r\n Almost all attacks begin with\r\n     a DNS query. Threat Intelligen",
@@ -133,11 +259,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "API Design",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/api-design",
+    "description": "Learn about API design for microservices, including REST and RPC trade-offs, versioning strategies, and mapping REST to domain-driven design.",
+    "pubDate": "2025-11-20T16:33:31.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Sphere OS version 25.10 is now available",
     "link": "https://azure.microsoft.com/updates?id=522390",
     "description": "Azure Sphere OS version 25.10 is now available in the Retail feed. This release includes updates to Azure Sphere OS only; it does not include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.Th",
     "pubDate": "2025-11-20T16:00:12.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "MLOps Maturity Model",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/mlops-maturity-model",
+    "description": "Learn about MLOps maturity levels, from manual processes to automated MLOps with continuous improvement and optimization.",
+    "pubDate": "2025-11-20T15:50:57.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images ",
@@ -201,6 +341,13 @@
     "description": "Azure Monitor now offers one-click enablement of recommended alerts directly in the Azure Portal for Azure Monitor Managed service for Prometheus customers. These alerts enable you to monitor the ingestion limits for Azure Monitor Workspace and avoid metr",
     "pubDate": "2025-11-19T17:45:05.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Use Azure Kubernetes Service to host GPU-based workloads",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
+    "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
+    "pubDate": "2025-11-19T17:38:02.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Azure Managed Redis integration with Microsoft Foundry",
@@ -285,6 +432,34 @@
     "description": "Announcing Managed Instance on Azure App Service, now in Public Preview! This new capability makes it easy to move web apps to the cloud with minimal configuration—no code rewrites required. Whether your .NET apps run on-premises or in VMs, you can move t",
     "pubDate": "2025-11-18T18:00:28.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-chat",
+    "description": "Use this baseline reference architecture to learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry, the Azure AI Agent Service, Azure OpenAI models, and Azure App Service.",
+    "pubDate": "2025-11-18T17:28:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-landing-zone",
+    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI models, and Azure App Service chat architecture in an Azure landing zone.",
+    "pubDate": "2025-11-18T17:28:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Basic Microsoft Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat",
+    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
+    "pubDate": "2025-11-18T17:28:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AI Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
+    "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
+    "pubDate": "2025-11-18T17:28:09.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In development] Private Preview: Azure Boost confidential device",
@@ -521,181 +696,6 @@
     "title": "[Launched] Generally Available: Azure Container Apps serverless GPUs in additional regions ",
     "link": "https://azure.microsoft.com/updates?id=525460",
     "description": "To\r\nmeet growing demand for GPU-powered workloads, Azure Container Apps serverless GPUs are now generally\r\navailable in additional regions. This expansion enables developers to run AI\r\ninference, model training, and GPU-accelerated workloads with the simplic",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Confidential computing in Azure Container Apps",
-    "link": "https://azure.microsoft.com/updates?id=525455",
-    "description": "Confidential\r\ncomputing support in Azure Container Apps is now in public preview. This\r\nrelease brings hardware-based Trusted Execution Environments (TEEs) to your\r\ncontainerized workloads. Azure already provides encryption of data at rest and\r\nin transit, an",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Standard V2 NAT Gateway and StandardV2 Public IPs",
-    "link": "https://azure.microsoft.com/updates?id=525405",
-    "description": "StandardV2 SKU NAT Gateway is now in public preview, delivering next-generation capabilities for scalable and resilient outbound connectivity. New offerings: Zone-Redundancy: Built for high availability in availability zone supported regions. Traffic surv",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL database in Microsoft Fabric",
-    "link": "https://azure.microsoft.com/updates?id=525388",
-    "description": "SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Support for Italian and Portuguese in Azure Cosmos DB for NoSQL full-text search ",
-    "link": "https://azure.microsoft.com/updates?id=523824",
-    "description": "Azure Cosmos DB for NoSQL now supports Italian and Portuguese languages in full-text search, available today in public preview. This update adds to the list of supported languages, enabling you to build rich, language-aware search experiences that underst",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Cosmos DB MCP ToolKit for Microsoft Foundry Agent Service ",
-    "link": "https://azure.microsoft.com/updates?id=523814",
-    "description": "Azure Cosmos DB for NoSQL now offers an MCP Toolkit that can be used with Microsoft Foundry  Agent Service, available today in public preview.  This new integration allows you to connect Microsoft Foundry Agents directly to data in Azure Cosmos DB. By dep",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Fuzzy search in Azure Cosmos DB for NoSQL full-text search ",
-    "link": "https://azure.microsoft.com/updates?id=523809",
-    "description": "Azure Cosmos DB for NoSQL now supports fuzzy search in full-text search. With fuzzy search, you can deliver typo-tolerant, error-resilient search experiences directly within Azure Cosmos DB, helping your users find the right results even when queries or t",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Vector indexing performance improvements in Azure Cosmos DB for NoSQL ",
-    "link": "https://azure.microsoft.com/updates?id=523803",
-    "description": "This release gives you faster vector inserts and index builds in Azure Cosmos DB for NoSQL, helping you reduce end-to-end ingestion and indexing times for large AI workloads. This improvement is powered by algorithmic enhancements to our vector indexing e",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Float16 data type for vector indexes in Azure Cosmos DB ",
-    "link": "https://azure.microsoft.com/updates?id=523796",
-    "description": "Azure Cosmos DB now supports float 16 data types for vector indexes. With this update, you can store and query vectors using half-precision floating-point numbers. Using float16 cuts storage usage in half compared to float32, while maintaining high retrie",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cosmos DB for Visual Studio Code  ",
-    "link": "https://azure.microsoft.com/updates?id=523782",
-    "description": "Developers today are building more intelligent, connected, and autonomous applications than ever before. From personalized chatbots and copilots to dynamic content engines and decision systems, data is the foundation of these agentic experiences.  Azure C",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cosmos DB Mirroring in Microsoft Fabric ",
-    "link": "https://azure.microsoft.com/updates?id=523773",
-    "description": "Now generally available, Azure Cosmos DB Mirroring in Fabric enables you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric. You can take advantage of the innovations in Fabric, running SQL que",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Cosmos DB in Microsoft Fabric ",
-    "link": "https://azure.microsoft.com/updates?id=523768",
-    "description": "Now generally available, Cosmos DB in Fabric enables you to build operational and analytical workloads in Microsoft Fabric. You can use the AI-features in Azure Cosmos DB plus the innovations in Fabric to run SQL queries over JSON data and build real-time",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Index Advisor for Azure DocumentDB ",
-    "link": "https://azure.microsoft.com/updates?id=523763",
-    "description": "Integrated into the DocumentDB for VS Code extension, the Index Advisor enables you to view and debug database performance. It uses natural language to recommend optimal indexing and best practices for your MongoDB workloads.  Learn more. ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Priority-based execution in Azure Cosmos DB ",
-    "link": "https://azure.microsoft.com/updates?id=523754",
-    "description": "You can now enable priority-based execution in Azure Cosmos DB to ensure that high-priority requests are favored during periods of contention. The system will throttle low-priority requests first, allowing high-priority operations to proceed on a best-eff",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Cosmos DB Fleet Analytics ",
-    "link": "https://azure.microsoft.com/updates?id=523745",
-    "description": "You can now unify insights across your entire Azure Cosmos DB footprint using Azure Cosmos DB Fleet Analytics, available in public preview. Fleet Analytics helps you manage data across multiple accounts, subscriptions, and workloads, providing large-scale",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cosmos DB fleet pools  ",
-    "link": "https://azure.microsoft.com/updates?id=523740",
-    "description": "Now you can more easily operate your Azure Cosmos DB accounts at scale. Azure Cosmos DB fleet pools give you new capabilities when building multitenant software as a service (SaaS) applications.  You can simplify capacity management by creating a pool of ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure DocumentDB - an open-source, MongoDB-compatible document database service for hybrid and multicloud",
-    "link": "https://azure.microsoft.com/updates?id=523735",
-    "description": "Microsoft is announcing the general availability of Azure DocumentDB, a fully managed document database service built on the open-source, MongoDB-compatible DocumentDB, now governed by the Linux Foundation. Formerly known as Azure Cosmos DB for MongoDB (v",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Dynamic data masking with Azure Cosmos DB ",
-    "link": "https://azure.microsoft.com/updates?id=523726",
-    "description": "You can now help protect sensitive data from unauthorized access using dynamic data masking (DDM), a server-side, policy-based security feature in Azure Cosmos DB. DDM dynamically masks data for non-privileged users, ensuring that sensitive information is",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Online and offline migrations in Azure DocumentDB Migration extension ",
-    "link": "https://azure.microsoft.com/updates?id=523721",
-    "description": "You can now migrate MongoDB workloads to Azure DocumentDB using the new Azure DocumentDB Migration extension for Visual Studio Code—now available in public preview. This seamless, zero-cost migration supports both online and offline modes, simplifying and",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Online migration from Azure Cosmos DB for MongoDB RU to Azure DocumentDB",
-    "link": "https://azure.microsoft.com/updates?id=523716",
-    "description": "Announcing the general availability of seamless, self-serve online migrations from Azure Cosmos DB for MongoDB RU to Azure DocumentDB—directly from the Azure portal. With this release, your organization can modernize its MongoDB workloads with zero downti",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Oracle to PostgreSQL migration tooling in Visual Studio Code ",
-    "link": "https://azure.microsoft.com/updates?id=523593",
-    "description": "Migrating from Oracle to PostgreSQL is now simpler and faster with the new Oracle-to-PostgreSQL migration tooling, available directly in the Azure Database for PostgreSQL extension for Visual Studio Code.  This new tool helps you seamlessly convert your O",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: 2025 REST API for Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=523588",
-    "description": "Announcing the general availability of the 2025 REST API for Azure Database for PostgreSQL. This release adds support for PostgreSQL 17 and 18, so you can adopt new versions without changing your automation patterns. You can also now set the default datab",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Elastic clusters on Azure Database for PostgreSQL – Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=523583",
-    "description": "Now you can use elastic clusters to horizontally scale Azure Database for PostgreSQL through row-based and schema-based sharding. Elastic clusters make it easy to build multitenant apps by offloading shard management and operations—such as tenant isolatio",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Native Microsoft Foundry support for Azure Database for PostgreSQL",
-    "link": "https://azure.microsoft.com/updates?id=523578",
-    "description": "Announcing the public preview of Microsoft Foundry support for Azure Database for PostgreSQL. The Azure PostgreSQL MCP Server is now natively integrated with Microsoft Foundry.  This integration enables you to build AI agents to securely query and analyze",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server anon extension ",
-    "link": "https://azure.microsoft.com/updates?id=523569",
-    "description": "The anon extension is now generally available in Azure Database for PostgreSQL flexible server. This extension provides data anonymization tools. Learn more. ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
-    "link": "https://azure.microsoft.com/updates?id=523564",
-    "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
