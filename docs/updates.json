@@ -84,13 +84,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
-    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-24T18:53:42.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
     "link": "https://azure.microsoft.com/updates?id=533437",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -696,6 +689,13 @@
     "title": "[In preview] Public Preview: Azure Container Apps adds support for agentic Docker Compose ",
     "link": "https://azure.microsoft.com/updates?id=525470",
     "description": "Azure Container Apps is bringing the familiar\r\ndeveloper workflow of Docker Compose directly to Azure Container Apps. As one\r\nof the most widely adopted tools among developers, Docker Compose simplifies\r\ndefining and running multi-container applications, and",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Container Apps introduces flexible workload profile ",
+    "link": "https://azure.microsoft.com/updates?id=525465",
+    "description": "Flexible workload profile represents a new option\r\nthat blends the simplicity of consumption with many of the performance and\r\ncontrol characteristics of dedicated workload profiles. This offers the same\r\neasy-to-understand, pay-per-use serverless model as C",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
