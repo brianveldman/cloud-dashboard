@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central ",
+    "link": "https://azure.microsoft.com/updates?id=534523",
+    "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more ",
+    "pubDate": "2025-12-03T17:30:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Update pg_squeeze to version 1.9.1 in Azure Database for PostgreSQL Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=534518",
+    "description": "Now you can upgrade the pg_squeeze extension to version 1.9.1 in Azure Database for PostgreSQL Flexible Server.  Learn more. ",
+    "pubDate": "2025-12-03T17:30:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: The ip4r extension in Azure Database for PostgreSQL Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=534509",
+    "description": "Now you can install the ip4r extension in Azure Database for PostgreSQL Flexible Server. Ip4r provides efficient storage and indexing functionality for IPv4 and IPv6 addresses and ranges.  Learn more ",
+    "pubDate": "2025-12-03T17:30:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: The credcheck extension in Azure Database for PostgreSQL Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=534504",
+    "description": "Now you can install the credcheck extension in Azure Database for PostgreSQL Flexible Server. The credcheck extension helps you to enforce password and credential validation policies directly within PostgreSQL. Learn more ",
+    "pubDate": "2025-12-03T17:30:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension",
+    "link": "https://azure.microsoft.com/updates?id=536747",
+    "description": "Bandwidth metrics for\r\nAzure Load Balancer are now published with metric dimension Protocol. When\r\nretrieving or viewing Byte, Packet, and SYN Count metrics in the Azure portal,\r\nyou will now see the dimension Protocol. TCP traffic is denoted by Protocol=6,\r\n",
+    "pubDate": "2025-12-03T17:00:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "How to build forward-thinking cybersecurity teams for tomorrow",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/",
     "description": "<p>To secure the future, we must future-proof our cybersecurity talent and develop teams that are agile, innovative, and perpetually learning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/\">How to build forward-thinking cybersecurity teams for tomorrow</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -661,41 +696,6 @@
     "title": "[Launched] Generally Available: Azure Functions durable task scheduler Dedicated SKU (GA) & Consumption SKU (Public Preview)",
     "link": "https://azure.microsoft.com/updates?id=525518",
     "description": "Earlier this year, we\r\nintroduced Azure Functions durable task scheduler, an orchestration engine\r\ndesigned for complex workflows and intelligent agents. It automatically\r\ncheckpoints progress and protects your orchestration state, enabling resilient\r\nand rel",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Self-hosted remote MCP servers on Azure Functions ",
-    "link": "https://azure.microsoft.com/updates?id=525505",
-    "description": "We are introducing a new capability that allows you to host\r\nremote Model Context Protocol (MCP) servers built with the MCP SDKs on Functions. Some key benefits of hosting on the Functions platform include:  Built-in server authentication Automatic and bur",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Announcing: Resources for migrating to Azure Functions Flex Consumption ",
-    "link": "https://azure.microsoft.com/updates?id=525500",
-    "description": "Azure Functions Flex Consumption is\r\nnow the recommended hosting plan for serverless workloads requiring advanced\r\nscaling, networking, and cost optimization. To support customers migrating from\r\nthe Azure Functions Consumption plan or from AWS Lambda, Micro",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Functions enables OpenTelemetry support ",
-    "link": "https://azure.microsoft.com/updates?id=525479",
-    "description": "Azure Functions now supports\r\nOpenTelemetry in general availability (GA), enabling developers to export logs,\r\ntraces, and metrics using open standards. This release builds on the public\r\npreview and delivers a production-ready observability experience for s",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Container Apps adds support for agentic Docker Compose ",
-    "link": "https://azure.microsoft.com/updates?id=525470",
-    "description": "Azure Container Apps is bringing the familiar\r\ndeveloper workflow of Docker Compose directly to Azure Container Apps. As one\r\nof the most widely adopted tools among developers, Docker Compose simplifies\r\ndefining and running multi-container applications, and",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Container Apps introduces flexible workload profile ",
-    "link": "https://azure.microsoft.com/updates?id=525465",
-    "description": "Flexible workload profile represents a new option\r\nthat blends the simplicity of consumption with many of the performance and\r\ncontrol characteristics of dedicated workload profiles. This offers the same\r\neasy-to-understand, pay-per-use serverless model as C",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
