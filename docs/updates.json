@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=501668",
+    "description": "On June 30, 2026, AzureML SDK V1 will reach end of life. The following SDKs which work in tandem with the AzureML SDK V1 will also be retired.  azureml-train-core  azureml-pipeline  azureml-pipeline-core  azureml-pipeline-internal  azureml-pipeline-steps ",
+    "pubDate": "2025-12-03T21:00:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central ",
     "link": "https://azure.microsoft.com/updates?id=534523",
     "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Application Gateway for Containers Istio Service Mesh integration",
     "link": "https://azure.microsoft.com/updates?id=525874",
     "description": "Application\r\nGateway for Containers now supports integration with Istio service mesh through\r\nan optional service mesh extension. This feature simplifies secure north-south\r\ncommunication between external clients and services within the service mesh. Single ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure DocumentDB high-performance storage ",
-    "link": "https://azure.microsoft.com/updates?id=525549",
-    "description": "Now you can run bigger, faster workloads on fewer nodes using high-performance storage for Azure DocumentDB. This update delivers up to 64 TiB capacity, 80,000 IOPS, and 1,200 MB/s throughput per physical shard (node). Storage IOPS and throughput on Azure",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
