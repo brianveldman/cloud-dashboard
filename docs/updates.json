@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure networking updates on security, reliability, and high availability",
+    "link": "https://azure.microsoft.com/en-us/blog/unlocking-the-future-azure-networking-updates-on-security-reliability-and-high-availability-2/",
+    "description": "<p>The cloud landscape is evolving at an unprecedented pace, driven by the exponential growth of AI workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unlocking-the-future-azure-networking-updates-on-security-reliability-and-high-availability-2/\">Azure networking updates on security, reliability, and high availability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-01T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Deploy Microservices to Azure Container Apps",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
     "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
@@ -124,6 +131,13 @@
     "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
     "pubDate": "2025-11-24T19:28:10.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
+    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-24T18:53:42.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Application Gateway for Containers Istio Service Mesh integration",
     "link": "https://azure.microsoft.com/updates?id=525874",
     "description": "Application\r\nGateway for Containers now supports integration with Istio service mesh through\r\nan optional service mesh extension. This feature simplifies secure north-south\r\ncommunication between external clients and services within the service mesh. Single ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure DocumentDB high-performance storage ",
-    "link": "https://azure.microsoft.com/updates?id=525549",
-    "description": "Now you can run bigger, faster workloads on fewer nodes using high-performance storage for Azure DocumentDB. This update delivers up to 64 TiB capacity, 80,000 IOPS, and 1,200 MB/s throughput per physical shard (node). Storage IOPS and throughput on Azure",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Model Context Protocol (MCP) tool trigger for Azure Functions ",
-    "link": "https://azure.microsoft.com/updates?id=525523",
-    "description": "Model\r\nContext Protocol (MCP) is a way for apps to provide capabilities and context to\r\na large language model. A key feature of MCP is the ability to define tools\r\nthat AI agents can leverage to accomplish whatever tasks they’ve been given.\r\nMCP servers can ",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
