@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Cybersecurity strategies to prioritize now​​ ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/04/cybersecurity-strategies-to-prioritize-now/",
+    "description": "<p>In this article, Damon Becknel, Vice President and Deputy CISO for Regulated Industries at Microsoft, outlines four things to prioritize doing now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/04/cybersecurity-strategies-to-prioritize-now/\">Cybersecurity strategies to prioritize now​​ </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-04T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Serverless workspaces in Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=536721",
     "description": "Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage to deliver an enterprise-ready SaaS experience with minimal infrast",
@@ -145,6 +152,13 @@
     "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
     "pubDate": "2025-11-24T19:28:10.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
+    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-24T18:53:42.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Azure Functions support for Node.js 24 ",
     "link": "https://azure.microsoft.com/updates?id=526077",
     "description": "You can now develop functions using Node.js 24 locally and deploy them\r\nto Azure Functions on Windows and Linux.   Note: Node.js 24 does not support\r\n32-bit systems on Windows. To ensure compatibility, new Windows Function Apps for\r\nNode.js 24 now default to",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Functions support for Java 25 ",
-    "link": "https://azure.microsoft.com/updates?id=526072",
-    "description": "You can now develop functions using Java\r\n25 locally and deploy them to Azure Functions on Windows and Linux.  Upgrade your apps to Java 25 to take\r\nadvantage of enhanced security, a longer support window, and continued\r\ncompatibility with the Azure Function",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Application Gateway for Containers – Slow start",
-    "link": "https://azure.microsoft.com/updates?id=525893",
-    "description": "Slow start is now\r\ngenerally available as a load balancing algorithm in Application Gateway for\r\nContainers. This feature improves stability and performance during backend\r\nscale-up by gradually increasing traffic to new pods over a configurable time\r\nwindow.",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
