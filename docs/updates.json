@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Mistral Large 3 in Foundry",
+    "link": "https://azure.microsoft.com/updates?id=536937",
+    "description": "Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers enterprise-grade reliability, long-context comprehension, and multimodal reasoning—making it ideal for produ",
+    "pubDate": "2025-12-04T22:30:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger",
     "link": "https://azure.microsoft.com/updates?id=531889",
     "description": "The Azure MCP (Model Context Protocol) Server provides a\r\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\r\nnatural language prompts. This feature allows users to interact with confidential\r\nledger without the nee",
@@ -82,6 +89,13 @@
     "description": "We are announcing the general availability of the Perth\r\nAzure Extended Zone.   Azure Extended Zones are small-footprint extensions of Azure\r\nplaced in metro areas, industry centers, or specific jurisdictions, to serve\r\nlow latency and data residency workloa",
     "pubDate": "2025-12-01T17:30:38.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure networking updates on security, reliability, and high availability",
+    "link": "https://azure.microsoft.com/en-us/blog/unlocking-the-future-azure-networking-updates-on-security-reliability-and-high-availability-2/",
+    "description": "<p>The cloud landscape is evolving at an unprecedented pace, driven by the exponential growth of AI workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unlocking-the-future-azure-networking-updates-on-security-reliability-and-high-availability-2/\">Azure networking updates on security, reliability, and high availability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-01T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Deploy Microservices to Azure Container Apps",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Cross region pool association support for Azure Virtual Network Manager IP address management",
     "link": "https://azure.microsoft.com/updates?id=526174",
     "description": "Managing\r\nIP address spaces across multiple regions can be complex and error-prone.  With\r\nthis new capability, you can now associate a single IPAM pool with virtual\r\nnetworks in multiple regions, simplifying governance and ensuring\r\nconsistent CIDR allocatio",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Virtual Network Manager address overlap prevention in mesh ",
-    "link": "https://azure.microsoft.com/updates?id=526169",
-    "description": "Azure Virtual Network Manager\r\naddress space overlap prevention in mesh is now generally available, bringing enhanced\r\nreliability and governance to multi-virtual network environments. Unintended\r\naddress overlap within mesh can lead to dropped traffic. This",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Functions support for Node.js 24 ",
-    "link": "https://azure.microsoft.com/updates?id=526077",
-    "description": "You can now develop functions using Node.js 24 locally and deploy them\r\nto Azure Functions on Windows and Linux.   Note: Node.js 24 does not support\r\n32-bit systems on Windows. To ensure compatibility, new Windows Function Apps for\r\nNode.js 24 now default to",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
