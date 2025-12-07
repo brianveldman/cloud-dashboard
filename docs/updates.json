@@ -105,13 +105,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Microsoft 365 Copilot Business: The future of work for small businesses",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/",
-    "description": "<p>We’re excited to announce the general availability of Microsoft 365 Copilot Business—a comprehensive, full-featured AI solution built for SMBs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/\">Microsoft 365 Copilot Business: The future of work for small businesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-02T17:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "How to build forward-thinking cybersecurity teams for tomorrow",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/",
     "description": "<p>To secure the future, we must future-proof our cybersecurity talent and develop teams that are agile, innovative, and perpetually learning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/\">How to build forward-thinking cybersecurity teams for tomorrow</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Managed namespaces on AKS ",
     "link": "https://azure.microsoft.com/updates?id=526232",
     "description": "Managing\r\nnamespace configurations across AKS clusters has traditionally required manual\r\nsetup and ongoing maintenance, creating complexity and potential for\r\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\r\nenables users to ea",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager for Arc-enabled clusters ",
+    "link": "https://azure.microsoft.com/updates?id=526227",
+    "description": "Managing\r\nKubernetes clusters across hybrid and multi-cloud environments can be complex\r\nand fragmented. To simplify this, Azure Kubernetes Fleet Manager now supports\r\nAzure Arc-enabled Kubernetes, enabling organizations to seamlessly manage any\r\nCNCF-complia",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
