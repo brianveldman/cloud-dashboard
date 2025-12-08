@@ -42,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advancing Microsoft 365: New capabilities and pricing update",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
+    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-04T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
     "link": "https://azure.microsoft.com/updates?id=499438",
     "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Pod sandboxing on AKS ",
     "link": "https://azure.microsoft.com/updates?id=526237",
     "description": "Running\r\ncontainerized workloads in shared environments can raise concerns around\r\nsecurity and workload isolation. To address this, AKS now supports pod\r\nsandboxing, enabling customers to run containers in per-workload pod VMs. Each\r\npod VM is isolated from ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Managed namespaces on AKS ",
-    "link": "https://azure.microsoft.com/updates?id=526232",
-    "description": "Managing\r\nnamespace configurations across AKS clusters has traditionally required manual\r\nsetup and ongoing maintenance, creating complexity and potential for\r\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\r\nenables users to ea",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
