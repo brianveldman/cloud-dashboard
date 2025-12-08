@@ -42,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Advancing Microsoft 365: New capabilities and pricing update",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
-    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-04T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
     "link": "https://azure.microsoft.com/updates?id=499438",
     "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
@@ -98,27 +91,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "New options for AI-powered innovation, resiliency, and control with Microsoft Azure",
-    "link": "https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/",
-    "description": "<p>We are extending Azure public regions with options that adapt to our customers’ evolving business requirements without forcing trade-offs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/\">New options for AI-powered innovation, resiliency, and control with Microsoft Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-03T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/",
-    "description": "<p>Explore Mistral Large 3 in Azure—open-source, long-context, multimodal AI built for reliable enterprise workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/\">Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-02T18:02:30.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft 365 Copilot Business: The future of work for small businesses",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/",
-    "description": "<p>We’re excited to announce the general availability of Microsoft 365 Copilot Business—a comprehensive, full-featured AI solution built for SMBs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/\">Microsoft 365 Copilot Business: The future of work for small businesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-02T17:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "How to build forward-thinking cybersecurity teams for tomorrow",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/",
     "description": "<p>To secure the future, we must future-proof our cybersecurity talent and develop teams that are agile, innovative, and perpetually learning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/\">How to build forward-thinking cybersecurity teams for tomorrow</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -126,25 +98,11 @@
     "source": "Security"
   },
   {
-    "title": "A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership",
-    "link": "https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/",
-    "description": "<p>A decade-long partnership between Microsoft and Red Hat has redefined what open innovation means, empowering customers with flexible, secure, and scalable solutions across the cloud.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/\">A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-02T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Perth - Azure Extended Zones",
     "link": "https://azure.microsoft.com/updates?id=535363",
     "description": "We are announcing the general availability of the Perth\r\nAzure Extended Zone.   Azure Extended Zones are small-footprint extensions of Azure\r\nplaced in metro areas, industry centers, or specific jurisdictions, to serve\r\nlow latency and data residency workloa",
     "pubDate": "2025-12-01T17:30:38.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure networking updates on security, reliability, and high availability",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/",
-    "description": "<p>The cloud landscape is evolving at an unprecedented pace, driven by the exponential growth of AI workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/\">Azure networking updates on security, reliability, and high availability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-01T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Deploy Microservices to Azure Container Apps",
@@ -696,6 +654,48 @@
     "title": "[Launched] Generally Available: Pod sandboxing on AKS ",
     "link": "https://azure.microsoft.com/updates?id=526237",
     "description": "Running\r\ncontainerized workloads in shared environments can raise concerns around\r\nsecurity and workload isolation. To address this, AKS now supports pod\r\nsandboxing, enabling customers to run containers in per-workload pod VMs. Each\r\npod VM is isolated from ",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Managed namespaces on AKS ",
+    "link": "https://azure.microsoft.com/updates?id=526232",
+    "description": "Managing\r\nnamespace configurations across AKS clusters has traditionally required manual\r\nsetup and ongoing maintenance, creating complexity and potential for\r\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\r\nenables users to ea",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager for Arc-enabled clusters ",
+    "link": "https://azure.microsoft.com/updates?id=526227",
+    "description": "Managing\r\nKubernetes clusters across hybrid and multi-cloud environments can be complex\r\nand fragmented. To simplify this, Azure Kubernetes Fleet Manager now supports\r\nAzure Arc-enabled Kubernetes, enabling organizations to seamlessly manage any\r\nCNCF-complia",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Windows Server 2025 on AKS",
+    "link": "https://azure.microsoft.com/updates?id=526213",
+    "description": "Organizations running Windows-based\r\nworkloads on Azure Kubernetes Service (AKS) face increasing pressure to\r\nmodernize as support timelines for older Windows Server versions approach\r\nretirement. To help customers prepare, AKS now offers preview support for",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: AKS Automatic pod readiness SLA",
+    "link": "https://azure.microsoft.com/updates?id=526208",
+    "description": "Azure Kubernetes Service (AKS) Automatic\r\nclusters now come with a pod readiness SLA, guaranteeing that eligible pods meet\r\nreadiness criteria within five minutes at the 99.9th percentile.\r\nThis empowers customers to confidently deploy mission critical workl",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: AKS Automatic managed system node pools",
+    "link": "https://azure.microsoft.com/updates?id=526203",
+    "description": "Provisioning and maintaining system node pools in AKS\r\nrequires ongoing effort to ensure proper scaling, patching, and availability, tasks\r\nthat can divert resources from application development and delivery.\r\nManaged system node pools in AKS Automatic remov",
+    "pubDate": "2025-11-18T17:01:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Add durability to AI agents in Azure Functions using Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=526179",
+    "description": "You can now build and host reliable\r\nproduction-grade AI agents using the durable extension for\r\nMicrosoft Agent Framework. This integration combines the Microsoft Agent\r\nFramework with Azure Functions’ durable capabilities, delivering proven\r\norchestration a",
     "pubDate": "2025-11-18T17:01:02.000Z",
     "source": "Azure Updates"
   }
