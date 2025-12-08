@@ -2,7 +2,7 @@
   {
     "title": "Active – Failed to Load Azure Resources in Azure China Regions",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "<p><strong>Impact Statement:</strong></p><p><strong>Starting at 16:50 China Standard Time (CST)</strong> on 08 December 2025, customers using resources in Azure China regions may experience errors when loading resources via the Azure Portal and may be unable to perform service management operations. Login attempts through Azure REST APIs, Azure PowerShell, or Azure CLI may fail. Retrying operations might succeed.</p><p><strong>Current Status:</strong></p><p><strong>Engineering teams have identified the cause and are actively working on mitigation. The next update will be provided within 60 minutes or sooner if significant developments occur.</strong></p>",
+    "description": "<p><strong>Impact Statement:</strong></p><p><strong>Starting at 16:50 China Standard Time (CST) on 08 December 2025</strong>, customers using services in Azure China regions may experience failures <strong>accessing most resources</strong> through the Azure Portal or performing service management operations. Login attempts via Azure REST APIs, PowerShell, or CLI may fail. Retrying operations might succeed intermittently.</p><p><strong>Current Status:</strong></p><p><strong>Engineering teams have identified the cause and are progressing towards recovery</strong>. Mitigation work continues. The next update will be provided within 60 minutes or sooner if significant developments occur.</p>",
     "pubDate": "2025-12-08T08:50:00.000Z",
     "source": "Azure Status"
   },
