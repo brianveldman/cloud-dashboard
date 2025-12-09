@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
+    "link": "https://azure.microsoft.com/updates?id=536712",
+    "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
+    "pubDate": "2025-12-09T13:15:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Multiregion BCDR for Azure Virtual Desktop",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
     "description": "Learn which options and scenarios are possible to design and implement an effective multi-region BCDR strategy for Azure Virtual Desktop.",
@@ -689,13 +696,6 @@
     "title": "Baseline Microsoft Foundry Chat Reference Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-chat",
     "description": "Use this baseline reference architecture to learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry, the Azure AI Agent Service, Azure OpenAI models, and Azure App Service.",
-    "pubDate": "2025-11-18T17:28:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-landing-zone",
-    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI models, and Azure App Service chat architecture in an Azure landing zone.",
     "pubDate": "2025-11-18T17:28:09.000Z",
     "source": "Azure Architecture"
   }
