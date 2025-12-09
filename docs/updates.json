@@ -1,5 +1,54 @@
 [
   {
+    "title": "Multiregion BCDR for Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
+    "description": "Learn which options and scenarios are possible to design and implement an effective multi-region BCDR strategy for Azure Virtual Desktop.",
+    "pubDate": "2025-12-08T20:14:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Analytics end-to-end with Azure Synapse",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
+    "description": "Learn how to use Azure Data Services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
+    "pubDate": "2025-12-08T20:14:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Local Baseline Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
+    "description": "Learn how to design Azure Local for highly available virtualized and containerized workloads, focusing on reliability and security.",
+    "pubDate": "2025-12-08T20:14:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare Java application hosting options on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/service-for-java-comparison",
+    "description": "Explore recommended strategies for hosting Java applications to Azure, including platform types and supportability.",
+    "pubDate": "2025-12-08T18:33:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Prevent IPv4 Exhaustion in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
+    "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to create more IPv4 address space.",
+    "pubDate": "2025-12-08T18:33:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Monitoring and diagnostics guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
+    "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
+    "pubDate": "2025-12-08T18:29:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Google Cloud to Azure services comparison",
+    "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
+    "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
+    "pubDate": "2025-12-08T18:29:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Stronger together: New Beazley collaboration enhances cyber resilience",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/08/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/",
     "description": "<p>To bolster security for our customers, we need to align with our ecosystem partners. Our new collaboration with Beazley as an incident response partner is a step in that direction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/08/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/\">Stronger together: New Beazley collaboration enhances cyber resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -14,11 +63,32 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Caching guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
+    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
+    "pubDate": "2025-12-05T20:18:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DR for Azure Data Platform - Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
+    "description": "Second article in a series covering disaster recovery for an Azure data platform",
+    "pubDate": "2025-12-05T20:18:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/",
     "description": "<p>Microsoft has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Email Security, which we believe highlights the innovative capabilities of Microsoft Defender for Office 365.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/\">Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-05T20:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Baseline architecture for an AKS cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2025-12-05T04:52:42.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Mistral Large 3 in Foundry",
@@ -63,6 +133,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Deploy Microservices to Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
+    "pubDate": "2025-12-03T18:25:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Service for Vector Search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
+    "pubDate": "2025-12-03T18:25:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central ",
     "link": "https://azure.microsoft.com/updates?id=534523",
     "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.",
@@ -105,6 +189,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Enterprise Deployment that uses App Service Environment",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-standard-deployment",
+    "description": "Learn about the recommended architecture for deploying an enterprise application by using App Service Environment version 3 in Azure.",
+    "pubDate": "2025-12-03T15:58:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads",
     "link": "https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/",
     "description": "<p>Explore Mistral Large 3 in Azure—open-source, long-context, multimodal AI built for reliable enterprise workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/\">Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -112,11 +203,25 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Microsoft 365 Copilot Business: The future of work for small businesses",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/",
+    "description": "<p>We’re excited to announce the general availability of Microsoft 365 Copilot Business—a comprehensive, full-featured AI solution built for SMBs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/\">Microsoft 365 Copilot Business: The future of work for small businesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-02T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "How to build forward-thinking cybersecurity teams for tomorrow",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/",
     "description": "<p>To secure the future, we must future-proof our cybersecurity talent and develop teams that are agile, innovative, and perpetually learning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/\">How to build forward-thinking cybersecurity teams for tomorrow</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-02T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Migrate Cloud Workloads Across Security Tenants",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-cloud-workloads-across-security-tenants",
+    "description": "Learn how to define and implement a cross-tenant workload migration strategy to address business transformations like acquisitions or divestitures.",
+    "pubDate": "2025-12-02T16:21:06.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership",
@@ -593,110 +698,5 @@
     "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
     "pubDate": "2025-11-18T17:28:09.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "AI Architecture Design",
-    "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
-    "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
-    "pubDate": "2025-11-18T17:28:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In development] Private Preview: Azure Boost confidential device",
-    "link": "https://azure.microsoft.com/updates?id=530661",
-    "description": "The\r\nAzure Boost confidential device feature is now in preview. Azure Boost\r\nis a Microsoft Azure system that offloads virtualization tasks—such as\r\nnetworking, storage, and host management—from the hypervisor and host OS to\r\npurpose-built hardware and softwa",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset 1.0 on Application Gateway WAF v2",
-    "link": "https://azure.microsoft.com/updates?id=530609",
-    "description": "Announcing the public preview\r\nof the HTTP DDoS Ruleset for Application Gateway WAF v2. HTTP-layer DDoS attacks remain a leading cause of\r\napplication downtime, and traditional static controls often fall short against\r\nevolving botnets. The new HTTP DDoS Rul",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: Azure Boost remote storage throughput and network bandwidth enhancements",
-    "link": "https://azure.microsoft.com/updates?id=530287",
-    "description": "Remote storage throughput and network bandwidth performance\r\nenhancements for the latest Azure Boost architecture are now in preview. Azure\r\nBoost is a Microsoft Azure system that offloads virtualization tasks—such as\r\nnetworking, storage, and host managemen",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: NCv6 Virtual Machines",
-    "link": "https://azure.microsoft.com/updates?id=530208",
-    "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\r\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\r\navailable on Azure.\r\nNvidia RTX PRO 6000 BSE GPUs are designed to accelerate a wide array of\r\nworkloads including v",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: New integration and extensibility capabilities to Azure SRE Agent",
-    "link": "https://azure.microsoft.com/updates?id=529944",
-    "description": "Azure SRE Agent is an AI-driven solution that unifies operational workflows into a single, prompt-based automation layer—eliminating complexity and reducing overhead for modern cloud operations. Unlike traditional, static automation solutions, SRE Agent l",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Advanced sampling and richer data collection in Azure Monitor OpenTelemetry Distro",
-    "link": "https://azure.microsoft.com/updates?id=529519",
-    "description": "Azure continues to embrace open standards by adding new capabilities to the Azure Monitor OpenTelemetry Distro that powers Azure Monitor Application Insights. New Capabilities:Rate-limited sampling and\r\ntrace-based log sampling:  New sampling options in\r\nth",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Network Watcher – Agentless Connection Troubleshoot ",
-    "link": "https://azure.microsoft.com/updates?id=527815",
-    "description": "Agentless Connection Troubleshoot (public preview)\r\nintroduces a faster, simpler, and fully agentless way to diagnose network\r\nconnectivity issues across Azure resources. Previously, running connectivity\r\nchecks required installing the Network Watcher Extens",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Network Watcher Topology – AKS Visualization",
-    "link": "https://azure.microsoft.com/updates?id=527810",
-    "description": "Azure Kubernetes Service (AKS) visualization in\r\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\r\nclusters directly within the Azure networking experience. Customers can now\r\nexplore their Kubernetes environments, including th",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure VNet Flow Log - Filtering ",
-    "link": "https://azure.microsoft.com/updates?id=527805",
-    "description": "VNet Flow Log captures IP\r\ntraffic flowing through VNets, Subnets, & NICs for monitoring, troubleshooting,\r\nnetwork optimization, security, and compliance needs. This release introduces advanced filtering\r\ncapabilities in VNet Flow Logs, empowering users wit",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: ExpressRoute Scalable Gateway",
-    "link": "https://azure.microsoft.com/updates?id=526729",
-    "description": "ExpressRoute Scalable Gateway (ErGwScale) is our\r\nnext-generation offering that brings flexibility, performance, and operational\r\nsimplicity to Virtual Network Gateway deployments. With this release, you can\r\ndynamically scale gateway infrastructure to meet ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Container Registry Repository Permissions with Attribute-based Access Control (ABAC)",
-    "link": "https://azure.microsoft.com/updates?id=526644",
-    "description": "Organizations\r\noperating Azure Container Registries (ACR) require least-privilege permissions\r\nover which Microsoft Entra identities can publish or consume container images.\r\nWith ACR repository permissions using attribute-based access control (ABAC),\r\nadmini",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Kubernetes Service desktop ",
-    "link": "https://azure.microsoft.com/updates?id=526242",
-    "description": "AKS desktop delivers a modern, application-centric\r\nexperience for deploying and managing workloads on Azure Kubernetes Service.\r\nBuilt on supported AKS features, best practices, and the open-source Headlamp\r\nproject, it offers a guided, self-service interfa",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Pod sandboxing on AKS ",
-    "link": "https://azure.microsoft.com/updates?id=526237",
-    "description": "Running\r\ncontainerized workloads in shared environments can raise concerns around\r\nsecurity and workload isolation. To address this, AKS now supports pod\r\nsandboxing, enabling customers to run containers in per-workload pod VMs. Each\r\npod VM is isolated from ",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Managed namespaces on AKS ",
-    "link": "https://azure.microsoft.com/updates?id=526232",
-    "description": "Managing\r\nnamespace configurations across AKS clusters has traditionally required manual\r\nsetup and ongoing maintenance, creating complexity and potential for\r\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\r\nenables users to ea",
-    "pubDate": "2025-11-18T17:01:02.000Z",
-    "source": "Azure Updates"
   }
 ]
