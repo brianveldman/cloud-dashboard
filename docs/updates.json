@@ -1,5 +1,12 @@
 [
   {
+    "title": "Changing the physics of cyber defense",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/",
+    "description": "<p>Cyber defense is evolving. Find out how graph-powered strategies and AI can help organizations detect threats faster and improve security hygiene.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/\">Changing the physics of cyber defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-09T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
     "link": "https://azure.microsoft.com/updates?id=536712",
     "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
@@ -691,12 +698,5 @@
     "description": "Announcing Managed Instance on Azure App Service, now in Public Preview! This new capability makes it easy to move web apps to the cloud with minimal configuration—no code rewrites required. Whether your .NET apps run on-premises or in VMs, you can move t",
     "pubDate": "2025-11-18T18:00:28.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-chat",
-    "description": "Use this baseline reference architecture to learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry, the Azure AI Agent Service, Azure OpenAI models, and Azure App Service.",
-    "pubDate": "2025-11-18T17:28:09.000Z",
-    "source": "Azure Architecture"
   }
 ]
