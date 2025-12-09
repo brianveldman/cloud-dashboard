@@ -119,6 +119,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advancing Microsoft 365: New capabilities and pricing update",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
+    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-04T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
     "link": "https://azure.microsoft.com/updates?id=499438",
     "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
@@ -689,13 +696,6 @@
     "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-landing-zone",
     "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI models, and Azure App Service chat architecture in an Azure landing zone.",
-    "pubDate": "2025-11-18T17:28:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Basic Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat",
-    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
     "pubDate": "2025-11-18T17:28:09.000Z",
     "source": "Azure Architecture"
   }
