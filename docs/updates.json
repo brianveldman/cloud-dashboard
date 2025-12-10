@@ -140,6 +140,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advancing Microsoft 365: New capabilities and pricing update",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
+    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-04T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
     "link": "https://azure.microsoft.com/updates?id=499438",
     "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
@@ -222,6 +229,13 @@
     "description": "<p>Explore Mistral Large 3 in Azure—open-source, long-context, multimodal AI built for reliable enterprise workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/\">Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-12-02T18:02:30.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Microsoft 365 Copilot Business: The future of work for small businesses",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/",
+    "description": "<p>We’re excited to announce the general availability of Microsoft 365 Copilot Business—a comprehensive, full-featured AI solution built for SMBs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/\">Microsoft 365 Copilot Business: The future of work for small businesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-02T17:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "How to build forward-thinking cybersecurity teams for tomorrow",
@@ -684,19 +698,5 @@
     "description": "Introducing smart tier Public Preview for account level\r\ntiering Announcing the public preview of smart\r\ntier for Azure Blob Storage and Azure Data Lake Storage (ADLS). Smart tier\r\nis a fully managed and automated data tiering solution, avoiding manual tier\r\n",
     "pubDate": "2025-11-18T18:00:28.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Managed Instance on Azure App Service",
-    "link": "https://azure.microsoft.com/updates?id=523623",
-    "description": "Announcing Managed Instance on Azure App Service, now in Public Preview! This new capability makes it easy to move web apps to the cloud with minimal configuration—no code rewrites required. Whether your .NET apps run on-premises or in VMs, you can move t",
-    "pubDate": "2025-11-18T18:00:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-ai-foundry-chat",
-    "description": "Use this baseline reference architecture to learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry, the Azure AI Agent Service, Azure OpenAI models, and Azure App Service.",
-    "pubDate": "2025-11-18T17:28:09.000Z",
-    "source": "Azure Architecture"
   }
 ]
