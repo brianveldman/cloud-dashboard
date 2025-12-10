@@ -315,13 +315,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
-    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-24T18:53:42.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
     "link": "https://azure.microsoft.com/updates?id=533437",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -696,6 +689,13 @@
     "title": "Basic Microsoft Foundry Chat Reference Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-azure-ai-foundry-chat",
     "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
+    "pubDate": "2025-11-18T17:28:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AI Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
+    "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
     "pubDate": "2025-11-18T17:28:09.000Z",
     "source": "Azure Architecture"
   }
