@@ -1,5 +1,12 @@
 [
   {
+    "title": "Imposter for hire: How fake people can gain very real access",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
+    "description": "<p>Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/\">Imposter for hire: How fake people can gain very real access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "From awareness to action: Building a security-first culture for the agentic AI era",
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/",
     "description": "<p>The insights gained from Cybersecurity Awareness Month, right through to Microsoft Ignite 2025, demonstrate that security remains a top priority for business leaders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/\">From awareness to action: Building a security-first culture for the agentic AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -446,13 +453,6 @@
     "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
     "pubDate": "2025-11-21T17:50:59.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/",
-    "description": "<p>We’re happy to share that Microsoft has been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/\">Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-11-21T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Develop a RAG Solution - Chunking Phase",
