@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams ",
+    "link": "https://azure.microsoft.com/updates?id=536907",
+    "description": "You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. This enhancement delivers timely, actionable data directly into team workflows, reducing the need to check e",
+    "pubDate": "2025-12-11T20:30:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
+    "link": "https://azure.microsoft.com/updates?id=541784",
+    "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
+    "pubDate": "2025-12-11T18:00:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Imposter for hire: How fake people can gain very real access",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
     "description": "<p>Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/\">Imposter for hire: How fake people can gain very real access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -12,6 +26,13 @@
     "description": "<p>The insights gained from Cybersecurity Awareness Month, right through to Microsoft Ignite 2025, demonstrate that security remains a top priority for business leaders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/\">From awareness to action: Building a security-first culture for the agentic AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-10T18:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-10T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Clarity in complexity: New insights for transparent email security",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=527635",
     "description": "Announcing the public preview of A2A API support in Azure API Management.\r\nWith this new capability, organizations can manage and govern agent APIs\r\nalongside other API types — AI model APIs, Model Context Protocol (MCP) tools,\r\nand traditional APIs such as ",
     "pubDate": "2025-11-19T17:00:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Claude in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=532303",
-    "description": "Claude models by Anthropic are now\r\navailable for Public Preview in Microsoft Foundry, expanding the platform’s unified ecosystem of\r\nfrontier AI. Enterprises can access Claude Sonnet 4.5, Opus 4.1, and Haiku 4.5\r\nfor advanced long-context reasoning, coding,",
-    "pubDate": "2025-11-19T00:00:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Copilot agents - a closer look at the deployment agent ",
-    "link": "https://azure.microsoft.com/updates?id=526751",
-    "description": "Following our Azure Copilot announcement introducing agentic\r\ncapabilities, this update focuses on one of the six new agents: the deployment\r\nagent. The deployment agent helps you discover, plan, and deploy cloud\r\nworkloads faster and with confidence using n",
-    "pubDate": "2025-11-18T20:15:19.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: Azure HorizonDB ",
-    "link": "https://azure.microsoft.com/updates?id=529806",
-    "description": "Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance than open-source PostgreSQL, and rapid compute scalability to 3,072 vCores. Now in private preview, Azure ",
-    "pubDate": "2025-11-18T18:00:28.000Z",
     "source": "Azure Updates"
   }
 ]
