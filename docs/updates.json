@@ -28,6 +28,13 @@
     "source": "Security"
   },
   {
+    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
+    "description": "<p>Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand for cloud and AI services.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/\">Microsoft’s commitment to supporting cloud infrastructure demand in the United States</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-09T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
     "link": "https://azure.microsoft.com/updates?id=536712",
     "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
@@ -689,13 +696,6 @@
     "title": "[In development] Private Preview: Azure HorizonDB ",
     "link": "https://azure.microsoft.com/updates?id=529806",
     "description": "Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance than open-source PostgreSQL, and rapid compute scalability to 3,072 vCores. Now in private preview, Azure ",
-    "pubDate": "2025-11-18T18:00:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Private Marketplace for VS Code",
-    "link": "https://azure.microsoft.com/updates?id=526909",
-    "description": "The VS Code Private Marketplace is a secure, enterprise-ready way to host and manage extensions internally—fully integrated with VS Code. Teams can self-host, deploy easily, and manage updates with flexibility and control.Learn more.",
     "pubDate": "2025-11-18T18:00:28.000Z",
     "source": "Azure Updates"
   }
