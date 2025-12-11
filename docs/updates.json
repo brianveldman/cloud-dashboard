@@ -7,13 +7,6 @@
     "source": "Security"
   },
   {
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Clarity in complexity: New insights for transparent email security",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/10/clarity-in-complexity-new-insights-for-transparent-email-security/",
     "description": "<p>Microsoft’s latest benchmarking report reveals how layered email defenses perform, offering real-world insights to strengthen protection and reduce risk.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/10/clarity-in-complexity-new-insights-for-transparent-email-security/\">Clarity in complexity: New insights for transparent email security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -33,13 +26,6 @@
     "description": "<p>Cyber defense is evolving. Find out how graph-powered strategies and AI can help organizations detect threats faster and improve security hygiene.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/\">Changing the physics of cyber defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-09T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "description": "<p>Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand for cloud and AI services.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/\">Microsoft’s commitment to supporting cloud infrastructure demand in the United States</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-09T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=526751",
     "description": "Following our Azure Copilot announcement introducing agentic\r\ncapabilities, this update focuses on one of the six new agents: the deployment\r\nagent. The deployment agent helps you discover, plan, and deploy cloud\r\nworkloads faster and with confidence using n",
     "pubDate": "2025-11-18T20:15:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: Azure HorizonDB ",
+    "link": "https://azure.microsoft.com/updates?id=529806",
+    "description": "Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance than open-source PostgreSQL, and rapid compute scalability to 3,072 vCores. Now in private preview, Azure ",
+    "pubDate": "2025-11-18T18:00:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Private Marketplace for VS Code",
+    "link": "https://azure.microsoft.com/updates?id=526909",
+    "description": "The VS Code Private Marketplace is a secure, enterprise-ready way to host and manage extensions internally—fully integrated with VS Code. Teams can self-host, deploy easily, and manage updates with flexibility and control.Learn more.",
+    "pubDate": "2025-11-18T18:00:28.000Z",
     "source": "Azure Updates"
   }
 ]
