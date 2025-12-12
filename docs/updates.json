@@ -14,25 +14,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
-    "description": "<p>Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready features empower developers and technical leaders.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/\">Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T18:18:05.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
     "link": "https://azure.microsoft.com/updates?id=541784",
     "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
     "pubDate": "2025-12-11T18:00:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
-    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T18:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Imposter for hire: How fake people can gain very real access",
@@ -215,13 +201,6 @@
     "description": "Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage to deliver an enterprise-ready SaaS experience with minimal infrast",
     "pubDate": "2025-12-04T16:15:01.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Advancing Microsoft 365: New capabilities and pricing update",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
-    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-04T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
@@ -697,6 +676,27 @@
     "link": "https://azure.microsoft.com/updates?id=532188",
     "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
     "pubDate": "2025-11-19T17:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: TLS and TCP termination on Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=532202",
+    "description": "Azure Application Gateway has introduced general availability support\r\nfor TLS and TCP protocol termination. This enhancement enables you to load\r\nbalance and securely process non-HTTP(S) traffic for applications that rely on\r\nTCP or TLS protocols. The gatew",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft Foundry data connection for Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=527678",
+    "description": "Azure Databricks Genie is now integrated with Microsoft Foundry and in public preview. You can now connect Genie spaces directly to Microsoft Foundry agents using Model Context Protocol (MCP), giving you seamless access to trusted data for building intell",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Databricks Genie in Copilot Studio ",
+    "link": "https://azure.microsoft.com/updates?id=527668",
+    "description": "Azure Databricks Genie is now available in Microsoft Copilot Studio, giving you direct access to intelligent, enterprise-grade AI answers across your full Azure Databricks data estate. This integration unlocks enterprise-grade, conversational analytics ac",
+    "pubDate": "2025-11-19T17:00:30.000Z",
     "source": "Azure Updates"
   }
 ]
