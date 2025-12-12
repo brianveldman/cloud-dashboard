@@ -1,17 +1,17 @@
 [
   {
+    "title": "Update: The retirement date for default outbound access has been extended to March 31, 2026.",
+    "link": "https://azure.microsoft.com/updates?id=515484",
+    "description": "The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) update and replaces the previously communicated September 30, 2025 date. Starting March 31, 2026, newly c",
+    "pubDate": "2025-12-12T11:30:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams ",
     "link": "https://azure.microsoft.com/updates?id=536907",
     "description": "You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. This enhancement delivers timely, actionable data directly into team workflows, reducing the need to check e",
     "pubDate": "2025-12-11T20:30:24.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
-    "description": "<p>Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready features empower developers and technical leaders.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/\">Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T18:18:05.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
@@ -28,25 +28,11 @@
     "source": "Security"
   },
   {
-    "title": "Azure Storage innovations: Unlocking the future of data",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
-    "description": "<p>Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/\">Azure Storage innovations: Unlocking the future of data</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "From awareness to action: Building a security-first culture for the agentic AI era",
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/",
     "description": "<p>The insights gained from Cybersecurity Awareness Month, right through to Microsoft Ignite 2025, demonstrate that security remains a top priority for business leaders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/\">From awareness to action: Building a security-first culture for the agentic AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-10T18:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Clarity in complexity: New insights for transparent email security",
@@ -696,6 +682,20 @@
     "title": "[In preview] Public Preview: Microsoft Foundry data connection for Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=527678",
     "description": "Azure Databricks Genie is now integrated with Microsoft Foundry and in public preview. You can now connect Genie spaces directly to Microsoft Foundry agents using Model Context Protocol (MCP), giving you seamless access to trusted data for building intell",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Databricks Genie in Copilot Studio ",
+    "link": "https://azure.microsoft.com/updates?id=527668",
+    "description": "Azure Databricks Genie is now available in Microsoft Copilot Studio, giving you direct access to intelligent, enterprise-grade AI answers across your full Azure Databricks data estate. This integration unlocks enterprise-grade, conversational analytics ac",
+    "pubDate": "2025-11-19T17:00:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure API Management adds support for A2A Agent APIs",
+    "link": "https://azure.microsoft.com/updates?id=527635",
+    "description": "Announcing the public preview of A2A API support in Azure API Management.\r\nWith this new capability, organizations can manage and govern agent APIs\r\nalongside other API types — AI model APIs, Model Context Protocol (MCP) tools,\r\nand traditional APIs such as ",
     "pubDate": "2025-11-19T17:00:30.000Z",
     "source": "Azure Updates"
   }
