@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Imposter for hire: How fake people can gain very real access",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
     "description": "<p>Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/\">Imposter for hire: How fake people can gain very real access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=532188",
     "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
     "pubDate": "2025-11-19T17:30:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: TLS and TCP termination on Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=532202",
-    "description": "Azure Application Gateway has introduced general availability support\r\nfor TLS and TCP protocol termination. This enhancement enables you to load\r\nbalance and securely process non-HTTP(S) traffic for applications that rely on\r\nTCP or TLS protocols. The gatew",
-    "pubDate": "2025-11-19T17:00:30.000Z",
     "source": "Azure Updates"
   }
 ]
