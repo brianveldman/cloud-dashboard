@@ -1,5 +1,19 @@
 [
   {
+    "title": "Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/",
+    "description": "<p>CVE-2025-55182 (also referred to as React2Shell and includes CVE-2025-66478, which was merged into it) is a critical pre-authentication remote code execution (RCE) vulnerability affecting React Server Components and related frameworks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/\">Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T19:35:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense",
+    "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-named-an-overall-leader-in-kuppingercole-leadership-compass-for-genera/4478093",
+    "description": "<p>Today, we are proud to share that Microsoft has been recognized as an overall leader in the KuppingerCole Leadership Compass for Generative AI Defense.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-named-an-overall-leader-in-kuppingercole-leadership-compass-for-genera/4478093\">Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T18:05:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Update: The retirement date for default outbound access has been extended to March 31, 2026.",
     "link": "https://azure.microsoft.com/updates?id=515484",
     "description": "The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) update and replaces the previously communicated September 30, 2025 date. Starting March 31, 2026, newly c",
@@ -26,6 +40,13 @@
     "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
     "pubDate": "2025-12-11T18:00:36.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Imposter for hire: How fake people can gain very real access",
@@ -308,13 +329,6 @@
     "source": "Microsoft 365"
   },
   {
-    "title": "How to build forward-thinking cybersecurity teams for tomorrow",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/",
-    "description": "<p>To secure the future, we must future-proof our cybersecurity talent and develop teams that are agile, innovative, and perpetually learning.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/02/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/\">How to build forward-thinking cybersecurity teams for tomorrow</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-02T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Migrate Cloud Workloads Across Security Tenants",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-cloud-workloads-across-security-tenants",
     "description": "Learn how to define and implement a cross-tenant workload migration strategy to address business transformations like acquisitions or divestitures.",
@@ -355,13 +369,6 @@
     "description": "This article describes approaches for messaging in a multitenant solution.",
     "pubDate": "2025-11-26T03:18:51.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Charting the future of SOC: Human and AI collaboration for better security",
-    "link": "https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688",
-    "description": "<p>This blog shares our journey and insights from building autonomous AI agents for MDR operations and explores how the shift to a GenAI-powered SOC redefines collaboration between humans and AI.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688\">Charting the future of SOC: Human and AI collaboration for better security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-11-25T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=532188",
     "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
     "pubDate": "2025-11-19T17:30:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: TLS and TCP termination on Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=532202",
-    "description": "Azure Application Gateway has introduced general availability support\r\nfor TLS and TCP protocol termination. This enhancement enables you to load\r\nbalance and securely process non-HTTP(S) traffic for applications that rely on\r\nTCP or TLS protocols. The gatew",
-    "pubDate": "2025-11-19T17:00:30.000Z",
     "source": "Azure Updates"
   }
 ]
