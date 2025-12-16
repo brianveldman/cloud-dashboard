@@ -14,6 +14,13 @@
     "source": "Security"
   },
   {
+    "title": "Architectural Considerations for Identity in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
+    "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
+    "pubDate": "2025-12-15T16:31:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Update: The retirement date for default outbound access has been extended to March 31, 2026.",
     "link": "https://azure.microsoft.com/updates?id=515484",
     "description": "The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) update and replaces the previously communicated September 30, 2025 date. Starting March 31, 2026, newly c",
@@ -33,6 +40,13 @@
     "description": "<p>Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready features empower developers and technical leaders.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/\">Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-12-11T18:18:05.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Reliable Web App Pattern for .NET",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance",
+    "description": "Implement the Reliable Web App pattern for .NET. Migrate (replatform) web apps to the cloud with prescriptive architecture, code, and configuration guidance.",
+    "pubDate": "2025-12-11T18:10:47.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
@@ -56,11 +70,32 @@
     "source": "Security"
   },
   {
+    "title": "Replicate Mainframe and Midrange Data to Azure by Using Qlik",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-midrange-data-replication-azure-qlik",
+    "description": "Learn how to use Qlik Replicate to migrate mainframe and midrange systems to the cloud or extend those systems by using cloud applications.",
+    "pubDate": "2025-12-11T16:11:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Azure Storage innovations: Unlocking the future of data",
     "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
     "description": "<p>Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/\">Azure Storage innovations: Unlocking the future of data</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-12-11T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Choose a batch processing technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/batch-processing",
+    "description": "Compare technology choices for big data batch processing in Azure, including key selection criteria and a capability matrix.",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Integrate IBM mainframe and midrange message queues with Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/integrate-ibm-message-queues-azure",
+    "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "From awareness to action: Building a security-first culture for the agentic AI era",
@@ -91,6 +126,13 @@
     "source": "Security"
   },
   {
+    "title": "DevSecOps for Infrastructure as Code (IaC)",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
+    "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
+    "pubDate": "2025-12-09T17:09:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Changing the physics of cyber defense",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/",
     "description": "<p>Cyber defense is evolving. Find out how graph-powered strategies and AI can help organizations detect threats faster and improve security hygiene.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/\">Changing the physics of cyber defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -110,6 +152,27 @@
     "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
     "pubDate": "2025-12-09T13:15:11.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Design to Support Foundation Model Life Cycles",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/manage-foundation-models-lifecycle",
+    "description": "Learn about how to manage both new model versions and retired model versions in your generative AI application infrastructure.",
+    "pubDate": "2025-12-08T22:00:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure Firewall to help protect an AKS cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-firewall",
+    "description": "Deploy an AKS cluster in a hub-and-spoke network topology by using Terraform and Azure DevOps. Help protect inbound and outbound traffic by using Azure Firewall.",
+    "pubDate": "2025-12-08T22:00:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AKS baseline for multiregion clusters",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-multi-region/aks-multi-cluster",
+    "description": "Run Azure Kubernetes Service (AKS) cluster in multiple regions to achieve high availability.",
+    "pubDate": "2025-12-08T22:00:02.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Multiregion BCDR for Azure Virtual Desktop",
@@ -634,69 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=525620",
     "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
     "pubDate": "2025-11-20T13:45:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure NetApp Files cache volumes    ",
-    "link": "https://azure.microsoft.com/updates?id=523917",
-    "description": "Azure NetApp Files cache volumes are now available in public preview. The cache volumes feature is a new capability built on NetApp’s ONTAP FlexCache technology that provides a persistent, high-performance cache in Azure for data stored on ONTAP-based sto",
-    "pubDate": "2025-11-20T13:45:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
-    "link": "https://azure.microsoft.com/updates?id=530174",
-    "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor now supports Azure Arc-enabled Kubernetes with OpenShift",
-    "pubDate": "2025-11-20T08:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server",
-    "link": "https://azure.microsoft.com/updates?id=529381",
-    "description": "Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developers and infrastructure teams to manage Azure resources—including Azure Managed Lustre file systems—using na",
-    "pubDate": "2025-11-19T21:00:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre",
-    "link": "https://azure.microsoft.com/updates?id=529368",
-    "description": "CSI Dynamic Provisioning for Azure Managed Lustre (AMLFS) is now generally available. With dynamic provisioning, Kubernetes applications can request AMLFS-backed persistent volumes on demand using standard StorageClass and PersistentVolumeClaim objects—no",
-    "pubDate": "2025-11-19T21:00:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: 20 MB/s/TiB Performance Tier for Azure Managed Lustre ",
-    "link": "https://azure.microsoft.com/updates?id=529359",
-    "description": "Azure Managed Lustre now offers a new 20 MB/s/TiB performance tier in public preview, designed to meet the demands of large-scale AI and high-performance computing (HPC) workloads. This tier enables customers to provision file systems up to 25 PiB in a si",
-    "pubDate": "2025-11-19T21:00:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Auto-import for Azure Managed Lustre",
-    "link": "https://azure.microsoft.com/updates?id=529342",
-    "description": "The Auto-import feature for Azure Managed Lustre (AMLFS) is now available in public preview. Auto-import enables seamless, policy-driven synchronization of data from Azure Blob Storage containers into AMLFS clusters, automatically reflecting new, changed,",
-    "pubDate": "2025-11-19T20:00:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Recommended alerts for Azure Monitor Workspace",
-    "link": "https://azure.microsoft.com/updates?id=515505",
-    "description": "Azure Monitor now offers one-click enablement of recommended alerts directly in the Azure Portal for Azure Monitor Managed service for Prometheus customers. These alerts enable you to monitor the ingestion limits for Azure Monitor Workspace and avoid metr",
-    "pubDate": "2025-11-19T17:45:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Use Azure Kubernetes Service to host GPU-based workloads",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
-    "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
-    "pubDate": "2025-11-19T17:38:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Managed Redis integration with Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=532188",
-    "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
-    "pubDate": "2025-11-19T17:30:18.000Z",
     "source": "Azure Updates"
   }
 ]
