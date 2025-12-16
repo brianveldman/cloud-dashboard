@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
+    "link": "https://azure.microsoft.com/updates?id=537106",
+    "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
+    "pubDate": "2025-12-16T15:45:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure NetApp Files advanced ransomware protection ",
+    "link": "https://azure.microsoft.com/updates?id=536699",
+    "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
+    "pubDate": "2025-12-16T15:45:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/",
     "description": "<p>CVE-2025-55182 (also referred to as React2Shell and includes CVE-2025-66478, which was merged into it) is a critical pre-authentication remote code execution (RCE) vulnerability affecting React Server Components and related frameworks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/\">Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -684,19 +698,5 @@
     "description": "Learn about MLOps maturity levels, from manual processes to automated MLOps with continuous improvement and optimization.",
     "pubDate": "2025-11-20T15:50:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images ",
-    "link": "https://azure.microsoft.com/updates?id=529797",
-    "description": "Announcing that\r\nTrusted Launch supported Arm64 Images are now available in the Azure\r\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\r\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost\r\n",
-    "pubDate": "2025-11-20T15:00:59.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support) ",
-    "link": "https://azure.microsoft.com/updates?id=525620",
-    "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
-    "pubDate": "2025-11-20T13:45:47.000Z",
-    "source": "Azure Updates"
   }
 ]
