@@ -70,6 +70,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Imposter for hire: How fake people can gain very real access",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
     "description": "<p>Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/\">Imposter for hire: How fake people can gain very real access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Learn about MLOps maturity levels, from manual processes to automated MLOps with continuous improvement and optimization.",
     "pubDate": "2025-11-20T15:50:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images ",
-    "link": "https://azure.microsoft.com/updates?id=529797",
-    "description": "Announcing that\r\nTrusted Launch supported Arm64 Images are now available in the Azure\r\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\r\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost\r\n",
-    "pubDate": "2025-11-20T15:00:59.000Z",
-    "source": "Azure Updates"
   }
 ]
