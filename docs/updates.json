@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js ",
+    "link": "https://azure.microsoft.com/updates?id=541427",
+    "description": "Azure\r\nFunctions triggers and bindings enable you to easily integrate event and data\r\nsources with function applications.   Now that SDK\r\ntype bindings support for Azure Blob Storage is available, we’re also\r\nintroducing support for Service Bus SDK type bindi",
+    "pubDate": "2025-12-17T18:45:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Avaailable: Azure SQL updates for early December 2025  ",
+    "link": "https://azure.microsoft.com/updates?id=541818",
+    "description": "In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Activity Log in Azure SQL Database to troubleshoot and optimize access patterns. Learn more.  ",
+    "pubDate": "2025-12-17T18:30:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB ",
+    "link": "https://azure.microsoft.com/updates?id=541813",
+    "description": "You can now simplify how you diagnose and resolve issues in your applications running on Azure Cosmos DB with the introduction of the Azure Cosmos DB Site Reliability Engineering (SRE) Agent, built on the Azure SRE Agent platform. This new capability give",
+    "pubDate": "2025-12-17T18:30:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Access Fabric: A modern approach to identity and network access",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/",
+    "description": "<p>An Access Fabric is a unified access security solution that continuously decides who can access what, from where, and under what conditions—in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/\">Access Fabric: A modern approach to identity and network access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-17T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
@@ -68,6 +96,13 @@
     "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
     "pubDate": "2025-12-11T18:00:36.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Imposter for hire: How fake people can gain very real access",
@@ -285,13 +320,6 @@
     "description": "The Azure MCP (Model Context Protocol) Server provides a\r\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\r\nnatural language prompts. This feature allows users to interact with confidential\r\nledger without the nee",
     "pubDate": "2025-12-04T17:00:18.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Cybersecurity strategies to prioritize now​​ ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/04/cybersecurity-strategies-to-prioritize-now/",
-    "description": "<p>In this article, Damon Becknel, Vice President and Deputy CISO for Regulated Industries at Microsoft, outlines four things to prioritize doing now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/04/cybersecurity-strategies-to-prioritize-now/\">Cybersecurity strategies to prioritize now​​ </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-04T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Serverless workspaces in Azure Databricks",
@@ -669,34 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=530183",
     "description": "Azure\r\nDNS security policy Threat Intelligence feed is now generally available.\r\nProtect against known malicious domains with Microsoft’s managed Threat\r\nIntelligent feed.  Smart Protection  \r\n Almost all attacks begin with\r\n     a DNS query. Threat Intelligen",
     "pubDate": "2025-11-20T17:00:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "API Design",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/api-design",
-    "description": "Learn about API design for microservices, including REST and RPC trade-offs, versioning strategies, and mapping REST to domain-driven design.",
-    "pubDate": "2025-11-20T16:33:31.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Sphere OS version 25.10 is now available",
-    "link": "https://azure.microsoft.com/updates?id=522390",
-    "description": "Azure Sphere OS version 25.10 is now available in the Retail feed. This release includes updates to Azure Sphere OS only; it does not include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.Th",
-    "pubDate": "2025-11-20T16:00:12.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "MLOps Maturity Model",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/mlops-maturity-model",
-    "description": "Learn about MLOps maturity levels, from manual processes to automated MLOps with continuous improvement and optimization.",
-    "pubDate": "2025-11-20T15:50:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images ",
-    "link": "https://azure.microsoft.com/updates?id=529797",
-    "description": "Announcing that\r\nTrusted Launch supported Arm64 Images are now available in the Azure\r\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\r\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost\r\n",
-    "pubDate": "2025-11-20T15:00:59.000Z",
     "source": "Azure Updates"
   }
 ]
