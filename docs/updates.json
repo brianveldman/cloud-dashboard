@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover",
+    "link": "https://azure.microsoft.com/updates?id=542813",
+    "description": "Azure Storage Mover’s new Azure Blob container-to-container\r\nmigration feature is now in Public Preview, empowering organizations to move\r\ndata between two Blob containers within the same or different storage accounts, subscriptions or Azure regions securel",
+    "pubDate": "2025-12-18T18:45:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "New Microsoft e-book: 3 reasons point solutions are holding you back",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/",
     "description": "<p>Explore the new Microsoft e-book on how a unified, AI-ready platform delivers speed, resilience, and measurable security gains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/\">New Microsoft e-book: 3 reasons point solutions are holding you back</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Learn about the infrastructure and DevOps considerations to deploy and run a microservices architecture on Azure Kubernetes Service (AKS).",
     "pubDate": "2025-11-20T17:46:14.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: DNS security policy Threat Intelligence feed",
-    "link": "https://azure.microsoft.com/updates?id=530183",
-    "description": "Azure\r\nDNS security policy Threat Intelligence feed is now generally available.\r\nProtect against known malicious domains with Microsoft’s managed Threat\r\nIntelligent feed.  Smart Protection  \r\n Almost all attacks begin with\r\n     a DNS query. Threat Intelligen",
-    "pubDate": "2025-11-20T17:00:13.000Z",
-    "source": "Azure Updates"
   }
 ]
