@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Microsoft e-book: 3 reasons point solutions are holding you back",
+    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/",
+    "description": "<p>Explore the new Microsoft e-book on how a unified, AI-ready platform delivers speed, resilience, and measurable security gains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/\">New Microsoft e-book: 3 reasons point solutions are holding you back</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2025-12-18T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js ",
     "link": "https://azure.microsoft.com/updates?id=541427",
     "description": "Azure\r\nFunctions triggers and bindings enable you to easily integrate event and data\r\nsources with function applications.   Now that SDK\r\ntype bindings support for Azure Blob Storage is available, we’re also\r\nintroducing support for Service Bus SDK type bindi",
@@ -292,13 +299,6 @@
     "description": "Second article in a series covering disaster recovery for an Azure data platform",
     "pubDate": "2025-12-05T20:18:28.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/",
-    "description": "<p>Microsoft has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Email Security, which we believe highlights the innovative capabilities of Microsoft Defender for Office 365.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/\">Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-05T20:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Baseline architecture for an AKS cluster",
