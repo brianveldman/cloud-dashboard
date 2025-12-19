@@ -42,6 +42,13 @@
     "source": "Security"
   },
   {
+    "title": "Azure updates for partners: December 2025",
+    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+    "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-16T18:23:05.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
@@ -689,13 +696,6 @@
     "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
     "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
-    "pubDate": "2025-11-20T17:46:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microservices Architecture on Azure Kubernetes Service",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices",
-    "description": "Learn about the infrastructure and DevOps considerations to deploy and run a microservices architecture on Azure Kubernetes Service (AKS).",
     "pubDate": "2025-11-20T17:46:14.000Z",
     "source": "Azure Architecture"
   }
