@@ -14,13 +14,6 @@
     "source": "Security"
   },
   {
-    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
-    "description": "<p>We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/\">Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-17T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js ",
     "link": "https://azure.microsoft.com/updates?id=541427",
     "description": "Azure\r\nFunctions triggers and bindings enable you to easily integrate event and data\r\nsources with function applications.   Now that SDK\r\ntype bindings support for Azure Blob Storage is available, we’re also\r\nintroducing support for Service Bus SDK type bindi",
@@ -47,13 +40,6 @@
     "description": "<p>An Access Fabric is a unified access security solution that continuously decides who can access what, from where, and under what conditions—in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/\">Access Fabric: A modern approach to identity and network access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-17T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure updates for partners: December 2025",
-    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-    "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-16T18:23:05.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
@@ -124,6 +110,13 @@
     "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
     "pubDate": "2025-12-11T18:00:36.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Imposter for hire: How fake people can gain very real access",
@@ -530,6 +523,13 @@
     "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
     "pubDate": "2025-11-24T19:28:10.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
+    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-11-24T18:53:42.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
