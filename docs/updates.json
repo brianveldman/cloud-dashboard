@@ -1,5 +1,12 @@
 [
   {
+    "title": "ACTIVE – DNS Resolution Issues for Azure Domains via OpenDNS",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "Customers using OpenDNS are experiencing DNS resolution failures when accessing portal.azure.com and other Azure services.&nbsp;This has been identified as an issue with an external DNS provider, and we are currently seeing signs of recovery. As a workaround, using an alternate DNS resolver may restore connectivity. Impact start time: 12:23 UTC, 30 December 2025. Impacted region: Global. Our Engineering teams continue to investigate. We will provide updates as the situation evolves.",
+    "pubDate": "2025-12-30T14:25:52.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Retirement: Deprecation of Custom Resource Providers",
     "link": "https://azure.microsoft.com/updates?id=513892",
     "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
@@ -89,13 +96,6 @@
     "description": "<p>Today, we are proud to share that Microsoft has been recognized as an overall leader in the KuppingerCole Leadership Compass for Generative AI Defense.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-named-an-overall-leader-in-kuppingercole-leadership-compass-for-genera/4478093\">Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-15T18:05:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "What’s new in Microsoft Copilot Studio: November 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
-    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-15T17:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
