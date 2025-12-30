@@ -1,12 +1,5 @@
 [
   {
-    "title": "ACTIVE – DNS Resolution Issues for Azure Domains via OpenDNS",
-    "link": "https://status.azure.com/en-us/status/",
-    "description": "Customers using OpenDNS are experiencing DNS resolution failures when accessing portal.azure.com and other Azure services.&nbsp;This has been identified as an issue with an external DNS provider, and we are currently seeing signs of recovery. As a workaround, using an alternate DNS resolver may restore connectivity. Impact start time: 12:23 UTC, 30 December 2025. Impacted region: Global. Our Engineering teams continue to investigate. We will provide updates as the situation evolves.",
-    "pubDate": "2025-12-30T14:25:52.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "Retirement: Deprecation of Custom Resource Providers",
     "link": "https://azure.microsoft.com/updates?id=513892",
     "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS",
     "link": "https://azure.microsoft.com/updates?id=523115",
     "description": "To address the growing need for granular traffic control in\r\nmicroservices architectures, Azure Container Networking Services now offers\r\nLayer 7 Policy as a generally available feature. This capability empowers\r\ncustomers to enforce fine-grained traffic con",
+    "pubDate": "2025-11-20T18:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure NetApp Files single file restore from backup ",
+    "link": "https://azure.microsoft.com/updates?id=522077",
+    "description": "With Azure NetApp Files single file restore from backup, you can restore individual files from Azure NetApp Files backup vault without needing to restore an entire volume. By restoring only the necessary files, you can save time and cost needed for restor",
     "pubDate": "2025-11-20T18:15:25.000Z",
     "source": "Azure Updates"
   }
