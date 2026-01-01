@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
+    "link": "https://azure.microsoft.com/updates?id=536560",
+    "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
+    "pubDate": "2025-12-31T21:00:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Geo-Replication for Azure Service Bus Premium",
+    "link": "https://azure.microsoft.com/updates?id=490149",
+    "description": "The Geo-Replication feature for Azure Service Bus in the\r\npremium tier is now generally available. The Service Bus Geo-Replication\r\nfeature is one of the options to insulate\r\nAzure Service Bus applications against outages and disasters, providing\r\nreplication",
+    "pubDate": "2025-12-31T21:00:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Austria East and in a second Availability Zone in Japan West ",
+    "link": "https://azure.microsoft.com/updates?id=544080",
+    "description": "Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation general-purpose block storage solution, offers sub-millisecond latencies and exceptional price performance for ",
+    "pubDate": "2025-12-31T20:45:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Deprecation of Custom Resource Providers",
     "link": "https://azure.microsoft.com/updates?id=513892",
     "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
@@ -19,6 +40,13 @@
     "description": "<p>Explore the new Microsoft e-book on how a unified, AI-ready platform delivers speed, resilience, and measurable security gains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/\">New Microsoft e-book: 3 reasons point solutions are holding you back</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-18T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
+    "description": "<p>We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/\">Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-17T19:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js ",
@@ -47,6 +75,13 @@
     "description": "<p>An Access Fabric is a unified access security solution that continuously decides who can access what, from where, and under what conditions—in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/\">Access Fabric: A modern approach to identity and network access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-17T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Azure updates for partners: December 2025",
+    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+    "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-16T18:23:05.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
@@ -532,13 +567,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Introducing Claude Opus 4.5 in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/",
-    "description": "<p>Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/\">Introducing Claude Opus 4.5 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-11-24T18:53:42.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
     "link": "https://azure.microsoft.com/updates?id=533437",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -670,33 +698,5 @@
     "description": "Cluster-wide Cilium network\r\npolicy for AKS clusters using Azure CNI powered by Cilium is now Generally\r\nAvailable.   Managing consistent network policies across Kubernetes\r\nnamespaces has long been a challenge for platform teams, especially in\r\nmulti-tenant ",
     "pubDate": "2025-11-20T18:30:02.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=523081",
-    "description": "Local redirect policy with Azure\r\nCNI powered by Cilium for AKS is now generally available. Customers running high-scale AKS workloads often experience\r\nlatency and performance bottlenecks due to cross-node traffic routing. The new local\r\nredirect policy add",
-    "pubDate": "2025-11-20T18:30:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS",
-    "link": "https://azure.microsoft.com/updates?id=523115",
-    "description": "To address the growing need for granular traffic control in\r\nmicroservices architectures, Azure Container Networking Services now offers\r\nLayer 7 Policy as a generally available feature. This capability empowers\r\ncustomers to enforce fine-grained traffic con",
-    "pubDate": "2025-11-20T18:15:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure NetApp Files single file restore from backup ",
-    "link": "https://azure.microsoft.com/updates?id=522077",
-    "description": "With Azure NetApp Files single file restore from backup, you can restore individual files from Azure NetApp Files backup vault without needing to restore an entire volume. By restoring only the necessary files, you can save time and cost needed for restor",
-    "pubDate": "2025-11-20T18:15:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
-    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
-    "pubDate": "2025-11-20T17:46:14.000Z",
-    "source": "Azure Architecture"
   }
 ]
