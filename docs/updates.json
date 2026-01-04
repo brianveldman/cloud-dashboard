@@ -112,6 +112,13 @@
     "source": "Security"
   },
   {
+    "title": "What’s new in Microsoft Copilot Studio: November 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
+    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
@@ -152,6 +159,13 @@
     "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
     "pubDate": "2025-12-11T18:00:36.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Imposter for hire: How fake people can gain very real access",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=523152",
     "description": "MCP support for AI toolchain operator add-on is\r\nnow Generally Available.    The AI Toolchain Operator add-on now supports\r\nKAITO inference workspaces with integrated tool calling and Model Context\r\nProtocol (MCP), addressing key challenges around dynamic mo",
     "pubDate": "2025-11-20T18:45:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=523120",
-    "description": "Cluster-wide Cilium network\r\npolicy for AKS clusters using Azure CNI powered by Cilium is now Generally\r\nAvailable.   Managing consistent network policies across Kubernetes\r\nnamespaces has long been a challenge for platform teams, especially in\r\nmulti-tenant ",
-    "pubDate": "2025-11-20T18:30:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=523081",
-    "description": "Local redirect policy with Azure\r\nCNI powered by Cilium for AKS is now generally available. Customers running high-scale AKS workloads often experience\r\nlatency and performance bottlenecks due to cross-node traffic routing. The new local\r\nredirect policy add",
-    "pubDate": "2025-11-20T18:30:02.000Z",
     "source": "Azure Updates"
   }
 ]
