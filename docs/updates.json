@@ -1,5 +1,33 @@
 [
   {
+    "title": "Phishing actors exploit complex routing and misconfigurations to spoof domains",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/",
+    "description": "<p>Threat actors are exploiting complex routing scenarios and misconfigured spoof protections to send spoofed phishing emails, crafted to appear as internally sent messages.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/\">Phishing actors exploit complex routing and misconfigurations to spoof domains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-06T18:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/06/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/",
+    "description": "<p>Announcing Microsoft Defender Experts Suite, a integrated set of expert-led services that helps security teams keep pace with modern cyberattacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/06/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/\">Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-06T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "description": "<p>CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/\">Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-05T23:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Guidance for using Azure Kubernetes Service (AKS) in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/aks",
+    "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
+    "pubDate": "2026-01-02T20:41:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
     "link": "https://azure.microsoft.com/updates?id=536560",
     "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
@@ -28,6 +56,34 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Failure mode analysis",
+    "link": "https://learn.microsoft.com/azure/architecture/resiliency/failure-mode-analysis",
+    "description": "Get information about doing a failure mode analysis (FMA) for cloud solutions that are based on Azure.",
+    "pubDate": "2025-12-23T16:48:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build a Conversation Knowledge Mining Solution by using Azure AI Services",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/unlock-insights-from-conversational-data",
+    "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Azure AI services and Microsoft Foundry.",
+    "pubDate": "2025-12-23T16:14:23.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generate Documents from Your Data",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/generate-documents-from-your-data",
+    "description": "Learn how to build a simple system to generate documents. It combines retrieval, summarization, and generation to support faster document drafting by using AI.",
+    "pubDate": "2025-12-23T16:06:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
+    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
+    "pubDate": "2025-12-19T16:40:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover",
     "link": "https://azure.microsoft.com/updates?id=542813",
     "description": "Azure Storage Mover’s new Azure Blob container-to-container\r\nmigration feature is now in Public Preview, empowering organizations to move\r\ndata between two Blob containers within the same or different storage accounts, subscriptions or Azure regions securel",
@@ -35,11 +91,60 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Automate Document Classification in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
+    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build and Deploy Custom Document Processing Models on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
+    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Overview of Microsoft Machine Learning Products and Technologies",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
+    "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Extract and Map Information from Unstructured Content",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/multi-modal-content-processing",
+    "description": "Learn how to build scalable systems for processing text, images, tables, and graphs with quality checks and human review for professional content workflows.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build a Multiple-Agent Workflow Automation Solution by using Microsoft Agent Framework",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation",
+    "description": "Learn how to design and deploy scalable multi‑agent automation infrastructure by using Microsoft Agent Framework, Azure Container Apps, and Azure AI services.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AI Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
+    "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "New Microsoft e-book: 3 reasons point solutions are holding you back",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/",
     "description": "<p>Explore the new Microsoft e-book on how a unified, AI-ready platform delivers speed, resilience, and measurable security gains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/\">New Microsoft e-book: 3 reasons point solutions are holding you back</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-18T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Design and Develop a RAG Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide",
+    "description": "Learn about what to consider when you design a large language model RAG solution, including each step of the development process and how to evaluate those steps.",
+    "pubDate": "2025-12-17T21:11:36.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
@@ -70,11 +175,46 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Analytics End-to-End with Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
+    "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
+    "pubDate": "2025-12-17T18:22:55.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Access Fabric: A modern approach to identity and network access",
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/",
     "description": "<p>An Access Fabric is a unified access security solution that continuously decides who can access what, from where, and under what conditions—in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/\">Access Fabric: A modern approach to identity and network access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-17T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "DR for Azure Data Platform - Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
+    "description": "Second article in a series covering disaster recovery for an Azure data platform",
+    "pubDate": "2025-12-17T16:45:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DR for Azure Data Platform - Scenario details",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-scenario-details",
+    "description": "Third article in a series covering disaster recovery for an Azure data platform",
+    "pubDate": "2025-12-17T16:45:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Understand Data Models",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/understand-data-store-models",
+    "description": "Learn how to evaluate Azure data store models based on workload patterns, scale, consistency, and governance to guide service selection.",
+    "pubDate": "2025-12-16T21:09:20.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SaaS and Multitenant Solution Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/saas-multitenant-solution-architecture",
+    "description": "This guide provides an overview of the architectural content for software as a service (SaaS), startups, and multitenancy and guidance about how to architect multitenant solutions on Azure.",
+    "pubDate": "2025-12-16T19:10:37.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Azure updates for partners: December 2025",
@@ -96,6 +236,13 @@
     "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Guidance for using Azure Private Link service in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/private-link",
+    "description": "This article describes the features of Azure Private Link that are useful when you work with multitenanted systems, and it provides links to guidance and examples.",
+    "pubDate": "2025-12-16T14:55:31.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components",
@@ -238,13 +385,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Changing the physics of cyber defense",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/",
-    "description": "<p>Cyber defense is evolving. Find out how graph-powered strategies and AI can help organizations detect threats faster and improve security hygiene.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/\">Changing the physics of cyber defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-09T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
     "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
     "description": "<p>Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand for cloud and AI services.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/\">Microsoft’s commitment to supporting cloud infrastructure demand in the United States</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -287,13 +427,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Analytics end-to-end with Azure Synapse",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
-    "description": "Learn how to use Azure Data Services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
-    "pubDate": "2025-12-08T20:14:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
     "title": "Azure Local Baseline Reference Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
     "description": "Learn how to design Azure Local for highly available virtualized and containerized workloads, focusing on reliability and security.",
@@ -329,13 +462,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Stronger together: New Beazley collaboration enhances cyber resilience",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/08/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/",
-    "description": "<p>To bolster security for our customers, we need to align with our ecosystem partners. Our new collaboration with Beazley as an incident response partner is a step in that direction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/08/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/\">Stronger together: New Beazley collaboration enhances cyber resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-08T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.",
     "link": "https://azure.microsoft.com/updates?id=541410",
     "description": "Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning storage accounts to a specific availability zone, enabling high availability, fault isolation, and predictabl",
@@ -346,13 +472,6 @@
     "title": "Caching guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
     "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2025-12-05T20:18:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "DR for Azure Data Platform - Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
-    "description": "Second article in a series covering disaster recovery for an Azure data platform",
     "pubDate": "2025-12-05T20:18:28.000Z",
     "source": "Azure Architecture"
   },
@@ -504,13 +623,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Azure networking updates on security, reliability, and high availability",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/",
-    "description": "<p>The cloud landscape is evolving at an unprecedented pace, driven by the exponential growth of AI workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/\">Azure networking updates on security, reliability, and high availability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-01T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Deploy Microservices to Azure Container Apps",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
     "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
@@ -586,117 +698,5 @@
     "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
     "pubDate": "2025-11-24T17:31:53.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Entra ID support for RDP connections ",
-    "link": "https://azure.microsoft.com/updates?id=526018",
-    "description": "Announcing Azure Bastion now supports Microsoft Entra ID\r\nauthentication for RDP connections to Windows VMs directly in the portal. This update\r\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
-    "pubDate": "2025-11-24T17:15:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose an Azure AI Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
-    "description": "Learn about Azure AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
-    "pubDate": "2025-11-24T17:03:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Load Testing in Italy North",
-    "link": "https://azure.microsoft.com/updates?id=532481",
-    "description": "Azure Load Testing capability in Azure App Testing is now generally available in Italy North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance bottl",
-    "pubDate": "2025-11-24T17:00:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Regex support in T-SQL ",
-    "link": "https://azure.microsoft.com/updates?id=532207",
-    "description": "Boost your SQL queries with powerful regular expressions (regex) support for advanced pattern matching. Now you can use native regex in T-SQL directly in Azure SQL and SQL Server 2025 queries—simplifying code, improving maintainability, and reducing depen",
-    "pubDate": "2025-11-24T17:00:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure MCP Server for Azure Database for MySQL ",
-    "link": "https://azure.microsoft.com/updates?id=532197",
-    "description": "Announcing that Azure MCP Server now supports Azure Database for MySQL. With this update, you can empower AI agents and applications to interact with your MySQL data using natural language through the open Model Context Protocol (MCP). Instead of writing ",
-    "pubDate": "2025-11-24T17:00:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom handler support in Azure Functions Flex consumption ",
-    "link": "https://azure.microsoft.com/updates?id=512413",
-    "description": "Azure Functions now supports custom\r\nhandlers in Flex consumption. Custom handlers are lightweight web servers that\r\nreceive events from the Functions host. Any language that supports HTTP\r\nprimitives can implement a custom handler.  Custom handlers are best",
-    "pubDate": "2025-11-21T19:15:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Migrate to dedicated VM for your compute clusters",
-    "link": "https://azure.microsoft.com/updates?id=501658",
-    "description": "On September 30, 2025, Low-Priority VM will reach end of life. However, you will continue to be supported on Azure Machine Learning until March 31, 2026.  To ensure that your clusters are not automatically scaled down it is recommended to migrate to dedic",
-    "pubDate": "2025-11-21T18:45:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Data Considerations for Microservices",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/data-considerations",
-    "description": "Learn about managing data in a microservices architecture. Data integrity and data consistency pose critical challenges for microservices.",
-    "pubDate": "2025-11-21T18:12:54.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Replicate Mainframe Data by Using Precisely Connect",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
-    "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
-    "pubDate": "2025-11-21T17:50:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Chunking Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
-    "description": "Learn about the various chunking strategies like boundary based, custom code, and document analysis models. Also learn about how the document structure should influence your chunking strategy.",
-    "pubDate": "2025-11-20T21:42:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Chunk Enrichment Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase",
-    "description": "Learn how to augment your chunks with metadata like title, summary, keywords, entities, and more and learn common cleaning methods that can improve vector matches.",
-    "pubDate": "2025-11-20T21:42:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Generate Embeddings Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings",
-    "description": "Learn how embeddings work, how to choose an embedding model, and how your embedding model can affect your vector search results.",
-    "pubDate": "2025-11-20T21:42:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Large Language Model End-to-End Evaluation Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase",
-    "description": "Learn about how to evaluate your RAG solution from end to end by calculating and evaluating key large language model and similarity metrics.",
-    "pubDate": "2025-11-20T21:42:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Preparation Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-preparation-phase",
-    "description": "Learn how to analyze and gather representative content such as documents, images, videos, and audio files and develop test queries to validate your RAG solution.",
-    "pubDate": "2025-11-20T21:42:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=523076",
-    "description": "Container network metrics\r\nfiltering in Azure Container Networking Services (ACNS) is now available in\r\npublic preview. In\r\ncontainerized environments, the ingestion of excessive network metrics can lead\r\nto inflated storage costs and cluttered dashboards, ma",
-    "pubDate": "2025-11-20T20:00:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: MCP support for AI toolchain operator add-on in AKS",
-    "link": "https://azure.microsoft.com/updates?id=523152",
-    "description": "MCP support for AI toolchain operator add-on is\r\nnow Generally Available.    The AI Toolchain Operator add-on now supports\r\nKAITO inference workspaces with integrated tool calling and Model Context\r\nProtocol (MCP), addressing key challenges around dynamic mo",
-    "pubDate": "2025-11-20T18:45:04.000Z",
-    "source": "Azure Updates"
   }
 ]
