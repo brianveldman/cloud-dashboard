@@ -1,5 +1,12 @@
 [
   {
+    "title": "Explore the latest Microsoft Incident Response proactive services for enhanced resilience",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/",
+    "description": "<p>The new proactive services from Microsoft Incident Response turn security uncertainty into readiness with expert‑led preparation and advanced intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/\">Explore the latest Microsoft Incident Response proactive services for enhanced resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-07T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Phishing actors exploit complex routing and misconfigurations to spoof domains",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/",
     "description": "<p>Threat actors are exploiting complex routing scenarios and misconfigured spoof protections to send spoofed phishing emails, crafted to appear as internally sent messages.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/\">Phishing actors exploit complex routing and misconfigurations to spoof domains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -252,13 +259,6 @@
     "source": "Security"
   },
   {
-    "title": "What’s new in Microsoft Copilot Studio: November 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
-    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-15T17:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
@@ -299,13 +299,6 @@
     "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
     "pubDate": "2025-12-11T18:00:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
-    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T18:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Imposter for hire: How fake people can gain very real access",
@@ -361,13 +354,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/10/clarity-in-complexity-new-insights-for-transparent-email-security/",
     "description": "<p>Microsoft’s latest benchmarking report reveals how layered email defenses perform, offering real-world insights to strengthen protection and reduce risk.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/10/clarity-in-complexity-new-insights-for-transparent-email-security/\">Clarity in complexity: New insights for transparent email security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/",
-    "description": "<p>The Shai‑Hulud&#160;2.0 supply chain attack represents one of the most significant cloud-native ecosystem compromises observed recently. Attackers maliciously modified hundreds of publicly available packages, targeting developer environments, continuous integration and continuous delivery (CI/CD) pipelines, and cloud-connected workloads to harvest credentials and configuration secrets. The Shai‑Hulud&#160;2.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/\">Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-09T21:41:32.000Z",
     "source": "Security"
   },
   {
@@ -697,6 +683,20 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
     "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
     "pubDate": "2025-11-24T17:31:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Entra ID support for RDP connections ",
+    "link": "https://azure.microsoft.com/updates?id=526018",
+    "description": "Announcing Azure Bastion now supports Microsoft Entra ID\r\nauthentication for RDP connections to Windows VMs directly in the portal. This update\r\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
+    "pubDate": "2025-11-24T17:15:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Choose an Azure AI Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
+    "description": "Learn about Azure AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
+    "pubDate": "2025-11-24T17:03:41.000Z",
     "source": "Azure Architecture"
   }
 ]
