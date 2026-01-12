@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "description": "<p>We’re excited to announce that Claude in Microsoft Foundry has new capabilities to support healthcare and life sciences customers. These enhancements offer advanced reasoning, agentic workflows, and model intelligence purpose built for some of the industry’s most demanding real-world use cases.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-11T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
     "link": "https://azure.microsoft.com/updates?id=543086",
     "description": "Available now in Public Preview, you can configure Azure Cosmos DB accounts with virtual networks or private endpoints to work with Microsoft Fabric mirroring. This feature allows you to preserve your enhanced network security and seamlessly replicate you",
@@ -14,11 +7,32 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Global routing redundancy for mission-critical web applications",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
+    "description": "Learn how to develop highly resilient global web applications.",
+    "pubDate": "2026-01-08T03:27:43.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Explore the latest Microsoft Incident Response proactive services for enhanced resilience",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/",
     "description": "<p>The new proactive services from Microsoft Incident Response turn security uncertainty into readiness with expert‑led preparation and advanced intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/\">Explore the latest Microsoft Incident Response proactive services for enhanced resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-07T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
+    "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
+    "pubDate": "2026-01-07T16:20:31.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural Approaches for Messaging in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/messaging",
+    "description": "Learn architectural approaches for messaging in multitenant solutions, including when to deploy shared, sharded, and dedicated messaging components.",
+    "pubDate": "2026-01-06T18:24:00.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Phishing actors exploit complex routing and misconfigurations to spoof domains",
@@ -33,6 +47,20 @@
     "description": "<p>Announcing Microsoft Defender Experts Suite, a integrated set of expert-led services that helps security teams keep pace with modern cyberattacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/06/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/\">Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-06T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Stream Processing with Databricks",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
+    "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
+    "pubDate": "2026-01-06T16:24:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Web-Queue-Worker Architecture Style",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/web-queue-worker",
+    "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
+    "pubDate": "2026-01-06T15:29:36.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
@@ -623,6 +651,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership",
+    "link": "https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/",
+    "description": "<p>A decade-long partnership between Microsoft and Red Hat has redefined what open innovation means, empowering customers with flexible, secure, and scalable solutions across the cloud.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/\">A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-02T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Perth - Azure Extended Zones",
     "link": "https://azure.microsoft.com/updates?id=535363",
     "description": "We are announcing the general availability of the Perth\r\nAzure Extended Zone.   Azure Extended Zones are small-footprint extensions of Azure\r\nplaced in metro areas, industry centers, or specific jurisdictions, to serve\r\nlow latency and data residency workloa",
@@ -637,9 +672,9 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Architectural approaches for messaging in multitenant solutions",
+    "title": "Architectural Approaches for Messaging in Multitenant Solutions",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/messaging",
-    "description": "This article describes approaches for messaging in a multitenant solution.",
+    "description": "Learn architectural approaches for messaging in multitenant solutions, including when to deploy shared, sharded, and dedicated messaging components.",
     "pubDate": "2025-11-26T03:18:51.000Z",
     "source": "Azure Architecture"
   },
@@ -663,40 +698,5 @@
     "description": "Learn how to develop highly resilient global HTTP applications when your focus is on HTTP ingress.",
     "pubDate": "2025-11-25T09:42:40.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Global routing redundancy for mission-critical web applications",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
-    "description": "Learn how to develop highly resilient global web applications.",
-    "pubDate": "2025-11-25T09:42:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=534541",
-    "description": "Claude Opus 4.5 is now available in public preview on\r\nMicrosoft Foundry, bringing advanced coding, agentic workflows, and enterprise\r\nproductivity to Azure customers. Claude Opus 4.5 sets a new benchmark for performance\r\nand versatility, outperforming previ",
-    "pubDate": "2025-11-24T20:30:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose a Data Transfer Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-transfer",
-    "description": "Learn about data transfer options like the Azure Import/Export service, Azure Data Box, Azure Data Factory, Fabric Data Factory, and command-line and graphical interface tools.",
-    "pubDate": "2025-11-24T19:48:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Web-Queue-Worker Architecture Style",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/web-queue-worker",
-    "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
-    "pubDate": "2025-11-24T19:28:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
-    "link": "https://azure.microsoft.com/updates?id=533437",
-    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
-    "pubDate": "2025-11-24T18:00:42.000Z",
-    "source": "Azure Updates"
   }
 ]
