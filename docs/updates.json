@@ -273,6 +273,13 @@
     "source": "Security"
   },
   {
+    "title": "What’s new in Microsoft Copilot Studio: November 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
+    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
@@ -691,12 +698,5 @@
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
     "pubDate": "2025-11-24T18:00:42.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Automate Document Classification in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
-    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
-    "pubDate": "2025-11-24T17:31:53.000Z",
-    "source": "Azure Architecture"
   }
 ]
