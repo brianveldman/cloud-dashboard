@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+    "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-14T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/",
     "description": "<p>Microsoft’s investigation into RedVDS services and infrastructure uncovered a global network of disparate cybercriminals purchasing and using to target multiple sectors. In collaboration with law enforcement agencies worldwide, Microsoft’s Digital Crimes Unit (DCU) recently facilitated a disruption of RedVDS infrastructure and related operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/\">Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -383,13 +390,6 @@
     "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-12-11T18:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Imposter for hire: How fake people can gain very real access",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
-    "description": "<p>Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/\">Imposter for hire: How fake people can gain very real access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Replicate Mainframe and Midrange Data to Azure by Using Qlik",
