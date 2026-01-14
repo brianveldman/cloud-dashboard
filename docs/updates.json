@@ -1,5 +1,12 @@
 [
   {
+    "title": "Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/",
+    "description": "<p>Microsoft’s investigation into RedVDS services and infrastructure uncovered a global network of disparate cybercriminals purchasing and using to target multiple sectors. In collaboration with law enforcement agencies worldwide, Microsoft’s Digital Crimes Unit (DCU) recently facilitated a disruption of RedVDS infrastructure and related operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/\">Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-14T15:03:31.000Z",
+    "source": "Security"
+  },
+  {
     "title": "How Microsoft builds privacy and security to work hand-in-hand",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/13/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/",
     "description": "<p>Learn how Microsoft unites privacy and security through advanced tools and global compliance to protect data and build trust.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/13/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/\">How Microsoft builds privacy and security to work hand-in-hand</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -411,13 +418,6 @@
     "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
     "pubDate": "2025-12-10T18:47:30.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "From awareness to action: Building a security-first culture for the agentic AI era",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/",
-    "description": "<p>The insights gained from Cybersecurity Awareness Month, right through to Microsoft Ignite 2025, demonstrate that security remains a top priority for business leaders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/\">From awareness to action: Building a security-first culture for the agentic AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T18:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
