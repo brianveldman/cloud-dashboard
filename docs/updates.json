@@ -35,13 +35,6 @@
     "source": "Security"
   },
   {
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "description": "<p>We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasoning, agentic workflows, and model intelligence purpose built for healthcare and life sciences industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-11T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
     "link": "https://azure.microsoft.com/updates?id=543086",
     "description": "Available now in Public Preview, you can configure Azure Cosmos DB accounts with virtual networks or private endpoints to work with Microsoft Fabric mirroring. This feature allows you to preserve your enhanced network security and seamlessly replicate you",
@@ -670,6 +663,13 @@
     "description": "Learn how to define and implement a cross-tenant workload migration strategy to address business transformations like acquisitions or divestitures.",
     "pubDate": "2025-12-02T16:21:06.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership",
+    "link": "https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/",
+    "description": "<p>A decade-long partnership between Microsoft and Red Hat has redefined what open innovation means, empowering customers with flexible, secure, and scalable solutions across the cloud.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/\">A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-02T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Perth - Azure Extended Zones",
