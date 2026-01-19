@@ -7,25 +7,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
-    "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
-    "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
     "link": "https://azure.microsoft.com/updates?id=536550",
     "description": "Ubuntu 24.04 is now generally available on AKS in Kubernetes\r\nversion 1.32 and above. Containerd 2.0 is enabled by default. Ubuntu 24.04 is\r\ndefault with `Ubuntu` OS Sku in kubernetes version 1.35 and above. There are two ways that Ubuntu 24.04 can be enabl",
     "pubDate": "2026-01-14T22:45:12.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
-    "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-14T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
@@ -364,6 +350,13 @@
     "source": "Security"
   },
   {
+    "title": "What’s new in Microsoft Copilot Studio: November 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
+    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
@@ -644,11 +637,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "New options for AI-powered innovation, resiliency, and control with Microsoft Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/",
+    "description": "<p>We are extending Azure public regions with options that adapt to our customers’ evolving business requirements without forcing trade-offs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/\">New options for AI-powered innovation, resiliency, and control with Microsoft Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-03T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Enterprise Deployment that uses App Service Environment",
     "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-standard-deployment",
     "description": "Learn about the recommended architecture for deploying an enterprise application by using App Service Environment version 3 in Azure.",
     "pubDate": "2025-12-03T15:58:38.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/",
+    "description": "<p>Explore Mistral Large 3 in Azure—open-source, long-context, multimodal AI built for reliable enterprise workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/\">Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-02T18:02:30.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Microsoft 365 Copilot Business: The future of work for small businesses",
@@ -691,12 +698,5 @@
     "description": "VNET flow log captures IP\r\ntraffic flowing through VNETs, subnets, and NICs for monitoring, troubleshooting,\r\nnetwork optimization, security, and compliance needs and stores the logs in Azure\r\nStorage Traffic Analytics leverages\r\nVNET flow logs and aggregates",
     "pubDate": "2025-11-25T16:45:50.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Mission-critical global content delivery",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-content-delivery",
-    "description": "Learn how to develop highly resilient global HTTP applications when your focus is on content delivery and caching.",
-    "pubDate": "2025-11-25T09:42:40.000Z",
-    "source": "Azure Architecture"
   }
 ]
