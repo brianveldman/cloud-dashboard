@@ -1,5 +1,12 @@
 [
   {
+    "title": "Four priorities for AI-powered identity and network access security in 2026",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/",
+    "description": "<p>Discover four key identity and access priorities for the new year to strengthen your organization's identity security baseline.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/\">Four priorities for AI-powered identity and network access security in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-20T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues",
     "link": "https://azure.microsoft.com/updates?id=548987",
     "description": "User delegation SAS for Azure Tables, Azure Files, and Azure Queues is now available in public preview. User delegation (UDK) SAS is already generally available for blobs, and this release extends that support to tables, files, and queues.User delegation ",
@@ -354,13 +361,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/",
     "description": "<p>CVE-2025-55182 (also referred to as React2Shell and includes CVE-2025-66478, which was merged into it) is a critical pre-authentication remote code execution (RCE) vulnerability affecting React Server Components and related frameworks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/15/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/\">Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2025-12-15T19:35:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense",
-    "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-named-an-overall-leader-in-kuppingercole-leadership-compass-for-genera/4478093",
-    "description": "<p>Today, we are proud to share that Microsoft has been recognized as an overall leader in the KuppingerCole Leadership Compass for Generative AI Defense.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-named-an-overall-leader-in-kuppingercole-leadership-compass-for-genera/4478093\">Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-15T18:05:00.000Z",
     "source": "Security"
   },
   {
