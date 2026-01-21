@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
+    "link": "https://azure.microsoft.com/updates?id=548096",
+    "description": "Customers\r\nupgrading AKS clusters often need a clear and flexible path to adopt new OS\r\nversions without disrupting workloads. Ubuntu 24.04 is now generally\r\navailable on AKS starting with Kubernetes version 1.32, with containerd 2.0 enabled by default.  It ",
+    "pubDate": "2026-01-21T18:00:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "A new era of agents, a new era of posture ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/21/new-era-of-agents-new-era-of-posture/",
     "description": "<p>AI agents are transforming how organizations operate, but their autonomy also expands the attack surface.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/21/new-era-of-agents-new-era-of-posture/\">A new era of agents, a new era of posture </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: The ip4r extension in Azure Database for PostgreSQL Flexible Server ",
     "link": "https://azure.microsoft.com/updates?id=534509",
     "description": "Now you can install the ip4r extension in Azure Database for PostgreSQL Flexible Server. Ip4r provides efficient storage and indexing functionality for IPv4 and IPv6 addresses and ranges.  Learn more.",
-    "pubDate": "2025-12-03T17:30:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: The credcheck extension in Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=534504",
-    "description": "Now you can install the credcheck extension in Azure\r\nDatabase for PostgreSQL Flexible Server. The credcheck extension helps you to\r\nenforce password and credential validation policies directly within PostgreSQL.\r\n Learn\r\nmore. ",
     "pubDate": "2025-12-03T17:30:15.000Z",
     "source": "Azure Updates"
   }
