@@ -21,6 +21,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
+    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
     "link": "https://azure.microsoft.com/updates?id=536550",
     "description": "Ubuntu 24.04 is now generally available on AKS in Kubernetes\r\nversion 1.32 and above. Containerd 2.0 is enabled by default. Ubuntu 24.04 is\r\ndefault with `Ubuntu` OS Sku in kubernetes version 1.35 and above. There are two ways that Ubuntu 24.04 can be enabl",
@@ -420,6 +427,13 @@
     "source": "Security"
   },
   {
+    "title": "What’s new in Microsoft Copilot Studio: November 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
+    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=534509",
     "description": "Now you can install the ip4r extension in Azure Database for PostgreSQL Flexible Server. Ip4r provides efficient storage and indexing functionality for IPv4 and IPv6 addresses and ranges.  Learn more.",
     "pubDate": "2025-12-03T17:30:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: The credcheck extension in Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=534504",
-    "description": "Now you can install the credcheck extension in Azure\r\nDatabase for PostgreSQL Flexible Server. The credcheck extension helps you to\r\nenforce password and credential validation policies directly within PostgreSQL.\r\n Learn\r\nmore. ",
-    "pubDate": "2025-12-03T17:30:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension",
-    "link": "https://azure.microsoft.com/updates?id=536747",
-    "description": "Bandwidth metrics for Azure Load\r\nBalancer are now published with metric dimension Protocol. When retrieving or\r\nviewing Byte, Packet, and SYN Count metrics in the Azure portal, you will now\r\nsee the dimension Protocol. TCP traffic is denoted by Protocol=6, ",
-    "pubDate": "2025-12-03T17:00:27.000Z",
     "source": "Azure Updates"
   }
 ]
