@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure File Sync in Israel Central",
+    "link": "https://azure.microsoft.com/updates?id=548974",
+    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
+    "pubDate": "2026-01-21T22:15:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
     "link": "https://azure.microsoft.com/updates?id=548096",
     "description": "Customers\r\nupgrading AKS clusters often need a clear and flexible path to adopt new OS\r\nversions without disrupting workloads. Ubuntu 24.04 is now generally\r\navailable on AKS starting with Kubernetes version 1.32, with containerd 2.0 enabled by default.  It ",
@@ -33,6 +40,13 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
+    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -682,20 +696,6 @@
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central ",
     "link": "https://azure.microsoft.com/updates?id=534523",
     "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.",
-    "pubDate": "2025-12-03T17:30:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Update pg_squeeze to version 1.9.1 in Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=534518",
-    "description": "Now you can upgrade the pg_squeeze extension to version 1.9.1 in Azure Database for PostgreSQL Flexible Server.  Learn more. ",
-    "pubDate": "2025-12-03T17:30:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: The ip4r extension in Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=534509",
-    "description": "Now you can install the ip4r extension in Azure Database for PostgreSQL Flexible Server. Ip4r provides efficient storage and indexing functionality for IPv4 and IPv6 addresses and ranges.  Learn more.",
     "pubDate": "2025-12-03T17:30:15.000Z",
     "source": "Azure Updates"
   }
