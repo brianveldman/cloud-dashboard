@@ -1,5 +1,12 @@
 [
   {
+    "title": "Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/",
+    "description": "<p>Microsoft Defender Researchers uncovered a multi‑stage AiTM phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/\">Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-22T05:14:14.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Load Testing in Switzerland North",
     "link": "https://azure.microsoft.com/updates?id=550685",
     "description": "Azure Load Testing capability in Azure App Testing is now generally available in Switzerland North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance",
@@ -390,13 +397,6 @@
     "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
     "pubDate": "2025-12-17T18:22:55.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Access Fabric: A modern approach to identity and network access",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/",
-    "description": "<p>An Access Fabric is a unified access security solution that continuously decides who can access what, from where, and under what conditions—in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/17/access-fabric-a-modern-approach-to-identity-and-network-access/\">Access Fabric: A modern approach to identity and network access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-17T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "DR for Azure Data Platform - Architecture",
