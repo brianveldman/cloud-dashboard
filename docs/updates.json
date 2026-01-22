@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Load Testing in Switzerland North",
+    "link": "https://azure.microsoft.com/updates?id=550685",
+    "description": "Azure Load Testing capability in Azure App Testing is now generally available in Switzerland North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance",
+    "pubDate": "2026-01-22T00:00:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Application volume group for Oracle create data protection volume group (API) ",
+    "link": "https://azure.microsoft.com/updates?id=548066",
+    "description": "The functionality of application volume group for Oracle has been expanded with the ability to create data protection volumes in a volume group with the same anti-affinity layout as production volume groups. Customers benefit from this ability for creatin",
+    "pubDate": "2026-01-22T00:00:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure File Sync in Israel Central",
     "link": "https://azure.microsoft.com/updates?id=548974",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -684,19 +698,5 @@
     "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
     "pubDate": "2025-12-03T18:25:40.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure Service for Vector Search",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
-    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
-    "pubDate": "2025-12-03T18:25:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central ",
-    "link": "https://azure.microsoft.com/updates?id=534523",
-    "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.",
-    "pubDate": "2025-12-03T17:30:15.000Z",
-    "source": "Azure Updates"
   }
 ]
