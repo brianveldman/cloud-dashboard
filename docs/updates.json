@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Reporting in Playwright Workspaces (part of Azure App Testing)",
+    "link": "https://azure.microsoft.com/updates?id=550379",
+    "description": "Reporting capabilities are now live in Playwright Workspaces. The latest update brings you an integrated, flexible and collaborative reporting experience designed to make debugging tests in Playwright Workspaces easier, faster and more efficient. Customer",
+    "pubDate": "2026-01-22T17:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft Security success stories: Why integrated security is the foundation of AI transformation",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/",
+    "description": "<p>Discover how Ford, Icertis, and TriNet modernized security with Microsoft—embedding Zero Trust, automating defenses, and enabling secure AI innovation at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/\">Microsoft Security success stories: Why integrated security is the foundation of AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-22T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/",
     "description": "<p>Microsoft Defender Researchers uncovered a multi‑stage AiTM phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/\">Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,13 +75,6 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
-    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -348,13 +355,6 @@
     "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
     "pubDate": "2025-12-18T18:19:53.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "New Microsoft e-book: 3 reasons point solutions are holding you back",
-    "link": "https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/",
-    "description": "<p>Explore the new Microsoft e-book on how a unified, AI-ready platform delivers speed, resilience, and measurable security gains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/\">New Microsoft e-book: 3 reasons point solutions are holding you back</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2025-12-18T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Design and Develop a RAG Solution",
