@@ -84,6 +84,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+    "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+    "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
     "link": "https://azure.microsoft.com/updates?id=536550",
     "description": "Ubuntu 24.04 is now generally available on AKS in Kubernetes\r\nversion 1.32 and above. Containerd 2.0 is enabled by default. Ubuntu 24.04 is\r\ndefault with `Ubuntu` OS Sku in kubernetes version 1.35 and above. There are two ways that Ubuntu 24.04 can be enabl",
@@ -462,6 +469,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "What’s new in Microsoft Copilot Studio: November 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
+    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Architectural Considerations for Identity in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
@@ -684,19 +698,5 @@
     "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
     "pubDate": "2025-12-04T12:00:46.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026",
-    "link": "https://azure.microsoft.com/updates?id=501668",
-    "description": "On June 30, 2026, AzureML SDK V1 will reach end of life. The following SDKs which work in tandem with the AzureML SDK V1 will also be retired.  azureml-train-core  azureml-pipeline  azureml-pipeline-core  azureml-pipeline-internal  azureml-pipeline-steps ",
-    "pubDate": "2025-12-03T21:00:12.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Deploy Microservices to Azure Container Apps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
-    "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
-    "pubDate": "2025-12-03T18:25:40.000Z",
-    "source": "Azure Architecture"
   }
 ]
