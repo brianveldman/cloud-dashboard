@@ -91,13 +91,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
-    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
     "link": "https://azure.microsoft.com/updates?id=536550",
     "description": "Ubuntu 24.04 is now generally available on AKS in Kubernetes\r\nversion 1.32 and above. Containerd 2.0 is enabled by default. Ubuntu 24.04 is\r\ndefault with `Ubuntu` OS Sku in kubernetes version 1.35 and above. There are two ways that Ubuntu 24.04 can be enabl",
@@ -698,5 +691,12 @@
     "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-12-04T16:00:00.000Z",
     "source": "Microsoft 365"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
+    "link": "https://azure.microsoft.com/updates?id=499438",
+    "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
+    "pubDate": "2025-12-04T12:00:46.000Z",
+    "source": "Azure Updates"
   }
 ]
