@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Deployment safeguards – pod security standard support in AKS ",
+    "link": "https://azure.microsoft.com/updates?id=548101",
+    "description": "Organizations deploying workloads on Kubernetes often need a consistent way\r\nto enforce pod security configurations across clusters. Azure Kubernetes\r\nService (AKS) now supports Pod Security Standards within Deployment Safeguards,\r\nenabling centralized manag",
+    "pubDate": "2026-01-22T22:30:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs  ",
     "link": "https://azure.microsoft.com/updates?id=547772",
     "description": "StandardV2 SKU NAT Gateway is now generally available, delivering enhanced resiliency, greater performance, and dual-stack connectivity, all at the same price as the Standard SKU.  StandardV2 Public IP addresses and prefixes are also generally available. ",
@@ -82,13 +89,6 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
-    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
