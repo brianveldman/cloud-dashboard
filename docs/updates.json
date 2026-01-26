@@ -1,10 +1,24 @@
 [
   {
+    "title": "Security strategies for safeguarding governmental data",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/",
+    "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/",
     "description": "<p>Why securing AI agents at runtime is essential as attackers find new ways to exploit generative orchestration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/\">From runtime risk to real‑time defense: Securing AI agents </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-23T20:57:14.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
+    "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
+    "pubDate": "2026-01-23T15:33:26.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Deployment safeguards – pod security standard support in AKS ",
@@ -28,11 +42,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-22T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Microsoft Security success stories: Why integrated security is the foundation of AI transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/",
     "description": "<p>Discover how Ford, Icertis, and TriNet modernized security with Microsoft—embedding Zero Trust, automating defenses, and enabling secure AI innovation at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/\">Microsoft Security success stories: Why integrated security is the foundation of AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-22T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Use Azure Kubernetes Service (AKS) in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/aks",
+    "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
+    "pubDate": "2026-01-22T16:56:42.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint ",
@@ -70,11 +98,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Micro Focus Enterprise Server on Azure VMs",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/micro-focus-server",
+    "description": "Optimize, modernize, and streamline IBM z/OS mainframe applications by using Micro Focus Enterprise Server 6.0 on Azure VMs.",
+    "pubDate": "2026-01-21T16:59:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "A new era of agents, a new era of posture ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/21/new-era-of-agents-new-era-of-posture/",
     "description": "<p>AI agents are transforming how organizations operate, but their autonomy also expands the attack surface.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/21/new-era-of-agents-new-era-of-posture/\">A new era of agents, a new era of posture </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-21T14:33:31.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Mission-Critical Baseline with App Service",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-app-service",
+    "description": "Learn how to deploy mission-critical web applications by using the Web Apps feature of Azure App Service and the reliable web app pattern.",
+    "pubDate": "2026-01-20T23:33:24.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Four priorities for AI-powered identity and network access security in 2026",
@@ -89,6 +131,13 @@
     "description": "User delegation SAS for Azure Tables, Azure Files, and Azure Queues is now available in public preview. User delegation (UDK) SAS is already generally available for blobs, and this release extends that support to tables, files, and queues.User delegation ",
     "pubDate": "2026-01-16T17:00:49.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+    "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+    "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
@@ -231,13 +280,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Phishing actors exploit complex routing and misconfigurations to spoof domains",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/",
-    "description": "<p>Threat actors are exploiting complex routing scenarios and misconfigured spoof protections to send spoofed phishing emails, crafted to appear as internally sent messages.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/\">Phishing actors exploit complex routing and misconfigurations to spoof domains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-06T18:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Stream Processing with Databricks",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
     "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
@@ -257,13 +299,6 @@
     "description": "<p>CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/\">Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-05T23:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Guidance for using Azure Kubernetes Service (AKS) in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/aks",
-    "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
-    "pubDate": "2026-01-02T20:41:51.000Z",
-    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
@@ -413,20 +448,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "DR for Azure Data Platform - Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
-    "description": "Second article in a series covering disaster recovery for an Azure data platform",
-    "pubDate": "2025-12-17T16:45:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "DR for Azure Data Platform - Scenario details",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-scenario-details",
-    "description": "Third article in a series covering disaster recovery for an Azure data platform",
-    "pubDate": "2025-12-17T16:45:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
     "title": "Understand Data Models",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/understand-data-store-models",
     "description": "Learn how to evaluate Azure data store models based on workload patterns, scale, consistency, and governance to guide service selection.",
@@ -567,13 +588,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "description": "<p>Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand for cloud and AI services.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/\">Microsoft’s commitment to supporting cloud infrastructure demand in the United States</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-09T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
     "link": "https://azure.microsoft.com/updates?id=536712",
     "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=536721",
     "description": "Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage to deliver an enterprise-ready SaaS experience with minimal infrast",
     "pubDate": "2025-12-04T16:15:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Advancing Microsoft 365: New capabilities and pricing update",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
-    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-04T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
-    "link": "https://azure.microsoft.com/updates?id=499438",
-    "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
-    "pubDate": "2025-12-04T12:00:46.000Z",
     "source": "Azure Updates"
   }
 ]
