@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Beyond boundaries: The future of Azure Storage in 2026",
+    "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
+    "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-22T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Microsoft Security success stories: Why integrated security is the foundation of AI transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/",
     "description": "<p>Discover how Ford, Icertis, and TriNet modernized security with Microsoft—embedding Zero Trust, automating defenses, and enabling secure AI innovation at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/\">Microsoft Security success stories: Why integrated security is the foundation of AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -96,6 +103,13 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
+    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -567,13 +581,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
-    "description": "<p>Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand for cloud and AI services.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/\">Microsoft’s commitment to supporting cloud infrastructure demand in the United States</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-09T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
     "link": "https://azure.microsoft.com/updates?id=536712",
     "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
@@ -691,12 +698,5 @@
     "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-12-04T16:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
-    "link": "https://azure.microsoft.com/updates?id=499438",
-    "description": "Announcing the general availability of resumable uploads for\r\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\r\nfeature enables users to open the partial file and continue writing the\r\nremaining content. This capability optimizes ",
-    "pubDate": "2025-12-04T12:00:46.000Z",
-    "source": "Azure Updates"
   }
 ]
