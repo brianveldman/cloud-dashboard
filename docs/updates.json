@@ -1,10 +1,24 @@
 [
   {
+    "title": "Active- Azure OpenAI Service issues in Sweden Central",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "Starting at 09:00 UTC on 27 January 2026, customers using Azure OpenAI Service in Sweden Central may experience intermittent availability issues. Our monitoring systems detected elevated error rates and reduced availability due to unhealthy backend dependent&nbsp;service, which led to cascading failures. Our teams are currently implementing mitigation steps and engaging multiple platform teams to restore stability. We continue to monitor the region closely to ensure full recovery. The next update will be provided in 60 minutes, or as events warrant.",
+    "pubDate": "2026-01-27T11:40:12.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Security strategies for safeguarding governmental data",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/",
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-26T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Maia 200: The AI accelerator built for inference",
+    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T16:12:24.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
@@ -138,6 +152,13 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
+    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -567,13 +588,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
@@ -684,19 +698,5 @@
     "description": "The Azure MCP (Model Context Protocol) Server provides a\r\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\r\nnatural language prompts. This feature allows users to interact with confidential\r\nledger without the nee",
     "pubDate": "2025-12-04T17:00:18.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Serverless workspaces in Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=536721",
-    "description": "Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage to deliver an enterprise-ready SaaS experience with minimal infrast",
-    "pubDate": "2025-12-04T16:15:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Advancing Microsoft 365: New capabilities and pricing update",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
-    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-04T16:00:00.000Z",
-    "source": "Microsoft 365"
   }
 ]
