@@ -1,9 +1,16 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Command Launcher for Java",
+    "link": "https://azure.microsoft.com/updates?id=543994",
+    "description": "At Microsoft Ignite 2025, we announced the Public Preview of the Azure Command Launcher for Java, a new JVM launcher optimized specifically for Azure. This tool provides better default ergonomics for Java applications running in containers and virtual mac",
+    "pubDate": "2026-01-27T14:00:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Active- Azure OpenAI Service issues in Sweden Central",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "Starting at 09:00 UTC on 27 January 2026, customers using Azure OpenAI Service in Sweden Central may experience intermittent availability issues. Our monitoring systems detected elevated error rates and reduced availability due to unhealthy backend dependent&nbsp;service, which led to cascading failures. Our teams are currently implementing mitigation steps and engaging multiple platform teams to restore stability. We continue to monitor the region closely to ensure full recovery. The next update will be provided in 60 minutes, or as events warrant.",
-    "pubDate": "2026-01-27T11:40:12.000Z",
+    "description": "<p><strong>Impact Statement:</strong> Starting at 09:00 UTC on 27 January 2026, customers using Azure OpenAI Service in Sweden Central may experience intermittent availability issues. This issue may have also affected Cognitive Services dependent on OpenAI in this region</p><p><strong>Workarounds: </strong>If possible, you may temporarily route traffic to alternative regions where your deployments exist and are healthy.</p><p><br></p><p><strong>Current Status: </strong>We are aware of an issue impacting Azure OpenAI in the Sweden Central region. Affected customers may experience intermittent availability, increased error rates, or service degradation when using models such as GPT‑5.2, GPT‑5 Mini, GPT‑4.1, and related APIs.</p><p>Our teams have identified an internal platform dependency causing these failures and are actively working on mitigation, including service restarts and validation of backend health. We will provide another update within 1 hour or sooner as new information becomes available.</p>",
+    "pubDate": "2026-01-27T09:00:00.000Z",
     "source": "Azure Status"
   },
   {
@@ -12,13 +19,6 @@
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-26T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Maia 200: The AI accelerator built for inference",
-    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T16:12:24.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
@@ -588,6 +588,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-10T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=536937",
     "description": "Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers enterprise-grade reliability, long-context comprehension, and multimodal reasoning—making it ideal for produ",
     "pubDate": "2025-12-04T22:30:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger",
-    "link": "https://azure.microsoft.com/updates?id=531889",
-    "description": "The Azure MCP (Model Context Protocol) Server provides a\r\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\r\nnatural language prompts. This feature allows users to interact with confidential\r\nledger without the nee",
-    "pubDate": "2025-12-04T17:00:18.000Z",
     "source": "Azure Updates"
   }
 ]
