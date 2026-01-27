@@ -1,17 +1,24 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure NetApp Files support in OpenShift Virtualization ",
+    "link": "https://azure.microsoft.com/updates?id=550466",
+    "description": "Azure NetApp Files now\r\nenables fast virtual machine (VM) provisioning, instant cloning, and live\r\nmigration in OpenShift Virtualization. It offers seamlessly scalable storage\r\nwith predictable performance and enterprise data management for VM workloads\r\nfrom",
+    "pubDate": "2026-01-27T17:00:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: 7th generation Intel-based VMs – Dlsv7/Dsv7/Esv7 ",
+    "link": "https://azure.microsoft.com/updates?id=529407",
+    "description": "Announcing the preview of new Azure Dlsv7/Dsv7 General Purpose and Esv7 Memory Optimized Virtual Machines (VMs) powered by the latest Intel® Xeon® 6 processors (Granite Rapids). The latest Azure Intel-based v7 VMs are designed to power ever increasing com",
+    "pubDate": "2026-01-27T17:00:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Command Launcher for Java",
     "link": "https://azure.microsoft.com/updates?id=543994",
     "description": "At Microsoft Ignite 2025, we announced the Public Preview of the Azure Command Launcher for Java, a new JVM launcher optimized specifically for Azure. This tool provides better default ergonomics for Java applications running in containers and virtual mac",
     "pubDate": "2026-01-27T14:00:07.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Active- Azure OpenAI Service issues in Sweden Central",
-    "link": "https://status.azure.com/en-us/status/",
-    "description": "<p><strong>Impact Statement:</strong> Starting at 09:00 UTC on 27 January 2026, customers using Azure OpenAI Service in Sweden Central may experience intermittent availability issues. This issue may have also affected Cognitive Services dependent on OpenAI in this region</p><p><strong>Workarounds: </strong>If possible, you may temporarily route traffic to alternative regions where your deployments exist and are healthy.</p><p><br></p><p><strong>Current Status: </strong>We are aware of an issue impacting Azure OpenAI in the Sweden Central region. Affected customers may experience intermittent availability, increased error rates, or service degradation when using models such as GPT‑5.2, GPT‑5 Mini, GPT‑4.1, and related APIs.</p><p>Our teams have identified an internal platform dependency causing these failures and are actively working on mitigation, including service restarts and validation of backend health. We will provide another update within 1 hour or sooner as new information becomes available.</p>",
-    "pubDate": "2026-01-27T09:00:00.000Z",
-    "source": "Azure Status"
   },
   {
     "title": "Security strategies for safeguarding governmental data",
@@ -54,13 +61,6 @@
     "description": "Reporting capabilities are now live in Playwright Workspaces. The latest update brings you an integrated, flexible and collaborative reporting experience designed to make debugging tests in Playwright Workspaces easier, faster and more efficient. Customer",
     "pubDate": "2026-01-22T17:00:03.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Beyond boundaries: The future of Azure Storage in 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-    "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-22T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Microsoft Security success stories: Why integrated security is the foundation of AI transformation",
@@ -602,6 +602,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Microsoft’s commitment to supporting cloud infrastructure demand in the United States",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
+    "description": "<p>Today, we are sharing progress on our infrastructure expansions across the United States that are supporting the tremendous growth in customer demand for cloud and AI services.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/\">Microsoft’s commitment to supporting cloud infrastructure demand in the United States</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-09T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs ",
     "link": "https://azure.microsoft.com/updates?id=536712",
     "description": "The Federal Information Processing Standard (FIPS) 140-2\r\nis a US government standard that defines minimum security requirements for\r\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,\r\n",
@@ -691,12 +698,5 @@
     "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2025-12-05T04:52:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Mistral Large 3 in Foundry",
-    "link": "https://azure.microsoft.com/updates?id=536937",
-    "description": "Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers enterprise-grade reliability, long-context comprehension, and multimodal reasoning—making it ideal for produ",
-    "pubDate": "2025-12-04T22:30:44.000Z",
-    "source": "Azure Updates"
   }
 ]
