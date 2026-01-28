@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure AMD Turin Dasv7, Easv7, and Fasv7-series Virtual Machines    ",
+    "link": "https://azure.microsoft.com/updates?id=552318",
+    "description": "The general purpose Dasv7 and Dalsv7, memory-optimized Easv7, and compute-optimized Fasv7, Falsv7, Famsv7 VMs, are now generally available with and without local disk support. These VMs are available in the following Azure regions: Australia East, Central",
+    "pubDate": "2026-01-28T19:15:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Databricks Agent Bricks Knowledge Assistant",
+    "link": "https://azure.microsoft.com/updates?id=542455",
+    "description": "Azure Databricks Agent Bricks knowledge assistant empowers you to create, deploy, and manage AI agents directly within the Azure Databricks platform, using unified data and AI capabilities. This feature simplifies agent development by providing prebuilt c",
+    "pubDate": "2026-01-28T18:45:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server  ",
     "link": "https://azure.microsoft.com/updates?id=550164",
     "description": "PostgreSQL minor versions 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23 are now supported by Azure Database for PostgreSQL – Flexible Server.    These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azure Data",
@@ -40,13 +54,6 @@
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-26T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Maia 200: The AI accelerator built for inference",
-    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T16:12:24.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
@@ -609,6 +616,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-10T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
     "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
     "pubDate": "2025-12-08T18:29:12.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.",
-    "link": "https://azure.microsoft.com/updates?id=541410",
-    "description": "Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning storage accounts to a specific availability zone, enabling high availability, fault isolation, and predictabl",
-    "pubDate": "2025-12-05T21:45:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Caching guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
-    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2025-12-05T20:18:28.000Z",
     "source": "Azure Architecture"
   }
 ]
