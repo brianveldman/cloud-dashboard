@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Microsoft Data Security Index report explores secure AI adoption to protect sensitive data",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/",
+    "description": "<p>The 2026 Microsoft Data Security Index explores one of the most pressing questions facing organizations today: How can we harness the power of generative while safeguarding sensitive data? </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/\">New Microsoft Data Security Index report explores secure AI adoption to protect sensitive data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-29T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13 ",
     "link": "https://azure.microsoft.com/updates?id=545771",
     "description": "In alignment with the end of community support, on October 1, 2026, support for Python 3.10 in Azure Functions will end. Your\r\napps that are hosted on Functions will continue to run, but security updates\r\nand performance optimizations will no longer be avai",
@@ -61,13 +68,6 @@
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-26T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Maia 200: The AI accelerator built for inference",
-    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T16:12:24.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
@@ -264,13 +264,6 @@
     "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
     "pubDate": "2026-01-13T17:02:26.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "How Microsoft builds privacy and security to work hand-in-hand",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/13/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/",
-    "description": "<p>Learn how Microsoft unites privacy and security through advanced tools and global compliance to protect data and build trust.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/13/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/\">How Microsoft builds privacy and security to work hand-in-hand</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-13T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Modern Data Warehouses for Small or Medium-Sized Businesses",
@@ -628,6 +621,13 @@
     "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
     "pubDate": "2025-12-10T18:47:30.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-10T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
