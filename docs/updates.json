@@ -63,13 +63,6 @@
     "source": "Security"
   },
   {
-    "title": "Maia 200: The AI accelerator built for inference",
-    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T16:12:24.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/",
     "description": "<p>Why securing AI agents at runtime is essential as attackers find new ways to exploit generative orchestration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/\">From runtime risk to real‑time defense: Securing AI agents </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -628,6 +621,13 @@
     "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
     "pubDate": "2025-12-10T18:47:30.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
+    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
+    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-10T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
