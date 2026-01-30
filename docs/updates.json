@@ -1,5 +1,19 @@
 [
   {
+    "title": "Case study: Securing AI application supply chains",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/",
+    "description": "<p>Securing AI-powered applications requires more than just safeguarding prompts. Organizations must adopt a holistic approach that includes monitoring the AI supply chain, assessing frameworks, SDKs, and orchestration layers for vulnerabilities, and enforcing strong runtime controls for agents and tools. Leveraging visibility into these components allows security teams to detect, respond to, and remediate risks before they can be exploited.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/\">Case study: Securing AI application supply chains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-30T18:49:44.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Retirement: \"Send data to Event Hubs & Storage (Preview)\" retiring July 31, 2026",
+    "link": "https://azure.microsoft.com/updates?id=551523",
+    "description": "On July 31, 2026, we'll\r\nretire preview feature “Send virtual machine client data to Event Hubs and\r\nStorage (Preview)” and it will no longer be supported by Microsoft. You will not\r\nbe able to create any new data collection rules using this feature, and any",
+    "pubDate": "2026-01-30T18:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Turning threat reports into detection insights with AI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/",
     "description": "<p>Security teams often spend days manually turning long incident reports and threat writeups into actionable detections by extracting TTPs. This blog post shows an AI-assisted workflow that does the same job in minutes. It extracts the TTPs, maps them to existing detection coverage, and flags potential gaps. Defenders can respond faster, with human experts still reviewing and validating the results.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/\">Turning threat reports into detection insights with AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -75,6 +89,13 @@
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-26T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Maia 200: The AI accelerator built for inference",
+    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T16:12:24.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
@@ -243,13 +264,6 @@
     "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-14T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
-    "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-14T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "AI Architecture Design",
@@ -623,13 +637,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
     "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to create more IPv4 address space.",
     "pubDate": "2025-12-08T18:33:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Monitoring and diagnostics guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
-    "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
-    "pubDate": "2025-12-08T18:29:12.000Z",
     "source": "Azure Architecture"
   }
 ]
