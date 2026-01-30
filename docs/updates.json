@@ -1,5 +1,12 @@
 [
   {
+    "title": "Turning threat reports into detection insights with AI",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/",
+    "description": "<p>Security teams often spend days manually turning long incident reports and threat writeups into actionable detections by extracting TTPs. This blog post shows an AI-assisted workflow that does the same job in minutes. It extracts the TTPs, maps them to existing detection coverage, and flags potential gaps. Defenders can respond faster, with human experts still reviewing and validating the results.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/\">Turning threat reports into detection insights with AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-01-29T21:20:18.000Z",
+    "source": "Security"
+  },
+  {
     "title": "New Microsoft Data Security Index report explores secure AI adoption to protect sensitive data",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/",
     "description": "<p>The 2026 Microsoft Data Security Index explores one of the most pressing questions facing organizations today: How can we harness the power of generative while safeguarding sensitive data? </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/\">New Microsoft Data Security Index report explores secure AI adoption to protect sensitive data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -242,13 +249,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
     "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-14T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/",
-    "description": "<p>Microsoft’s investigation into RedVDS services and infrastructure uncovered a global network of disparate cybercriminals purchasing and using to target multiple sectors. In collaboration with law enforcement agencies worldwide, Microsoft’s Digital Crimes Unit (DCU) recently facilitated a disruption of RedVDS infrastructure and related operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/\">Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-14T15:03:31.000Z",
     "source": "Security"
   },
   {
