@@ -77,6 +77,13 @@
     "source": "Security"
   },
   {
+    "title": "Maia 200: The AI accelerator built for inference",
+    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T16:12:24.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/",
     "description": "<p>Why securing AI agents at runtime is essential as attackers find new ways to exploit generative orchestration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/\">From runtime risk to real‑time defense: Securing AI agents </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -208,13 +215,6 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
-    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -623,13 +623,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
@@ -696,6 +689,13 @@
     "title": "Monitoring and diagnostics guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
     "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
+    "pubDate": "2025-12-08T18:29:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Google Cloud to Azure services comparison",
+    "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
+    "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
     "pubDate": "2025-12-08T18:29:12.000Z",
     "source": "Azure Architecture"
   }
