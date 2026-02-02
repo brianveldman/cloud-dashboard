@@ -84,6 +84,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The 6 pillars that will define agent readiness in 2026",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
+    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Security strategies for safeguarding governmental data",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/",
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "Compare Java application hosting options on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/service-for-java-comparison",
     "description": "Explore recommended strategies for hosting Java applications to Azure, including platform types and supportability.",
-    "pubDate": "2025-12-08T18:33:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Prevent IPv4 Exhaustion in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
-    "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to create more IPv4 address space.",
     "pubDate": "2025-12-08T18:33:44.000Z",
     "source": "Azure Architecture"
   }
