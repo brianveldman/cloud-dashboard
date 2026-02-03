@@ -1,5 +1,47 @@
 [
   {
+    "title": "Infostealers without borders: macOS, Python stealers, and platform abuse",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/",
+    "description": "<p>How modern infostealers target macOS systems, leverage Python‑based stealers, and abuse trusted platforms and utilities to distribute credential‑stealing payloads.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/\">Infostealers without borders: macOS, Python stealers, and platform abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-02T21:04:29.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Active - Virtual Machines and dependent services - Service management issues in multiple regions",
+    "link": "https://status.azure.com/en-us/status/",
+    "description": "<p><strong>Impact statement: </strong>As early as 19:46 UTC on 2 February 2026, we became aware of an ongoing issue causing customers to receive error notifications when performing service management operations - such as create, delete, update, scaling, start, stop - for Virtual Machines (VMs) across multiple regions. These issues are also causing impact to services with dependencies on these service management operations - including Azure Arc Enabled Servers, Azure Batch, Azure Cache for Redis, Azure Container Apps, Azure DevOps (ADO), Azure Kubernetes Service (AKS), Azure Load Testing, Azure Virtual Machine Scale Sets (VMSS), and GitHub (see https://www.githubstatus.com).</p><p><strong>Current status: </strong>We determined that these issues were caused by a recent configuration change that affected public access to certain Microsoft‑managed storage accounts, used to host extension packages. We are actively working to mitigate impact, by updating our configuration to restore relevant access permissions. We are making good progress applying this mitigation across all impacted regions, but we recently identified a small number of Storage accounts that were not included in our initial list of accounts requiring intervention. Although many customers are beginning to see signs of recovery, we are working our way through applying these configuration updates to the final remaining accounts that still require them. As such, we now expect that all regions and customers should be mitigated by approximately 01:00 UTC, one hour from now. Our next update will be provided by then, or sooner if we have progress to share.</p>",
+    "pubDate": "2026-02-02T19:46:00.000Z",
+    "source": "Azure Status"
+  },
+  {
+    "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=553527",
+    "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
+    "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Serverless workspaces in Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=550845",
+    "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure ",
+    "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=553532",
+    "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
+    "pubDate": "2026-02-02T17:45:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "PostgreSQL on Azure supercharged for AI",
+    "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
+    "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-02T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Case study: Securing AI application supply chains",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/",
     "description": "<p>Securing AI-powered applications requires more than just safeguarding prompts. Organizations must adopt a holistic approach that includes monitoring the AI supply chain, assessing frameworks, SDKs, and orchestration layers for vulnerabilities, and enforcing strong runtime controls for agents and tools. Leveraging visibility into these components allows security teams to detect, respond to, and remediate risks before they can be exploited.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/\">Case study: Securing AI application supply chains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -89,6 +131,13 @@
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-26T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Maia 200: The AI accelerator built for inference",
+    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T16:12:24.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "From runtime risk to real‑time defense: Securing AI agents ",
@@ -201,13 +250,6 @@
     "description": "Learn how to deploy mission-critical web applications by using the Web Apps feature of Azure App Service and the reliable web app pattern.",
     "pubDate": "2026-01-20T23:33:24.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Four priorities for AI-powered identity and network access security in 2026",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/",
-    "description": "<p>Discover four key identity and access priorities for the new year to strengthen your organization's identity security baseline.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/\">Four priorities for AI-powered identity and network access security in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-20T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues",
@@ -609,13 +651,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure Storage innovations: Unlocking the future of data",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
-    "description": "<p>Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/\">Azure Storage innovations: Unlocking the future of data</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Choose a batch processing technology",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/batch-processing",
     "description": "Compare technology choices for big data batch processing in Azure, including key selection criteria and a capability matrix.",
@@ -628,13 +663,6 @@
     "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
     "pubDate": "2025-12-10T18:47:30.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025",
-    "link": "https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/",
-    "description": "<p>Energy at Microsoft Ignite was electric. Over 20,000 attendees gathered in San Francisco, with 200,000 digital participants joining us to explore the future of cloud and AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/\">Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-10T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "DevSecOps for Infrastructure as Code (IaC)",
@@ -669,34 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-multi-region/aks-multi-cluster",
     "description": "Run Azure Kubernetes Service (AKS) cluster in multiple regions to achieve high availability.",
     "pubDate": "2025-12-08T22:00:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multiregion BCDR for Azure Virtual Desktop",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
-    "description": "Learn which options and scenarios are possible to design and implement an effective multi-region BCDR strategy for Azure Virtual Desktop.",
-    "pubDate": "2025-12-08T20:14:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Local Baseline Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
-    "description": "Learn how to design Azure Local for highly available virtualized and containerized workloads, focusing on reliability and security.",
-    "pubDate": "2025-12-08T20:14:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare Java application hosting options on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/service-for-java-comparison",
-    "description": "Explore recommended strategies for hosting Java applications to Azure, including platform types and supportability.",
-    "pubDate": "2025-12-08T18:33:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Prevent IPv4 Exhaustion in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
-    "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to create more IPv4 address space.",
-    "pubDate": "2025-12-08T18:33:44.000Z",
     "source": "Azure Architecture"
   }
 ]
