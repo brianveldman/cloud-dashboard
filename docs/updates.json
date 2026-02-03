@@ -1,24 +1,10 @@
 [
   {
-    "title": "Active -  Managed Service Identity  and depended service operation failure in East US and West US",
-    "link": "https://status.azure.com/en-us/status/",
-    "description": "<p><strong>Impact Statement:</strong> Beginning at 00:15 UTC on 03 February 2026, customers utilizing Managed Identity for Azure resources may have encountered issues when trying to create, update, delete, or acquire tokens in the East US and West US regions. These challenges are also impacting dependent services such as Synapse platform service, Azure Databricks, Azure Stream Analytics, Azure Kubernetes Service, Microsoft Copilot Studio, Azure Chaos Studio, Azure Database for PostgreSQL Flexible Servers, Azure Container Apps, and Video Indexer. Please be aware that this is not an exhaustive list of affected services, and further updates will be provided as additional information is obtained.</p><p><strong>Current Status:</strong> We detected this issue via our automated service monitoring upon identifying sudden and sustained errors on resources. Mitigation workstreams are actively underway, including service restarts and controlled traffic throttling to stabilize the environment. We are beginning to observe early signs of recovery and are cautiously allowing traffic to ramp up while continuing close monitoring.</p><p>The next update will be provided within 60 minutes, or as events warrant.</p>",
-    "pubDate": "2026-02-03T00:15:00.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "Infostealers without borders: macOS, Python stealers, and platform abuse",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/",
     "description": "<p>How modern infostealers target macOS systems, leverage Python‑based stealers, and abuse trusted platforms and utilities to distribute credential‑stealing payloads.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/\">Infostealers without borders: macOS, Python stealers, and platform abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-02T21:04:29.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Active - Virtual Machines and dependent services - Service management issues in multiple regions",
-    "link": "https://status.azure.com/en-us/status/",
-    "description": "<p><strong>Impact statement:</strong> As early as 19:46 UTC on 2 February 2026, we became aware of an issue causing customers to receive error notifications when performing service management operations - such as create, delete, update, scaling, start, stop - for Virtual Machines (VMs) affecting multiple regions. These issues are also impacting services with dependencies on these service management operations - including Azure Arc Enabled Servers, Azure Batch, Azure Cache for Redis, Azure Container Apps, Azure DevOps (ADO), Azure Kubernetes Service (AKS), Azure Backup, Azure Load Testing, Azure Firewall, Azure Search, Azure Virtual Machine Scale Sets (VMSS), GitHub (see <a href=\"https://www.githubstatus.com/\" target=\"_blank\">https://www.githubstatus.com</a>)..</p><p><strong>Current status:</strong> We determined that these issues were caused by a recent configuration change that affected public access to certain Microsoft‑managed storage accounts, used to host extension packages. We have applied our mitigation across all impacted regions and have performed validation checks to ensure that all affected resources have had their configurations updated. At this stage, customers should see signs of recovery across regions. We are currently monitoring downstream services for any further impact. Our next update will be provided by 08:00 UTC, approximately 2 hours from now, or sooner if we have progress to share.</p>",
-    "pubDate": "2026-02-02T19:46:00.000Z",
-    "source": "Azure Status"
   },
   {
     "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
@@ -40,6 +26,13 @@
     "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
     "pubDate": "2026-02-02T17:45:01.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "PostgreSQL on Azure supercharged for AI",
+    "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
+    "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-02T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Case study: Securing AI application supply chains",
@@ -320,13 +313,6 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
-    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -693,10 +679,24 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure Storage innovations: Unlocking the future of data",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
-    "description": "<p>Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/\">Azure Storage innovations: Unlocking the future of data</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T16:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Choose a batch processing technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/batch-processing",
+    "description": "Compare technology choices for big data batch processing in Azure, including key selection criteria and a capability matrix.",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Integrate IBM mainframe and midrange message queues with Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/integrate-ibm-message-queues-azure",
+    "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DevSecOps for Infrastructure as Code (IaC)",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
+    "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
+    "pubDate": "2025-12-09T17:09:51.000Z",
+    "source": "Azure Architecture"
   }
 ]
