@@ -9,7 +9,7 @@
   {
     "title": "Active - Virtual Machines and dependent services - Service management issues in multiple regions",
     "link": "https://status.azure.com/en-us/status/",
-    "description": "<p><strong>Impact statement: </strong>As early as 19:46 UTC on 2 February 2026, we became aware of an ongoing issue causing customers to receive error notifications when performing service management operations - such as create, delete, update, scaling, start, stop - for Virtual Machines (VMs) across multiple regions. These issues are also causing impact to services with dependencies on these service management operations - including Azure Arc Enabled Servers, Azure Batch, Azure Cache for Redis, Azure Container Apps, Azure DevOps (ADO), Azure Kubernetes Service (AKS), Azure Load Testing, Azure Virtual Machine Scale Sets (VMSS), and GitHub (see https://www.githubstatus.com).</p><p><strong>Current status: </strong>We determined that these issues were caused by a recent configuration change that affected public access to certain Microsoft‑managed storage accounts, used to host extension packages. We are actively working to mitigate impact, by updating our configuration to restore relevant access permissions. We are making good progress applying this mitigation across all impacted regions, but we recently identified a small number of Storage accounts that were not included in our initial list of accounts requiring intervention. Although many customers are beginning to see signs of recovery, we are working our way through applying these configuration updates to the final remaining accounts that still require them. As such, we now expect that all regions and customers should be mitigated by approximately 01:00 UTC, one hour from now. Our next update will be provided by then, or sooner if we have progress to share.</p>",
+    "description": "<p><strong>Impact statement: </strong>As early as 19:46 UTC on 2 February 2026, we became aware of an issue causing customers to receive error notifications when performing service management operations - such as create, delete, update, scaling, start, stop - for Virtual Machines (VMs) affecting multiple regions. These issues are also impacting services with dependencies on these service management operations - including Azure Arc Enabled Servers, Azure Batch, Azure Cache for Redis, Azure Container Apps, Azure DevOps (ADO), Azure Kubernetes Service (AKS), Azure Load Testing, Azure Firewall, Azure Search, Azure Virtual Machine Scale Sets (VMSS), Microsoft Entra ID (formerly Azure AD) and GitHub (see https://www.githubstatus.com).</p><p><strong>Current status</strong>: We determined that these issues were caused by a recent configuration change that affected public access to certain Microsoft‑managed storage accounts, used to host extension packages. We have applied our mitigation across all impacted regions and have performed validation checks to ensure that all affected resources have had their configurations updated. We are actively monitoring potential remaining downstream service recovery. At this stage, we are also monitoring potentially related issues for a small number of downstream services - if determined to be related, we will provide an update once validated; if determined to be unrelated, we will mitigate this incident. Our next update will be provided by 05:30 UTC, approximately 120 minutes from now, or sooner if we have progress to share.</p>",
     "pubDate": "2026-02-02T19:46:00.000Z",
     "source": "Azure Status"
   },
@@ -33,13 +33,6 @@
     "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
     "pubDate": "2026-02-02T17:45:01.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "PostgreSQL on Azure supercharged for AI",
-    "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
-    "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-02T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Case study: Securing AI application supply chains",
@@ -649,6 +642,13 @@
     "description": "Learn how to use Qlik Replicate to migrate mainframe and midrange systems to the cloud or extend those systems by using cloud applications.",
     "pubDate": "2025-12-11T16:11:00.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Storage innovations: Unlocking the future of data",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
+    "description": "<p>Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/\">Azure Storage innovations: Unlocking the future of data</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Choose a batch processing technology",
