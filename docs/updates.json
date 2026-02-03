@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "PostgreSQL on Azure supercharged for AI",
+    "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
+    "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-02T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Case study: Securing AI application supply chains",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/",
     "description": "<p>Securing AI-powered applications requires more than just safeguarding prompts. Organizations must adopt a holistic approach that includes monitoring the AI supply chain, assessing frameworks, SDKs, and orchestration layers for vulnerabilities, and enforcing strong runtime controls for agents and tools. Leveraging visibility into these components allows security teams to detect, respond to, and remediate risks before they can be exploited.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/\">Case study: Securing AI application supply chains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -168,13 +175,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "The 6 pillars that will define agent readiness in 2026",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
-    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T17:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Security strategies for safeguarding governmental data",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/",
     "description": "<p>Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/26/security-strategies-for-safeguarding-governmental-data/\">Security strategies for safeguarding governmental data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -313,13 +313,6 @@
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
-    "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
@@ -686,17 +679,24 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure Storage innovations: Unlocking the future of data",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/",
-    "description": "<p>Whether you are improving the resilience of mission-critical workloads or modernizing legacy systems; Azure Storage has a solution for you.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/\">Azure Storage innovations: Unlocking the future of data</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Choose a batch processing technology",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/batch-processing",
     "description": "Compare technology choices for big data batch processing in Azure, including key selection criteria and a capability matrix.",
     "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Integrate IBM mainframe and midrange message queues with Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/integrate-ibm-message-queues-azure",
+    "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DevSecOps for Infrastructure as Code (IaC)",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
+    "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
+    "pubDate": "2025-12-09T17:09:51.000Z",
     "source": "Azure Architecture"
   }
 ]
