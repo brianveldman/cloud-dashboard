@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level",
+    "link": "https://azure.microsoft.com/updates?id=550863",
+    "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\r\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\r\nFiles that provides continuous data access with zero data loss, even if an\r\nentire Azure Availability Zone goes offline. Bui",
+    "pubDate": "2026-02-04T20:00:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Detecting backdoored language models at scale",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/",
+    "description": "<p>We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/\">Detecting backdoored language models at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-04T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
     "link": "https://azure.microsoft.com/updates?id=555205",
     "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
@@ -278,13 +292,6 @@
     "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
     "pubDate": "2026-01-22T16:56:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/",
-    "description": "<p>Microsoft Defender Researchers uncovered a multi‑stage AiTM phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/\">Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-22T05:14:14.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Azure Load Testing in Switzerland North",
@@ -691,12 +698,5 @@
     "description": "Implement the Reliable Web App pattern for .NET. Migrate (replatform) web apps to the cloud with prescriptive architecture, code, and configuration guidance.",
     "pubDate": "2025-12-11T18:10:47.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
-    "link": "https://azure.microsoft.com/updates?id=541784",
-    "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
-    "pubDate": "2025-12-11T18:00:36.000Z",
-    "source": "Azure Updates"
   }
 ]
