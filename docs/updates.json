@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "PostgreSQL on Azure supercharged for AI",
+    "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
+    "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-02T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Case study: Securing AI application supply chains",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/",
     "description": "<p>Securing AI-powered applications requires more than just safeguarding prompts. Organizations must adopt a holistic approach that includes monitoring the AI supply chain, assessing frameworks, SDKs, and orchestration layers for vulnerabilities, and enforcing strong runtime controls for agents and tools. Leveraging visibility into these components allows security teams to detect, respond to, and remediate risks before they can be exploited.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/\">Case study: Securing AI application supply chains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-12-11T18:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Replicate Mainframe and Midrange Data to Azure by Using Qlik",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-midrange-data-replication-azure-qlik",
-    "description": "Learn how to use Qlik Replicate to migrate mainframe and midrange systems to the cloud or extend those systems by using cloud applications.",
-    "pubDate": "2025-12-11T16:11:00.000Z",
-    "source": "Azure Architecture"
   }
 ]
