@@ -1,5 +1,26 @@
 [
   {
+    "title": "New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/",
+    "description": "<p>CrashFix crashes browsers to coerce users into executing commands that deploy a Python RAT, abusing finger.exe and portable Python to evade detection and persist on high‑value systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/\">New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T18:51:39.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=555870",
+    "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
+    "pubDate": "2026-02-05T18:30:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
+    "description": "<p>Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/\">The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level",
     "link": "https://azure.microsoft.com/updates?id=550863",
     "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\r\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\r\nFiles that provides continuous data access with zero data loss, even if an\r\nentire Azure Availability Zone goes offline. Bui",
@@ -12,6 +33,13 @@
     "description": "<p>We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/\">Detecting backdoored language models at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-04T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
+    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-04T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
@@ -231,13 +259,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "From runtime risk to real‑time defense: Securing AI agents ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/",
-    "description": "<p>Why securing AI agents at runtime is essential as attackers find new ways to exploit generative orchestration.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/\">From runtime risk to real‑time defense: Securing AI agents </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-23T20:57:14.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
     "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
@@ -271,13 +292,6 @@
     "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-01-22T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft Security success stories: Why integrated security is the foundation of AI transformation",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/",
-    "description": "<p>Discover how Ford, Icertis, and TriNet modernized security with Microsoft—embedding Zero Trust, automating defenses, and enabling secure AI innovation at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/\">Microsoft Security success stories: Why integrated security is the foundation of AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-22T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Use Azure Kubernetes Service (AKS) in a Multitenant Solution",
@@ -679,24 +693,10 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/",
-    "description": "<p>Discover GPT‑5.2 in Microsoft Foundry—the next standard for enterprise AI. Learn how advanced reasoning, agentic execution, and compliance-ready features empower developers and technical leaders.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/\">Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-11T18:18:05.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Reliable Web App Pattern for .NET",
     "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance",
     "description": "Implement the Reliable Web App pattern for .NET. Migrate (replatform) web apps to the cloud with prescriptive architecture, code, and configuration guidance.",
     "pubDate": "2025-12-11T18:10:47.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
-    "link": "https://azure.microsoft.com/updates?id=541784",
-    "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
-    "pubDate": "2025-12-11T18:00:36.000Z",
-    "source": "Azure Updates"
   }
 ]
