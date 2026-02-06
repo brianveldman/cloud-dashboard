@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=555981",
+    "description": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic's most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model ",
+    "pubDate": "2026-02-06T19:00:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: New planned datacenter region in Thailand (Thailand South)",
+    "link": "https://azure.microsoft.com/updates?id=553999",
+    "description": "Microsoft is announcing our intent to establish\r\na new datacenter region in Thailand. The datacenter region will expand the\r\navailability of Microsoft’s hyperscale cloud services in the region,\r\nfacilitating enterprise-grade reliability, performance, and com",
+    "pubDate": "2026-02-06T19:00:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026",
     "link": "https://azure.microsoft.com/updates?id=553966",
     "description": "DCa/ECa v6 series AMD based confidential virtual machines are now generally available in 11 new regions: Canada Central, Canada East, Norway East, Norway West, Italy North, Germany North, France South, Australia East, West US, West US 3, Germany West Cent",
@@ -684,19 +698,5 @@
     "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
     "pubDate": "2025-12-15T16:31:07.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Update: The retirement date for default outbound access has been extended to March 31, 2026.",
-    "link": "https://azure.microsoft.com/updates?id=515484",
-    "description": "The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) update and replaces the previously communicated September 30, 2025 date. Starting March 31, 2026, newly c",
-    "pubDate": "2025-12-12T11:30:27.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams ",
-    "link": "https://azure.microsoft.com/updates?id=536907",
-    "description": "You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. This enhancement delivers timely, actionable data directly into team workflows, reducing the need to check e",
-    "pubDate": "2025-12-11T20:30:24.000Z",
-    "source": "Azure Updates"
   }
 ]
