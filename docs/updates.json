@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure virtual network routing appliance ",
+    "link": "https://azure.microsoft.com/updates?id=555944",
+    "description": "Azure Virtual\r\nNetwork routing appliance offers private connectivity\r\nfor workloads across virtual networks. Using specialized\r\nhardware, it delivers low latency and\r\nhigh throughput, and optimal performance compared\r\nto virtual machines.   Deployed into priva",
+    "pubDate": "2026-02-05T21:45:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/",
     "description": "<p>CrashFix crashes browsers to coerce users into executing commands that deploy a Python RAT, abusing finger.exe and portable Python to evade detection and persist on high‑value systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/\">New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -243,6 +250,13 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The 6 pillars that will define agent readiness in 2026",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
+    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Security strategies for safeguarding governmental data",
@@ -684,19 +698,5 @@
     "description": "The retirement date for default outbound access has been extended to March 31, 2026. This change aligns with the broader Azure Virtual Network (VNet) update and replaces the previously communicated September 30, 2025 date. Starting March 31, 2026, newly c",
     "pubDate": "2025-12-12T11:30:27.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams ",
-    "link": "https://azure.microsoft.com/updates?id=536907",
-    "description": "You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. This enhancement delivers timely, actionable data directly into team workflows, reducing the need to check e",
-    "pubDate": "2025-12-11T20:30:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Reliable Web App Pattern for .NET",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance",
-    "description": "Implement the Reliable Web App pattern for .NET. Migrate (replatform) web apps to the cloud with prescriptive architecture, code, and configuration guidance.",
-    "pubDate": "2025-12-11T18:10:47.000Z",
-    "source": "Azure Architecture"
   }
 ]
