@@ -28,6 +28,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
+    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T17:46:10.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
     "description": "<p>Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/\">The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -658,13 +672,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure updates for partners: December 2025",
-    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-    "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-16T18:23:05.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
@@ -691,12 +698,5 @@
     "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2025-12-15T17:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Architectural Considerations for Identity in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
-    "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
-    "pubDate": "2025-12-15T16:31:07.000Z",
-    "source": "Azure Architecture"
   }
 ]
