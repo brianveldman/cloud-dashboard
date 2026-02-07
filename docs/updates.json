@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In development] Private Preview: Vaulted Backups for Azure Disk ",
+    "link": "https://azure.microsoft.com/updates?id=555184",
+    "description": "Today, Azure Disk Backup protects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the Operational Tier in Azure Backup. This enables fast",
+    "pubDate": "2026-02-06T23:00:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Monitor pipeline data transformations ",
+    "link": "https://azure.microsoft.com/updates?id=555488",
+    "description": "Azure Monitor pipeline data transformations feature is now Public Preview! This feature enables users to shape telemetry before it’s ingested into Azure Monitor, helping them control ingestion costs, improve data quality, and simplify analytics at scale.B",
+    "pubDate": "2026-02-06T22:45:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=555981",
     "description": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic's most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model ",
@@ -61,6 +75,13 @@
     "description": "<p>We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/\">Detecting backdoored language models at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-04T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
+    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-04T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
@@ -677,26 +698,5 @@
     "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Guidance for using Azure Private Link service in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/private-link",
-    "description": "This article describes the features of Azure Private Link that are useful when you work with multitenanted systems, and it provides links to guidance and examples.",
-    "pubDate": "2025-12-16T14:55:31.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "What’s new in Microsoft Copilot Studio: November 2025",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
-    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2025-12-15T17:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Architectural Considerations for Identity in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
-    "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
-    "pubDate": "2025-12-15T16:31:07.000Z",
-    "source": "Azure Architecture"
   }
 ]
