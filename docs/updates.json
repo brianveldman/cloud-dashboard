@@ -1,5 +1,12 @@
 [
   {
+    "title": " Partial Recovery of ongoing Service Degradation in West US region ",
+    "link": "https://azurestatusprodncus.azurewebsites.net/en-us/status/",
+    "description": "We are currently addressing an issue affecting a portion of the West US datacenter. The datacenter experienced an unexpected utility power interruption, and while backup power sources are running, some areas of the facility have not yet fully recovered.Most services are operating normally through healthy zones; however, resources located in impacted sections may experience intermittent availability or delayed monitoring/log data.Our engineering and datacenter teams are actively restoring full power and validating the health of dependent systems.&nbsp;More information will be provided in 60 minutes or as events warrant.",
+    "pubDate": "2026-02-07T11:46:50.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/",
     "description": "<p>We are seeing exploitation of SolarWinds Web Help Desk via CVE‑2025‑40551 and CVE‑2025‑40536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/\">Analysis of active exploitation of SolarWinds Web Help Desk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2025-12-16T18:23:05.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
-    "link": "https://azure.microsoft.com/updates?id=537106",
-    "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
-    "pubDate": "2025-12-16T15:45:45.000Z",
-    "source": "Azure Updates"
   }
 ]
