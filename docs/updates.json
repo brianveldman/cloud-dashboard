@@ -1,8 +1,8 @@
 [
   {
     "title": "Partial Recovery of ongoing Service Degradation in West US region",
-    "link": "https://azurestatusprodcus.azurewebsites.net/en-us/status/",
-    "description": "<p><strong>Impact Statement</strong></p><p>Starting at 08:00 UTC on 07 February 2026, a subset of customers using Azure services in the West US region may experience intermittent service unavailability or delays in monitoring and log data for some resources hosted in the affected datacenter areas. Impacted services include Web Apps, Application Insights, Azure Confidential Compute, Azure Container Registry, Azure Data Factory, Azure Database for MySQL – Flexible Server, Azure Databricks, Azure IoT Hub, Azure Kubernetes Service, Azure Monitor Essentials, Azure Search, Azure Site Recovery, Azure Stream Analytics, Azure Backup (MAB), Cloudnet, and Service Bus. Impacted customers may observe degraded performance, reduced availability, or delayed telemetry as services continue to recover.</p><p><br></p><p><strong>Current Status: </strong></p><p>Earlier today, an unexpected utility power interruption at one of our West US datacenters resulted in a loss of power to portions of the facility. Power has since stabilized, and infrastructure and compute are being restored in controlled phases with continuous validation to ensure a safe and stable recovery.</p><p>During restoration, we identified a single cluster housing two storage stamps that remained in an unhealthy state following initial power and infrastructure recovery. This condition caused data to remain unavailable for dependent components and required additional remediation before broader storage recovery actions could proceed. Restoration efforts for this cluster are ongoing.</p><p>As recovery progresses, we are seeing a continued reduction in the number of unhealthy virtual machines and improvements across resources dependent on impacted storage accounts. Data availability and telemetry recovery are occurring gradually and may take additional time as services rehydrate and backlog processing completes.</p><p>Azure Database for MySQL – Flexible Server, Azure SQL DW, Azure SQL Managed Instances, Azure Event Hub, Service Bus should now be recovered and back to a healthy state.</p><p><br></p><p><strong>Ongoing Mitigation and Recovery Workstreams</strong></p><p>Our teams are actively engaged in several parallel workstreams to restore full-service health. These include continued validation of datacenter power and environmental stability, targeted recovery of the affected storage cluster and associated stamps, and controlled reintroduction of dependent compute and platform services.</p><p>In parallel, we are monitoring virtual machine health, restarting impacted workloads where safe to do so, and validating storage data consistency before re‑enabling full access. Telemetry pipelines are also recovering as services come back online, and customers may continue to see delayed or partial monitoring data until backlog processing completes.</p><p>The current efforts are focused on a subset of storage and compute nodes which are taking longer than expected to recover or may need additional steps. Most of the affected downstream services are progressing towards recovery with teams closely monitoring the health metrics as these services catch up with backlog processing.</p><p><br></p><p><strong>Next Steps</strong>: At this time, we do not have an estimated time for full resolution. Customers may continue to see incremental signs of recovery as these mitigation efforts progress.</p><p>The next update will be provided within 60 minutes, or sooner if there are significant changes to share.</p>",
+    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
+    "description": "<p><strong>Impact Statement</strong>: Starting at 08:00 UTC on 07 February 2026, a subset of customers using Azure services in the West US region may experience intermittent service unavailability or delays in monitoring and log data for some resources hosted in the affected datacenter areas. Impacted services include Web Apps, Application Insights, Azure Confidential Compute, Azure Container Registry, Azure Data Factory, Azure Database for MySQL – Flexible Server, Azure Databricks, Azure IoT Hub, Azure Kubernetes Service, Azure Monitor Essentials, Azure Search, Azure Site Recovery, Azure Stream Analytics, Azure Backup (MAB),&nbsp;and Service Bus. Impacted customers may observe degraded performance, reduced availability, or delayed telemetry as services continue to recover.</p><p><br></p><p><strong>Current Status</strong>: Restoration efforts are mostly complete with a very small subset of resources requiring manual recovery.</p><p>Services Recovered and Healthy: App Services, Azure Defender for cloud, Azure Container Apps, Azure Kubernetes Service, Azure Storage, Azure Databricks, Azure Database for MySQL – Flexible Server, Azure SQL DW, Azure SQL Managed Instances, Azure Event Hub, Service Bus.</p><p>Beyond this list, most of the affected downstream services in this region have recovered, with teams running final validations. Customers accessing these services should be observing operations resuming back to normal thresholds.</p><p><br></p><p><strong>Next Steps</strong>: We will continue with targeted communications being distributed via Azure Service Health</p>",
     "pubDate": "2026-02-07T08:00:00.000Z",
     "source": "Azure Status"
   },
@@ -292,13 +292,6 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The 6 pillars that will define agent readiness in 2026",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
-    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T17:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Maia 200: The AI accelerator built for inference",
@@ -696,6 +689,13 @@
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
+    "pubDate": "2025-12-16T15:45:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure NetApp Files advanced ransomware protection ",
+    "link": "https://azure.microsoft.com/updates?id=536699",
+    "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
   }
