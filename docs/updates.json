@@ -1,12 +1,5 @@
 [
   {
-    "title": "Partial Recovery of ongoing Service Degradation in West US region",
-    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-    "description": "<p><strong>Impact Statement</strong>: Starting at 08:00 UTC on 07 February 2026, a subset of customers using Azure services in the West US region may experience intermittent service unavailability or delays in monitoring and log data for some resources hosted in the affected datacenter areas. Impacted services include Web Apps, Application Insights, Azure Confidential Compute, Azure Container Registry, Azure Data Factory, Azure Database for MySQL – Flexible Server, Azure Databricks, Azure IoT Hub, Azure Kubernetes Service, Azure Monitor Essentials, Azure Search, Azure Site Recovery, Azure Stream Analytics, Azure Backup (MAB),&nbsp;and Service Bus. Impacted customers may observe degraded performance, reduced availability, or delayed telemetry as services continue to recover.</p><p><br></p><p><strong>Current Status</strong>: Restoration efforts are mostly complete with a very small subset of resources requiring manual recovery.</p><p>Services Recovered and Healthy: App Services, Azure Defender for cloud, Azure Container Apps, Azure Kubernetes Service, Azure Storage, Azure Databricks, Azure Database for MySQL – Flexible Server, Azure SQL DW, Azure SQL Managed Instances, Azure Event Hub, Service Bus.</p><p>Beyond this list, most of the affected downstream services in this region have recovered, with teams running final validations. Customers accessing these services should be observing operations resuming back to normal thresholds.</p><p><br></p><p><strong>Next Steps</strong>: We will continue with targeted communications being distributed via Azure Service Health</p>",
-    "pubDate": "2026-02-07T08:00:00.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/",
     "description": "<p>We are seeing exploitation of SolarWinds Web Help Desk via CVE‑2025‑40551 and CVE‑2025‑40536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/\">Analysis of active exploitation of SolarWinds Web Help Desk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -89,6 +82,13 @@
     "description": "<p>We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/\">Detecting backdoored language models at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-04T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
+    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-04T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
@@ -292,6 +292,13 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The 6 pillars that will define agent readiness in 2026",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
+    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Maia 200: The AI accelerator built for inference",
@@ -689,13 +696,6 @@
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
-    "pubDate": "2025-12-16T15:45:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure NetApp Files advanced ransomware protection ",
-    "link": "https://azure.microsoft.com/updates?id=536699",
-    "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
   }
