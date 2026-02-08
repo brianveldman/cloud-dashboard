@@ -7,48 +7,6 @@
     "source": "Security"
   },
   {
-    "title": "[In development] Private Preview: Vaulted Backups for Azure Disk ",
-    "link": "https://azure.microsoft.com/updates?id=555184",
-    "description": "Today, Azure Disk Backup protects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the Operational Tier in Azure Backup. This enables fast",
-    "pubDate": "2026-02-06T23:00:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor pipeline data transformations ",
-    "link": "https://azure.microsoft.com/updates?id=555488",
-    "description": "Azure Monitor pipeline data transformations feature is now Public Preview! This feature enables users to shape telemetry before it’s ingested into Azure Monitor, helping them control ingestion costs, improve data quality, and simplify analytics at scale.B",
-    "pubDate": "2026-02-06T22:45:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=555981",
-    "description": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic's most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model ",
-    "pubDate": "2026-02-06T19:00:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: New planned datacenter region in Thailand (Thailand South)",
-    "link": "https://azure.microsoft.com/updates?id=553999",
-    "description": "Microsoft is announcing our intent to establish\r\na new datacenter region in Thailand. The datacenter region will expand the\r\navailability of Microsoft’s hyperscale cloud services in the region,\r\nfacilitating enterprise-grade reliability, performance, and com",
-    "pubDate": "2026-02-06T19:00:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026",
-    "link": "https://azure.microsoft.com/updates?id=553966",
-    "description": "DCa/ECa v6 series AMD based confidential virtual machines are now generally available in 11 new regions: Canada Central, Canada East, Norway East, Norway West, Italy North, Germany North, France South, Australia East, West US, West US 3, Germany West Cent",
-    "pubDate": "2026-02-06T01:00:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure virtual network routing appliance ",
-    "link": "https://azure.microsoft.com/updates?id=555944",
-    "description": "Azure Virtual\r\nNetwork routing appliance offers private connectivity\r\nfor workloads across virtual networks. Using specialized\r\nhardware, it delivers low latency and\r\nhigh throughput, and optimal performance compared\r\nto virtual machines.   Deployed into priva",
-    "pubDate": "2026-02-05T21:45:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/",
     "description": "<p>CrashFix crashes browsers to coerce users into executing commands that deploy a Python RAT, abusing finger.exe and portable Python to evade detection and persist on high‑value systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/\">New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -56,25 +14,11 @@
     "source": "Security"
   },
   {
-    "title": "[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=555870",
-    "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
-    "pubDate": "2026-02-05T18:30:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
     "description": "<p>Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/\">The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-05T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level",
-    "link": "https://azure.microsoft.com/updates?id=550863",
-    "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\r\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\r\nFiles that provides continuous data access with zero data loss, even if an\r\nentire Azure Availability Zone goes offline. Bui",
-    "pubDate": "2026-02-04T20:00:42.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Detecting backdoored language models at scale",
@@ -91,27 +35,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
-    "link": "https://azure.microsoft.com/updates?id=555205",
-    "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
-    "pubDate": "2026-02-03T20:30:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Container Storage v2.1.0 now with Elastic SAN integration and on demand installation",
-    "link": "https://azure.microsoft.com/updates?id=553917",
-    "description": "Azure Container Storage v2.1.0 is now generally available. This release adds native Elastic SAN support and introduces a lightweight, on-demand installation model to simplify deployment and operations for Kubernetes workloads on Azure. Elastic SAN Storage",
-    "pubDate": "2026-02-03T20:30:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager namespace-scoped resource placement ",
-    "link": "https://azure.microsoft.com/updates?id=548198",
-    "description": "Namespace-scoped resource placement, now\r\nin preview for Azure Kubernetes Fleet Manager, delivers fine‑grained control\r\nover selection and propagation of individual namespace‑scoped resources across\r\nmultiple clusters.   This new capability means\r\nit is now p",
-    "pubDate": "2026-02-03T20:30:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Microsoft SDL: Evolving security practices for an AI-powered world",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/",
     "description": "<p>Discover Microsoft’s holistic SDL for AI combining policy, research, and enablement to help leaders secure AI systems against evolving cyberthreats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/\">Microsoft SDL: Evolving security practices for an AI-powered world</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -126,27 +49,6 @@
     "source": "Security"
   },
   {
-    "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
-    "link": "https://azure.microsoft.com/updates?id=553527",
-    "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
-    "pubDate": "2026-02-02T18:15:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Serverless workspaces in Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=550845",
-    "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure ",
-    "pubDate": "2026-02-02T18:15:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=553532",
-    "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
-    "pubDate": "2026-02-02T17:45:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "PostgreSQL on Azure supercharged for AI",
     "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
     "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -159,13 +61,6 @@
     "description": "<p>Securing AI-powered applications requires more than just safeguarding prompts. Organizations must adopt a holistic approach that includes monitoring the AI supply chain, assessing frameworks, SDKs, and orchestration layers for vulnerabilities, and enforcing strong runtime controls for agents and tools. Leveraging visibility into these components allows security teams to detect, respond to, and remediate risks before they can be exploited.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/30/case-study-securing-ai-application-supply-chains/\">Case study: Securing AI application supply chains</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-30T18:49:44.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Retirement: \"Send data to Event Hubs & Storage (Preview)\" retiring July 31, 2026",
-    "link": "https://azure.microsoft.com/updates?id=551523",
-    "description": "On July 31, 2026, we'll retire preview feature “Send virtual machine client data to Event Hubs and Storage (Preview)” and it'll no longer be supported by Microsoft. You will not be able to create any new data collection rules using this feature, and any e",
-    "pubDate": "2026-01-30T18:30:02.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Web-Queue-Worker Architecture Style",
@@ -217,34 +112,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13 ",
-    "link": "https://azure.microsoft.com/updates?id=545771",
-    "description": "In alignment with the end of community support, on October 1, 2026, support for Python 3.10 in Azure Functions will end. Your\r\napps that are hosted on Functions will continue to run, but security updates\r\nand performance optimizations will no longer be avai",
-    "pubDate": "2026-01-28T23:15:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure AMD Turin Dasv7, Easv7, and Fasv7-series Virtual Machines    ",
-    "link": "https://azure.microsoft.com/updates?id=552318",
-    "description": "The general purpose Dasv7 and Dalsv7, memory-optimized Easv7, and compute-optimized Fasv7, Falsv7, Famsv7 VMs, are now generally available with and without local disk support. These VMs are available in the following Azure regions: Australia East, Central",
-    "pubDate": "2026-01-28T19:15:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Databricks Agent Bricks Knowledge Assistant",
-    "link": "https://azure.microsoft.com/updates?id=542455",
-    "description": "Azure Databricks Agent Bricks knowledge assistant empowers you to create, deploy, and manage AI agents directly within the Azure Databricks platform, using unified data and AI capabilities. This feature simplifies agent development by providing prebuilt c",
-    "pubDate": "2026-01-28T18:45:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server  ",
-    "link": "https://azure.microsoft.com/updates?id=550164",
-    "description": "PostgreSQL minor versions 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23 are now supported by Azure Database for PostgreSQL – Flexible Server.    These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azure Data",
-    "pubDate": "2026-01-28T17:00:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Mission-Critical Global Content Delivery",
     "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-content-delivery",
     "description": "Learn how to develop highly resilient global HTTP applications when your focus is on content delivery and caching.",
@@ -259,32 +126,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Azure NetApp Files support in OpenShift Virtualization ",
-    "link": "https://azure.microsoft.com/updates?id=550466",
-    "description": "Azure NetApp Files now\r\nenables fast virtual machine (VM) provisioning, instant cloning, and live\r\nmigration in OpenShift Virtualization. It offers seamlessly scalable storage\r\nwith predictable performance and enterprise data management for VM workloads\r\nfrom",
-    "pubDate": "2026-01-27T17:00:06.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: 7th generation Intel-based VMs – Dlsv7/Dsv7/Esv7 ",
-    "link": "https://azure.microsoft.com/updates?id=529407",
-    "description": "Announcing the preview of new Azure Dlsv7/Dsv7 General Purpose and Esv7 Memory Optimized Virtual Machines (VMs) powered by the latest Intel® Xeon® 6 processors (Granite Rapids). The latest Azure Intel-based v7 VMs are designed to power ever increasing com",
-    "pubDate": "2026-01-27T17:00:06.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Microsoft announces the 2026 Security Excellence Awards winners",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/01/27/microsoft-announces-the-2026-security-excellence-awards-winners/",
     "description": "<p>Congratulations to the winners of the 2026 Microsoft Security Excellence Awards that recognize the innovative defenders who have gone above and beyond.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/27/microsoft-announces-the-2026-security-excellence-awards-winners/\">Microsoft announces the 2026 Security Excellence Awards winners</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-01-27T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Command Launcher for Java",
-    "link": "https://azure.microsoft.com/updates?id=543994",
-    "description": "At Microsoft Ignite 2025, we announced the Public Preview of the Azure Command Launcher for Java, a new JVM launcher optimized specifically for Azure. This tool provides better default ergonomics for Java applications running in containers and virtual mac",
-    "pubDate": "2026-01-27T14:00:07.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Considerations for Using Azure Container Apps in a Multitenant Solution",
@@ -315,27 +161,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[Launched] Generally Available: Deployment safeguards – pod security standard support in AKS ",
-    "link": "https://azure.microsoft.com/updates?id=548101",
-    "description": "Organizations deploying workloads on Kubernetes often need a consistent way\r\nto enforce pod security configurations across clusters. Azure Kubernetes\r\nService (AKS) now supports Pod Security Standards within Deployment Safeguards,\r\nenabling centralized manag",
-    "pubDate": "2026-01-22T22:30:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs  ",
-    "link": "https://azure.microsoft.com/updates?id=547772",
-    "description": "StandardV2 SKU NAT Gateway is now generally available, delivering enhanced resiliency, greater performance, and dual-stack connectivity, all at the same price as the Standard SKU.  StandardV2 Public IP addresses and prefixes are also generally available. ",
-    "pubDate": "2026-01-22T17:30:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Reporting in Playwright Workspaces (part of Azure App Testing)",
-    "link": "https://azure.microsoft.com/updates?id=550379",
-    "description": "Reporting capabilities are now live in Playwright Workspaces. The latest update brings you an integrated, flexible and collaborative reporting experience designed to make debugging tests in Playwright Workspaces easier, faster and more efficient. Customer",
-    "pubDate": "2026-01-22T17:00:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Beyond boundaries: The future of Azure Storage in 2026",
     "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
     "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -348,34 +173,6 @@
     "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
     "pubDate": "2026-01-22T16:56:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Load Testing in Switzerland North",
-    "link": "https://azure.microsoft.com/updates?id=550685",
-    "description": "Azure Load Testing capability in Azure App Testing is now generally available in Switzerland North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance",
-    "pubDate": "2026-01-22T00:00:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Application volume group for Oracle create data protection volume group (API) ",
-    "link": "https://azure.microsoft.com/updates?id=548066",
-    "description": "The functionality of application volume group for Oracle has been expanded with the ability to create data protection volumes in a volume group with the same anti-affinity layout as production volume groups. Customers benefit from this ability for creatin",
-    "pubDate": "2026-01-22T00:00:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure File Sync in Israel Central",
-    "link": "https://azure.microsoft.com/updates?id=548974",
-    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
-    "pubDate": "2026-01-21T22:15:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
-    "link": "https://azure.microsoft.com/updates?id=548096",
-    "description": "Customers\r\nupgrading AKS clusters often need a clear and flexible path to adopt new OS\r\nversions without disrupting workloads. Ubuntu 24.04 is now generally\r\navailable on AKS starting with Kubernetes version 1.32, with containerd 2.0 enabled by default.  It ",
-    "pubDate": "2026-01-21T18:00:07.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Micro Focus Enterprise Server on Azure VMs",
@@ -392,13 +189,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues",
-    "link": "https://azure.microsoft.com/updates?id=548987",
-    "description": "User delegation SAS for Azure Tables, Azure Files, and Azure Queues is now available in public preview. User delegation (UDK) SAS is already generally available for blobs, and this release extends that support to tables, files, and queues.User delegation ",
-    "pubDate": "2026-01-16T17:00:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Chart your AI and agent strategy with Microsoft Marketplace",
     "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
     "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -411,13 +201,6 @@
     "description": "<p>We’ve put together something special just for students—a limited time offer that helps you study smarter, stand out in your job search, and turn your ambitions into reality.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-01-15T16:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS ",
-    "link": "https://azure.microsoft.com/updates?id=536550",
-    "description": "Ubuntu 24.04 is now generally available on AKS in Kubernetes\r\nversion 1.32 and above. Containerd 2.0 is enabled by default. Ubuntu 24.04 is\r\ndefault with `Ubuntu` OS Sku in kubernetes version 1.35 and above. There are two ways that Ubuntu 24.04 can be enabl",
-    "pubDate": "2026-01-14T22:45:12.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Microsoft Security Solutions for AWS",
@@ -490,13 +273,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
-    "link": "https://azure.microsoft.com/updates?id=543086",
-    "description": "Available now in Public Preview, you can configure Azure Cosmos DB accounts with virtual networks or private endpoints to work with Microsoft Fabric mirroring. This feature allows you to preserve your enhanced network security and seamlessly replicate you",
-    "pubDate": "2026-01-09T14:30:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Global Routing Redundancy for Mission-Critical Web Applications",
     "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
     "description": "Learn how to develop highly resilient global web applications.",
@@ -532,34 +308,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
-    "link": "https://azure.microsoft.com/updates?id=536560",
-    "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
-    "pubDate": "2025-12-31T21:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Geo-Replication for Azure Service Bus Premium",
-    "link": "https://azure.microsoft.com/updates?id=490149",
-    "description": "The Geo-Replication feature for Azure Service Bus in the\r\npremium tier is now generally available. The Service Bus Geo-Replication\r\nfeature is one of the options to insulate\r\nAzure Service Bus applications against outages and disasters, providing\r\nreplication",
-    "pubDate": "2025-12-31T21:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Austria East and in a second Availability Zone in Japan West ",
-    "link": "https://azure.microsoft.com/updates?id=544080",
-    "description": "Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation general-purpose block storage solution, offers sub-millisecond latencies and exceptional price performance for ",
-    "pubDate": "2025-12-31T20:45:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Deprecation of Custom Resource Providers",
-    "link": "https://azure.microsoft.com/updates?id=513892",
-    "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
-    "pubDate": "2025-12-29T17:30:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Build a Conversation Knowledge Mining Solution by using Azure AI Services",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/unlock-insights-from-conversational-data",
     "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Azure AI services and Microsoft Foundry.",
@@ -579,13 +327,6 @@
     "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
     "pubDate": "2025-12-19T16:40:52.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover",
-    "link": "https://azure.microsoft.com/updates?id=542813",
-    "description": "Azure Storage Mover’s new Azure Blob container-to-container\r\nmigration feature is now in Public Preview, empowering organizations to move\r\ndata between two Blob containers within the same or different storage accounts, subscriptions or Azure regions securel",
-    "pubDate": "2025-12-18T18:45:03.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Automate Document Classification in Azure",
@@ -644,27 +385,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js ",
-    "link": "https://azure.microsoft.com/updates?id=541427",
-    "description": "Azure\r\nFunctions triggers and bindings enable you to easily integrate event and data\r\nsources with function applications.   Now that SDK\r\ntype bindings support for Azure Blob Storage is available, we’re also\r\nintroducing support for Service Bus SDK type bindi",
-    "pubDate": "2025-12-17T18:45:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Avaailable: Azure SQL updates for early December 2025  ",
-    "link": "https://azure.microsoft.com/updates?id=541818",
-    "description": "In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Activity Log in Azure SQL Database to troubleshoot and optimize access patterns. Learn more.  ",
-    "pubDate": "2025-12-17T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB ",
-    "link": "https://azure.microsoft.com/updates?id=541813",
-    "description": "You can now simplify how you diagnose and resolve issues in your applications running on Azure Cosmos DB with the introduction of the Azure Cosmos DB Site Reliability Engineering (SRE) Agent, built on the Azure SRE Agent platform. This new capability give",
-    "pubDate": "2025-12-17T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Analytics End-to-End with Microsoft Fabric",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
     "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
@@ -693,10 +413,290 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
-    "link": "https://azure.microsoft.com/updates?id=537106",
-    "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
-    "pubDate": "2025-12-16T15:45:45.000Z",
-    "source": "Azure Updates"
+    "title": "Guidance for using Azure Private Link service in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/private-link",
+    "description": "This article describes the features of Azure Private Link that are useful when you work with multitenanted systems, and it provides links to guidance and examples.",
+    "pubDate": "2025-12-16T14:55:31.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "What’s new in Microsoft Copilot Studio: November 2025",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/",
+    "description": "<p>November 2025 was a busy month for Microsoft Copilot Studio, marked by major announcements at Microsoft Ignite 2025 and a wave of new features now rolling out to makers.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-microsoft-copilot-studio-november-2025/\">What’s new in Microsoft Copilot Studio: November 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-15T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Architectural Considerations for Identity in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/identity",
+    "description": "Learn about multitenant identity architecture with authentication, authorization, SSO, federation, and tenant isolation strategies for secure solutions.",
+    "pubDate": "2025-12-15T16:31:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Reliable Web App Pattern for .NET",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance",
+    "description": "Implement the Reliable Web App pattern for .NET. Migrate (replatform) web apps to the cloud with prescriptive architecture, code, and configuration guidance.",
+    "pubDate": "2025-12-11T18:10:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Available today: GPT-5.2 in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/",
+    "description": "<p>Today we’re excited to bring OpenAI’s GPT-5&#046;2 to Microsoft 365 Copilot and Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/11/available-today-gpt-5-2-in-microsoft-365-copilot/\">Available today: GPT-5.2 in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-11T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Replicate Mainframe and Midrange Data to Azure by Using Qlik",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-midrange-data-replication-azure-qlik",
+    "description": "Learn how to use Qlik Replicate to migrate mainframe and midrange systems to the cloud or extend those systems by using cloud applications.",
+    "pubDate": "2025-12-11T16:11:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose a batch processing technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/batch-processing",
+    "description": "Compare technology choices for big data batch processing in Azure, including key selection criteria and a capability matrix.",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Integrate IBM mainframe and midrange message queues with Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/integrate-ibm-message-queues-azure",
+    "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
+    "pubDate": "2025-12-10T18:47:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DevSecOps for Infrastructure as Code (IaC)",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
+    "description": "Learn how to use DevSecOps for IaC to more securely and efficiently deploy cloud infrastructure into a new Azure landing zone.",
+    "pubDate": "2025-12-09T17:09:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design to Support Foundation Model Life Cycles",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/manage-foundation-models-lifecycle",
+    "description": "Learn about how to manage both new model versions and retired model versions in your generative AI application infrastructure.",
+    "pubDate": "2025-12-08T22:00:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure Firewall to help protect an AKS cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-firewall",
+    "description": "Deploy an AKS cluster in a hub-and-spoke network topology by using Terraform and Azure DevOps. Help protect inbound and outbound traffic by using Azure Firewall.",
+    "pubDate": "2025-12-08T22:00:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AKS baseline for multiregion clusters",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-multi-region/aks-multi-cluster",
+    "description": "Run Azure Kubernetes Service (AKS) cluster in multiple regions to achieve high availability.",
+    "pubDate": "2025-12-08T22:00:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multiregion BCDR for Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
+    "description": "Learn which options and scenarios are possible to design and implement an effective multi-region BCDR strategy for Azure Virtual Desktop.",
+    "pubDate": "2025-12-08T20:14:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Local Baseline Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
+    "description": "Learn how to design Azure Local for highly available virtualized and containerized workloads, focusing on reliability and security.",
+    "pubDate": "2025-12-08T20:14:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare Java application hosting options on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/service-for-java-comparison",
+    "description": "Explore recommended strategies for hosting Java applications to Azure, including platform types and supportability.",
+    "pubDate": "2025-12-08T18:33:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Prevent IPv4 Exhaustion in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
+    "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to create more IPv4 address space.",
+    "pubDate": "2025-12-08T18:33:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Monitoring and diagnostics guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
+    "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
+    "pubDate": "2025-12-08T18:29:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Google Cloud to Azure services comparison",
+    "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
+    "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
+    "pubDate": "2025-12-08T18:29:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Caching guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
+    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
+    "pubDate": "2025-12-05T20:18:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Architecture for an AKS Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2025-12-05T04:52:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Advancing Microsoft 365: New capabilities and pricing update",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/",
+    "description": "<p>Today we are announcing expanded availability of AI, security, and management capabilities coming to Microsoft 365 offerings in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/\">Advancing Microsoft 365: New capabilities and pricing update</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-04T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Deploy Microservices to Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
+    "pubDate": "2025-12-03T18:25:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Service for Vector Search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
+    "pubDate": "2025-12-03T18:25:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Enterprise Deployment that uses App Service Environment",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-standard-deployment",
+    "description": "Learn about the recommended architecture for deploying an enterprise application by using App Service Environment version 3 in Azure.",
+    "pubDate": "2025-12-03T15:58:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft 365 Copilot Business: The future of work for small businesses",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/",
+    "description": "<p>We’re excited to announce the general availability of Microsoft 365 Copilot Business—a comprehensive, full-featured AI solution built for SMBs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/02/microsoft-365-copilot-business-the-future-of-work-for-small-businesses/\">Microsoft 365 Copilot Business: The future of work for small businesses</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2025-12-02T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Migrate Cloud Workloads Across Security Tenants",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/migrate-cloud-workloads-across-security-tenants",
+    "description": "Learn how to define and implement a cross-tenant workload migration strategy to address business transformations like acquisitions or divestitures.",
+    "pubDate": "2025-12-02T16:21:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Microservices to Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Learn how to replatform and deploy existing Kubernetes microservice applications workloads to run in Azure Container Apps.",
+    "pubDate": "2025-11-26T17:52:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural Approaches for Messaging in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/messaging",
+    "description": "Learn architectural approaches for messaging in multitenant solutions, including when to deploy shared, sharded, and dedicated messaging components.",
+    "pubDate": "2025-11-26T03:18:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Mission-Critical Global Content Delivery",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-content-delivery",
+    "description": "Learn how to develop highly resilient global HTTP applications when your focus is on content delivery and caching.",
+    "pubDate": "2025-11-25T09:42:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Mission-Critical Global HTTP Ingress",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/mission-critical-global-http-ingress",
+    "description": "Learn how to develop highly resilient global HTTP applications when your focus is on HTTP ingress.",
+    "pubDate": "2025-11-25T09:42:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Global Routing Redundancy for Mission-Critical Web Applications",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
+    "description": "Learn how to develop highly resilient global web applications.",
+    "pubDate": "2025-11-25T09:42:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose a Data Transfer Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-transfer",
+    "description": "Learn about data transfer options like the Azure Import/Export service, Azure Data Box, Azure Data Factory, Fabric Data Factory, and command-line and graphical interface tools.",
+    "pubDate": "2025-11-24T19:48:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Web-Queue-Worker Architecture Style",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/web-queue-worker",
+    "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
+    "pubDate": "2025-11-24T19:28:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Automate Document Classification in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
+    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
+    "pubDate": "2025-11-24T17:31:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure AI Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
+    "description": "Learn about Azure AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
+    "pubDate": "2025-11-24T17:03:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Data Considerations for Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/data-considerations",
+    "description": "Learn about managing data in a microservices architecture. Data integrity and data consistency pose critical challenges for microservices.",
+    "pubDate": "2025-11-21T18:12:54.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate Mainframe Data by Using Precisely Connect",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
+    "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
+    "pubDate": "2025-11-21T17:50:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Chunking Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
+    "description": "Learn about the various chunking strategies like boundary based, custom code, and document analysis models. Also learn about how the document structure should influence your chunking strategy.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Chunk Enrichment Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase",
+    "description": "Learn how to augment your chunks with metadata like title, summary, keywords, entities, and more and learn common cleaning methods that can improve vector matches.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Generate Embeddings Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings",
+    "description": "Learn how embeddings work, how to choose an embedding model, and how your embedding model can affect your vector search results.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Large Language Model End-to-End Evaluation Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase",
+    "description": "Learn about how to evaluate your RAG solution from end to end by calculating and evaluating key large language model and similarity metrics.",
+    "pubDate": "2025-11-20T21:42:44.000Z",
+    "source": "Azure Architecture"
   }
 ]
