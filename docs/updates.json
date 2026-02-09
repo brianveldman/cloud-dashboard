@@ -84,6 +84,13 @@
     "source": "Security"
   },
   {
+    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
+    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-04T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
     "link": "https://azure.microsoft.com/updates?id=555205",
     "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
@@ -691,12 +698,5 @@
     "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Guidance for using Azure Private Link service in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/private-link",
-    "description": "This article describes the features of Azure Private Link that are useful when you work with multitenanted systems, and it provides links to guidance and examples.",
-    "pubDate": "2025-12-16T14:55:31.000Z",
-    "source": "Azure Architecture"
   }
 ]
