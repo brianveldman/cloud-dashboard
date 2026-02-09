@@ -63,6 +63,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T17:46:10.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
     "description": "<p>Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/\">The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -82,6 +89,13 @@
     "description": "<p>We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/\">Detecting backdoored language models at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-04T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
+    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-04T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
@@ -672,13 +686,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure updates for partners: December 2025",
-    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-    "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-16T18:23:05.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
@@ -691,12 +698,5 @@
     "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Guidance for using Azure Private Link service in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/private-link",
-    "description": "This article describes the features of Azure Private Link that are useful when you work with multitenanted systems, and it provides links to guidance and examples.",
-    "pubDate": "2025-12-16T14:55:31.000Z",
-    "source": "Azure Architecture"
   }
 ]
