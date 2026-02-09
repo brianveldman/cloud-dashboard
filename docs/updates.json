@@ -301,6 +301,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "The 6 pillars that will define agent readiness in 2026",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
+    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Maia 200: The AI accelerator built for inference",
     "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
     "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
     "link": "https://azure.microsoft.com/updates?id=537106",
     "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
-    "pubDate": "2025-12-16T15:45:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure NetApp Files advanced ransomware protection ",
-    "link": "https://azure.microsoft.com/updates?id=536699",
-    "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
     "pubDate": "2025-12-16T15:45:45.000Z",
     "source": "Azure Updates"
   }
