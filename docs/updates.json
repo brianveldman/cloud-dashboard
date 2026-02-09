@@ -1,5 +1,12 @@
 [
   {
+    "title": "A one-prompt attack that breaks LLM safety alignment",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/",
+    "description": "<p>As LLMs and diffusion models power more applications, their safety alignment becomes critical.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/\">A one-prompt attack that breaks LLM safety alignment</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-09T17:12:11.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/",
     "description": "<p>We are seeing exploitation of SolarWinds Web Help Desk via CVE‑2025‑40551 and CVE‑2025‑40536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/\">Analysis of active exploitation of SolarWinds Web Help Desk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -14,9 +21,9 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: Azure Monitor pipeline data transformations ",
+    "title": "[In preview] Public Preview: Azure Monitor pipeline transformations ",
     "link": "https://azure.microsoft.com/updates?id=555488",
-    "description": "Azure Monitor pipeline data transformations feature is now Public Preview! This feature enables users to shape telemetry before it’s ingested into Azure Monitor, helping them control ingestion costs, improve data quality, and simplify analytics at scale.B",
+    "description": "Azure Monitor pipeline transformations feature\r\nis now Public Preview! This feature enables users to shape telemetry before\r\nit’s ingested into Azure Monitor, helping them control ingestion costs, improve\r\ndata quality, and simplify analytics at scale.Built ",
     "pubDate": "2026-02-06T22:45:47.000Z",
     "source": "Azure Updates"
   },
@@ -63,11 +70,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T17:46:10.000Z",
-    "source": "Azure Blog"
+    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
+    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
@@ -278,13 +285,6 @@
     "description": "Announcing the preview of new Azure Dlsv7/Dsv7 General Purpose and Esv7 Memory Optimized Virtual Machines (VMs) powered by the latest Intel® Xeon® 6 processors (Granite Rapids). The latest Azure Intel-based v7 VMs are designed to power ever increasing com",
     "pubDate": "2026-01-27T17:00:06.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft announces the 2026 Security Excellence Awards winners",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/27/microsoft-announces-the-2026-security-excellence-awards-winners/",
-    "description": "<p>Congratulations to the winners of the 2026 Microsoft Security Excellence Awards that recognize the innovative defenders who have gone above and beyond.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/27/microsoft-announces-the-2026-security-excellence-awards-winners/\">Microsoft announces the 2026 Security Excellence Awards winners</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-01-27T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Azure Command Launcher for Java",
@@ -693,10 +693,10 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR) ",
-    "link": "https://azure.microsoft.com/updates?id=537106",
-    "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery ",
-    "pubDate": "2025-12-16T15:45:45.000Z",
-    "source": "Azure Updates"
+    "title": "Azure updates for partners: December 2025",
+    "link": "https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+    "description": "<p>Organizations leading in AI make it foundational. They rethink processes and integrate new technologies from the start to improve efficiency.</p>\n<p>The post <a href=\"https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025\">Azure updates for partners: December 2025</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2025-12-16T18:23:05.000Z",
+    "source": "Azure Blog"
   }
 ]
