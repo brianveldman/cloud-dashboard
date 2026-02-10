@@ -28,6 +28,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Five Reasons to attend SQLCon",
+    "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
+    "description": "<p>The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, March 16-20.</p>\n<p>The post <a href=\"https://blog.fabric.microsoft.com/en-us/blog/32624\">Five Reasons to attend SQLCon</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-09T15:12:12.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Use AI to Forecast Customer Orders",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
     "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU. See the Azure services that you can use in this solution.",
@@ -397,13 +404,6 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The 6 pillars that will define agent readiness in 2026",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
-    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T17:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Maia 200: The AI accelerator built for inference",
