@@ -14,6 +14,27 @@
     "source": "Security"
   },
   {
+    "title": "Design a Secure Multitenant RAG Inferencing Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/secure-multitenant-rag",
+    "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
+    "pubDate": "2026-02-09T17:00:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Service for Vector Search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
+    "pubDate": "2026-02-09T17:00:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use AI to Forecast Customer Orders",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
+    "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU. See the Azure services that you can use in this solution.",
+    "pubDate": "2026-02-09T09:27:56.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/",
     "description": "<p>We are seeing exploitation of SolarWinds Web Help Desk via CVE‑2025‑40551 and CVE‑2025‑40536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/\">Analysis of active exploitation of SolarWinds Web Help Desk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -33,6 +54,13 @@
     "description": "Azure Monitor pipeline transformations feature\r\nis now Public Preview! This feature enables users to shape telemetry before\r\nit’s ingested into Azure Monitor, helping them control ingestion costs, improve\r\ndata quality, and simplify analytics at scale.Built ",
     "pubDate": "2026-02-06T22:45:47.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Online Transaction Processing (OLTP)",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
+    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
+    "pubDate": "2026-02-06T20:46:30.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
@@ -91,6 +119,34 @@
     "source": "Security"
   },
   {
+    "title": "Caching guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
+    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
+    "pubDate": "2026-02-05T16:59:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Azure OpenAI",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
+    "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
+    "pubDate": "2026-02-04T20:59:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Container architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/container-get-started",
+    "description": "Get an overview of Azure container technologies, guidance offerings, solution ideas, and reference architectures.",
+    "pubDate": "2026-02-04T20:30:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Analytics architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-get-started",
+    "description": "Get an overview of Azure analytics technologies, guidance offerings, solution ideas, and reference architectures.",
+    "pubDate": "2026-02-04T20:29:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level",
     "link": "https://azure.microsoft.com/updates?id=550863",
     "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\r\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\r\nFiles that provides continuous data access with zero data loss, even if an\r\nentire Azure Availability Zone goes offline. Bui",
@@ -133,11 +189,46 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Baseline Architecture for an AKS Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-02-03T18:11:33.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft SDL: Evolving security practices for an AI-powered world",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/",
     "description": "<p>Discover Microsoft’s holistic SDL for AI combining policy, research, and enablement to help leaders secure AI systems against evolving cyberthreats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/\">Microsoft SDL: Evolving security practices for an AI-powered world</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-03T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
+    "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generative AI Operations for Organizations with MLOps Investments",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
+    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution—Information-Retrieval Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-information-retrieval",
+    "description": "Learn about how to configure a search index, the types of searches that you can run, how to break queries into subqueries, and why and how to rerank queries.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SDWAN integration with Azure hub-and-spoke network topologies",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies",
+    "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Infostealers without borders: macOS, Python stealers, and platform abuse",
@@ -606,97 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
     "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
     "pubDate": "2025-12-18T18:19:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build and Deploy Custom Document Processing Models on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
-    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
-    "pubDate": "2025-12-18T18:19:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Overview of Microsoft Machine Learning Products and Technologies",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
-    "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
-    "pubDate": "2025-12-18T18:19:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extract and Map Information from Unstructured Content",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/multi-modal-content-processing",
-    "description": "Learn how to build scalable systems for processing text, images, tables, and graphs with quality checks and human review for professional content workflows.",
-    "pubDate": "2025-12-18T18:19:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build a Multiple-Agent Workflow Automation Solution by using Microsoft Agent Framework",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation",
-    "description": "Learn how to design and deploy scalable multi‑agent automation infrastructure by using Microsoft Agent Framework, Azure Container Apps, and Azure AI services.",
-    "pubDate": "2025-12-18T18:19:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "AI Architecture Design",
-    "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
-    "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
-    "pubDate": "2025-12-18T18:19:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design and Develop a RAG Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide",
-    "description": "Learn about what to consider when you design a large language model RAG solution, including each step of the development process and how to evaluate those steps.",
-    "pubDate": "2025-12-17T21:11:36.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/",
-    "description": "<p>We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/\">Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2025-12-17T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js ",
-    "link": "https://azure.microsoft.com/updates?id=541427",
-    "description": "Azure\r\nFunctions triggers and bindings enable you to easily integrate event and data\r\nsources with function applications.   Now that SDK\r\ntype bindings support for Azure Blob Storage is available, we’re also\r\nintroducing support for Service Bus SDK type bindi",
-    "pubDate": "2025-12-17T18:45:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Avaailable: Azure SQL updates for early December 2025  ",
-    "link": "https://azure.microsoft.com/updates?id=541818",
-    "description": "In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Activity Log in Azure SQL Database to troubleshoot and optimize access patterns. Learn more.  ",
-    "pubDate": "2025-12-17T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB ",
-    "link": "https://azure.microsoft.com/updates?id=541813",
-    "description": "You can now simplify how you diagnose and resolve issues in your applications running on Azure Cosmos DB with the introduction of the Azure Cosmos DB Site Reliability Engineering (SRE) Agent, built on the Azure SRE Agent platform. This new capability give",
-    "pubDate": "2025-12-17T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Analytics End-to-End with Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
-    "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
-    "pubDate": "2025-12-17T18:22:55.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Understand Data Models",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/understand-data-store-models",
-    "description": "Learn how to evaluate Azure data store models based on workload patterns, scale, consistency, and governance to guide service selection.",
-    "pubDate": "2025-12-16T21:09:20.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "SaaS and Multitenant Solution Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/saas-multitenant-solution-architecture",
-    "description": "This guide provides an overview of the architectural content for software as a service (SaaS), startups, and multitenancy and guidance about how to architect multitenant solutions on Azure.",
-    "pubDate": "2025-12-16T19:10:37.000Z",
     "source": "Azure Architecture"
   }
 ]
