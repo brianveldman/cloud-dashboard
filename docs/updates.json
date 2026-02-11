@@ -133,6 +133,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T17:46:10.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
     "description": "<p>Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/\">The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -404,6 +411,13 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The 6 pillars that will define agent readiness in 2026",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
+    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Maia 200: The AI accelerator built for inference",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
     "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
     "pubDate": "2025-12-19T16:40:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover",
-    "link": "https://azure.microsoft.com/updates?id=542813",
-    "description": "Azure Storage Mover’s new Azure Blob container-to-container\r\nmigration feature is now in Public Preview, empowering organizations to move\r\ndata between two Blob containers within the same or different storage accounts, subscriptions or Azure regions securel",
-    "pubDate": "2025-12-18T18:45:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Automate Document Classification in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
-    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
-    "pubDate": "2025-12-18T18:19:53.000Z",
     "source": "Azure Architecture"
   }
 ]
