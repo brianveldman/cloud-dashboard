@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North",
+    "link": "https://azure.microsoft.com/updates?id=556282",
+    "description": "You can now set UAE North as a region for Azure Private Link-enabled origins in your Azure Front Door Premium profile. Azure Private Link-enabled origins in Azure Front Door allow you to deliver content to your end-users through public Azure Front Door en",
+    "pubDate": "2026-02-10T21:15:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available:  Azure Databricks Supervisor Agent",
     "link": "https://azure.microsoft.com/updates?id=557081",
     "description": "Introducing Supervisor Agent, now Generally Available in Azure Databricks. Supervisor Agent is part of the Azure Databricks Agent Bricks Platform. Supervisor Agent brings a breakthrough in agentic intelligence—using a dynamic supervisor pattern that under",
@@ -124,13 +131,6 @@
     "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
     "pubDate": "2026-02-05T18:30:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T17:46:10.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
@@ -404,13 +404,6 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The 6 pillars that will define agent readiness in 2026",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
-    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T17:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Maia 200: The AI accelerator built for inference",
@@ -698,5 +691,12 @@
     "description": "Azure Storage Mover’s new Azure Blob container-to-container\r\nmigration feature is now in Public Preview, empowering organizations to move\r\ndata between two Blob containers within the same or different storage accounts, subscriptions or Azure regions securel",
     "pubDate": "2025-12-18T18:45:03.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Automate Document Classification in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
+    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
+    "pubDate": "2025-12-18T18:19:53.000Z",
+    "source": "Azure Architecture"
   }
 ]
