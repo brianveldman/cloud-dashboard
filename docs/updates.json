@@ -1,5 +1,19 @@
 [
   {
+    "title": "Copilot Studio agent security: Top 10 risks you can detect and prevent",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/",
+    "description": "<p>Copilot Studio agents are increasingly powerful. With that power comes risk: small misconfigurations, over‑broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the ten most common risks we observe and maps each to practical detections and mitigations using Microsoft Defender capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/\">Copilot Studio agent security: Top 10 risks you can detect and prevent</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-12T20:38:49.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Your complete guide to Microsoft experiences at RSAC™ 2026 Conference",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/12/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/",
+    "description": "<p>Microsoft Security returns to RSAC Conference to show how Frontier Firms—organizations that are human-led and agent-operated—can stay ahead.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/12/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/\">Your complete guide to Microsoft experiences at RSAC™ 2026 Conference</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-12T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure SQL updates for mid-February 2026  ",
     "link": "https://azure.microsoft.com/updates?id=550159",
     "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
@@ -26,13 +40,6 @@
     "description": "Introducing Supervisor Agent, now Generally Available in Azure Databricks. Supervisor Agent is part of the Azure Databricks Agent Bricks Platform. Supervisor Agent brings a breakthrough in agentic intelligence—using a dynamic supervisor pattern that under",
     "pubDate": "2026-02-10T18:00:43.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "description": "<p>As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/\">Can high-temperature superconductors transform the power infrastructure of datacenters?</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-10T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier",
@@ -161,13 +168,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
-    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T18:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
     "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
     "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -259,13 +259,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft SDL: Evolving security practices for an AI-powered world",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/",
-    "description": "<p>Discover Microsoft’s holistic SDL for AI combining policy, research, and enablement to help leaders secure AI systems against evolving cyberthreats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/\">Microsoft SDL: Evolving security practices for an AI-powered world</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-03T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
     "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
@@ -292,13 +285,6 @@
     "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
     "pubDate": "2026-02-02T22:27:35.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Infostealers without borders: macOS, Python stealers, and platform abuse",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/",
-    "description": "<p>How modern infostealers target macOS systems, leverage Python‑based stealers, and abuse trusted platforms and utilities to distribute credential‑stealing payloads.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/\">Infostealers without borders: macOS, Python stealers, and platform abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-02T21:04:29.000Z",
-    "source": "Security"
   },
   {
     "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
@@ -439,13 +425,6 @@
     "description": "Learn about Azure Container Apps features that are useful in multitenant systems, including scalability, isolation, and resource management.",
     "pubDate": "2026-01-27T00:24:42.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The 6 pillars that will define agent readiness in 2026",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
-    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T17:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Maia 200: The AI accelerator built for inference",
@@ -672,6 +651,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
+    "link": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+    "description": "<p>CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/\">Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-05T23:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
     "link": "https://azure.microsoft.com/updates?id=536560",
     "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
@@ -698,5 +684,19 @@
     "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
     "pubDate": "2025-12-29T17:30:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Build a Conversation Knowledge Mining Solution by using Azure AI Services",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/unlock-insights-from-conversational-data",
+    "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Azure AI services and Microsoft Foundry.",
+    "pubDate": "2025-12-23T16:14:23.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generate Documents from Your Data",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/generate-documents-from-your-data",
+    "description": "Learn how to build a simple system to generate documents. It combines retrieval, summarization, and generation to support faster document drafting by using AI.",
+    "pubDate": "2025-12-23T16:06:18.000Z",
+    "source": "Azure Architecture"
   }
 ]
