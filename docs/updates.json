@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure SQL updates for mid-February 2026  ",
+    "link": "https://azure.microsoft.com/updates?id=550159",
+    "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
+    "pubDate": "2026-02-11T23:15:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/11/the-strategic-siem-buyers-guide-choosing-an-ai-ready-platform-for-the-agentic-era/",
     "description": "<p>New guide details how a unified, AI ready SIEM platform empowers security leaders to operate at the speed of AI, strengthen resilience, accelerate detection and response, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/11/the-strategic-siem-buyers-guide-choosing-an-ai-ready-platform-for-the-agentic-era/\">The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,13 +68,6 @@
     "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
     "pubDate": "2026-02-09T17:00:10.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Five Reasons to attend SQLCon",
-    "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
-    "description": "<p>The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, March 16-20.</p>\n<p>The post <a href=\"https://blog.fabric.microsoft.com/en-us/blog/32624\">Five Reasons to attend SQLCon</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-09T15:12:12.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Use AI to Forecast Customer Orders",
