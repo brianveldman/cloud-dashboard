@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
+    "link": "https://azure.microsoft.com/updates?id=548114",
+    "description": "Kubernetes version 1.34 is now generally available for\r\nAKS. This release introduces 58 upstream enhancements, including 23 Stable\r\nfeatures, 22 Beta features, and 13 Alpha features.   These enhancements help technical practitioners improve\r\ncluster operatio",
+    "pubDate": "2026-02-13T00:30:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Copilot Studio agent security: Top 10 risks you can detect and prevent",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/",
     "description": "<p>Copilot Studio agents are increasingly powerful. With that power comes risk: small misconfigurations, over‑broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the ten most common risks we observe and maps each to practical detections and mitigations using Microsoft Defender capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/\">Copilot Studio agent security: Top 10 risks you can detect and prevent</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -19,6 +26,13 @@
     "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
     "pubDate": "2026-02-11T23:15:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-11T22:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
@@ -173,13 +187,6 @@
     "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
     "pubDate": "2026-02-05T18:30:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
-    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T18:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
@@ -441,13 +448,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "The 6 pillars that will define agent readiness in 2026",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
-    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T17:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Maia 200: The AI accelerator built for inference",
     "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
     "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -630,13 +630,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "description": "<p>We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasoning, agentic workflows, and model intelligence purpose built for healthcare and life sciences industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-11T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
     "link": "https://azure.microsoft.com/updates?id=543086",
     "description": "Available now in Public Preview, you can configure Azure Cosmos DB accounts with virtual networks or private endpoints to work with Microsoft Fabric mirroring. This feature allows you to preserve your enhanced network security and seamlessly replicate you",
@@ -698,5 +691,12 @@
     "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
     "pubDate": "2025-12-29T17:30:40.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Build a Conversation Knowledge Mining Solution by using Azure AI Services",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/unlock-insights-from-conversational-data",
+    "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Azure AI services and Microsoft Foundry.",
+    "pubDate": "2025-12-23T16:14:23.000Z",
+    "source": "Azure Architecture"
   }
 ]
