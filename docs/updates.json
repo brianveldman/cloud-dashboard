@@ -42,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "description": "<p>As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/\">Can high-temperature superconductors transform the power infrastructure of datacenters?</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-10T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/",
     "description": "<p>Read Microsoft's new Cyber Pulse report for straightforward, practical insights and guidance on new cybersecurity risks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/\">80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -166,6 +173,13 @@
     "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
     "pubDate": "2026-02-05T18:30:32.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
+    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
@@ -427,6 +441,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "The 6 pillars that will define agent readiness in 2026",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/",
+    "description": "<p>Learn six practical ways to build and scale agents with Microsoft Copilot Studio while supporting enterprise adoption and governance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/\">The 6 pillars that will define agent readiness in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-01-26T17:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Maia 200: The AI accelerator built for inference",
     "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
     "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -651,13 +672,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
-    "description": "<p>CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/\">Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-05T23:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
     "link": "https://azure.microsoft.com/updates?id=536560",
     "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
@@ -684,19 +698,5 @@
     "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
     "pubDate": "2025-12-29T17:30:40.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Build a Conversation Knowledge Mining Solution by using Azure AI Services",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/unlock-insights-from-conversational-data",
-    "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Azure AI services and Microsoft Foundry.",
-    "pubDate": "2025-12-23T16:14:23.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Generate Documents from Your Data",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/generate-documents-from-your-data",
-    "description": "Learn how to build a simple system to generate documents. It combines retrieval, summarization, and generation to support faster document drafting by using AI.",
-    "pubDate": "2025-12-23T16:06:18.000Z",
-    "source": "Azure Architecture"
   }
 ]
