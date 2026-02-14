@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-11T22:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/11/the-strategic-siem-buyers-guide-choosing-an-ai-ready-platform-for-the-agentic-era/",
     "description": "<p>New guide details how a unified, AI ready SIEM platform empowers security leaders to operate at the speed of AI, strengthen resilience, accelerate detection and response, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/11/the-strategic-siem-buyers-guide-choosing-an-ai-ready-platform-for-the-agentic-era/\">The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -635,13 +642,6 @@
     "description": "Learn about deployment options for both platform and application landing zones in Azure to help ensure governance at scale.",
     "pubDate": "2026-01-12T16:30:32.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "description": "<p>We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasoning, agentic workflows, and model intelligence purpose built for healthcare and life sciences industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-11T22:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
