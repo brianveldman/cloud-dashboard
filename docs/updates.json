@@ -21,25 +21,11 @@
     "source": "Security"
   },
   {
-    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
-    "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
-    "description": "<p>Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/\">The data behind the design: How Pantone built agentic AI with an AI-ready database</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-12T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure SQL updates for mid-February 2026  ",
     "link": "https://azure.microsoft.com/updates?id=550159",
     "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
     "pubDate": "2026-02-11T23:15:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Agentic cloud operations: A new way to run the cloud",
-    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
-    "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-11T22:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
@@ -595,6 +581,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+    "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-14T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "AI Architecture Design",
     "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
     "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
@@ -635,6 +628,13 @@
     "description": "Learn about deployment options for both platform and application landing zones in Azure to help ensure governance at scale.",
     "pubDate": "2026-01-12T16:30:32.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
+    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+    "description": "<p>We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasoning, agentic workflows, and model intelligence purpose built for healthcare and life sciences industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-11T22:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
