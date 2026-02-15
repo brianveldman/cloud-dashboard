@@ -196,13 +196,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
-    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T18:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
     "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
     "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=544080",
     "description": "Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation general-purpose block storage solution, offers sub-millisecond latencies and exceptional price performance for ",
     "pubDate": "2025-12-31T20:45:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Deprecation of Custom Resource Providers",
+    "link": "https://azure.microsoft.com/updates?id=513892",
+    "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
+    "pubDate": "2025-12-29T17:30:40.000Z",
     "source": "Azure Updates"
   }
 ]
