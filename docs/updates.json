@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-11T22:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/11/the-strategic-siem-buyers-guide-choosing-an-ai-ready-platform-for-the-agentic-era/",
     "description": "<p>New guide details how a unified, AI ready SIEM platform empowers security leaders to operate at the speed of AI, strengthen resilience, accelerate detection and response, and more.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/11/the-strategic-siem-buyers-guide-choosing-an-ai-ready-platform-for-the-agentic-era/\">The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -47,6 +54,13 @@
     "description": "Introducing Supervisor Agent, now Generally Available in Azure Databricks. Supervisor Agent is part of the Azure Databricks Agent Bricks Platform. Supervisor Agent brings a breakthrough in agentic intelligence—using a dynamic supervisor pattern that under",
     "pubDate": "2026-02-10T18:00:43.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "description": "<p>As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/\">Can high-temperature superconductors transform the power infrastructure of datacenters?</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-10T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier",
@@ -89,6 +103,13 @@
     "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
     "pubDate": "2026-02-09T17:00:10.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Five Reasons to attend SQLCon",
+    "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
+    "description": "<p>The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, March 16-20.</p>\n<p>The post <a href=\"https://blog.fabric.microsoft.com/en-us/blog/32624\">Five Reasons to attend SQLCon</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-09T15:12:12.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Use AI to Forecast Customer Orders",
@@ -166,6 +187,13 @@
     "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
     "pubDate": "2026-02-05T18:30:32.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
+    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
@@ -616,13 +644,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers",
-    "link": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-    "description": "<p>We’re excited to announce that Anthropic has added new tools, connectors, and skills that allow Claude in Microsoft Foundry to bring advanced reasoning, agentic workflows, and model intelligence purpose built for healthcare and life sciences industries.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-11T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints ",
     "link": "https://azure.microsoft.com/updates?id=543086",
     "description": "Available now in Public Preview, you can configure Azure Cosmos DB accounts with virtual networks or private endpoints to work with Microsoft Fabric mirroring. This feature allows you to preserve your enhanced network security and seamlessly replicate you",
@@ -658,13 +679,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments",
-    "link": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
-    "description": "<p>CES 2026 showcases the arrival of the NVIDIA Rubin Platform, along with Azure’s proven readiness for deployment.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/\">Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-05T23:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
     "link": "https://azure.microsoft.com/updates?id=536560",
     "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
@@ -684,19 +698,5 @@
     "description": "Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation general-purpose block storage solution, offers sub-millisecond latencies and exceptional price performance for ",
     "pubDate": "2025-12-31T20:45:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Deprecation of Custom Resource Providers",
-    "link": "https://azure.microsoft.com/updates?id=513892",
-    "description": "In 2026, Azure Resource Manager will be deprecating the Custom Resource Provider (CuRP) service.We will retire the feature by October 31, 2026. We will be performing a scream test on October 27, 2025, as part of this deprecation. On July 31, 2026, creates",
-    "pubDate": "2025-12-29T17:30:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build a Conversation Knowledge Mining Solution by using Azure AI Services",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/unlock-insights-from-conversational-data",
-    "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Azure AI services and Microsoft Foundry.",
-    "pubDate": "2025-12-23T16:14:23.000Z",
-    "source": "Azure Architecture"
   }
 ]
