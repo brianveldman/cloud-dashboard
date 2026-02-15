@@ -21,13 +21,6 @@
     "source": "Security"
   },
   {
-    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
-    "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
-    "description": "<p>Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/\">The data behind the design: How Pantone built agentic AI with an AI-ready database</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-12T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure SQL updates for mid-February 2026  ",
     "link": "https://azure.microsoft.com/updates?id=550159",
     "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
@@ -600,6 +593,13 @@
     "description": "Learn how Microsoft Entra ID can help secure and protect Amazon Web Services (AWS) identity management and account access. Discover Microsoft security solutions.",
     "pubDate": "2026-01-14T18:25:20.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+    "description": "<p>Microsoft is honored to be named a Leader in the 2025–2026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/\">Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-14T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "AI Architecture Design",
