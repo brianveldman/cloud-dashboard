@@ -28,6 +28,13 @@
     "source": "Security"
   },
   {
+    "title": "AI Agent Orchestration Patterns",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/ai-agent-design-patterns",
+    "description": "Learn about fundamental orchestration patterns for AI agent architectures, including sequential, concurrent, group chat, handoff, and magentic patterns.",
+    "pubDate": "2026-02-12T17:13:32.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Your complete guide to Microsoft experiences at RSAC™ 2026 Conference",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/12/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/",
     "description": "<p>Microsoft Security returns to RSAC Conference to show how Frontier Firms—organizations that are human-led and agent-operated—can stay ahead.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/12/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/\">Your complete guide to Microsoft experiences at RSAC™ 2026 Conference</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -40,6 +47,13 @@
     "description": "<p>Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/\">The data behind the design: How Pantone built agentic AI with an AI-ready database</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-02-12T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Migrate IBM i series to Azure with Skytap",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-ibm-i-series-to-azure-with-skytap",
+    "description": "This example architecture shows how to use the native IBM i backup and recovery services with Microsoft Azure components.",
+    "pubDate": "2026-02-11T23:27:46.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Azure SQL updates for mid-February 2026  ",
@@ -208,6 +222,13 @@
     "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
     "pubDate": "2026-02-05T18:30:32.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
+    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
@@ -677,26 +698,5 @@
     "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
     "pubDate": "2026-01-06T16:24:47.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario ",
-    "link": "https://azure.microsoft.com/updates?id=536560",
-    "description": "The new cloud-native apps on\r\nKubernetes pricing calculator scenario allows teams to estimate the total cost\r\nof ownership for a production-ready AKS cluster with other key Azure services,\r\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
-    "pubDate": "2025-12-31T21:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Geo-Replication for Azure Service Bus Premium",
-    "link": "https://azure.microsoft.com/updates?id=490149",
-    "description": "The Geo-Replication feature for Azure Service Bus in the\r\npremium tier is now generally available. The Service Bus Geo-Replication\r\nfeature is one of the options to insulate\r\nAzure Service Bus applications against outages and disasters, providing\r\nreplication",
-    "pubDate": "2025-12-31T21:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Austria East and in a second Availability Zone in Japan West ",
-    "link": "https://azure.microsoft.com/updates?id=544080",
-    "description": "Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation general-purpose block storage solution, offers sub-millisecond latencies and exceptional price performance for ",
-    "pubDate": "2025-12-31T20:45:49.000Z",
-    "source": "Azure Updates"
   }
 ]
