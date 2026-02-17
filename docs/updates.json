@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] General Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
+    "link": "https://azure.microsoft.com/updates?id=545784",
+    "description": "Announcing the General\r\nAvailability of instant access support for incremental snapshots of Premium SSD\r\nv2 (Pv2) and Ultra Disks. This new capability enables you to restore new disks\r\nimmediately after creating snapshots of Pv2 and Ultra disks. Newly restor",
+    "pubDate": "2026-02-17T17:00:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Unify now or pay later: New research exposes the operational cost of a fragmented SOC",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/",
+    "description": "<p>New research from Microsoft and Omdia reveals how fragmented tools, manual workflows, and alert overload are pushing SOCs to a breaking point.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/\">Unify now or pay later: New research exposes the operational cost of a fragmented SOC</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-17T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
     "link": "https://azure.microsoft.com/updates?id=548114",
     "description": "Kubernetes version 1.34 is now generally available for\r\nAKS. This release introduces 58 upstream enhancements, including 23 Stable\r\nfeatures, 22 Beta features, and 13 Alpha features.These enhancements help technical practitioners improve\r\ncluster operations,",
@@ -196,13 +210,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
-    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T18:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
     "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
     "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -250,13 +257,6 @@
     "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\r\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\r\nFiles that provides continuous data access with zero data loss, even if an\r\nentire Azure Availability Zone goes offline. Bui",
     "pubDate": "2026-02-04T20:00:42.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Detecting backdoored language models at scale",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/",
-    "description": "<p>We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/\">Detecting backdoored language models at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-04T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
