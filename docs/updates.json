@@ -1,6 +1,27 @@
 [
   {
-    "title": "[Launched] General Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
+    "title": "[Launched] Generally Available: Node auto-provisioning support in Azure government and private cloud ",
+    "link": "https://azure.microsoft.com/updates?id=557208",
+    "description": "Node auto‑provisioning removes the\r\nneed for teams to manually size and manage compute resources for Kubernetes\r\nworkloads. Azure Kubernetes Service (AKS) now provides general availability\r\nsupport for node auto‑provisioning in Azure Government and private c",
+    "pubDate": "2026-02-18T17:15:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Node auto-provisioning enabled clusters in AKS now support LocalDNS ",
+    "link": "https://azure.microsoft.com/updates?id=557203",
+    "description": "Customers previously could not\r\nenable LocalDNS on clusters that used Node auto‑provisioning in AKS, limiting\r\ntheir ability to use this feature in those environments. LocalDNS is now\r\ngenerally available for AKS clusters with Node auto‑provisioning, providi",
+    "pubDate": "2026-02-18T16:45:58.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Encryption at host & disk encryption sets support in node auto-provisioning ",
+    "link": "https://azure.microsoft.com/updates?id=557213",
+    "description": "Node auto-provisioning enabled clusters previously did not\r\nhave support for Encryption\r\nat Host and disk encryption sets. This limited users with certain\r\nsecurity requirements for their cluster to not be able to use node\r\nauto-provisioning.    Node auto-pro",
+    "pubDate": "2026-02-18T16:30:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
     "link": "https://azure.microsoft.com/updates?id=545784",
     "description": "Announcing the General Availability of instant access\r\nsupport for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk. This\r\nnew capability enables you to restore new disks immediately after creating\r\nsnapshots of Pv2 and Ultra disks. Newly restore",
     "pubDate": "2026-02-17T17:00:32.000Z",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/networking/global-web-applications/overview",
     "description": "Learn how to develop highly resilient global web applications.",
     "pubDate": "2026-01-08T03:27:43.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
-    "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
-    "pubDate": "2026-01-07T16:20:31.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Architectural Approaches for Messaging in Multitenant Solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/messaging",
-    "description": "Learn architectural approaches for messaging in multitenant solutions, including when to deploy shared, sharded, and dedicated messaging components.",
-    "pubDate": "2026-01-06T18:24:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Stream Processing with Databricks",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
-    "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
-    "pubDate": "2026-01-06T16:24:47.000Z",
     "source": "Azure Architecture"
   }
 ]
