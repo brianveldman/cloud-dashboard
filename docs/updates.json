@@ -1,5 +1,19 @@
 [
   {
+    "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/",
+    "description": "<p>Read the new maturity-based guide that helps organizations move from fragmented, reactive security practices to a unified exposure management approach that enables proactive defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/\">New e-book: Establishing a proactive defense with Microsoft Security Exposure Management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-19T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Running OpenClaw safely: identity, isolation, and runtime risk",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/",
+    "description": "<p>Self-hosted agents execute code with durable credentials and process untrusted input. This creates dual supply chain risk, where skills and external instructions converge in the same runtime. As OpenClaw-like systems enter enterprises, governance and runtime isolation become critical.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/\">Running OpenClaw safely: identity, isolation, and runtime risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-19T16:27:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks ",
     "link": "https://azure.microsoft.com/updates?id=557595",
     "description": "Azure Databricks now supports Anthropic Claude Sonnet 4.6\r\nthrough Azure Databricks AI\r\nModel Serving. Claude Sonnet 4.6\r\ndelivers frontier-level performance on complex coding, agentic\r\nworkflows, and professional knowledge work including reasoning at a\r\nlower",
@@ -266,13 +280,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/",
-    "description": "<p>CrashFix crashes browsers to coerce users into executing commands that deploy a Python RAT, abusing finger.exe and portable Python to evade detection and persist on high‑value systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/\">New Clickfix variant ‘CrashFix’ deploying Python Remote Access Trojan</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T18:51:39.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=555870",
     "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
@@ -292,13 +299,6 @@
     "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-02-05T17:46:10.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
-    "description": "<p>Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/\">The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Caching guidance",
