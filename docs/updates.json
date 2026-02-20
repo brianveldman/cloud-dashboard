@@ -84,13 +84,6 @@
     "source": "Security"
   },
   {
-    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-    "description": "<p>Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/\">Azure reliability, resiliency, and recoverability: Build continuity by design</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-17T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
     "link": "https://azure.microsoft.com/updates?id=548114",
     "description": "Kubernetes version 1.34 is now generally available for\r\nAKS. This release introduces 58 upstream enhancements, including 23 Stable\r\nfeatures, 22 Beta features, and 13 Alpha features.These enhancements help technical practitioners improve\r\ncluster operations,",
@@ -649,6 +642,13 @@
     "description": "User delegation SAS for Azure Tables, Azure Files, and Azure Queues is now available in public preview. User delegation (UDK) SAS is already generally available for blobs, and this release extends that support to tables, files, and queues.User delegation ",
     "pubDate": "2026-01-16T17:00:49.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
+    "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
+    "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-01-15T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
