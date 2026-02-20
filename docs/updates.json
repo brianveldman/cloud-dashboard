@@ -70,6 +70,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
+    "description": "<p>Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and professional work at scale.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873\">Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-17T20:11:10.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
     "link": "https://azure.microsoft.com/updates?id=545784",
     "description": "Announcing the General Availability of instant access\r\nsupport for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk. This\r\nnew capability enables you to restore new disks immediately after creating\r\nsnapshots of Pv2 and Ultra disks. Newly restore",
@@ -82,6 +89,13 @@
     "description": "<p>New research from Microsoft and Omdia reveals how fragmented tools, manual workflows, and alert overload are pushing SOCs to a breaking point.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/\">Unify now or pay later: New research exposes the operational cost of a fragmented SOC</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-17T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+    "description": "<p>Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/\">Azure reliability, resiliency, and recoverability: Build continuity by design</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-17T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
@@ -581,13 +595,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Beyond boundaries: The future of Azure Storage in 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-    "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-22T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Use Azure Kubernetes Service (AKS) in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/aks",
     "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
@@ -642,13 +649,6 @@
     "description": "User delegation SAS for Azure Tables, Azure Files, and Azure Queues is now available in public preview. User delegation (UDK) SAS is already generally available for blobs, and this release extends that support to tables, files, and queues.User delegation ",
     "pubDate": "2026-01-16T17:00:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Chart your AI and agent strategy with Microsoft Marketplace",
-    "link": "https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/",
-    "description": "<p>A new category of organization is emerging that embeds AI across every layer of their operations—accelerating delivery, scaling efficiently, and unlocking new business potential.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/\">Chart your AI and agent strategy with Microsoft Marketplace</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-15T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "College Students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career on us ",
