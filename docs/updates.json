@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
+    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
+    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-19T17:02:52.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/",
     "description": "<p>Read the new maturity-based guide that helps organizations move from fragmented, reactive security practices to a unified exposure management approach that enables proactive defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/\">New e-book: Establishing a proactive defense with Microsoft Security Exposure Management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -75,6 +82,13 @@
     "description": "Node auto-provisioning enabled clusters previously did not\r\nhave support for Encryption\r\nat Host and disk encryption sets. This limited users with certain\r\nsecurity requirements for their cluster to not be able to use node\r\nauto-provisioning.    Node auto-pro",
     "pubDate": "2026-02-18T16:30:06.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
+    "description": "<p>Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and professional work at scale.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873\">Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-17T20:11:10.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
@@ -560,13 +574,6 @@
     "source": "Microsoft 365"
   },
   {
-    "title": "Maia 200: The AI accelerator built for inference",
-    "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-    "description": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/\">Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-26T16:12:24.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
     "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
@@ -593,13 +600,6 @@
     "description": "Reporting capabilities are now live in Playwright Workspaces. The latest update brings you an integrated, flexible and collaborative reporting experience designed to make debugging tests in Playwright Workspaces easier, faster and more efficient. Customer",
     "pubDate": "2026-01-22T17:00:03.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Beyond boundaries: The future of Azure Storage in 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-    "description": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/\">Beyond boundaries: The future of Azure Storage in 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-01-22T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Use Azure Kubernetes Service (AKS) in a Multitenant Solution",
