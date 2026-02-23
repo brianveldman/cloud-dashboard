@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Windows Server Annual Channel (preview) ",
+    "link": "https://azure.microsoft.com/updates?id=557224",
+    "description": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
+    "pubDate": "2026-02-23T18:15:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: WAF Insights for Application Gateway ",
     "link": "https://azure.microsoft.com/updates?id=557416",
     "description": "Announcing the public preview of Application Gateway WAF Insights. Azure Application Gateway WAF now offers WAF Insights, providing an interactive view of logs and metrics. WAF Insights enables quick investigation of blocked requests, analysis of attack p",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/aws/aws-azure-ad-security",
     "description": "Learn how Microsoft Entra ID can help secure and protect Amazon Web Services (AWS) identity management and account access. Discover Microsoft security solutions.",
     "pubDate": "2026-01-14T18:25:20.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "AI Architecture Design",
-    "link": "https://learn.microsoft.com/azure/architecture//ai-ml",
-    "description": "Get started with AI. Use high-level architectural types, see Azure AI platform offerings, and find customer success stories.",
-    "pubDate": "2026-01-13T18:02:36.000Z",
     "source": "Azure Architecture"
   }
 ]
