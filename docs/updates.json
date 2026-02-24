@@ -1,5 +1,12 @@
 [
   {
+    "title": "Developer-targeting campaign using malicious Next.js repositories",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/",
+    "description": "<p>A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/\">Developer-targeting campaign using malicious Next.js repositories</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-02-24T17:28:24.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Scaling security operations with Microsoft Defender autonomous defense and expert-led services",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/",
     "description": "<p>AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/\">Scaling security operations with Microsoft Defender autonomous defense and expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -357,9 +364,9 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Top 10 actions to build agents securely with Microsoft Copilot Studio",
+    "title": "Detecting and mitigating common agent misconfigurations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/",
-    "description": "<p>Copilot Studio agents are increasingly powerful. With that power comes risk: small misconfigurations, over‑broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the ten most common risks we observe and maps each to practical detections and mitigations using Microsoft Defender capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/\">Top 10 actions to build agents securely with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>Agents are increasingly powerful. With that power comes risk: small misconfigurations, over‑broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the most common risks we observe and maps each to practical detections with Microsoft Defender, and mitigations in Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/\">Detecting and mitigating common agent misconfigurations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-12T20:38:49.000Z",
     "source": "Security"
   },
@@ -453,13 +460,6 @@
     "description": "We're announcing public preview of an AKS managed add-on that simplifies the deployment and lifecycle management of Application Gateway for Containers and its ALB Controller. With the managed AKS add-on, you can enable Application Gateway for Containers w",
     "pubDate": "2026-02-09T19:45:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "A one-prompt attack that breaks LLM safety alignment",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/",
-    "description": "<p>As LLMs and diffusion models power more applications, their safety alignment becomes critical.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/09/prompt-attack-breaks-llm-safety/\">A one-prompt attack that breaks LLM safety alignment</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-09T17:12:11.000Z",
-    "source": "Security"
   },
   {
     "title": "Design a Secure Multitenant RAG Inferencing Solution",
