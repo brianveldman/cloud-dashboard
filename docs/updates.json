@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure SQL updates for late-February 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=557517",
+    "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL:  \r\n Introducing Search Database Objects in the MSSQL\r\n     extension for Visual Studio Code. Instantly find tables, views,\r\n     functions, and procedures with full scripti",
+    "pubDate": "2026-02-25T19:00:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL updates for late-February 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=557522",
+    "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL: \r\n Manage your databases directly from the dialog using\r\n     actions such as Name, Rename, and Drop.  \r\n Import a flat file to your database in the\r\n     MSSQL Extension fo",
+    "pubDate": "2026-02-25T18:45:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Geo‑redundant backups for Premium SSD v2 in Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=557532",
+    "description": "You can now configure geo‑redundant backups with Premium SSD v2 disks for Azure Database for PostgreSQL, giving you an additional layer of disaster recovery for mission‑critical workloads. With this release, your automated backups are securely stored in a",
+    "pubDate": "2026-02-25T18:30:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Developer-targeting campaign using malicious Next.js repositories",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/",
     "description": "<p>A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/\">Developer-targeting campaign using malicious Next.js repositories</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -677,26 +698,5 @@
     "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-02-02T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Retirement: \"Send data to Event Hubs & Storage (Preview)\" retiring July 31, 2026",
-    "link": "https://azure.microsoft.com/updates?id=551523",
-    "description": "On July 31, 2026, we'll retire preview feature “Send virtual machine client data to Event Hubs and Storage (Preview)” and it'll no longer be supported by Microsoft. You will not be able to create any new data collection rules using this feature, and any e",
-    "pubDate": "2026-01-30T18:30:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Web-Queue-Worker Architecture Style",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/web-queue-worker",
-    "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
-    "pubDate": "2026-01-30T18:16:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Measure Azure App Sustainability by Using the SCI Score",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/measure-azure-app-sustainability-sci-score",
-    "description": "Create a sustainability model based on available proxies that scores the carbon impact of an application by using the SCI score.",
-    "pubDate": "2026-01-30T16:46:15.000Z",
-    "source": "Azure Architecture"
   }
 ]
