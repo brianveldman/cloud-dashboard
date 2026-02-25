@@ -63,6 +63,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
+    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
+    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-19T17:02:52.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/",
     "description": "<p>Read the new maturity-based guide that helps organizations move from fragmented, reactive security practices to a unified exposure management approach that enables proactive defense.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/\">New e-book: Establishing a proactive defense with Microsoft Security Exposure Management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/measure-azure-app-sustainability-sci-score",
     "description": "Create a sustainability model based on available proxies that scores the carbon impact of an application by using the SCI score.",
     "pubDate": "2026-01-30T16:46:15.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Kubernetes Service (AKS) - Planning",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-start-here",
-    "description": "Learn how to plan, design, and operate Azure Kubernetes Service (AKS) clusters, from foundational concepts to production-ready baseline implementations.",
-    "pubDate": "2026-01-30T16:28:32.000Z",
     "source": "Azure Architecture"
   }
 ]
