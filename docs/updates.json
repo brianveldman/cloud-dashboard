@@ -273,9 +273,9 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[Launched] Generally Available: Node auto-provisioning support in Azure government and private cloud ",
+    "title": "[Launched] Generally Available: Node auto-provisioning support in Sovereign Cloud",
     "link": "https://azure.microsoft.com/updates?id=557208",
-    "description": "Node auto‑provisioning removes the\r\nneed for teams to manually size and manage compute resources for Kubernetes\r\nworkloads. Azure Kubernetes Service (AKS) now provides general availability\r\nsupport for node auto‑provisioning in Azure Government and private c",
+    "description": "Node auto‑provisioning removes the\r\nneed for teams to manually size and manage compute resources for Kubernetes\r\nworkloads. Azure Kubernetes Service (AKS) now provides general availability\r\nsupport for node auto‑provisioning in Sovereign Cloud. This capabili",
     "pubDate": "2026-02-18T17:15:17.000Z",
     "source": "Azure Updates"
   },
