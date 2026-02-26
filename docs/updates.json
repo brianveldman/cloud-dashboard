@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
+    "link": "https://azure.microsoft.com/updates?id=552808",
+    "description": "We are announcing several\r\ncapabilities in public preview with Azure Monitor pipeline.  Secure\r\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\r\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\r\n     contr",
+    "pubDate": "2026-02-26T00:30:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure SQL updates for late-February 2026 ",
     "link": "https://azure.microsoft.com/updates?id=557517",
     "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL:  \r\n Introducing Search Database Objects in the MSSQL\r\n     extension for Visual Studio Code. Instantly find tables, views,\r\n     functions, and procedures with full scripti",
@@ -691,12 +698,5 @@
     "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
     "pubDate": "2026-02-02T17:45:01.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "PostgreSQL on Azure supercharged for AI",
-    "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
-    "description": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/\">PostgreSQL on Azure supercharged for AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-02T15:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
