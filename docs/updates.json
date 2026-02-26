@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity ",
+    "link": "https://azure.microsoft.com/updates?id=557694",
+    "description": "We’re excited to announce the addition of enhanced\r\nsecure authentication in Azure Storage that combines the flexibility of\r\nuser-delegation shared access signature (SAS) with the user-bound access of\r\nEntra ID. User-bound user delegation SAS is now in previ",
+    "pubDate": "2026-02-26T19:45:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Threat modeling AI applications",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/",
     "description": "<p>AI threat modeling helps teams identify misuse, emergent risk, and failure modes in probabilistic and agentic AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/\">Threat modeling AI applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -9,7 +16,7 @@
   {
     "title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
     "link": "https://azure.microsoft.com/updates?id=552808",
-    "description": "We are announcing several\r\ncapabilities in public preview with Azure Monitor pipeline.  Secure\r\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\r\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\r\n     contr",
+    "description": "We are announcing several\r\ncapabilities in public preview with Azure Monitor pipeline. Secure\r\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\r\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\r\n     contro",
     "pubDate": "2026-02-26T00:30:50.000Z",
     "source": "Azure Updates"
   },
@@ -47,6 +54,13 @@
     "description": "<p>AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/\">Scaling security operations with Microsoft Defender autonomous defense and expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-24T13:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
+    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-24T10:20:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Windows Server Annual Channel (preview) ",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=553527",
     "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
     "pubDate": "2026-02-02T18:15:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Serverless workspaces in Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=550845",
-    "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure ",
-    "pubDate": "2026-02-02T18:15:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=553532",
-    "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
-    "pubDate": "2026-02-02T17:45:01.000Z",
     "source": "Azure Updates"
   }
 ]
