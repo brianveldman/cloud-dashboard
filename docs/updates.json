@@ -1,5 +1,12 @@
 [
   {
+    "title": "Active – Azure SQL Managed Instance impacting event in multiple regions.",
+    "link": "https://azurestatusprodncus.azurewebsites.net/en-us/status/",
+    "description": "We are investigating an alert where customers may see exceptions or errors during create or update operations on Azure SQL Managed Instance. We will provide more information as it becomes available.&nbsp;",
+    "pubDate": "2026-02-26T11:50:38.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
     "link": "https://azure.microsoft.com/updates?id=552808",
     "description": "We are announcing several\r\ncapabilities in public preview with Azure Monitor pipeline.  Secure\r\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\r\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\r\n     contr",
@@ -40,13 +47,6 @@
     "description": "<p>AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/\">Scaling security operations with Microsoft Defender autonomous defense and expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-24T13:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Windows Server Annual Channel (preview) ",
@@ -96,13 +96,6 @@
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
     "pubDate": "2026-02-19T17:40:25.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-19T17:02:52.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=550845",
     "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure ",
     "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=553532",
+    "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
+    "pubDate": "2026-02-02T17:45:01.000Z",
     "source": "Azure Updates"
   }
 ]
