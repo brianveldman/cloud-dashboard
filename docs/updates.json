@@ -63,6 +63,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
+    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-02-24T10:20:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Retirement: Windows Server Annual Channel (preview) ",
     "link": "https://azure.microsoft.com/updates?id=557224",
     "description": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
@@ -691,12 +698,5 @@
     "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
     "pubDate": "2026-02-02T22:27:35.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
-    "link": "https://azure.microsoft.com/updates?id=553527",
-    "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
-    "pubDate": "2026-02-02T18:15:39.000Z",
-    "source": "Azure Updates"
   }
 ]
