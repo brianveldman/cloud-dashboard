@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central",
+    "link": "https://azure.microsoft.com/updates?id=557897",
+    "description": "Azure Red Hat OpenShift is now generally available in three additional Azure regions: Malaysia West, New Zealand North, and Mexico Central. This expansion strengthens Azure Red Hat OpenShift’s presence across Asia Pacific and Latin America, enabling custo",
+    "pubDate": "2026-02-27T17:30:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity ",
     "link": "https://azure.microsoft.com/updates?id=557694",
     "description": "We’re excited to announce the addition of enhanced\r\nsecure authentication in Azure Storage that combines the flexibility of\r\nuser-delegation shared access signature (SAS) with the user-bound access of\r\nEntra ID. User-bound user delegation SAS is now in previ",
@@ -691,12 +698,5 @@
     "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
     "pubDate": "2026-02-02T22:27:35.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
-    "link": "https://azure.microsoft.com/updates?id=553527",
-    "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
-    "pubDate": "2026-02-02T18:15:39.000Z",
-    "source": "Azure Updates"
   }
 ]
