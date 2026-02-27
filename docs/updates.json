@@ -56,13 +56,6 @@
     "source": "Security"
   },
   {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Windows Server Annual Channel (preview) ",
     "link": "https://azure.microsoft.com/updates?id=557224",
     "description": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
@@ -110,13 +103,6 @@
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
     "pubDate": "2026-02-19T17:40:25.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-19T17:02:52.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=553527",
     "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
     "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Serverless workspaces in Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=550845",
+    "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure ",
+    "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=553532",
+    "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
+    "pubDate": "2026-02-02T17:45:01.000Z",
     "source": "Azure Updates"
   }
 ]
