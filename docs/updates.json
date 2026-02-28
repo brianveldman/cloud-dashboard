@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
+    "link": "https://azure.microsoft.com/updates?id=558078",
+    "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
+    "pubDate": "2026-02-27T23:15:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: DCesv6, DCedsv6, ECesv6, and ECedsv6 confidential VMs",
+    "link": "https://azure.microsoft.com/updates?id=558051",
+    "description": "The DCesv6, DCedsv6,\r\nECesv6, and ECedsv6 series are Azure’s next generation\r\nof confidential Virtual Machines (VMs) based on 5th Gen\r\nIntel® Xeon® processors with Intel® Trust Domain Extensions (Intel® TDX). These\r\nnew confidential VMs help organizations to ",
+    "pubDate": "2026-02-27T23:15:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Managed NGINX Ingress with Application Routing Add-on Retiring November 2026",
+    "link": "https://azure.microsoft.com/updates?id=555839",
+    "description": "The upstream Ingress-NGINX project is being deprecated and will stop receiving updates after March 2026. Microsoft will continue providing critical security patches through 30 November 2026, after which the NGINX ingress controller will no longer be suppo",
+    "pubDate": "2026-02-27T21:45:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central",
     "link": "https://azure.microsoft.com/updates?id=557897",
     "description": "Azure Red Hat OpenShift is now generally available in three additional Azure regions: Malaysia West, New Zealand North, and Mexico Central. This expansion strengthens Azure Red Hat OpenShift’s presence across Asia Pacific and Latin America, enabling custo",
@@ -675,27 +696,6 @@
     "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
     "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
-    "pubDate": "2026-02-02T22:27:35.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Generative AI Operations for Organizations with MLOps Investments",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
-    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
-    "pubDate": "2026-02-02T22:27:35.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution—Information-Retrieval Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-information-retrieval",
-    "description": "Learn about how to configure a search index, the types of searches that you can run, how to break queries into subqueries, and why and how to rerank queries.",
-    "pubDate": "2026-02-02T22:27:35.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "SDWAN integration with Azure hub-and-spoke network topologies",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies",
-    "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
     "pubDate": "2026-02-02T22:27:35.000Z",
     "source": "Azure Architecture"
   }
