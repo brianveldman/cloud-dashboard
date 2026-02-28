@@ -84,13 +84,6 @@
     "source": "Security"
   },
   {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Windows Server Annual Channel (preview) ",
     "link": "https://azure.microsoft.com/updates?id=557224",
     "description": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
@@ -138,13 +131,6 @@
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
     "pubDate": "2026-02-19T17:40:25.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-19T17:02:52.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
@@ -378,13 +364,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
-    "description": "<p>Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and professional work at scale.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873\">Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-17T20:11:10.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Asynchronous Messaging Options",
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/messaging",
     "description": "Learn about asynchronous messaging options in Azure, including the different types of messages and the entities that participate in a messaging infrastructure.",
@@ -425,13 +404,6 @@
     "description": "<p>New research from Microsoft and Omdia reveals how fragmented tools, manual workflows, and alert overload are pushing SOCs to a breaking point.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/\">Unify now or pay later: New research exposes the operational cost of a fragmented SOC</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-17T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-    "description": "<p>Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/\">Azure reliability, resiliency, and recoverability: Build continuity by design</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-17T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
@@ -698,5 +670,33 @@
     "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
     "pubDate": "2026-02-02T22:27:35.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Generative AI Operations for Organizations with MLOps Investments",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
+    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution—Information-Retrieval Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-information-retrieval",
+    "description": "Learn about how to configure a search index, the types of searches that you can run, how to break queries into subqueries, and why and how to rerank queries.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SDWAN integration with Azure hub-and-spoke network topologies",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies",
+    "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=553527",
+    "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
+    "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
   }
 ]
