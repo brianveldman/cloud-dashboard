@@ -91,13 +91,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Retirement: Windows Server Annual Channel (preview) ",
     "link": "https://azure.microsoft.com/updates?id=557224",
     "description": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
     "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2026-02-03T18:11:33.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
+    "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
     "source": "Azure Architecture"
   }
 ]
