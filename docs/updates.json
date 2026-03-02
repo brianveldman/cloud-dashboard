@@ -1,5 +1,26 @@
 [
   {
+    "title": "OAuth redirection abuse enables phishing and malware delivery",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/",
+    "description": "<p>OAuth redirection is being repurposed as a phishing delivery path. Trusted authentication flows are weaponized to move users from legitimate sign‑in pages to attacker‑controlled infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/\">OAuth redirection abuse enables phishing and malware delivery</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T19:29:53.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Databricks update workspace network configuration",
+    "link": "https://azure.microsoft.com/updates?id=558060",
+    "description": "Azure\r\nDatabricks workspaces have two network configurations – Azure\r\nDatabricks-managed VNet and VNet Injection. The ability to update the Network\r\nConfiguration of your workspace is now generally available. This enhancement\r\nprovides greater flexibility and",
+    "pubDate": "2026-03-02T19:15:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Databricks Lakebase ",
+    "link": "https://azure.microsoft.com/updates?id=557991",
+    "description": "Today we’re announcing the General Availability of Azure Databricks Lakebase, a managed PostgreSQL environment with next generation separation of storage and compute for OLTP, providing instant availability, instant clones, and scale-to-zero. Lakebase let",
+    "pubDate": "2026-03-02T19:15:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -82,6 +103,13 @@
     "description": "<p>AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/\">Scaling security operations with Microsoft Defender autonomous defense and expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-24T13:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
+    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-24T10:20:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
@@ -518,13 +546,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/",
-    "description": "<p>Read Microsoft's new Cyber Pulse report for straightforward, practical insights and guidance on new cybersecurity risks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/\">80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-10T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[In preview] Public Preview: Application Gateway for Containers - AKS managed add-on ",
     "link": "https://azure.microsoft.com/updates?id=555603",
     "description": "We're announcing public preview of an AKS managed add-on that simplifies the deployment and lifecycle management of Application Gateway for Containers and its ALB Controller. With the managed AKS add-on, you can enable Application Gateway for Containers w",
@@ -677,26 +698,5 @@
     "description": "Azure Container Storage v2.1.0 is now generally available. This release adds native Elastic SAN support and introduces a lightweight, on-demand installation model to simplify deployment and operations for Kubernetes workloads on Azure. Elastic SAN Storage",
     "pubDate": "2026-02-03T20:30:31.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager namespace-scoped resource placement ",
-    "link": "https://azure.microsoft.com/updates?id=548198",
-    "description": "Namespace-scoped resource placement, now\r\nin preview for Azure Kubernetes Fleet Manager, delivers fine‑grained control\r\nover selection and propagation of individual namespace‑scoped resources across\r\nmultiple clusters.   This new capability means\r\nit is now p",
-    "pubDate": "2026-02-03T20:30:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline Architecture for an AKS Cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-02-03T18:11:33.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
-    "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
-    "pubDate": "2026-02-02T22:27:35.000Z",
-    "source": "Azure Architecture"
   }
 ]
