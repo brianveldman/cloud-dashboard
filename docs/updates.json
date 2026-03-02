@@ -86,13 +86,6 @@
   {
     "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-02-24T10:20:00.000Z",
     "source": "Microsoft 365"
@@ -145,13 +138,6 @@
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
     "pubDate": "2026-02-19T17:40:25.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-19T17:02:52.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
@@ -385,13 +371,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
-    "description": "<p>Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and professional work at scale.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873\">Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-17T20:11:10.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Asynchronous Messaging Options",
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/messaging",
     "description": "Learn about asynchronous messaging options in Azure, including the different types of messages and the entities that participate in a messaging infrastructure.",
@@ -434,13 +413,6 @@
     "source": "Security"
   },
   {
-    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-    "description": "<p>Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/\">Azure reliability, resiliency, and recoverability: Build continuity by design</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-17T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
     "link": "https://azure.microsoft.com/updates?id=548114",
     "description": "Kubernetes version 1.34 is now generally available for\r\nAKS. This release introduces 58 upstream enhancements, including 23 Stable\r\nfeatures, 22 Beta features, and 13 Alpha features.These enhancements help technical practitioners improve\r\ncluster operations,",
@@ -469,13 +441,6 @@
     "source": "Security"
   },
   {
-    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
-    "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
-    "description": "<p>Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/\">The data behind the design: How Pantone built agentic AI with an AI-ready database</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-12T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Migrate IBM i series to Azure with Skytap",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-ibm-i-series-to-azure-with-skytap",
     "description": "This example architecture shows how to use the native IBM i backup and recovery services with Microsoft Azure components.",
@@ -488,13 +453,6 @@
     "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
     "pubDate": "2026-02-11T23:15:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Agentic cloud operations: A new way to run the cloud",
-    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
-    "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-11T22:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
@@ -518,13 +476,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "description": "<p>As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/\">Can high-temperature superconductors transform the power infrastructure of datacenters?</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-10T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/",
     "description": "<p>Read Microsoft's new Cyber Pulse report for straightforward, practical insights and guidance on new cybersecurity risks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/\">80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -544,13 +495,6 @@
     "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
     "pubDate": "2026-02-09T17:00:10.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Five Reasons to attend SQLCon",
-    "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
-    "description": "<p>The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, March 16-20.</p>\n<p>The post <a href=\"https://blog.fabric.microsoft.com/en-us/blog/32624\">Five Reasons to attend SQLCon</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-09T15:12:12.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Use AI to Forecast Customer Orders",
@@ -623,13 +567,6 @@
     "source": "Microsoft 365"
   },
   {
-    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T17:46:10.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Caching guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
     "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
@@ -665,13 +602,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
-    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
-    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-04T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
     "link": "https://azure.microsoft.com/updates?id=555205",
     "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
@@ -697,6 +627,76 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
     "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2026-02-03T18:11:33.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use a gateway in front of multiple Azure OpenAI deployments or instances",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend",
+    "description": "Learn how to add a gateway in front of multiple Azure OpenAI model deployments or instances.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generative AI Operations for Organizations with MLOps Investments",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
+    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution—Information-Retrieval Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-information-retrieval",
+    "description": "Learn about how to configure a search index, the types of searches that you can run, how to break queries into subqueries, and why and how to rerank queries.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SDWAN integration with Azure hub-and-spoke network topologies",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies",
+    "description": "Learn about architecture patterns for SDWAN integration with Azure hub-and-spoke network topologies, based on the Azure Well-Architected Framework's five pillars of architecture excellence.",
+    "pubDate": "2026-02-02T22:27:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=553527",
+    "description": "As part of our ongoing commitment to security, Azure Front Door (Standard, Premium, Classic) and Azure CDN from Microsoft (Classic) services will no longer support  weak cipher suites TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 and TLS_DHE_RSA_WITH_AES_128_GCM_SH",
+    "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Serverless workspaces in Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=550845",
+    "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure ",
+    "pubDate": "2026-02-02T18:15:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=553532",
+    "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
+    "pubDate": "2026-02-02T17:45:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: \"Send data to Event Hubs & Storage (Preview)\" retiring July 31, 2026",
+    "link": "https://azure.microsoft.com/updates?id=551523",
+    "description": "On July 31, 2026, we'll retire preview feature “Send virtual machine client data to Event Hubs and Storage (Preview)” and it'll no longer be supported by Microsoft. You will not be able to create any new data collection rules using this feature, and any e",
+    "pubDate": "2026-01-30T18:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Web-Queue-Worker Architecture Style",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/web-queue-worker",
+    "description": "Learn about the Web-Queue-Worker pattern. Discover benefits, challenges, and implementation by using Azure App Service, Azure Functions, and message queues.",
+    "pubDate": "2026-01-30T18:16:27.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Measure Azure App Sustainability by Using the SCI Score",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/measure-azure-app-sustainability-sci-score",
+    "description": "Create a sustainability model based on available proxies that scores the carbon impact of an application by using the SCI score.",
+    "pubDate": "2026-01-30T16:46:15.000Z",
     "source": "Azure Architecture"
   }
 ]
