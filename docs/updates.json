@@ -28,6 +28,27 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Enhanced-security hybrid messaging for client access",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/secure-hybrid-messaging-client",
+    "description": "Enhance your security in a client access scenario by using Microsoft Entra multifactor authentication.",
+    "pubDate": "2026-03-02T17:33:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Enhanced-security hybrid messaging for mobile access",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/secure-hybrid-messaging-mobile",
+    "description": "Enhance your security in a mobile access scenario by using Microsoft Entra multifactor authentication.",
+    "pubDate": "2026-03-02T17:33:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Identity architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/identity/identity-start-here",
+    "description": "Control access to your apps and data by designing and implementing an identity solution. See resources with guidelines, best practices, and recommendations.",
+    "pubDate": "2026-03-02T17:33:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -49,11 +70,46 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Siemens Teamcenter baseline architecture on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/manufacturing/teamcenter-baseline",
+    "description": "Learn about the Siemens Teamcenter product lifecycle management (PLM) solution architecture on Azure.",
+    "pubDate": "2026-02-27T21:15:50.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central",
     "link": "https://azure.microsoft.com/updates?id=557897",
     "description": "Azure Red Hat OpenShift is now generally available in three additional Azure regions: Malaysia West, New Zealand North, and Mexico Central. This expansion strengthens Azure Red Hat OpenShift’s presence across Asia Pacific and Latin America, enabling custo",
     "pubDate": "2026-02-27T17:30:41.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Storage architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/storage/storage-start-here",
+    "description": "Get an overview of Azure Storage technologies, guidance offerings, solution ideas, and reference architectures.",
+    "pubDate": "2026-02-26T22:26:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Storage Options for a Kubernetes Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/storage",
+    "description": "Understand storage options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) storage options.",
+    "pubDate": "2026-02-26T22:18:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Run SAP NetWeaver in Windows on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
+    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure, with high availability.",
+    "pubDate": "2026-02-26T22:18:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Implement the Transactional Outbox Pattern by Using Azure Cosmos DB",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/transactional-out-box-cosmos",
+    "description": "Learn how to use the Azure Cosmos DB change feed feature and Azure Service Bus for reliable messaging and guaranteed delivery of domain events in distributed applications.",
+    "pubDate": "2026-02-26T20:20:12.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity ",
@@ -63,6 +119,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Transient Fault Handling",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/transient-faults",
+    "description": "Learn how to handle transient faults that the loss of network connectivity, temporary unavailability, or timeouts can cause.",
+    "pubDate": "2026-02-26T18:05:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Tactical DDD to Design Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/model/tactical-domain-driven-design",
+    "description": "Use domain-driven design in a microservices architecture to identify the entity and aggregate patterns, which help identify natural boundaries for the services.",
+    "pubDate": "2026-02-26T18:02:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Threat modeling AI applications",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/",
     "description": "<p>AI threat modeling helps teams identify misuse, emergent risk, and failure modes in probabilistic and agentic AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/\">Threat modeling AI applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -70,11 +140,46 @@
     "source": "Security"
   },
   {
+    "title": "Automated API deployments using APIOps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/devops/automated-api-deployments-apiops",
+    "description": "Use APIOps with an Azure API Management instance to build and deploy APIs. This solution provides self-service tools, auditing, policy enforcement, and early feedback.",
+    "pubDate": "2026-02-26T00:36:15.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
     "link": "https://azure.microsoft.com/updates?id=552808",
     "description": "We are announcing several\r\ncapabilities in public preview with Azure Monitor pipeline. Secure\r\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\r\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\r\n     contro",
     "pubDate": "2026-02-26T00:30:50.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
+    "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
+    "pubDate": "2026-02-25T19:53:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Ambassador pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/ambassador",
+    "description": "Learn about the Ambassador pattern, which creates helper services that send network requests on behalf of a consumer service or application.",
+    "pubDate": "2026-02-25T19:48:36.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Real-time analytics on data with Azure Service Bus and Azure Data Explorer",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
+    "description": "Learn how to use Azure Service Bus and Azure Data Explorer to enhance an existing message broker architecture with near real-time analytics.",
+    "pubDate": "2026-02-25T19:46:25.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Highly Available Zone-Redundant App Services Web Application",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant",
+    "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
+    "pubDate": "2026-02-25T19:18:59.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure SQL updates for late-February 2026 ",
@@ -96,6 +201,34 @@
     "description": "You can now configure geo‑redundant backups with Premium SSD v2 disks for Azure Database for PostgreSQL, giving you an additional layer of disaster recovery for mission‑critical workloads. With this release, your automated backups are securely stored in a",
     "pubDate": "2026-02-25T18:30:06.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "IoT Hub-Based Multitenant Solution Architectural Approaches",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/iot",
+    "description": "Learn about architectural approaches for Azure IoT Hub-based multitenant solutions to build scalable, secure, and efficient solutions.",
+    "pubDate": "2026-02-24T22:45:49.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Domain Analysis to Model Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/model/domain-analysis",
+    "description": "This article shows a domain-driven approach to designing microservices so that each service follows the general rule of doing only one thing.",
+    "pubDate": "2026-02-24T21:33:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choreography pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/choreography",
+    "description": "Let each service decide when and how a business operation is processed, instead of depending on a central orchestrator.",
+    "pubDate": "2026-02-24T21:33:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design a Hybrid Domain Name System (DNS) Solution by using Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
+    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
+    "pubDate": "2026-02-24T21:30:37.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Developer-targeting campaign using malicious Next.js repositories",
@@ -565,138 +698,5 @@
     "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
     "pubDate": "2026-02-09T17:00:10.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Five Reasons to attend SQLCon",
-    "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
-    "description": "<p>The SQL community is gathering in Atlanta this March for the first‑ever SQLCon, co‑located with FabCon, the Microsoft Fabric Community Conference, March 16-20.</p>\n<p>The post <a href=\"https://blog.fabric.microsoft.com/en-us/blog/32624\">Five Reasons to attend SQLCon</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-09T15:12:12.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Use AI to Forecast Customer Orders",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
-    "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU. See the Azure services that you can use in this solution.",
-    "pubDate": "2026-02-09T09:27:56.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In development] Private Preview: Vaulted Backups for Azure Disk ",
-    "link": "https://azure.microsoft.com/updates?id=555184",
-    "description": "Today, Azure Disk Backup protects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the Operational Tier in Azure Backup. This enables fast",
-    "pubDate": "2026-02-06T23:00:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor pipeline transformations ",
-    "link": "https://azure.microsoft.com/updates?id=555488",
-    "description": "Azure Monitor pipeline transformations feature\r\nis now Public Preview! This feature enables users to shape telemetry before\r\nit’s ingested into Azure Monitor, helping them control ingestion costs, improve\r\ndata quality, and simplify analytics at scale.Built ",
-    "pubDate": "2026-02-06T22:45:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Online Transaction Processing (OLTP)",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
-    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
-    "pubDate": "2026-02-06T20:46:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=555981",
-    "description": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic's most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model ",
-    "pubDate": "2026-02-06T19:00:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: New planned datacenter region in Thailand (Thailand South)",
-    "link": "https://azure.microsoft.com/updates?id=553999",
-    "description": "Microsoft is announcing our intent to establish\r\na new datacenter region in Thailand. The datacenter region will expand the\r\navailability of Microsoft’s hyperscale cloud services in the region,\r\nfacilitating enterprise-grade reliability, performance, and com",
-    "pubDate": "2026-02-06T19:00:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026",
-    "link": "https://azure.microsoft.com/updates?id=553966",
-    "description": "DCa/ECa v6 series AMD based confidential virtual machines are now generally available in 11 new regions: Canada Central, Canada East, Norway East, Norway West, Italy North, Germany North, France South, Australia East, West US, West US 3, Germany West Cent",
-    "pubDate": "2026-02-06T01:00:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure virtual network routing appliance ",
-    "link": "https://azure.microsoft.com/updates?id=555944",
-    "description": "Azure Virtual\r\nNetwork routing appliance offers private connectivity\r\nfor workloads across virtual networks. Using specialized\r\nhardware, it delivers low latency and\r\nhigh throughput, and optimal performance compared\r\nto virtual machines.   Deployed into priva",
-    "pubDate": "2026-02-05T21:45:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=555870",
-    "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
-    "pubDate": "2026-02-05T18:30:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/",
-    "description": "<p>This event is your front-row seat to everything new and next across Microsoft 365—with hundreds of opportunities to learn directly from product makers and connect with the best community in tech.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/02/05/the-ultimate-microsoft-365-community-event-returns-your-front%e2%80%91row-seat-to-the-future-of-intelligent-work/\">The ultimate Microsoft 365 community event returns—your front‑row seat to the future of intelligent work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T18:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-    "description": "<p>With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/\">Claude Opus 4.6: Anthropic&#8217;s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-05T17:46:10.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Caching guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
-    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2026-02-05T16:59:42.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure OpenAI",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai",
-    "description": "Learn how to deploy Azure OpenAI models and work with the features associated with each model when you have a multitenant system.",
-    "pubDate": "2026-02-04T20:59:29.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Container architecture design",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/container-get-started",
-    "description": "Get an overview of Azure container technologies, guidance offerings, solution ideas, and reference architectures.",
-    "pubDate": "2026-02-04T20:30:12.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Analytics architecture design",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-get-started",
-    "description": "Get an overview of Azure analytics technologies, guidance offerings, solution ideas, and reference architectures.",
-    "pubDate": "2026-02-04T20:29:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level",
-    "link": "https://azure.microsoft.com/updates?id=550863",
-    "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\r\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\r\nFiles that provides continuous data access with zero data loss, even if an\r\nentire Azure Availability Zone goes offline. Bui",
-    "pubDate": "2026-02-04T20:00:42.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ",
-    "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
-    "description": "<p>Data resiliency is no longer optional—it is the foundation that keeps mission‑critical applications running, teams productive, and compliance intact. Organizations must ensure continuous data availability and zero data loss to meet stringent regulatory and audit standards.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/\">Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-04T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
-    "link": "https://azure.microsoft.com/updates?id=555205",
-    "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
-    "pubDate": "2026-02-03T20:30:31.000Z",
-    "source": "Azure Updates"
   }
 ]
