@@ -247,6 +247,13 @@
   {
     "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-24T10:20:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
+    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-02-24T10:20:00.000Z",
     "source": "Microsoft 365"
@@ -299,6 +306,13 @@
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
     "pubDate": "2026-02-19T17:40:25.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
+    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
+    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-19T17:02:52.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management",
@@ -532,6 +546,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
+    "description": "<p>Claude Sonnet 4.6 is available today in Microsoft Foundry, and it is designed for teams who want frontier performance across coding, agents, and professional work at scale.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873\">Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-17T20:11:10.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Asynchronous Messaging Options",
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/messaging",
     "description": "Learn about asynchronous messaging options in Azure, including the different types of messages and the entities that participate in a messaging infrastructure.",
@@ -574,6 +595,13 @@
     "source": "Security"
   },
   {
+    "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+    "description": "<p>Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/\">Azure reliability, resiliency, and recoverability: Build continuity by design</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-17T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: AKS support for Kubernetes version 1.34 ",
     "link": "https://azure.microsoft.com/updates?id=548114",
     "description": "Kubernetes version 1.34 is now generally available for\r\nAKS. This release introduces 58 upstream enhancements, including 23 Stable\r\nfeatures, 22 Beta features, and 13 Alpha features.These enhancements help technical practitioners improve\r\ncluster operations,",
@@ -602,6 +630,13 @@
     "source": "Security"
   },
   {
+    "title": "The data behind the design: How Pantone built agentic AI with an AI-ready database",
+    "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
+    "description": "<p>Learn about an AI-powered experience launched as a minimum viable product to gather real user feedback and iterate rapidly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/\">The data behind the design: How Pantone built agentic AI with an AI-ready database</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-12T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Migrate IBM i series to Azure with Skytap",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/migrate-ibm-i-series-to-azure-with-skytap",
     "description": "This example architecture shows how to use the native IBM i backup and recovery services with Microsoft Azure components.",
@@ -614,6 +649,13 @@
     "description": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
     "pubDate": "2026-02-11T23:15:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Agentic cloud operations: A new way to run the cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+    "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-11T22:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era",
@@ -637,6 +679,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
+    "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+    "description": "<p>As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/\">Can high-temperature superconductors transform the power infrastructure of datacenters?</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-10T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers - AKS managed add-on ",
     "link": "https://azure.microsoft.com/updates?id=555603",
     "description": "We're announcing public preview of an AKS managed add-on that simplifies the deployment and lifecycle management of Application Gateway for Containers and its ALB Controller. With the managed AKS add-on, you can enable Application Gateway for Containers w",
@@ -649,54 +698,5 @@
     "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
     "pubDate": "2026-02-09T17:00:10.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Use AI to Forecast Customer Orders",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
-    "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU. See the Azure services that you can use in this solution.",
-    "pubDate": "2026-02-09T09:27:56.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In development] Private Preview: Vaulted Backups for Azure Disk ",
-    "link": "https://azure.microsoft.com/updates?id=555184",
-    "description": "Today, Azure Disk Backup protects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the Operational Tier in Azure Backup. This enables fast",
-    "pubDate": "2026-02-06T23:00:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor pipeline transformations ",
-    "link": "https://azure.microsoft.com/updates?id=555488",
-    "description": "Azure Monitor pipeline transformations feature\r\nis now Public Preview! This feature enables users to shape telemetry before\r\nit’s ingested into Azure Monitor, helping them control ingestion costs, improve\r\ndata quality, and simplify analytics at scale.Built ",
-    "pubDate": "2026-02-06T22:45:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Online Transaction Processing (OLTP)",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/relational-data/online-transaction-processing",
-    "description": "Learn about atomicity, consistency, and other features of online transaction processing (OLTP), which manages transactional data while supporting querying.",
-    "pubDate": "2026-02-06T20:46:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=555981",
-    "description": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic's most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model ",
-    "pubDate": "2026-02-06T19:00:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: New planned datacenter region in Thailand (Thailand South)",
-    "link": "https://azure.microsoft.com/updates?id=553999",
-    "description": "Microsoft is announcing our intent to establish\r\na new datacenter region in Thailand. The datacenter region will expand the\r\navailability of Microsoft’s hyperscale cloud services in the region,\r\nfacilitating enterprise-grade reliability, performance, and com",
-    "pubDate": "2026-02-06T19:00:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026",
-    "link": "https://azure.microsoft.com/updates?id=553966",
-    "description": "DCa/ECa v6 series AMD based confidential virtual machines are now generally available in 11 new regions: Canada Central, Canada East, Norway East, Norway West, Italy North, Germany North, France South, Australia East, West US, West US 3, Germany West Cent",
-    "pubDate": "2026-02-06T01:00:02.000Z",
-    "source": "Azure Updates"
   }
 ]
