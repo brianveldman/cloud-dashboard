@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Draft & Deploy on Azure Firewall",
+    "link": "https://azure.microsoft.com/updates?id=558072",
+    "description": "The new Draft & Deploy feature for Azure Firewall Policy\r\nintroduces a streamlined, two-phase approach to managing firewall policies,\r\nsignificantly reducing deployment time and disruption. Traditionally, any\r\npolicy update would trigger a full deployment of",
+    "pubDate": "2026-03-03T01:00:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "OAuth redirection abuse enables phishing and malware delivery",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/",
     "description": "<p>OAuth redirection is being repurposed as a phishing delivery path. Trusted authentication flows are weaponized to move users from legitimate sign‑in pages to attacker‑controlled infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/\">OAuth redirection abuse enables phishing and malware delivery</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
     "link": "https://azure.microsoft.com/updates?id=555205",
     "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
-    "pubDate": "2026-02-03T20:30:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Container Storage v2.1.0 now with Elastic SAN integration and on demand installation",
-    "link": "https://azure.microsoft.com/updates?id=553917",
-    "description": "Azure Container Storage v2.1.0 is now generally available. This release adds native Elastic SAN support and introduces a lightweight, on-demand installation model to simplify deployment and operations for Kubernetes workloads on Azure. Elastic SAN Storage",
     "pubDate": "2026-02-03T20:30:31.000Z",
     "source": "Azure Updates"
   }
