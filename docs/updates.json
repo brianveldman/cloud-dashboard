@@ -1,12 +1,5 @@
 [
   {
-    "title": "Introducing GPT-5.4 in Microsoft Foundry",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-05T23:03:01.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Women’s History Month: Encouraging women in cybersecurity at every career stage",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/",
     "description": "<p>This Women’s History Month, we explore ways to support the next generation of female defenders at every career stage.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/\">Women’s History Month: Encouraging women in cybersecurity at every career stage</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -26,13 +19,6 @@
     "description": "Over the years, we’ve made significant investments to improve the responsiveness of the Azure Policy service. As a result, policy assignment creation and updates for Resource Manager mode policies now get enforced within 5 minutes.In light of cache refres",
     "pubDate": "2026-03-04T21:15:02.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-    "description": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-04T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale",
@@ -698,5 +684,19 @@
     "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-02-11T22:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North",
+    "link": "https://azure.microsoft.com/updates?id=556282",
+    "description": "You can now set UAE North as a region for Azure Private Link-enabled origins in your Azure Front Door Premium profile. Azure Private Link-enabled origins in Azure Front Door allow you to deliver content to your end-users through public Azure Front Door en",
+    "pubDate": "2026-02-10T21:15:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available:  Azure Databricks Supervisor Agent",
+    "link": "https://azure.microsoft.com/updates?id=557081",
+    "description": "Introducing Supervisor Agent, now Generally Available in Azure Databricks. Supervisor Agent is part of the Azure Databricks Agent Bricks Platform. Supervisor Agent brings a breakthrough in agentic intelligence—using a dynamic supervisor pattern that under",
+    "pubDate": "2026-02-10T18:00:43.000Z",
+    "source": "Azure Updates"
   }
 ]
