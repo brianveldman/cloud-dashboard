@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+    "description": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-04T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/04/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/",
     "description": "<p>Tycoon2FA has become a leading phishing-as-a-service (PhaaS) platforms, enabling campaigns that reach over 500,000 organizations monthly, prompting Microsoft’s Digital Crimes Unit (DCU) to work with Europol and industry partners to facilitate a disruption of Tycoon2FA’s infrastructure and operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/04/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/\">Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -40,6 +47,13 @@
     "description": "<p>Signed malware backed by a stolen EV certificate deployed legitimate RMM tools to gain persistent access inside enterprise environments. Organizations must harden certificate controls and monitor RMM activity to reduce exposure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/03/signed-malware-impersonating-workplace-apps-deploys-rmm-backdoors/\">Signed malware impersonating workplace apps deploys RMM backdoors</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-03T21:11:03.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Unlocking document understanding with Mistral Document AI in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
+    "description": "<p>Enterprises today face a familiar yet formidable challenge: mountains of documents -contracts, invoices, reports, forms - remain locked in unstructured formats. Traditional OCR (optical character recognition) captures text, but often struggles with context, layout complexity, or multilingual content. The result? Slow workflows, error-prone manual reviews, and missed insights.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664\">Unlocking document understanding with Mistral Document AI in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-03T16:24:29.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Draft & Deploy on Azure Firewall",
@@ -96,6 +110,13 @@
     "description": "<p>Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/\">Instant access incremental snapshots: Restore without waiting</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-02T17:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
     "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-02-11T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North",
-    "link": "https://azure.microsoft.com/updates?id=556282",
-    "description": "You can now set UAE North as a region for Azure Private Link-enabled origins in your Azure Front Door Premium profile. Azure Private Link-enabled origins in Azure Front Door allow you to deliver content to your end-users through public Azure Front Door en",
-    "pubDate": "2026-02-10T21:15:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available:  Azure Databricks Supervisor Agent",
-    "link": "https://azure.microsoft.com/updates?id=557081",
-    "description": "Introducing Supervisor Agent, now Generally Available in Azure Databricks. Supervisor Agent is part of the Azure Databricks Agent Bricks Platform. Supervisor Agent brings a breakthrough in agentic intelligence—using a dynamic supervisor pattern that under",
-    "pubDate": "2026-02-10T18:00:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Can high-temperature superconductors transform the power infrastructure of datacenters?",
-    "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-    "description": "<p>As the demand for AI and data-intensive computing is on the rise, the need for efficient and reliable power delivery is critical.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/\">Can high-temperature superconductors transform the power infrastructure of datacenters?</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-10T16:00:00.000Z",
     "source": "Azure Blog"
   }
 ]
