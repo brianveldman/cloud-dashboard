@@ -112,6 +112,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -691,12 +698,5 @@
     "description": "<p>While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/\">Agentic cloud operations: A new way to run the cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-02-11T22:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North",
-    "link": "https://azure.microsoft.com/updates?id=556282",
-    "description": "You can now set UAE North as a region for Azure Private Link-enabled origins in your Azure Front Door Premium profile. Azure Private Link-enabled origins in Azure Front Door allow you to deliver content to your end-users through public Azure Front Door en",
-    "pubDate": "2026-02-10T21:15:47.000Z",
-    "source": "Azure Updates"
   }
 ]
