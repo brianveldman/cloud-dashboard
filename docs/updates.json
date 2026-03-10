@@ -1,12 +1,5 @@
 [
   {
-    "title": "Active – Azure OpenAI Service request failures in multiple regions",
-    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-    "description": "Impact Statement: Starting at 23:20 UTC on 9 March 2026, a subset of customers using Azure OpenAI Service in multiple regions may experience intermittent request failures or reduced availability. We detected this issue through automated service monitoring after observing an elevated rate of failed requests affecting a subset of Azure OpenAI model deployments across multiple regions. Our investigation determined the issue was caused by a recent change impacting specific model workloads. Mitigation actions have been completed in some regions, and service health is improving in those regions. Recovery and rollback activities are continuing in the remaining affected regions while our engineering teams actively validate service health. Targeted notifications are being sent to affected customers through Azure Service Health. Customers can refer to Azure Service Health for subscription‑specific impact details and updates. Further updates will be provided within 2 hours, or as events warrant.&nbsp;",
-    "pubDate": "2026-03-10T17:25:34.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -698,5 +691,12 @@
     "description": "Learn about a data analytics solution that can democratize data access and provide R&D engineers with near real-time insights into test drive diagnostic data.",
     "pubDate": "2026-02-18T18:30:01.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks ",
+    "link": "https://azure.microsoft.com/updates?id=557595",
+    "description": "Azure Databricks now supports Anthropic Claude Sonnet 4.6\r\nthrough Azure Databricks AI\r\nModel Serving. Claude Sonnet 4.6\r\ndelivers frontier-level performance on complex coding, agentic\r\nworkflows, and professional knowledge work including reasoning at a\r\nlower",
+    "pubDate": "2026-02-18T18:00:55.000Z",
+    "source": "Azure Updates"
   }
 ]
