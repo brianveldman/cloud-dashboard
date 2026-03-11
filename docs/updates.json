@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Generally Available: Azure SRE Agent with new capabilities ",
+    "link": "https://azure.microsoft.com/updates?id=558321",
+    "description": "Azure SRE Agent is now generally\r\navailable. This AI-powered operations agent helps teams improve uptime, reduce\r\nincident impact, and cut operational toil by accelerating diagnosis and\r\nautomating response workflows. The GA release introduces deep context g",
+    "pubDate": "2026-03-11T17:45:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Query Profiler in MSSQL extension for Visual Studio Code ",
+    "link": "https://azure.microsoft.com/updates?id=558164",
+    "description": "The MSSQL extension for Visual Studio Code now introduces Query Profiler in public preview, bringing real-time insight into your database activity directly inside Visual Studio Code. With Query Profiler, you can capture query and database activity as it h",
+    "pubDate": "2026-03-11T17:45:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
+    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T18:11:08.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -14,11 +35,25 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "AI as tradecraft: How threat actors operationalize AI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
     "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing GPT-5.4 in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-05T23:03:01.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -124,6 +159,13 @@
     "description": "Learn more about proven practices for running SAP S/4HANA effectively in a Linux environment on Azure with high availability.",
     "pubDate": "2026-03-04T17:36:09.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+    "description": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-04T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale",
@@ -656,47 +698,5 @@
     "description": "Choose a natural language processing service for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
     "pubDate": "2026-02-18T21:44:24.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Modernize Mainframe and Midrange Data",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/modernize-mainframe-data-to-azure",
-    "description": "Learn how to modernize IBM mainframe and midrange data. Use a data-first approach to migrate the data to scalable and more secure cloud storage on Azure.",
-    "pubDate": "2026-02-18T18:30:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Data analytics for automotive test fleets",
-    "link": "https://learn.microsoft.com/azure/architecture/industries/automotive/automotive-telemetry-analytics",
-    "description": "Learn about a data analytics solution that can democratize data access and provide R&D engineers with near real-time insights into test drive diagnostic data.",
-    "pubDate": "2026-02-18T18:30:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks ",
-    "link": "https://azure.microsoft.com/updates?id=557595",
-    "description": "Azure Databricks now supports Anthropic Claude Sonnet 4.6\r\nthrough Azure Databricks AI\r\nModel Serving. Claude Sonnet 4.6\r\ndelivers frontier-level performance on complex coding, agentic\r\nworkflows, and professional knowledge work including reasoning at a\r\nlower",
-    "pubDate": "2026-02-18T18:00:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Unified tooling in the AKS MCP server ",
-    "link": "https://azure.microsoft.com/updates?id=557223",
-    "description": "Managing AKS MCP servers can be affected by the number of tools and the\r\namount of context required, which can increase latency and cost. The unified\r\ntooling for the AKS MCP Server introduces two new tools in public preview, call_az\r\nand call_kubectl, that ",
-    "pubDate": "2026-02-18T18:00:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Cluster mode for the agentic CLI for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=557218",
-    "description": "Users often face security and\r\nmanageability challenges when diagnostic agents inherit broad user permissions,\r\nsuch as cluster-admin rights, and when each user must deploy their own\r\ninstance. Cluster mode for the agentic CLI for AKS, now in public preview,",
-    "pubDate": "2026-02-18T18:00:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Quota and deployment troubleshooting tools for Azure Functions Flex Consumption ",
-    "link": "https://azure.microsoft.com/updates?id=556008",
-    "description": "Azure Functions Flex Consumption introduces\r\nnew platform‑integrated tools that provide clearer insight into quota\r\navailability and deployment behavior.   The\r\nquota troubleshooting\r\nexperience surfaces Flex Consumption quota limits and related\r\nconstraints, ",
-    "pubDate": "2026-02-18T18:00:55.000Z",
-    "source": "Azure Updates"
   }
 ]
