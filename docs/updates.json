@@ -1,12 +1,5 @@
 [
   {
-    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
-    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
-    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T18:11:08.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks ",
     "link": "https://azure.microsoft.com/updates?id=557595",
     "description": "Azure Databricks now supports Anthropic Claude Sonnet 4.6\r\nthrough Azure Databricks AI\r\nModel Serving. Claude Sonnet 4.6\r\ndelivers frontier-level performance on complex coding, agentic\r\nworkflows, and professional knowledge work including reasoning at a\r\nlower",
+    "pubDate": "2026-02-18T18:00:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Unified tooling in the AKS MCP server ",
+    "link": "https://azure.microsoft.com/updates?id=557223",
+    "description": "Managing AKS MCP servers can be affected by the number of tools and the\r\namount of context required, which can increase latency and cost. The unified\r\ntooling for the AKS MCP Server introduces two new tools in public preview, call_az\r\nand call_kubectl, that ",
     "pubDate": "2026-02-18T18:00:55.000Z",
     "source": "Azure Updates"
   }
