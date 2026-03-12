@@ -1,5 +1,12 @@
 [
   {
+    "title": "Contagious Interview: Malware delivered through fake developer job interviews",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
+    "description": "<p>The Contagious Interview campaign weaponizes job recruitment to target developers. Threat actors pose as recruiters from crypto and AI companies and deliver backdoors such as OtterCookie and FlexibleFerret through fake coding assessments. The malware then steals API tokens, cloud credentials, crypto wallets, and source code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/\">Contagious Interview: Malware delivered through fake developer job interviews</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T21:00:50.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Terraform, Bicep, Ansible support for elastic clusters on Azure Database for PostgreSQL ",
     "link": "https://azure.microsoft.com/updates?id=558145",
     "description": "You can now provision and manage Azure Database for\r\nPostgreSQL elastic clusters using Terraform, Bicep, and Ansible, with\r\nfull General Availability support. With\r\nnative infrastructure-as-code support, you can consistently create,\r\nscale, and manage elastic",
@@ -21,7 +28,7 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Generally Available: Azure SRE Agent with new capabilities ",
+    "title": "[Launched] Generally Available: Azure SRE Agent with new capabilities ",
     "link": "https://azure.microsoft.com/updates?id=558321",
     "description": "Azure SRE Agent is now generally\r\navailable. This AI-powered operations agent helps teams improve uptime, reduce\r\nincident impact, and cut operational toil by accelerating diagnosis and\r\nautomating response workflows. The GA release introduces deep context g",
     "pubDate": "2026-03-11T17:45:49.000Z",
@@ -494,13 +501,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/",
     "description": "<p>A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/\">Developer-targeting campaign using malicious Next.js repositories</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-02-24T17:28:24.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Scaling security operations with Microsoft Defender autonomous defense and expert-led services",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/",
-    "description": "<p>AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/\">Scaling security operations with Microsoft Defender autonomous defense and expert-led services</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T13:00:00.000Z",
     "source": "Security"
   },
   {
