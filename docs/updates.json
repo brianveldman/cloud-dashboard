@@ -1,5 +1,12 @@
 [
   {
+    "title": "Detecting and analyzing prompt abuse in AI tools",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/detecting-analyzing-prompt-abuse-in-ai-tools/",
+    "description": "<p>Hidden instructions in content can subtly bias AI, and our scenario shows how prompt injection works, highlighting the need for oversight and a structured response playbook.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/12/detecting-analyzing-prompt-abuse-in-ai-tools/\">Detecting and analyzing prompt abuse in AI tools</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-12T14:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Contagious Interview: Malware delivered through fake developer job interviews",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
     "description": "<p>The Contagious Interview campaign weaponizes job recruitment to target developers. Threat actors pose as recruiters from crypto and AI companies and deliver backdoors such as OtterCookie and FlexibleFerret through fake coding assessments. The malware then steals API tokens, cloud credentials, crypto wallets, and source code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/\">Contagious Interview: Malware delivered through fake developer job interviews</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,6 +68,13 @@
     "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing GPT-5.4 in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-05T23:03:01.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -504,13 +518,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Developer-targeting campaign using malicious Next.js repositories",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/",
-    "description": "<p>A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/\">Developer-targeting campaign using malicious Next.js repositories</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T17:28:24.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
     "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
     "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "Choose an Azure AI Targeted Language Processing Technology",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/targeted-language-processing",
     "description": "Learn about Foundry Tools targeted language processing capabilities, including NLP, text analytics, translation, and document data extraction.",
-    "pubDate": "2026-02-18T21:44:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Natural Language Processing Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/natural-language-processing",
-    "description": "Choose a natural language processing service for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
     "pubDate": "2026-02-18T21:44:24.000Z",
     "source": "Azure Architecture"
   }
