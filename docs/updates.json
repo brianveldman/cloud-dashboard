@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Summary rules in Log Analytics workspace now support manual “Retry bin”",
+    "link": "https://azure.microsoft.com/updates?id=558656",
+    "description": "Summary rules run batch aggregation inside your Log\r\nAnalytics workspace and re-ingest the summarized results into a custom\r\ndestination table. When a bin fails, that can create gaps in your summarized\r\ndataset. “Retry bin” helps you remediate bin-level fail",
+    "pubDate": "2026-03-12T21:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob",
+    "link": "https://azure.microsoft.com/updates?id=558651",
+    "description": "Azure Storage Mover now enables direct, secure data\r\nmigration from AWS S3 data in Virtual Private Cloud to Azure Blob Storage with\r\nprivate networking. This update removes the need for manual pipelines or\r\nthird-party tools, supports automation through the ",
+    "pubDate": "2026-03-12T21:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/",
     "description": "<p>Storm-2561 uses SEO poisoning to push fake VPN downloads that install signed trojans and steal VPN credentials. Active since 2025, Storm-2561 mimics trusted brands and abuses legitimate services. This post reviews TTPs, IOCs, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/\">Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -343,6 +357,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -675,27 +696,6 @@
     "title": "Data and AI",
     "link": "https://learn.microsoft.com/azure/architecture/aws-professional/data-ai",
     "description": "Compare Azure data and AI services to corresponding AWS services. Understand key differences in data integration, analytics, machine learning, and AI capabilities.",
-    "pubDate": "2026-02-18T21:44:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure AI Video Processing Guide",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
-    "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
-    "pubDate": "2026-02-18T21:44:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure Speech Recognition and Generation Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/speech-recognition-generation",
-    "description": "Learn about Azure's AI speech recognition and generation capabilities, such as speech-to-text, speech translation, and text-to-speech.",
-    "pubDate": "2026-02-18T21:44:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure AI Targeted Language Processing Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/targeted-language-processing",
-    "description": "Learn about Foundry Tools targeted language processing capabilities, including NLP, text analytics, translation, and document data extraction.",
     "pubDate": "2026-02-18T21:44:24.000Z",
     "source": "Azure Architecture"
   }
