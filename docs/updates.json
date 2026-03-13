@@ -105,6 +105,20 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Copilot Cowork: A new way of getting work done",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Powering Frontier Transformation with Copilot and agents",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
+    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -383,6 +397,13 @@
     "description": "<p>Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/\">Instant access incremental snapshots: Restore without waiting</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-02T17:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/identity/azure-ad",
     "description": "Learn how to implement a secure hybrid network architecture that integrates on-premises Active Directory domains with Microsoft Entra ID.",
     "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run a Linux VM on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/n-tier/linux-vm",
-    "description": "Learn the best practices for running a Linux virtual machine on Azure, which requires some additional components, including networking and storage resources.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run a Windows VM on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/n-tier/windows-vm",
-    "description": "Learn the best practices for running a Windows virtual machine on Azure, which requires some additional components, including networking and storage resources.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Automate Video Analysis by Using Azure Machine Learning and Azure Vision in Foundry Tools",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/analyze-video-computer-vision-machine-learning",
-    "description": "Learn how to implement an architecture that automates video analysis by using Azure Machine Learning and Azure Vision in Foundry Tools.",
-    "pubDate": "2026-02-18T22:40:45.000Z",
     "source": "Azure Architecture"
   }
 ]
