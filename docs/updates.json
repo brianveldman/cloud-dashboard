@@ -91,11 +91,25 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "AI as tradecraft: How threat actors operationalize AI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
     "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing GPT-5.4 in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-05T23:03:01.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -341,13 +355,6 @@
     "description": "<p>Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/\">Instant access incremental snapshots: Restore without waiting</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-02T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
-    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-02T15:30:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
@@ -689,13 +696,6 @@
     "title": "Azure AI Video Processing Guide",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
     "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
-    "pubDate": "2026-02-18T21:44:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure Speech Recognition and Generation Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/speech-recognition-generation",
-    "description": "Learn about Azure's AI speech recognition and generation capabilities, such as speech-to-text, speech translation, and text-to-speech.",
     "pubDate": "2026-02-18T21:44:24.000Z",
     "source": "Azure Architecture"
   }
