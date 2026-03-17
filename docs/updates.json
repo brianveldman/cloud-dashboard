@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
+    "link": "https://azure.microsoft.com/updates?id=558016",
+    "description": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
+    "pubDate": "2026-03-17T17:45:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Foundry Agent Service",
+    "link": "https://azure.microsoft.com/updates?id=557141",
+    "description": "Announcing general availability (GA) of the next-gen Foundry Agent Service—a redesigned API format and runtime experience designed to help teams build and operate agents that can move from prototype to production with confidence. This GA moment is anchore",
+    "pubDate": "2026-03-17T17:45:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure VMware Solution AV36P and AV52 node retirement on June 30, 2029",
+    "link": "https://azure.microsoft.com/updates?id=557094",
+    "description": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
+    "pubDate": "2026-03-17T17:30:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
     "link": "https://azure.microsoft.com/updates?id=549077",
     "description": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server ",
@@ -140,6 +161,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Modernizing regulated industries with cloud and agentic AI",
+    "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+    "description": "<p>Discover how cloud modernization and agentic AI are accelerating migration across healthcare, financial services, and manufacturing.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/\">Modernizing regulated industries with cloud and agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Multiregion Load Balancing",
     "link": "https://learn.microsoft.com/azure/architecture/high-availability/traffic-manager-application-gateway",
     "description": "Learn how to build an Azure system that serves web and non-web workloads with resilient multitier applications in multiple Azure regions.",
@@ -154,18 +182,25 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
+    "title": "Many agents, one team: Scaling modernization on Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
+    "description": "<p>We’re announcing the first agentic end-to-end modernization solution that brings IT and developers into a single, connected workflow.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/\">Many agents, one team: Scaling modernization on Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
+    "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+    "description": "<p>We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/\">Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T07:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
+    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T18:11:08.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Secure agentic AI for your Frontier Transformation",
@@ -182,11 +217,25 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "AI as tradecraft: How threat actors operationalize AI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
     "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing GPT-5.4 in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-05T23:03:01.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -648,55 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
     "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
     "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Overview of Microsoft Machine Learning Products and Technologies",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
-    "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
-    "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extract and Analyze Call Center Data by Using Azure OpenAI in Foundry Models, Speech Services, and Language Services",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
-    "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
-    "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-19T17:02:52.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Migrate a web app by using Azure API Management",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/apim-api-scenario",
-    "description": "In this scenario, an e-commerce company in the travel industry uses Azure API Management to migrate a legacy web application.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Implement a Zero Trust Network for Web Applications by Using Azure Firewall and Azure Application Gateway",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall",
-    "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
-    "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy Highly Available NVAs",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
-    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
     "source": "Azure Architecture"
   }
 ]
