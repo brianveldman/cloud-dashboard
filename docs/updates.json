@@ -126,48 +126,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Modernizing regulated industries with cloud and agentic AI",
-    "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
-    "description": "<p>Discover how cloud modernization and agentic AI are accelerating migration across healthcare, financial services, and manufacturing.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/\">Modernizing regulated industries with cloud and agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-11T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Many agents, one team: Scaling modernization on Azure",
-    "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
-    "description": "<p>We’re announcing the first agentic end-to-end modernization solution that brings IT and developers into a single, connected workflow.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/\">Many agents, one team: Scaling modernization on Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-11T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
-    "description": "<p>We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/\">Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-11T07:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
-    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
-    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T18:11:08.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -679,6 +637,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
+    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
+    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-02-19T17:02:52.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Migrate a web app by using Azure API Management",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/apim-api-scenario",
     "description": "In this scenario, an e-commerce company in the travel industry uses Azure API Management to migrate a legacy web application.",
@@ -696,6 +661,41 @@
     "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
     "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Highly Available NVAs",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
+    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Private Link in a Hub-and-Spoke Network",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/private-link-hub-spoke-network",
+    "description": "Use Azure Private Link to access PaaS services from a hub-and-spoke network. Connect to these services by using a private IP address from your virtual network.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Virtual Network Connectivity Options and Spoke-To-Spoke Communication",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/virtual-network-peering",
+    "description": "Compare virtual network peering and VPN gateways for Azure connectivity. Learn spoke-to-spoke communication patterns in hub-and-spoke architectures.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Extend On-Premises Active Directory Federation Services to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/identity/adfs",
+    "description": "Implement a secure hybrid network architecture with Active Directory Federation Services authorization and identity federation in Azure.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Integrate On-Premises Active Directory Domains With Microsoft Entra ID",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/identity/azure-ad",
+    "description": "Learn how to implement a secure hybrid network architecture that integrates on-premises Active Directory domains with Microsoft Entra ID.",
     "pubDate": "2026-02-18T23:00:19.000Z",
     "source": "Azure Architecture"
   }
