@@ -63,11 +63,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Best practices in cloud applications",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/index-best-practices",
+    "description": "Learn about some best practices for building cloud applications and how they align with the Azure Well-Architected Framework.",
+    "pubDate": "2026-03-12T18:38:23.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/",
     "description": "<p>Storm-2561 uses SEO poisoning to push fake VPN downloads that install signed trojans and steal VPN credentials. Active since 2025, Storm-2561 mimics trusted brands and abuses legitimate services. This post reviews TTPs, IOCs, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/\">Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-12T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Get Started with Compute Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/compute-get-started",
+    "description": "Learn about Azure compute technologies, from virtual machines to serverless functions. Review guidance, solution ideas, and reference architectures.",
+    "pubDate": "2026-03-12T16:50:59.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "From transparency to action: What the latest Microsoft email security benchmark reveals",
@@ -124,6 +138,20 @@
     "description": "The MSSQL extension for Visual Studio Code now introduces Query Profiler in public preview, bringing real-time insight into your database activity directly inside Visual Studio Code. With Query Profiler, you can capture query and database activity as it h",
     "pubDate": "2026-03-11T17:45:49.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Multiregion Load Balancing",
+    "link": "https://learn.microsoft.com/azure/architecture/high-availability/traffic-manager-application-gateway",
+    "description": "Learn how to build an Azure system that serves web and non-web workloads with resilient multitier applications in multiple Azure regions.",
+    "pubDate": "2026-03-11T15:51:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Enterprise Cloud File Share",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-files-private",
+    "description": "Learn about an enterprise-level cloud file sharing solution that uses Azure Files, Azure File Sync, Azure private DNS, and Azure private endpoints.",
+    "pubDate": "2026-03-11T15:20:04.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Secure agentic AI for your Frontier Transformation",
@@ -668,34 +696,6 @@
     "title": "Deploy Highly Available NVAs",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
     "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Private Link in a Hub-and-Spoke Network",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/private-link-hub-spoke-network",
-    "description": "Use Azure Private Link to access PaaS services from a hub-and-spoke network. Connect to these services by using a private IP address from your virtual network.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Virtual Network Connectivity Options and Spoke-To-Spoke Communication",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/virtual-network-peering",
-    "description": "Compare virtual network peering and VPN gateways for Azure connectivity. Learn spoke-to-spoke communication patterns in hub-and-spoke architectures.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extend On-Premises Active Directory Federation Services to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/identity/adfs",
-    "description": "Implement a secure hybrid network architecture with Active Directory Federation Services authorization and identity federation in Azure.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Integrate On-Premises Active Directory Domains With Microsoft Entra ID",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/identity/azure-ad",
-    "description": "Learn how to implement a secure hybrid network architecture that integrates on-premises Active Directory domains with Microsoft Entra ID.",
     "pubDate": "2026-02-18T23:00:19.000Z",
     "source": "Azure Architecture"
   }
