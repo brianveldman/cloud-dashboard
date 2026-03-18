@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: Lakeflow Connect Free Tier now available in Azure Databricks  ",
+    "link": "https://azure.microsoft.com/updates?id=558810",
+    "description": "Azure Databricks now offers a Lakeflow Connect Free Tier that gives each workspace 100 free DBUs per workspace per day for ingestion from SaaS applications and databases. This allows you to bring roughly 100 million records of data per workspace per day i",
+    "pubDate": "2026-03-18T17:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Versionless key support for transparent data encryption in Azure SQL Database ",
+    "link": "https://azure.microsoft.com/updates?id=558183",
+    "description": "Azure SQL Database now supports versionless keys for transparent data encryption (TDE), giving you a simpler and more reliable way to manage your own encryption keys. You no longer need to reference a specific key version from Azure Key Vault or Managed H",
+    "pubDate": "2026-03-18T17:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Data API builder with built-in GitHub Copilot in MSSQL extension ",
+    "link": "https://azure.microsoft.com/updates?id=558178",
+    "description": "The MSSQL extension for Visual Studio Code now introduces Data API builder in public preview with built-in GitHub Copilot integration, bringing a guided back-end generation experience directly into your development workflow. You can generate REST, GraphQL",
+    "pubDate": "2026-03-18T17:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Observability for AI Systems: Strengthening visibility for proactive risk detection",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/",
+    "description": "<p>As AI systems grow more autonomous, observability becomes essential. Learn how visibility into AI behavior helps detect risk and strengthen secure development.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/\">Observability for AI Systems: Strengthening visibility for proactive risk detection</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-18T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
     "link": "https://azure.microsoft.com/updates?id=558016",
     "description": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
@@ -175,6 +203,20 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Copilot Cowork: A new way of getting work done",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Powering Frontier Transformation with Copilot and agents",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
+    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -242,13 +284,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/",
     "description": "<p>This Women’s History Month, we explore ways to support the next generation of female defenders at every career stage.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/\">Women’s History Month: Encouraging women in cybersecurity at every career stage</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-05T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Malicious AI Assistant Extensions Harvest LLM Chat Histories",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/",
-    "description": "<p>Malicious AI browser extensions collected LLM chat histories and browsing data from platforms such as ChatGPT and DeepSeek. With nearly 900,000 installs and activity across more than 20,000 enterprise tenants, the campaign highlights the growing risk of data exposure through browser extensions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/\">Malicious AI Assistant Extensions Harvest LLM Chat Histories</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-05T16:02:12.000Z",
     "source": "Security"
   },
   {
@@ -425,6 +460,13 @@
     "description": "<p>Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/\">Instant access incremental snapshots: Restore without waiting</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-02T17:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
@@ -655,48 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
     "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
     "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extract and Analyze Call Center Data by Using Azure OpenAI in Foundry Models, Speech Services, and Language Services",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
-    "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI in Foundry Models.",
-    "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Budget Bytes: Build powerful AI apps for under $25",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-    "description": "<p>Budget Bytes is a new series is designed to inspire developers to build affordable, production-quality AI applications on Azure with a budget of $25 or less.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/\">Introducing Budget Bytes: Build powerful AI apps for under $25</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-19T17:02:52.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Migrate a web app by using Azure API Management",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/apim-api-scenario",
-    "description": "In this scenario, an e-commerce company in the travel industry uses Azure API Management to migrate a legacy web application.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Implement a Zero Trust Network for Web Applications by Using Azure Firewall and Azure Application Gateway",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall",
-    "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
-    "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy Highly Available NVAs",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
-    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
-    "pubDate": "2026-02-18T23:00:19.000Z",
     "source": "Azure Architecture"
   }
 ]
