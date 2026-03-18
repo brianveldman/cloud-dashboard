@@ -1,5 +1,54 @@
 [
   {
+    "title": "Retirement: Emissions Impact Dashboard for Azure",
+    "link": "https://azure.microsoft.com/updates?id=558278",
+    "description": "Effective March 31, 2027, the Emissions Impact Dashboard for Azure hosted by Power BI will be\r\nretired. After this date, the dashboard will no longer be accessible and\r\ntechnical support will be discontinued. We strongly encourage customers\r\nto export their ",
+    "pubDate": "2026-03-18T18:45:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] General availability: Azure SQL updates for mid-March 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=558121",
+    "description": "In mid-March 2026, the\r\nfollowing updates and enhancements were made to Azure SQL:  \r\n Publish SQL database projects directly from\r\n     Visual Studio Code to streamline database deployment\r\n     workflows.  \r\n View and edit SQL table data directly in the MSSQ",
+    "pubDate": "2026-03-18T18:30:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift Managed Identity and Workload Identity",
+    "link": "https://azure.microsoft.com/updates?id=557917",
+    "description": "Azure Red Hat OpenShift now supports managed identities and workload identities as a generally available capability, enabling you to run OpenShift clusters and applications on Azure without long lived service principal credentials. This aligns Azure Red H",
+    "pubDate": "2026-03-18T18:30:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public preview: GitHub Copilot integration in Schema Designer for the MSSQL extension ",
+    "link": "https://azure.microsoft.com/updates?id=558169",
+    "description": "The MSSQL extension for Visual Studio Code now introduces GitHub Copilot integration in Schema Designer, expanding the visual schema design experience with AI-assisted capabilities. Based on developer feedback and evolving workflows, you can now understan",
+    "pubDate": "2026-03-18T18:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Database DevOps in SSMS powered by SQL projects ",
+    "link": "https://azure.microsoft.com/updates?id=558155",
+    "description": "Bring the benefits of schema-as-code to your database development workflow. SQL database projects enable you to source control your database schema, perform reliable deployments to any environment, and integrate code quality checks into your development p",
+    "pubDate": "2026-03-18T18:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: SQL MCP Server",
+    "link": "https://azure.microsoft.com/updates?id=558150",
+    "description": "Announcing SQL MCP Server, our Model Context Protocol (MCP) connector for production databases. SQL MCP Server is a feature rich component of data API builder (DAB) that gives you a simple, predictable, secure way to bring AI agents into your data workflo",
+    "pubDate": "2026-03-18T18:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: GitHub Copilot in SQL Server Management Studio 22 ",
+    "link": "https://azure.microsoft.com/updates?id=558134",
+    "description": "GitHub Copilot is now generally available in SQL Server Management Studio (SSMS) 22, bringing AI‑powered assistance directly into the application that you use every day.  With GitHub Copilot in SSMS, you can use natural language to develop, explain, fix, ",
+    "pubDate": "2026-03-18T18:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Lakeflow Connect Free Tier now available in Azure Databricks  ",
     "link": "https://azure.microsoft.com/updates?id=558810",
     "description": "Azure Databricks now offers a Lakeflow Connect Free Tier that gives each workspace 100 free DBUs per workspace per day for ingestion from SaaS applications and databases. This allows you to bring roughly 100 million records of data per workspace per day i",
@@ -201,20 +250,6 @@
     "description": "Learn about an enterprise-level cloud file sharing solution that uses Azure Files, Azure File Sync, Azure private DNS, and Azure private endpoints.",
     "pubDate": "2026-03-11T15:20:04.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Secure agentic AI for your Frontier Transformation",
@@ -462,13 +497,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
-    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-02T15:30:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -670,33 +698,5 @@
     "description": "Announcing the public preview of Application Gateway WAF Insights. Azure Application Gateway WAF now offers WAF Insights, providing an interactive view of logs and metrics. WAF Insights enables quick investigation of blocked requests, analysis of attack p",
     "pubDate": "2026-02-23T16:15:47.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Brazil Southeast, and in a third Availability Zone in Malaysia West and Indonesia Central",
-    "link": "https://azure.microsoft.com/updates?id=557623",
-    "description": "Azure Premium SSD v2 is now available in Brazil Southeast (a region without Availability Zone), and in a third Availability Zone in Malaysia West and Indonesia Central.Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for A",
-    "pubDate": "2026-02-20T19:00:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Greenfield Lakehouse on Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric",
-    "description": "Learn about a greenfield solution for creating a robust, scalable data platform by using the lakehouse design paradigm on Microsoft Fabric.",
-    "pubDate": "2026-02-19T21:25:42.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build and Deploy Custom Document Processing Models on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
-    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
-    "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Overview of Microsoft Machine Learning Products and Technologies",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
-    "description": "Compare options for building, deploying, and managing your machine learning models. Decide which Microsoft products to choose for your solution.",
-    "pubDate": "2026-02-19T17:40:25.000Z",
-    "source": "Azure Architecture"
   }
 ]
