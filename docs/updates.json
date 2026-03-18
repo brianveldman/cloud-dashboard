@@ -189,25 +189,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
-    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-06T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "AI as tradecraft: How threat actors operationalize AI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
     "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Introducing GPT-5.4 in Microsoft Foundry",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-05T23:03:01.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -696,6 +682,20 @@
     "title": "Implement a Zero Trust Network for Web Applications by Using Azure Firewall and Azure Application Gateway",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall",
     "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
+    "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
+    "pubDate": "2026-02-18T23:00:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Highly Available NVAs",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
+    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
     "pubDate": "2026-02-18T23:00:19.000Z",
     "source": "Azure Architecture"
   }
