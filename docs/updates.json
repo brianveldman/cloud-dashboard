@@ -238,6 +238,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Modernizing regulated industries with cloud and agentic AI",
+    "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+    "description": "<p>Discover how cloud modernization and agentic AI are accelerating migration across healthcare, financial services, and manufacturing.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/\">Modernizing regulated industries with cloud and agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Multiregion Load Balancing",
     "link": "https://learn.microsoft.com/azure/architecture/high-availability/traffic-manager-application-gateway",
     "description": "Learn how to build an Azure system that serves web and non-web workloads with resilient multitier applications in multiple Azure regions.",
@@ -250,6 +257,27 @@
     "description": "Learn about an enterprise-level cloud file sharing solution that uses Azure Files, Azure File Sync, Azure private DNS, and Azure private endpoints.",
     "pubDate": "2026-03-11T15:20:04.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Many agents, one team: Scaling modernization on Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
+    "description": "<p>We’re announcing the first agentic end-to-end modernization solution that brings IT and developers into a single, connected workflow.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/\">Many agents, one team: Scaling modernization on Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+    "description": "<p>We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/\">Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T07:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
+    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T18:11:08.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Secure agentic AI for your Frontier Transformation",
@@ -266,11 +294,25 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "AI as tradecraft: How threat actors operationalize AI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
     "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing GPT-5.4 in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-05T23:03:01.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -497,6 +539,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -649,54 +698,5 @@
     "description": "Learn about architectural approaches for Azure IoT Hub-based multitenant solutions to build scalable, secure, and efficient solutions.",
     "pubDate": "2026-02-24T22:45:49.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Domain Analysis to Model Microservices",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/model/domain-analysis",
-    "description": "This article shows a domain-driven approach to designing microservices so that each service follows the general rule of doing only one thing.",
-    "pubDate": "2026-02-24T21:33:42.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choreography pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/choreography",
-    "description": "Let each service decide when and how a business operation is processed, instead of depending on a central orchestrator.",
-    "pubDate": "2026-02-24T21:33:42.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a Hybrid Domain Name System (DNS) Solution by using Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
-    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
-    "pubDate": "2026-02-24T21:30:37.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-    "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-    "description": "<p>Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities.</p>\n<p>The post <a href=\"http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog\">Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-02-24T10:20:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Retirement: Windows Server Annual Channel (preview) ",
-    "link": "https://azure.microsoft.com/updates?id=557224",
-    "description": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
-    "pubDate": "2026-02-23T18:15:17.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: WAF Insights for Application Gateway ",
-    "link": "https://azure.microsoft.com/updates?id=557416",
-    "description": "Announcing the public preview of Application Gateway WAF Insights. Azure Application Gateway WAF now offers WAF Insights, providing an interactive view of logs and metrics. WAF Insights enables quick investigation of blocked requests, analysis of attack p",
-    "pubDate": "2026-02-23T16:15:47.000Z",
-    "source": "Azure Updates"
   }
 ]
