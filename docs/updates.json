@@ -1,5 +1,40 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
+    "link": "https://azure.microsoft.com/updates?id=558927",
+    "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
+    "pubDate": "2026-03-19T17:00:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: HC-series Azure Virtual Machines will be retired on May 31, 2027",
+    "link": "https://azure.microsoft.com/updates?id=548543",
+    "description": "On May 31, 2027, Microsoft Azure will retire the following HC-series virtual machine (VMs) sizes: Standard_HC44rs, Standard_HC44-16rs, and Standard_HC44-32rs. To ensure continuity and improved performance, we recommend transitioning to one of the current‑",
+    "pubDate": "2026-03-19T16:30:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: HBv2-series Azure Virtual Machines will be retired on May 31, 2027",
+    "link": "https://azure.microsoft.com/updates?id=548525",
+    "description": "On May 31, 2027, Microsoft Azure will retire the following HBv2-series virtual machine (VMs) sizes: Standard_HB120rs_v2, Standard_HB120-96rs_v2, Standard_HB120-64rs_v2, Standard_HB120-32rs_v2, and Standard_HB120-16rs_v2.  To ensure continuity and improved",
+    "pubDate": "2026-03-19T16:30:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: NP-series Azure Virtual Machines will be retired on May 31, 2027 ",
+    "link": "https://azure.microsoft.com/updates?id=548497",
+    "description": "On May 31, 2027, Microsoft Azure will retire the follow NP-series virtual machine (VMs) sizes: Standard_NP10s, Standard_NP20s, and Standard_NP40s. To ensure continuity and optimal performance, we recommend transitioning to one of the following Azure GPU V",
+    "pubDate": "2026-03-19T16:30:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/",
+    "description": "<p>In recent months, Microsoft Threat Intelligence identified email campaigns using lures around W-2, tax forms, or similar themes, or posing as government tax agencies, tax services firms, and relevant financial institutions, with many campaigns targeting individuals for personal and financial data theft, but others specifically targeting accountants and other professionals who handle sensitive documents, have access to financial data, and are accustomed to receiving tax-related emails during this period.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/\">When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-19T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Emissions Impact Dashboard for Azure",
     "link": "https://azure.microsoft.com/updates?id=558278",
     "description": "Effective March 31, 2027, the Emissions Impact Dashboard for Azure hosted by Power BI will be\r\nretired. After this date, the dashboard will no longer be accessible and\r\ntechnical support will be discontinued. We strongly encourage customers\r\nto export their ",
@@ -280,20 +315,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Secure agentic AI for your Frontier Transformation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
     "description": "<p>Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/\">Secure agentic AI for your Frontier Transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -369,13 +390,6 @@
     "description": "Use an intermediary message broker or event bus to decouple senders from consumers and distribute messages to interested subscribers asynchronously.",
     "pubDate": "2026-03-05T18:51:34.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Women’s History Month: Encouraging women in cybersecurity at every career stage",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/",
-    "description": "<p>This Women’s History Month, we explore ways to support the next generation of female defenders at every career stage.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/05/womens-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/\">Women’s History Month: Encouraging women in cybersecurity at every career stage</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-05T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Retirement: Azure Policy faster enforcement and retirement of login/logout workaround",
@@ -684,19 +698,5 @@
     "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
     "pubDate": "2026-02-25T19:18:59.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SQL updates for late-February 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=557517",
-    "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL:  \r\n Introducing Search Database Objects in the MSSQL\r\n     extension for Visual Studio Code. Instantly find tables, views,\r\n     functions, and procedures with full scripti",
-    "pubDate": "2026-02-25T19:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for late-February 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=557522",
-    "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL: \r\n Manage your databases directly from the dialog using\r\n     actions such as Name, Rename, and Drop.  \r\n Import a flat file to your database in the\r\n     MSSQL Extension fo",
-    "pubDate": "2026-02-25T18:45:40.000Z",
-    "source": "Azure Updates"
   }
 ]
