@@ -1,5 +1,12 @@
 [
   {
+    "title": "New tools and guidance: Announcing Zero Trust for AI",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
+    "description": "<p>Microsoft introduces Zero Trust for AI, adding a new AI pillar to its workshop, enhanced reference architecture, updated guidance, and a new assessment tool.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/\">New tools and guidance: Announcing Zero Trust for AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-19T19:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
     "link": "https://azure.microsoft.com/updates?id=558927",
     "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
@@ -133,6 +140,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+    "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+    "description": "<p>Microsoft combines accelerated computing with cloud scale engineering to bring advanced AI capabilities to our customers. For years, we’ve worked with NVIDIA to integrate hardware, software and infrastructure to power many of today’s most important AI breakthroughs.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/\">Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-16T21:21:14.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
     "link": "https://azure.microsoft.com/updates?id=549077",
     "description": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server ",
@@ -173,6 +187,13 @@
     "description": "<p>As organizations adopt AI, security and governance remain core primitives for safe AI transformation and acceleration.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-microsoft-purview-innovations-for-fabric-to-safely-accelerate-your-ai-transf/4502156\">New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-16T17:10:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+    "description": "<p>Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/\">From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-16T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Help on the line: How a Microsoft Teams support call led to compromise",
@@ -334,13 +355,6 @@
     "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-06T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "AI as tradecraft: How threat actors operationalize AI",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/",
-    "description": "<p>Threat actors are operationalizing AI to scale and sustain malicious activity, accelerating tradecraft and increasing risk for defenders, as illustrated by recent activity from North Korean groups such as Jasper Sleet and Coral Sleet (formerly Storm-1877).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/\">AI as tradecraft: How threat actors operationalize AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-06T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Introducing GPT-5.4 in Microsoft Foundry",
@@ -560,13 +574,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Instant access incremental snapshots: Restore without waiting",
-    "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
-    "description": "<p>Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/\">Instant access incremental snapshots: Restore without waiting</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-02T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
     "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
     "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
     "description": "Learn how to use Azure Service Bus and Azure Data Explorer to enhance an existing message broker architecture with near real-time analytics.",
     "pubDate": "2026-02-25T19:46:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Highly Available Zone-Redundant App Services Web Application",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant",
-    "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
-    "pubDate": "2026-02-25T19:18:59.000Z",
     "source": "Azure Architecture"
   }
 ]
