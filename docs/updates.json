@@ -322,25 +322,25 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Copilot Cowork: A new way of getting work done",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Powering Frontier Transformation with Copilot and agents",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
+    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Event-Driven Architecture Style",
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/event-driven",
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
     "pubDate": "2026-03-06T21:06:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
-    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-06T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Introducing GPT-5.4 in Microsoft Foundry",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-05T23:03:01.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -560,6 +560,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-02T15:30:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
     "link": "https://azure.microsoft.com/updates?id=558078",
     "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=557517",
     "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL:  \r\n Introducing Search Database Objects in the MSSQL\r\n     extension for Visual Studio Code. Instantly find tables, views,\r\n     functions, and procedures with full scripti",
     "pubDate": "2026-02-25T19:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for late-February 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=557522",
-    "description": "In late-February 2026,\r\nthe following updates and enhancements were made to Azure SQL: \r\n Manage your databases directly from the dialog using\r\n     actions such as Name, Rename, and Drop.  \r\n Import a flat file to your database in the\r\n     MSSQL Extension fo",
-    "pubDate": "2026-02-25T18:45:40.000Z",
     "source": "Azure Updates"
   }
 ]
