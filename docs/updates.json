@@ -378,20 +378,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Event-Driven Architecture Style",
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/event-driven",
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
@@ -698,5 +684,19 @@
     "description": "Use domain-driven design in a microservices architecture to identify the entity and aggregate patterns, which help identify natural boundaries for the services.",
     "pubDate": "2026-02-26T18:02:01.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Automated API deployments using APIOps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/devops/automated-api-deployments-apiops",
+    "description": "Use APIOps with an Azure API Management instance to build and deploy APIs. This solution provides self-service tools, auditing, policy enforcement, and early feedback.",
+    "pubDate": "2026-02-26T00:36:15.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
+    "link": "https://azure.microsoft.com/updates?id=552808",
+    "description": "We are announcing several\r\ncapabilities in public preview with Azure Monitor pipeline. Secure\r\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\r\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\r\n     contro",
+    "pubDate": "2026-02-26T00:30:50.000Z",
+    "source": "Azure Updates"
   }
 ]
