@@ -1,5 +1,12 @@
 [
   {
+    "title": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/",
+    "description": "<p>Threat actors abused trusted Trivy distribution channels to inject credential‑stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply‑chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/\">Guidance for detecting, investigating, and defending against the Trivy supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-25T00:03:03.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Container network metrics filtering for AKS ",
     "link": "https://azure.microsoft.com/updates?id=557902",
     "description": "Network\r\nobservability can generate large volumes of metrics, making it difficult for\r\nteams to focus on data that is operationally relevant. Container network\r\nmetrics filtering in Azure Container Networking Services (ACNS) allows\r\noperators to control which",
@@ -238,6 +245,20 @@
     "source": "Security"
   },
   {
+    "title": "Advancing agentic AI with Microsoft databases across a unified data estate",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+    "description": "<p>Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/\">Advancing agentic AI with Microsoft databases across a unified data estate</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-18T12:50:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
+    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
+    "description": "<p>We're bring attendees together to share real experiences and solve challenges side-by-side. Only together can we move into meaningful results.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/\">FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-18T12:45:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
     "link": "https://azure.microsoft.com/updates?id=558016",
     "description": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
@@ -257,6 +278,13 @@
     "description": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
     "pubDate": "2026-03-17T17:30:11.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+    "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+    "description": "<p>Microsoft combines accelerated computing with cloud scale engineering to bring advanced AI capabilities to our customers. For years, we’ve worked with NVIDIA to integrate hardware, software and infrastructure to power many of today’s most important AI breakthroughs.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/\">Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-16T21:21:14.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
@@ -301,6 +329,13 @@
     "source": "Security"
   },
   {
+    "title": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+    "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+    "description": "<p>Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/\">From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-16T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Help on the line: How a Microsoft Teams support call led to compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/",
     "description": "<p>A DART investigation into a Microsoft Teams voice phishing attack shows how deception and trusted tools can enable identity-led intrusions and how to stop them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/\">Help on the line: How a Microsoft Teams support call led to compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -327,13 +362,6 @@
     "description": "Learn about some best practices for building cloud applications and how they align with the Azure Well-Architected Framework.",
     "pubDate": "2026-03-12T18:38:23.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/",
-    "description": "<p>Storm-2561 uses SEO poisoning to push fake VPN downloads that install signed trojans and steal VPN credentials. Active since 2025, Storm-2561 mimics trusted brands and abuses legitimate services. This post reviews TTPs, IOCs, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/\">Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-12T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Get Started with Compute Architecture Design",
@@ -378,6 +406,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Modernizing regulated industries with cloud and agentic AI",
+    "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+    "description": "<p>Discover how cloud modernization and agentic AI are accelerating migration across healthcare, financial services, and manufacturing.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/\">Modernizing regulated industries with cloud and agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Multiregion Load Balancing",
     "link": "https://learn.microsoft.com/azure/architecture/high-availability/traffic-manager-application-gateway",
     "description": "Learn how to build an Azure system that serves web and non-web workloads with resilient multitier applications in multiple Azure regions.",
@@ -390,6 +425,27 @@
     "description": "Learn about an enterprise-level cloud file sharing solution that uses Azure Files, Azure File Sync, Azure private DNS, and Azure private endpoints.",
     "pubDate": "2026-03-11T15:20:04.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Many agents, one team: Scaling modernization on Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
+    "description": "<p>We’re announcing the first agentic end-to-end modernization solution that brings IT and developers into a single, connected workflow.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/\">Many agents, one team: Scaling modernization on Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+    "description": "<p>We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/\">Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T07:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
+    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T18:11:08.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Copilot Cowork: A new way of getting work done",
@@ -411,6 +467,20 @@
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
     "pubDate": "2026-03-06T21:06:57.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-06T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Introducing GPT-5.4 in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+    "description": "<p>Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785\">Introducing GPT-5.4 in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-05T23:03:01.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -504,13 +574,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-    "description": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-04T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "No-Caching antipattern",
     "link": "https://learn.microsoft.com/azure/architecture/antipatterns/no-caching",
     "description": "Learn about ways to mitigate the No-Caching antipattern, the common design flaw of repeatedly fetching the same data.",
@@ -567,13 +630,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Unlocking document understanding with Mistral Document AI in Microsoft Foundry",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
-    "description": "<p>Enterprises today face a familiar yet formidable challenge: mountains of documents -contracts, invoices, reports, forms - remain locked in unstructured formats. Traditional OCR (optical character recognition) captures text, but often struggles with context, layout complexity, or multilingual content. The result? Slow workflows, error-prone manual reviews, and missed insights.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664\">Unlocking document understanding with Mistral Document AI in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-03T16:24:29.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Inbound and outbound internet connections for SAP on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-internet-inbound-outbound",
     "description": "Learn proven practices for enabling improved-security inbound and outbound internet connections for your SAP on Azure infrastructure.",
@@ -623,13 +679,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Instant access incremental snapshots: Restore without waiting",
-    "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
-    "description": "<p>Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/\">Instant access incremental snapshots: Restore without waiting</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-02T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
     "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
     "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -649,54 +698,5 @@
     "description": "The DCesv6, DCedsv6,\r\nECesv6, and ECedsv6 series are Azure’s next generation\r\nof confidential Virtual Machines (VMs) based on 5th Gen\r\nIntel® Xeon® processors with Intel® Trust Domain Extensions (Intel® TDX). These\r\nnew confidential VMs help organizations to ",
     "pubDate": "2026-02-27T23:15:13.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Managed NGINX Ingress with Application Routing Add-on Retiring November 2026",
-    "link": "https://azure.microsoft.com/updates?id=555839",
-    "description": "The upstream Ingress-NGINX project is being deprecated and will stop receiving updates after March 2026. Microsoft will continue providing critical security patches through 30 November 2026, after which the NGINX ingress controller will no longer be suppo",
-    "pubDate": "2026-02-27T21:45:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Siemens Teamcenter baseline architecture on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/manufacturing/teamcenter-baseline",
-    "description": "Learn about the Siemens Teamcenter product lifecycle management (PLM) solution architecture on Azure.",
-    "pubDate": "2026-02-27T21:15:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central",
-    "link": "https://azure.microsoft.com/updates?id=557897",
-    "description": "Azure Red Hat OpenShift is now generally available in three additional Azure regions: Malaysia West, New Zealand North, and Mexico Central. This expansion strengthens Azure Red Hat OpenShift’s presence across Asia Pacific and Latin America, enabling custo",
-    "pubDate": "2026-02-27T17:30:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Storage architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/storage/storage-start-here",
-    "description": "Get an overview of Azure Storage technologies, guidance offerings, solution ideas, and reference architectures.",
-    "pubDate": "2026-02-26T22:26:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Storage Options for a Kubernetes Cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/storage",
-    "description": "Understand storage options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) storage options.",
-    "pubDate": "2026-02-26T22:18:21.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run SAP NetWeaver in Windows on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
-    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure, with high availability.",
-    "pubDate": "2026-02-26T22:18:21.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Implement the Transactional Outbox Pattern by Using Azure Cosmos DB",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/transactional-out-box-cosmos",
-    "description": "Learn how to use the Azure Cosmos DB change feed feature and Azure Service Bus for reliable messaging and guaranteed delivery of domain events in distributed applications.",
-    "pubDate": "2026-02-26T20:20:12.000Z",
-    "source": "Azure Architecture"
   }
 ]
