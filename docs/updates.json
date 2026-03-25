@@ -91,6 +91,13 @@
     "source": "Security"
   },
   {
+    "title": "Azure DNS Private Resolver",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/azure-dns-private-resolver",
+    "description": "Learn how to use Azure DNS Private Resolver to simplify hybrid recursive Domain Name System (DNS) resolution for on-premises and Azure workloads.",
+    "pubDate": "2026-03-23T15:45:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Azure SQL updates for mid-March 2026",
     "link": "https://azure.microsoft.com/updates?id=558116",
     "description": "In mid-March 2026, the following updates and\r\nenhancements were made to Azure SQL:   \r\n Reduce\r\n     the consumption of storage space, I/O, and memory and improve performance\r\n     without investing time and effort into index maintenance jobs.  \r\n Configure\r\n  ",
@@ -138,6 +145,13 @@
     "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
     "pubDate": "2026-03-19T17:00:53.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Ambassador Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/ambassador",
+    "description": "Learn about the ambassador pattern, which creates helper services that send network requests on behalf of a consumer service or application.",
+    "pubDate": "2026-03-19T16:52:25.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Retirement: HC-series Azure Virtual Machines will be retired on May 31, 2027",
@@ -238,6 +252,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Set Up Real-Time Sync of MongoDB Atlas Data Changes to Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/analytics/sync-mongodb-atlas-fabric-analytics",
+    "description": "Learn how to integrate MongoDB Atlas with Microsoft Fabric by using open mirroring to keep data tables in sync with operational data changes.",
+    "pubDate": "2026-03-18T16:00:43.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Observability for AI Systems: Strengthening visibility for proactive risk detection",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/",
     "description": "<p>As AI systems grow more autonomous, observability becomes essential. Learn how visibility into AI behavior helps detect risk and strengthen secure development.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/\">Observability for AI Systems: Strengthening visibility for proactive risk detection</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -259,6 +280,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
+    "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
+    "pubDate": "2026-03-18T10:26:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
     "link": "https://azure.microsoft.com/updates?id=558016",
     "description": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
@@ -278,6 +306,13 @@
     "description": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
     "pubDate": "2026-03-17T17:30:11.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Bulkhead Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/bulkhead",
+    "description": "Learn about the Bulkhead pattern, which isolates elements of an application into pools so that if one fails, the others continue to function.",
+    "pubDate": "2026-03-17T16:18:45.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
@@ -446,20 +481,6 @@
     "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-09T18:11:08.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Event-Driven Architecture Style",
@@ -677,26 +698,5 @@
     "description": "Control access to your apps and data by designing and implementing an identity solution. See resources with guidelines, best practices, and recommendations.",
     "pubDate": "2026-03-02T17:33:30.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "SharePoint at 25: How Microsoft is putting knowledge to work in the AI era",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
-    "description": "<p>Twenty-five years ago, SharePoint set out to help people share knowledge and work better together, a mission that today operates at extraordinary scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/\">SharePoint at 25: How Microsoft is putting knowledge to work in the AI era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-02T15:30:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North",
-    "link": "https://azure.microsoft.com/updates?id=558078",
-    "description": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",
-    "pubDate": "2026-02-27T23:15:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: DCesv6, DCedsv6, ECesv6, and ECedsv6 confidential VMs",
-    "link": "https://azure.microsoft.com/updates?id=558051",
-    "description": "The DCesv6, DCedsv6,\r\nECesv6, and ECedsv6 series are Azure’s next generation\r\nof confidential Virtual Machines (VMs) based on 5th Gen\r\nIntel® Xeon® processors with Intel® Trust Domain Extensions (Intel® TDX). These\r\nnew confidential VMs help organizations to ",
-    "pubDate": "2026-02-27T23:15:13.000Z",
-    "source": "Azure Updates"
   }
 ]
