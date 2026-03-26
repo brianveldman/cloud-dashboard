@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure SQL updates for late-March 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=558879",
+    "description": "In late-March 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Configure built-in SQL code analysis rules and\r\n     severity settings without editing project XML.  \r\n Use Fabric connectivity\r\n     and provisioning options to connect wi",
+    "pubDate": "2026-03-26T16:00:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Cosmos DB Mirroring in Microsoft Fabric with private endpoints ",
     "link": "https://azure.microsoft.com/updates?id=558836",
     "description": "We're excited to announce that private endpoint support for Azure Cosmos DB Mirroring in Microsoft Fabric is now generally available. You can now unlock powerful analytics on your operational data while keeping your enhanced network security posture intac",
@@ -61,13 +68,6 @@
     "description": "<p>Read the latest Microsoft Secure Access report for insights into why a unified identity and access strategy offers strong modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/25/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/\">Identity security is the new pressure point for modern cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-25T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "AI for nuclear energy: Powering an intelligent, resilient future",
-    "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
-    "description": "<p>To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/\">AI for nuclear energy: Powering an intelligent, resilient future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-25T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
@@ -553,25 +553,18 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Event-Driven Architecture Style",
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/event-driven",
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
     "pubDate": "2026-03-06T21:06:57.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-06T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning-strategies",
     "description": "View guidance on separating data partitions to be managed and accessed separately in different services, such as Azure AI Search, Azure storage queues, and more.",
     "pubDate": "2026-03-04T15:46:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Administer SQL Server with Azure Arc",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-arc-sql-server",
+    "description": "Learn how to use Azure Arc for management, maintenance, and monitoring of SQL Server instances in on-premises and multicloud environments.",
+    "pubDate": "2026-03-03T21:37:01.000Z",
     "source": "Azure Architecture"
   }
 ]
