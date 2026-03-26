@@ -329,6 +329,20 @@
     "source": "Security"
   },
   {
+    "title": "Advancing agentic AI with Microsoft databases across a unified data estate",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+    "description": "<p>Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/\">Advancing agentic AI with Microsoft databases across a unified data estate</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-18T12:50:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
+    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
+    "description": "<p>We're bring attendees together to share real experiences and solve challenges side-by-side. Only together can we move into meaningful results.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/\">FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-18T12:45:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
     "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
@@ -525,20 +539,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Event-Driven Architecture Style",
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/event-driven",
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
@@ -651,13 +651,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-    "description": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-04T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "No-Caching antipattern",
     "link": "https://learn.microsoft.com/azure/architecture/antipatterns/no-caching",
     "description": "Learn about ways to mitigate the No-Caching antipattern, the common design flaw of repeatedly fetching the same data.",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-arc-sql-server",
     "description": "Learn how to use Azure Arc for management, maintenance, and monitoring of SQL Server instances in on-premises and multicloud environments.",
     "pubDate": "2026-03-03T21:37:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Host Name Preservation",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/host-name-preservation",
+    "description": "Learn how to preserve the original HTTP host name between a reverse proxy and its back-end web application in common Azure services.",
+    "pubDate": "2026-03-03T17:58:27.000Z",
     "source": "Azure Architecture"
   }
 ]
