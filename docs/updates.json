@@ -77,6 +77,13 @@
     "source": "Security"
   },
   {
+    "title": "AI for nuclear energy: Powering an intelligent, resilient future",
+    "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
+    "description": "<p>To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/\">AI for nuclear energy: Powering an intelligent, resilient future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-25T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/",
     "description": "<p>Threat actors abused trusted Trivy distribution channels to inject credential‑stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply‑chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/\">Guidance for detecting, investigating, and defending against the Trivy supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -572,13 +579,6 @@
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
     "pubDate": "2026-03-06T21:06:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
-    "description": "<p>Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/\">The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-06T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
