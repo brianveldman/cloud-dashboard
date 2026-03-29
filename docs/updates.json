@@ -560,6 +560,20 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Copilot Cowork: A new way of getting work done",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Powering Frontier Transformation with Copilot and agents",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
+    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Event-Driven Architecture Style",
     "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/event-driven",
     "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning",
     "description": "View guidance for how to separate data partitions to be managed and accessed separately. Understand horizontal, vertical, and functional partitioning strategies.",
     "pubDate": "2026-03-04T15:46:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Data partitioning strategies",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning-strategies",
-    "description": "View guidance on separating data partitions to be managed and accessed separately in different services, such as Azure AI Search, Azure storage queues, and more.",
-    "pubDate": "2026-03-04T15:46:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Administer SQL Server with Azure Arc",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-arc-sql-server",
-    "description": "Learn how to use Azure Arc for management, maintenance, and monitoring of SQL Server instances in on-premises and multicloud environments.",
-    "pubDate": "2026-03-03T21:37:01.000Z",
     "source": "Azure Architecture"
   }
 ]
