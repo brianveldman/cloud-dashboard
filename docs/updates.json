@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in South India",
+    "link": "https://azure.microsoft.com/updates?id=559526",
+    "description": "Azure Premium SSD v2 is now available in South India (a region without Availability Zone).Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price ",
+    "pubDate": "2026-03-30T16:30:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/",
+    "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/",
     "description": "<p>High-value assets including domain controllers, web servers, and identity infrastructure are frequent targets in sophisticated attacks. Microsoft Defender applies asset-aware protection using Microsoft Security Exposure Management to detect and block threats against these critical systems. This article explores real-world attack scenarios and defense techniques.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/\">How Microsoft Defender protects high-value assets in real-world attack scenarios</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -350,13 +364,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Observability for AI Systems: Strengthening visibility for proactive risk detection",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/",
-    "description": "<p>As AI systems grow more autonomous, observability becomes essential. Learn how visibility into AI behavior helps detect risk and strengthen secure development.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/\">Observability for AI Systems: Strengthening visibility for proactive risk detection</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-18T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Advancing agentic AI with Microsoft databases across a unified data estate",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
     "description": "<p>Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/\">Advancing agentic AI with Microsoft databases across a unified data estate</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "CDN guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
     "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
-    "pubDate": "2026-03-04T15:46:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Data partitioning guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning",
-    "description": "View guidance for how to separate data partitions to be managed and accessed separately. Understand horizontal, vertical, and functional partitioning strategies.",
     "pubDate": "2026-03-04T15:46:10.000Z",
     "source": "Azure Architecture"
   }
