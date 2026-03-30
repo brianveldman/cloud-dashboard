@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",
+    "link": "https://azure.microsoft.com/updates?id=556085",
+    "description": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you'll need to migrate to Azure Database\r\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\r\ndistributed PostgreSQL capabilitie",
+    "pubDate": "2026-03-30T17:45:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in South India",
     "link": "https://azure.microsoft.com/updates?id=559526",
     "description": "Azure Premium SSD v2 is now available in South India (a region without Availability Zone).Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price ",
@@ -12,6 +19,13 @@
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Copilot Cowork: Now available in Frontier",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
+    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
@@ -682,20 +696,6 @@
     "title": "No-Caching antipattern",
     "link": "https://learn.microsoft.com/azure/architecture/antipatterns/no-caching",
     "description": "Learn about ways to mitigate the No-Caching antipattern, the common design flaw of repeatedly fetching the same data.",
-    "pubDate": "2026-03-04T15:46:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Caching guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
-    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2026-03-04T15:46:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "CDN guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
-    "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
     "pubDate": "2026-03-04T15:46:10.000Z",
     "source": "Azure Architecture"
   }
