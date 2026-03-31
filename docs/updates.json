@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS",
+    "link": "https://azure.microsoft.com/updates?id=559322",
+    "description": "Ephemeral OS Disk with full caching is now available in public preview for Azure VM/VMSS, bringing significantly faster and more reliable OS disk performance to your workloads. By caching the entire OS disk image on local VM storage (cache disk, resource ",
+    "pubDate": "2026-03-30T21:45:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Indonesia Central",
+    "link": "https://azure.microsoft.com/updates?id=559552",
+    "description": "Azure Red Hat OpenShift (ARO) is now generally available in\r\nthe Indonesia Central Azure region, expanding regional availability for\r\ncustomers running mission‑critical OpenShift workloads on Azure. This release\r\nenables organizations in Indonesia and the br",
+    "pubDate": "2026-03-30T21:30:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed service for Prometheus",
+    "link": "https://azure.microsoft.com/updates?id=550519",
+    "description": "On March 31, 2027 Azure Monitor will be deprecating the sidecar for remote-write of Prometheus metrics to Azure Monitor Workspace. This is as part of our ongoing efforts to improve reliability and reduce complexity.We recommend configuring your self-hoste",
+    "pubDate": "2026-03-30T21:30:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",
     "link": "https://azure.microsoft.com/updates?id=556085",
     "description": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you'll need to migrate to Azure Database\r\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\r\ndistributed PostgreSQL capabilitie",
@@ -19,13 +40,6 @@
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Copilot Cowork: Now available in Frontier",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
-    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
     "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure, with high availability.",
     "pubDate": "2026-03-04T17:36:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "SAP S/4HANA in Linux on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-s4hana",
-    "description": "Learn more about proven practices for running SAP S/4HANA effectively in a Linux environment on Azure with high availability.",
-    "pubDate": "2026-03-04T17:36:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "No-Caching antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/no-caching",
-    "description": "Learn about ways to mitigate the No-Caching antipattern, the common design flaw of repeatedly fetching the same data.",
-    "pubDate": "2026-03-04T15:46:10.000Z",
     "source": "Azure Architecture"
   }
 ]
