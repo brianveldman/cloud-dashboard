@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in Denmark",
+    "link": "https://azure.microsoft.com/updates?id=559406",
+    "description": "Microsoft announces the opening of its cloud region in\r\nDenmark to accelerate digital transformation and AI innovation. The Denmark\r\nEast region provides Danish customers with local, secure cloud infrastructure,\r\nsupporting local data residency, low latency,",
+    "pubDate": "2026-03-31T17:15:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Manually registered Azure VPN Clients for ​Azure Government and ​Microsoft Azure operated by 21Vianet clouds will be retired on March 31, 2029",
+    "link": "https://azure.microsoft.com/updates?id=557395",
+    "description": "On March 31, 2029, we’ll be retiring manually registered\r\nAzure VPN clients for point-to-site connections with Microsoft Entra ID\r\nauthentication for ​Azure\r\nGovernment and ​Microsoft\r\nAzure operated by 21Vianet clouds.  Recommended action: To prevent disrupt",
+    "pubDate": "2026-03-31T16:45:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in US Gov Arizona",
+    "link": "https://azure.microsoft.com/updates?id=559677",
+    "description": "Azure Premium SSD v2 is now available in US Gov Arizona (a\r\nregion without Availability Zone).  Azure Premium SSD v2 disk, a next-generation general-purpose\r\nblock storage option for Azure virtual machines, offers\r\nsub-millisecond latencies and exceptional p",
+    "pubDate": "2026-03-31T16:30:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "WhatsApp malware campaign delivers VBS payloads and MSI backdoors",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/",
     "description": "<p>A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/\">WhatsApp malware campaign delivers VBS payloads and MSI backdoors</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/data-stores-getting-started",
     "description": "Learn how to choose the right Azure data store for your workloads by evaluating functional, performance, cost, and security requirements.",
     "pubDate": "2026-03-04T17:58:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure Firewall to help protect an AKS cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-firewall",
-    "description": "Deploy an AKS cluster in a hub-and-spoke network topology by using Terraform and Azure DevOps. Help protect inbound and outbound traffic by using Azure Firewall.",
-    "pubDate": "2026-03-04T17:36:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Guidance for using Azure Private Link service in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/private-link",
-    "description": "This article describes the features of Azure Private Link that are useful when you work with multitenanted systems, and it provides links to guidance and examples.",
-    "pubDate": "2026-03-04T17:36:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run SAP NetWeaver in Windows on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
-    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure, with high availability.",
-    "pubDate": "2026-03-04T17:36:09.000Z",
     "source": "Azure Architecture"
   }
 ]
