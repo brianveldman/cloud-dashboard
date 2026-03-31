@@ -1,5 +1,12 @@
 [
   {
+    "title": "WhatsApp malware campaign delivers VBS payloads and MSI backdoors",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/",
+    "description": "<p>A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/\">WhatsApp malware campaign delivers VBS payloads and MSI backdoors</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-03-31T13:43:05.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS",
     "link": "https://azure.microsoft.com/updates?id=559322",
     "description": "Ephemeral OS Disk with full caching is now available in public preview for Azure VM/VMSS, bringing significantly faster and more reliable OS disk performance to your workloads. By caching the entire OS disk image on local VM storage (cache disk, resource ",
@@ -306,13 +313,6 @@
     "description": "On May 31, 2027, Microsoft Azure will retire the follow NP-series virtual machine (VMs) sizes: Standard_NP10s, Standard_NP20s, and Standard_NP40s. To ensure continuity and optimal performance, we recommend transitioning to one of the following Azure GPU V",
     "pubDate": "2026-03-19T16:30:27.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/",
-    "description": "<p>During tax season, threat actors reliably take advantage of the urgency and familiarity of time-sensitive emails, including refund notices, payroll forms, filing reminders, and requests from tax professionals, to push malicious attachments, links, or QR codes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/\">When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-19T15:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Retirement: Emissions Impact Dashboard for Azure",
