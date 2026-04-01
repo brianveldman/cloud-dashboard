@@ -119,6 +119,20 @@
     "source": "Security"
   },
   {
+    "title": "Monitoring and diagnostics guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
+    "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
+    "pubDate": "2026-03-27T23:12:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Scalable Cloud Applications and SRE",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/scalable-apps-performance-modeling-site-reliability",
+    "description": "Build scalable cloud applications by using performance modeling and other principles and practices of site reliability engineering (SRE).",
+    "pubDate": "2026-03-27T21:03:17.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/",
     "description": "<p>High-value assets including domain controllers, web servers, and identity infrastructure are frequent targets in sophisticated attacks. Microsoft Defender applies asset-aware protection using Microsoft Security Exposure Management to detect and block threats against these critical systems. This article explores real-world attack scenarios and defense techniques.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/\">How Microsoft Defender protects high-value assets in real-world attack scenarios</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -126,11 +140,39 @@
     "source": "Security"
   },
   {
+    "title": "High-volume batch transaction processing",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/process-batch-transactions",
+    "description": "Use Azure Kubernetes Service (AKS) and Azure Service Bus to implement high-volume batch transaction processing.",
+    "pubDate": "2026-03-27T18:57:54.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Event Sourcing Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/event-sourcing",
+    "description": "Learn how to use an append-only store to record the full series of events that describe actions taken on data in a domain.",
+    "pubDate": "2026-03-27T18:45:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Get Started with Database Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/database-get-started",
+    "description": "Learn about database architecture design on Azure, including technology choices, solution ideas, and reference architectures for your workloads.",
+    "pubDate": "2026-03-26T19:21:37.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Azure SQL updates for late-March 2026 ",
     "link": "https://azure.microsoft.com/updates?id=558879",
     "description": "In late-March 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Configure built-in SQL code analysis rules and\r\n     severity settings without editing project XML.  \r\n Use Fabric connectivity\r\n     and provisioning options to connect wi",
     "pubDate": "2026-03-26T16:00:10.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Caching guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
+    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
+    "pubDate": "2026-03-25T21:27:18.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Cosmos DB Mirroring in Microsoft Fabric with private endpoints ",
@@ -210,6 +252,13 @@
     "source": "Security"
   },
   {
+    "title": "Multiregion BCDR for Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
+    "description": "Learn about the possible options and scenarios so that you can design and implement an effective multiregion BCDR strategy for Azure Virtual Desktop.",
+    "pubDate": "2026-03-24T23:57:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Container network metrics filtering for AKS ",
     "link": "https://azure.microsoft.com/updates?id=557902",
     "description": "Network\r\nobservability can generate large volumes of metrics, making it difficult for\r\nteams to focus on data that is operationally relevant. Container network\r\nmetrics filtering in Azure Container Networking Services (ACNS) allows\r\noperators to control which",
@@ -287,11 +336,53 @@
     "source": "Security"
   },
   {
+    "title": "Azure AI Video Processing Guide",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
+    "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
+    "pubDate": "2026-03-24T15:26:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Speech Recognition and Generation Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/speech-recognition-generation",
+    "description": "Learn about speech recognition and generation capabilities in Foundry Tools, including speech-to-text, text-to-speech, speech translation, and avatar creation.",
+    "pubDate": "2026-03-24T15:26:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure AI Targeted Language Processing Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/targeted-language-processing",
+    "description": "Learn about targeted language processing capabilities in Foundry Tools, including natural language processing, text analytics, translation, and document data extraction.",
+    "pubDate": "2026-03-24T15:26:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure AI Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
+    "description": "Learn about AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
+    "pubDate": "2026-03-24T15:26:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AKS Backup and Recovery",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-backup-and-recovery",
+    "description": "Learn how to back up and recover AKS clusters and their workloads to protect data, maintain availability, and support disaster recovery.",
+    "pubDate": "2026-03-24T08:54:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026",
     "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
     "description": "<p>At KubeCon + CloudNativeCon Europe 2026 in Amsterdam, we're making announcements that reflect the goal of bringing the operational maturity of Kubernetes to today's workloads and demands.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/\">What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-24T07:05:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Run SAP NetWeaver in Windows on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
+    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure to achieve high availability and disaster recovery.",
+    "pubDate": "2026-03-23T21:12:41.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started",
@@ -607,96 +698,5 @@
     "description": "The MSSQL extension for Visual Studio Code now introduces Query Profiler in public preview, bringing real-time insight into your database activity directly inside Visual Studio Code. With Query Profiler, you can capture query and database activity as it h",
     "pubDate": "2026-03-11T17:45:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Modernizing regulated industries with cloud and agentic AI",
-    "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
-    "description": "<p>Discover how cloud modernization and agentic AI are accelerating migration across healthcare, financial services, and manufacturing.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/\">Modernizing regulated industries with cloud and agentic AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-11T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Multiregion Load Balancing",
-    "link": "https://learn.microsoft.com/azure/architecture/high-availability/traffic-manager-application-gateway",
-    "description": "Learn how to build an Azure system that serves web and non-web workloads with resilient multitier applications in multiple Azure regions.",
-    "pubDate": "2026-03-11T15:51:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Enterprise Cloud File Share",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-files-private",
-    "description": "Learn about an enterprise-level cloud file sharing solution that uses Azure Files, Azure File Sync, Azure private DNS, and Azure private endpoints.",
-    "pubDate": "2026-03-11T15:20:04.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Many agents, one team: Scaling modernization on Azure",
-    "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
-    "description": "<p>We’re announcing the first agentic end-to-end modernization solution that brings IT and developers into a single, connected workflow.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/\">Many agents, one team: Scaling modernization on Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-11T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
-    "description": "<p>We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/\">Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-11T07:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
-    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
-    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T18:11:08.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Copilot Cowork: A new way of getting work done",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
-    "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Powering Frontier Transformation with Copilot and agents",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/",
-    "description": "<p>Wave 3 marks a new version of Microsoft 365 Copilot, moving beyond assistance to embedded agentic capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/\">Powering Frontier Transformation with Copilot and agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-09T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Event-Driven Architecture Style",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/architecture-styles/event-driven",
-    "description": "Explore the benefits, challenges, and best practices for event-driven architectures on Azure.",
-    "pubDate": "2026-03-06T21:06:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Real-Time Analytics on Data by Using Azure Service Bus and Azure Data Explorer",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
-    "description": "Learn how to use Azure Service Bus and Azure Data Explorer to enhance an existing message broker architecture with near real-time analytics.",
-    "pubDate": "2026-03-05T22:55:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run a Linux VM on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/n-tier/linux-vm",
-    "description": "Learn the best practices for running a Linux virtual machine on Azure, which requires some additional components, including networking and storage resources.",
-    "pubDate": "2026-03-05T21:46:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Asynchronous Request-Reply Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/asynchronous-request-reply",
-    "description": "Learn how to decouple back-end processing from front-end hosts by using asynchronous operations and HTTP polling for long-running tasks.",
-    "pubDate": "2026-03-05T20:29:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Virtual Desktop for Azure Local",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-workload-virtual-desktop",
-    "description": "Learn how to design Azure Virtual Desktop for Azure Local to provide a more secure and productive remote desktop experience for users.",
-    "pubDate": "2026-03-05T20:00:36.000Z",
-    "source": "Azure Architecture"
   }
 ]
