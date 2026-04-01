@@ -98,13 +98,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Navigating digital sovereignty at the frontier of transformation",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
-    "description": "<p>Digital sovereignty has become a practical leadership discipline grounded in risk management, continuity planning, and long-term accountability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/\">Navigating digital sovereignty at the frontier of transformation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T21:27:39.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",
     "link": "https://azure.microsoft.com/updates?id=556085",
     "description": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you'll need to migrate to Azure Database\r\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\r\ndistributed PostgreSQL capabilitie",
@@ -119,18 +112,18 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
-    "description": "<p>Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/\">Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/",
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Copilot Cowork: Now available in Frontier",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
+    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
@@ -651,6 +644,20 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+    "description": "<p>We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/\">Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-11T07:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Unpacking your top questions on agentic AI: The Shift podcast",
+    "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+    "description": "<p>Today we're introducing \"The Shift\" podcast, an evolution of \"Leading the Shift,\" to share more dialogue. Grounded in questions we heard from you after announcements at Ignite, we’re releasing eight episodes this spring.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/\">Unpacking your top questions on agentic AI: The Shift podcast</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-09T18:11:08.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Copilot Cowork: A new way of getting work done",
     "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
     "description": "<p>We’re excited to announce Copilot Cowork, the execution layer for Microsoft 365—delegate tasks, coordinate workflows, and stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">Copilot Cowork: A new way of getting work done</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/patterns/asynchronous-request-reply",
     "description": "Learn how to decouple back-end processing from front-end hosts by using asynchronous operations and HTTP polling for long-running tasks.",
     "pubDate": "2026-03-05T20:29:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Virtual Desktop for Azure Local",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-workload-virtual-desktop",
-    "description": "Learn how to design Azure Virtual Desktop for Azure Local to provide a more secure and productive remote desktop experience for users.",
-    "pubDate": "2026-03-05T20:00:36.000Z",
     "source": "Azure Architecture"
   }
 ]
