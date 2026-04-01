@@ -1,5 +1,47 @@
 [
   {
+    "title": "Retirement: Service Fabric support for Windows Server 2019 ends on March 31, 2027 - upgrade to Windows Server 2025",
+    "link": "https://azure.microsoft.com/updates?id=558246",
+    "description": "Service Fabric will end support for all clusters running on Windows Server\r\n2019 on March 31, 2027. Customers must upgrade\r\nto Windows Server 2025 by this date to remain in a supported state.  This change aligns Service\r\nFabric’s Windows OS image support mod",
+    "pubDate": "2026-04-01T20:30:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Unlock Client-Side Configuration at Scale with Azure App Configuration and Azure Front Door",
+    "link": "https://azure.microsoft.com/updates?id=537234",
+    "description": "You can now deliver dynamic configuration directly to client-side\r\napplications—securely and at CDN scale—thanks to Azure App\r\nConfiguration’s integration with Azure Front Door. This delivers new\r\nflexibility for modern apps and unlocks a critical capability",
+    "pubDate": "2026-04-01T19:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Data Box enhances compliance with automatic Secure Erasure Certificates",
+    "link": "https://azure.microsoft.com/updates?id=559772",
+    "description": "Azure\r\nData Box now automatically generates a downloadable Secure Erasure\r\nCertificate for every completed order, providing verification that all data on\r\nthe device has been securely erased in accordance with NIST\r\n800-88 Revision 2 standards.   The certific",
+    "pubDate": "2026-04-01T18:30:16.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Data Box now supports Azure Files Provisioned v2",
+    "link": "https://azure.microsoft.com/updates?id=559767",
+    "description": "Azure\r\nData Box now supports ingestion of data into Azure\r\nFiles Provisioned v2 storage accounts. Azure Files Provisioned v2\r\nis a billing model where customers provision and pay for specific capacity,\r\nIOPS, and throughput values; giving greater flexibility ",
+    "pubDate": "2026-04-01T18:15:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Public Preview: Azure NetApp Files storage with cool access enhancement ",
+    "link": "https://azure.microsoft.com/updates?id=559504",
+    "description": "QoS update with cool\r\naccess enabled on Premium and Ultra service levels improves how Azure\r\nNetApp Files balances performance and cost for mixed hot and cool workloads.\r\nThroughput automatically adjusts as data moves to cool storage, maintaining hot‑tier\r\npe",
+    "pubDate": "2026-04-01T18:15:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Select Azure AI Language Features ",
+    "link": "https://azure.microsoft.com/updates?id=557394",
+    "description": "On March 20, 2027, Microsoft will retire the following eight Azure AI Language features: Key Phrase ExtractionSentiment Analysis and Opinion MiningCustom Text ClassificationConversational Language Understanding (CLU)Custom Question Answering (CQA)Orchestr",
+    "pubDate": "2026-04-01T18:00:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: External Data Import & Data Connections in Azure Machine Learning will be retired on September 30, 2026 ",
     "link": "https://azure.microsoft.com/updates?id=557406",
     "description": "Import data from external sources (Preview) – S3, Snowflake, Azure SQL Db along with external Data Connections (Preview) in Azure Machine Learning are being deprecated. These features will no longer be available after September 30, 2026.   What this means",
@@ -656,47 +698,5 @@
     "description": "Learn about some best practices for building cloud applications and how they align with the Azure Well-Architected Framework.",
     "pubDate": "2026-03-12T18:38:23.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Get Started with Compute Architecture Design",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/compute-get-started",
-    "description": "Learn about Azure compute technologies, from virtual machines to serverless functions. Review guidance, solution ideas, and reference architectures.",
-    "pubDate": "2026-03-12T16:50:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Terraform, Bicep, Ansible support for elastic clusters on Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=558145",
-    "description": "You can now provision and manage Azure Database for\r\nPostgreSQL elastic clusters using Terraform, Bicep, and Ansible, with\r\nfull General Availability support. With\r\nnative infrastructure-as-code support, you can consistently create,\r\nscale, and manage elastic",
-    "pubDate": "2026-03-11T18:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Database for PostgreSQL dashboards with Grafana ",
-    "link": "https://azure.microsoft.com/updates?id=558140",
-    "description": "You can now monitor your Azure Database for PostgreSQL with rich, built-in Grafana dashboards—right from the Azure portal. This native integration with Azure Monitor means you no longer need to set up or manage a separate Grafana instance to get deep visi",
-    "pubDate": "2026-03-11T18:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Customer‑managed encryption keys now supported on Premium SSD v2 disks for Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=557527",
-    "description": "You can now enhance data security for your Azure Database\r\nfor PostgreSQL workloads by\r\nusing customer managed keys (CMKs) with Premium SSD\r\nv2 disks. Available in public preview, this update gives\r\nyou greater control over how your data at rest is encrypted,",
-    "pubDate": "2026-03-11T18:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SRE Agent with new capabilities ",
-    "link": "https://azure.microsoft.com/updates?id=558321",
-    "description": "Azure SRE Agent is now generally\r\navailable. This AI-powered operations agent helps teams improve uptime, reduce\r\nincident impact, and cut operational toil by accelerating diagnosis and\r\nautomating response workflows. The GA release introduces deep context g",
-    "pubDate": "2026-03-11T17:45:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Query Profiler in MSSQL extension for Visual Studio Code ",
-    "link": "https://azure.microsoft.com/updates?id=558164",
-    "description": "The MSSQL extension for Visual Studio Code now introduces Query Profiler in public preview, bringing real-time insight into your database activity directly inside Visual Studio Code. With Query Profiler, you can capture query and database activity as it h",
-    "pubDate": "2026-03-11T17:45:49.000Z",
-    "source": "Azure Updates"
   }
 ]
