@@ -1,12 +1,5 @@
 [
   {
-    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
-    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:45:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
     "link": "https://azure.microsoft.com/updates?id=558247",
     "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
@@ -180,13 +173,6 @@
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Copilot Cowork: Now available in Frontier",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
-    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Monitoring and diagnostics guidance",
@@ -698,5 +684,19 @@
     "description": "<p>Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/\">From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-16T17:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "[Launched] Generally Available: Summary rules in Log Analytics workspace now support manual “Retry bin”",
+    "link": "https://azure.microsoft.com/updates?id=558656",
+    "description": "Summary rules run batch aggregation inside your Log\r\nAnalytics workspace and re-ingest the summarized results into a custom\r\ndestination table. When a bin fails, that can create gaps in your summarized\r\ndataset. “Retry bin” helps you remediate bin-level fail",
+    "pubDate": "2026-03-12T21:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob",
+    "link": "https://azure.microsoft.com/updates?id=558651",
+    "description": "Azure Storage Mover now enables direct, secure data\r\nmigration from AWS S3 data in Virtual Private Cloud to Azure Blob Storage with\r\nprivate networking. This update removes the need for manual pipelines or\r\nthird-party tools, supports automation through the ",
+    "pubDate": "2026-03-12T21:15:25.000Z",
+    "source": "Azure Updates"
   }
 ]
