@@ -9,7 +9,7 @@
   {
     "title": "Mitigating the Axios npm supply chain compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/",
-    "description": "<p>On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates (1.14.1 and 0.30.4) to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to potentially millions of users.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/\">Mitigating the Axios npm supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to potentially millions of users.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/\">Mitigating the Axios npm supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-01T21:00:00.000Z",
     "source": "Security"
   },
@@ -173,6 +173,13 @@
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Copilot Cowork: Now available in Frontier",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
+    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Monitoring and diagnostics guidance",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Summary rules in Log Analytics workspace now support manual “Retry bin”",
     "link": "https://azure.microsoft.com/updates?id=558656",
     "description": "Summary rules run batch aggregation inside your Log\r\nAnalytics workspace and re-ingest the summarized results into a custom\r\ndestination table. When a bin fails, that can create gaps in your summarized\r\ndataset. “Retry bin” helps you remediate bin-level fail",
-    "pubDate": "2026-03-12T21:15:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob",
-    "link": "https://azure.microsoft.com/updates?id=558651",
-    "description": "Azure Storage Mover now enables direct, secure data\r\nmigration from AWS S3 data in Virtual Private Cloud to Azure Blob Storage with\r\nprivate networking. This update removes the need for manual pipelines or\r\nthird-party tools, supports automation through the ",
     "pubDate": "2026-03-12T21:15:25.000Z",
     "source": "Azure Updates"
   }
