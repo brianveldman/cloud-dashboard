@@ -1,8 +1,22 @@
 [
   {
+    "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
+    "link": "https://azure.microsoft.com/updates?id=558247",
+    "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
+    "pubDate": "2026-04-01T21:00:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Mitigating the Axios npm supply chain compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/",
+    "description": "<p>On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates (1.14.1 and 0.30.4) to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to potentially millions of users.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/\">Mitigating the Axios npm supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-01T21:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Service Fabric support for Windows Server 2019 ends on March 31, 2027 - upgrade to Windows Server 2025",
     "link": "https://azure.microsoft.com/updates?id=558246",
-    "description": "Service Fabric will end support for all clusters running on Windows Server\r\n2019 on March 31, 2027. Customers must upgrade\r\nto Windows Server 2025 by this date to remain in a supported state.  This change aligns Service\r\nFabric’s Windows OS image support mod",
+    "description": "Service Fabric will end support for all clusters running on Windows Server\r\n2019 on March 31, 2027. Customers must upgrade\r\nto Windows Server 2025 by this date to remain in a supported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
     "pubDate": "2026-04-01T20:30:41.000Z",
     "source": "Azure Updates"
   },
@@ -462,13 +476,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/20/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/",
-    "description": "<p>Excerpt: CTI-REALM is Microsoft’s open-source benchmark for evaluating AI agents on real-world detection engineering—turning cyber threat intelligence (CTI) into validated detections.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/20/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/\">CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-20T16:19:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
     "link": "https://azure.microsoft.com/updates?id=558927",
     "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
@@ -691,12 +698,5 @@
     "description": "Azure Storage Mover now enables direct, secure data\r\nmigration from AWS S3 data in Virtual Private Cloud to Azure Blob Storage with\r\nprivate networking. This update removes the need for manual pipelines or\r\nthird-party tools, supports automation through the ",
     "pubDate": "2026-03-12T21:15:25.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Best practices in cloud applications",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/index-best-practices",
-    "description": "Learn about some best practices for building cloud applications and how they align with the Azure Well-Architected Framework.",
-    "pubDate": "2026-03-12T18:38:23.000Z",
-    "source": "Azure Architecture"
   }
 ]
