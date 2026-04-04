@@ -231,13 +231,6 @@
     "source": "Security"
   },
   {
-    "title": "Copilot Cowork: Now available in Frontier",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
-    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Monitoring and diagnostics guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
     "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
@@ -696,6 +689,13 @@
     "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
     "link": "https://azure.microsoft.com/updates?id=549077",
     "description": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server ",
+    "pubDate": "2026-03-16T18:45:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March",
+    "link": "https://azure.microsoft.com/updates?id=543279",
+    "description": "Azure Batch had retired\r\nLow-Priority VMs on September 30, 2025 and will begin a system-initiated\r\nmigration to Spot VMs beginning March 1, 2026. This change aligns Batch with the broader\r\nAzure Spot infrastructure and simplifies the platform’s VM offering. ",
     "pubDate": "2026-03-16T18:45:11.000Z",
     "source": "Azure Updates"
   }
