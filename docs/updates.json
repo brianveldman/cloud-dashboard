@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Network Security Perimeter for Azure Service Bus",
+    "link": "https://azure.microsoft.com/updates?id=559899",
+    "description": "Network Security Perimeter (NSP) support for Azure Service Bus is now generally available. Network Security Perimeter creates a logical network boundary around your Service Bus namespaces and other Azure PaaS resources, blocking unauthorized public access",
+    "pubDate": "2026-04-06T18:00:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Inside an AI‑enabled device code phishing campaign",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
     "description": "<p>A new wave of device code phishing shows how threat actors are scaling account compromise using AI and end‑to‑end automation. This campaign goes beyond traditional phishing by generating live authentication codes on demand, enabling higher success rates and sustained post‑compromise access.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/\">Inside an AI‑enabled device code phishing campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -16,7 +23,7 @@
   {
     "title": "Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/",
-    "description": "<p>The financially motivated cybercriminal threat actor Storm-1175 operates high-velocity ransomware campaigns that weaponize recently disclosed vulnerabilities to obtain initial access, exfiltrate data, and deploy Medusa ransomware (Gaze.exe).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/\">Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>The financially motivated cybercriminal threat actor Storm-1175 operates high-velocity ransomware campaigns that weaponize recently disclosed vulnerabilities to obtain initial access, exfiltrate data, and deploy Medusa ransomware.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/\">Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-06T16:00:00.000Z",
     "source": "Security"
   },
@@ -691,12 +698,5 @@
     "description": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
     "pubDate": "2026-03-17T17:30:11.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Bulkhead Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/bulkhead",
-    "description": "Learn about the Bulkhead pattern, which isolates elements of an application into pools so that if one fails, the others continue to function.",
-    "pubDate": "2026-03-17T16:18:45.000Z",
-    "source": "Azure Architecture"
   }
 ]
