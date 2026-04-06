@@ -1,5 +1,26 @@
 [
   {
+    "title": "Inside an AI‑enabled device code phishing campaign",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+    "description": "<p>A new wave of device code phishing shows how threat actors are scaling account compromise using AI and end‑to‑end automation. This campaign goes beyond traditional phishing by generating live authentication codes on demand, enabling higher success rates and sustained post‑compromise access.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/\">Inside an AI‑enabled device code phishing campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-06T16:34:17.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[In preview] Public Preview: Rule impact analysis on Azure Network Watcher ",
+    "link": "https://azure.microsoft.com/updates?id=559876",
+    "description": "Rule impact\r\nanalysis on Azure Network Watcher enables you to preview the impact of security\r\nadmin rules before applying them to your environment. This feature helps you\r\nvalidate rule behavior, identify potential conflicts, and ensure that\r\nconnectivity req",
+    "pubDate": "2026-04-06T16:15:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/",
+    "description": "<p>The financially motivated cybercriminal threat actor Storm-1175 operates high-velocity ransomware campaigns that weaponize recently disclosed vulnerabilities to obtain initial access, exfiltrate data, and deploy Medusa ransomware (Gaze.exe).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/\">Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-06T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027 ",
     "link": "https://azure.microsoft.com/updates?id=558027",
     "description": "Starting March 31, 2027,\r\nPython applications hosted on Azure App Service on\r\nWindows and Azure Functions on Windows will no longer run. After\r\nthis date:  \r\n Your application configuration and content will\r\n     remain intact  \r\n Your apps will stop running  \r\n",
@@ -26,6 +47,13 @@
     "description": "<p> Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/\">Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-02T15:37:22.000Z",
     "source": "Security"
+  },
+  {
+    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
+    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-01T21:45:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
@@ -82,6 +110,13 @@
     "description": "On March 20, 2029, Microsoft will retire the following eight Azure AI Language features: Key Phrase ExtractionSentiment Analysis and Opinion MiningCustom Text ClassificationConversational Language Understanding (CLU)Custom Question Answering (CQA)Orchestr",
     "pubDate": "2026-04-01T18:00:10.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
+    "description": "<p>Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/\">Azure IaaS: Keep critical applications running with built-in resiliency at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-01T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: External Data Import & Data Connections in Azure Machine Learning will be retired on September 30, 2026 ",
@@ -343,25 +378,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Identity security is the new pressure point for modern cyberattacks",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/25/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/",
-    "description": "<p>Read the latest Microsoft Secure Access report for insights into why a unified identity and access strategy offers strong modern protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/25/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/\">Identity security is the new pressure point for modern cyberattacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-25T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "AI for nuclear energy: Powering an intelligent, resilient future",
     "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
     "description": "<p>To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/\">AI for nuclear energy: Powering an intelligent, resilient future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-25T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/",
-    "description": "<p>Threat actors abused trusted Trivy distribution channels to inject credential‑stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply‑chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/\">Guidance for detecting, investigating, and defending against the Trivy supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-25T00:03:03.000Z",
-    "source": "Security"
   },
   {
     "title": "Multiregion BCDR for Azure Virtual Desktop",
@@ -677,26 +698,5 @@
     "description": "Learn about the Bulkhead pattern, which isolates elements of an application into pools so that if one fails, the others continue to function.",
     "pubDate": "2026-03-17T16:18:45.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
-    "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-    "description": "<p>Microsoft combines accelerated computing with cloud scale engineering to bring advanced AI capabilities to our customers. For years, we’ve worked with NVIDIA to integrate hardware, software and infrastructure to power many of today’s most important AI breakthroughs.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/\">Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-16T21:21:14.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
-    "link": "https://azure.microsoft.com/updates?id=549077",
-    "description": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server ",
-    "pubDate": "2026-03-16T18:45:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March",
-    "link": "https://azure.microsoft.com/updates?id=543279",
-    "description": "Azure Batch had retired\r\nLow-Priority VMs on September 30, 2025 and will begin a system-initiated\r\nmigration to Spot VMs beginning March 1, 2026. This change aligns Batch with the broader\r\nAzure Spot infrastructure and simplifies the platform’s VM offering. ",
-    "pubDate": "2026-03-16T18:45:11.000Z",
-    "source": "Azure Updates"
   }
 ]
