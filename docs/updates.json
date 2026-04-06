@@ -84,13 +84,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-    "description": "<p>Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/\">Azure IaaS: Keep critical applications running with built-in resiliency at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: External Data Import & Data Connections in Azure Machine Learning will be retired on September 30, 2026 ",
     "link": "https://azure.microsoft.com/updates?id=557406",
     "description": "Import data from external sources (Preview) – S3, Snowflake, Azure SQL Db along with external Data Connections (Preview) in Azure Machine Learning are being deprecated. These features will no longer be available after September 30, 2026.   What this means",
@@ -696,6 +689,13 @@
     "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
     "link": "https://azure.microsoft.com/updates?id=549077",
     "description": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server ",
+    "pubDate": "2026-03-16T18:45:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March",
+    "link": "https://azure.microsoft.com/updates?id=543279",
+    "description": "Azure Batch had retired\r\nLow-Priority VMs on September 30, 2025 and will begin a system-initiated\r\nmigration to Spot VMs beginning March 1, 2026. This change aligns Batch with the broader\r\nAzure Spot infrastructure and simplifies the platform’s VM offering. ",
     "pubDate": "2026-03-16T18:45:11.000Z",
     "source": "Azure Updates"
   }
