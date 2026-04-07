@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Disable HTTP proxy in AKS ",
+    "link": "https://azure.microsoft.com/updates?id=557857",
+    "description": "Organizations\r\nthat use HTTP proxies to control outbound traffic often need to change or\r\nremove those settings as network requirements evolve, which can be disruptive\r\nin running clusters. Azure Kubernetes Service allows administrators to disable\r\nHTTP proxy",
+    "pubDate": "2026-04-07T17:45:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions now supports MCP resource triggers",
+    "link": "https://azure.microsoft.com/updates?id=559981",
+    "description": "Developers\r\nbuilding MCP servers on Azure Functions can expose tools but not resources.\r\nNow, Azure Functions supports MCP resource triggers, enabling\r\ndevelopers to expose resources directly from an Azure Functions–hosted Model\r\nContext Protocol (MCP) server",
+    "pubDate": "2026-04-07T17:15:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Pod CIDR expansion in AKS",
+    "link": "https://azure.microsoft.com/updates?id=557907",
+    "description": "When clusters\r\nexhaust available pod IP addresses, teams have historically been forced to\r\nrebuild environments to restore capacity, creating operational disruption. Pod\r\nCIDR expansion allows overlay‑based AKS clusters to increase their pod IP range\r\nin plac",
+    "pubDate": "2026-04-07T17:00:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/",
     "description": "<p>Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor&#8217;s malicious infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/\">SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,13 +82,6 @@
     "description": "<p> Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/\">Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-02T15:37:22.000Z",
     "source": "Security"
-  },
-  {
-    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
-    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:45:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
@@ -271,13 +285,6 @@
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Copilot Cowork: Now available in Frontier",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
-    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Monitoring and diagnostics guidance",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=557141",
     "description": "Announcing general availability (GA) of the next-gen Foundry Agent Service—a redesigned API format and runtime experience designed to help teams build and operate agents that can move from prototype to production with confidence. This GA moment is anchore",
     "pubDate": "2026-03-17T17:45:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure VMware Solution AV36P and AV52 node retirement on June 30, 2029",
-    "link": "https://azure.microsoft.com/updates?id=557094",
-    "description": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
-    "pubDate": "2026-03-17T17:30:11.000Z",
     "source": "Azure Updates"
   }
 ]
