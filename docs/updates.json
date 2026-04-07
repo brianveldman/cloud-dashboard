@@ -259,13 +259,6 @@
     "source": "Security"
   },
   {
-    "title": "Copilot Cowork: Now available in Frontier",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
-    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Monitoring and diagnostics guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
     "description": "Learn how to track how users use your distributed applications and services, trace resource utilization, and monitor the health and performance.",
@@ -698,5 +691,12 @@
     "description": "Learn about the Bulkhead pattern, which isolates elements of an application into pools so that if one fails, the others continue to function.",
     "pubDate": "2026-03-17T16:18:45.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+    "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+    "description": "<p>Microsoft combines accelerated computing with cloud scale engineering to bring advanced AI capabilities to our customers. For years, we’ve worked with NVIDIA to integrate hardware, software and infrastructure to power many of today’s most important AI breakthroughs.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/\">Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-16T21:21:14.000Z",
+    "source": "Azure Blog"
   }
 ]
