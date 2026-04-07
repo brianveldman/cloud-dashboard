@@ -1,5 +1,12 @@
 [
   {
+    "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/",
+    "description": "<p>Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor&#8217;s malicious infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/\">SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-07T14:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Network Security Perimeter for Azure Service Bus",
     "link": "https://azure.microsoft.com/updates?id=559899",
     "description": "Network Security Perimeter (NSP) support for Azure Service Bus is now generally available. Network Security Perimeter creates a logical network boundary around your Service Bus namespaces and other Azure PaaS resources, blocking unauthorized public access",
@@ -285,13 +292,6 @@
     "description": "Build scalable cloud applications by using performance modeling and other principles and practices of site reliability engineering (SRE).",
     "pubDate": "2026-03-27T21:03:17.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/",
-    "description": "<p>High-value assets including domain controllers, web servers, and identity infrastructure are frequent targets in sophisticated attacks. Microsoft Defender applies asset-aware protection using Microsoft Security Exposure Management to detect and block threats against these critical systems. This article explores real-world attack scenarios and defense techniques.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/\">How Microsoft Defender protects high-value assets in real-world attack scenarios</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-27T19:53:53.000Z",
-    "source": "Security"
   },
   {
     "title": "High-volume batch transaction processing",
