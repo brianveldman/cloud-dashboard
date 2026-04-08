@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Observability in AKS Namespace and Workload Views",
+    "link": "https://azure.microsoft.com/updates?id=560039",
+    "description": "AKS now surfaces observability data powered by Azure Monitor managed service for Prometheus directly within Namespace and Workload views, making it easier to:Monitor cluster and workload healthTroubleshoot pending or failed podsAnalyze resource utilizatio",
+    "pubDate": "2026-04-08T17:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Files assessments are now available using Azure Migrate",
+    "link": "https://azure.microsoft.com/updates?id=560025",
+    "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
+    "pubDate": "2026-04-08T17:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
     "link": "https://azure.microsoft.com/updates?id=559547",
     "description": "Azure Red Hat OpenShift (ARO) now supports NVIDIA H100 and\r\nH200 GPU-based Azure Virtual Machine SKUs, enabling customers to run\r\nlarge-scale AI, machine learning, and high-performance computing (HPC)\r\nworkloads on a fully managed OpenShift service. This upd",
@@ -63,6 +77,41 @@
     "source": "Security"
   },
   {
+    "title": "Storage Options for a Kubernetes Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/storage",
+    "description": "Understand storage options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) storage options.",
+    "pubDate": "2026-04-03T20:51:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Competing Consumers Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/competing-consumers",
+    "description": "Learn how the Competing Consumers pattern supports multiple concurrent consumers processing messages received on the same messaging channel.",
+    "pubDate": "2026-04-03T15:27:55.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Create a Modern Analytics Architecture by Using Azure Databricks",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture",
+    "description": "Learn how to create a modern analytics architecture by using Azure Databricks and Data Lake Storage. Unify data, analytics, and AI workloads at any scale.",
+    "pubDate": "2026-04-03T15:20:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitier Web Application Built for High Availability and Disaster Recovery",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/multi-tier-app-disaster-recovery",
+    "description": "Learn how to create a resilient multitier web application built for high availability and disaster recovery on Azure by using VMs.",
+    "pubDate": "2026-04-03T14:49:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Sharding Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/sharding",
+    "description": "Use the Sharding design pattern to divide a data store into horizontal partitions or shards to improve scalability and performance in distributed systems.",
+    "pubDate": "2026-04-02T19:07:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027 ",
     "link": "https://azure.microsoft.com/updates?id=558027",
     "description": "Starting March 31, 2027,\r\nPython applications hosted on Azure App Service on\r\nWindows and Azure Functions on Windows will no longer run. After\r\nthis date:  \r\n Your application configuration and content will\r\n     remain intact  \r\n Your apps will stop running  \r\n",
@@ -70,11 +119,32 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Compute Resource Consolidation Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/compute-resource-consolidation",
+    "description": "Use the Compute Resource Consolidation design pattern to consolidate multiple tasks or operations into one computational unit.",
+    "pubDate": "2026-04-02T16:45:26.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027",
     "link": "https://azure.microsoft.com/updates?id=558276",
     "description": "AzureDnsZone\r\nendpoints (preview) for Azure Blob storage accounts will enter\r\nretirement in March 2027. Customers leveraging AzureDnsZone endpoints (preview)\r\nshould transition to Standard endpoints for all new and existing blob storage\r\naccount deployments b",
     "pubDate": "2026-04-02T16:30:09.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Choreography Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/choreography",
+    "description": "Learn how to set up services to decide when and how to process a business operation, instead of depending on a central orchestrator.",
+    "pubDate": "2026-04-02T16:30:04.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Real-Time Analytics with Azure Service Bus and Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
+    "description": "Learn how to use Microsoft Fabric with Azure Service Bus for near real-time solutions at enterprise scale in production environments.",
+    "pubDate": "2026-04-02T16:10:14.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Threat actor abuse of AI accelerates from tool to cyberattack surface",
@@ -89,6 +159,13 @@
     "description": "<p> Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/\">Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-02T15:37:22.000Z",
     "source": "Security"
+  },
+  {
+    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
+    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-01T21:45:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
@@ -154,11 +231,32 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Get Started with Virtual Desktop Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture/virtual-desktop/virtual-desktop-get-started",
+    "description": "Get an overview of Azure virtual desktop technologies and cloud desktop design, including architecture guidance, solution ideas, and reference architectures.",
+    "pubDate": "2026-04-01T15:40:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Get Started with Storage Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture/storage/storage-get-started",
+    "description": "Get started with Azure storage architecture design by comparing storage service types, reviewing reference architectures, and applying readiness guidance.",
+    "pubDate": "2026-03-31T21:07:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: External Data Import & Data Connections in Azure Machine Learning will be retired on September 30, 2026 ",
     "link": "https://azure.microsoft.com/updates?id=557406",
     "description": "Import data from external sources (Preview) – S3, Snowflake, Azure SQL Db along with external Data Connections (Preview) in Azure Machine Learning are being deprecated. These features will no longer be available after September 30, 2026.   What this means",
     "pubDate": "2026-03-31T20:00:35.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Migrate a Web App by Using Azure API Management",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/apim-api-scenario",
+    "description": "Review an example scenario in which an e-commerce company in the travel industry uses Azure API Management to migrate a legacy web application.",
+    "pubDate": "2026-03-31T19:47:51.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure DevOps March 2026 updates",
@@ -238,6 +336,20 @@
     "source": "Security"
   },
   {
+    "title": "Best Practices for Background Jobs",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/background-jobs",
+    "description": "Learn best practices for designing background jobs on Azure, including hosting options, reliability, and scaling for event-driven and scheduled jobs.",
+    "pubDate": "2026-03-30T22:50:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design Patterns for Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/patterns",
+    "description": "Learn about design patterns that address common microservices challenges like data consistency, cross-service communication, failure isolation, and legacy integration.",
+    "pubDate": "2026-03-30T22:47:35.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS",
     "link": "https://azure.microsoft.com/updates?id=559322",
     "description": "Ephemeral OS Disk with full caching is now available in public preview for Azure VM/VMSS, bringing significantly faster and more reliable OS disk performance to your workloads. By caching the entire OS disk image on local VM storage (cache disk, resource ",
@@ -292,6 +404,13 @@
     "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Copilot Cowork: Now available in Frontier",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
+    "description": "<p>Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/\">Copilot Cowork: Now available in Frontier</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Monitoring and diagnostics guidance",
@@ -578,125 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=548543",
     "description": "On May 31, 2027, Microsoft Azure will retire the following HC-series virtual machine (VMs) sizes: Standard_HC44rs, Standard_HC44-16rs, and Standard_HC44-32rs. To ensure continuity and improved performance, we recommend transitioning to one of the current‑",
     "pubDate": "2026-03-19T16:30:27.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: HBv2-series Azure Virtual Machines will be retired on May 31, 2027",
-    "link": "https://azure.microsoft.com/updates?id=548525",
-    "description": "On May 31, 2027, Microsoft Azure will retire the following HBv2-series virtual machine (VMs) sizes: Standard_HB120rs_v2, Standard_HB120-96rs_v2, Standard_HB120-64rs_v2, Standard_HB120-32rs_v2, and Standard_HB120-16rs_v2.  To ensure continuity and improved",
-    "pubDate": "2026-03-19T16:30:27.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: NP-series Azure Virtual Machines will be retired on May 31, 2027 ",
-    "link": "https://azure.microsoft.com/updates?id=548497",
-    "description": "On May 31, 2027, Microsoft Azure will retire the follow NP-series virtual machine (VMs) sizes: Standard_NP10s, Standard_NP20s, and Standard_NP40s. To ensure continuity and optimal performance, we recommend transitioning to one of the following Azure GPU V",
-    "pubDate": "2026-03-19T16:30:27.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Emissions Impact Dashboard for Azure",
-    "link": "https://azure.microsoft.com/updates?id=558278",
-    "description": "Effective March 31, 2027, the Emissions Impact Dashboard for Azure hosted by Power BI will be\r\nretired. After this date, the dashboard will no longer be accessible and\r\ntechnical support will be discontinued. We strongly encourage customers\r\nto export their ",
-    "pubDate": "2026-03-18T18:45:54.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] General availability: Azure SQL updates for mid-March 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=558121",
-    "description": "In mid-March 2026, the\r\nfollowing updates and enhancements were made to Azure SQL:  \r\n Publish SQL database projects directly from\r\n     Visual Studio Code to streamline database deployment\r\n     workflows.  \r\n View and edit SQL table data directly in the MSSQ",
-    "pubDate": "2026-03-18T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift Managed Identity and Workload Identity",
-    "link": "https://azure.microsoft.com/updates?id=557917",
-    "description": "Azure Red Hat OpenShift now supports managed identities and workload identities as a generally available capability, enabling you to run OpenShift clusters and applications on Azure without long lived service principal credentials. This aligns Azure Red H",
-    "pubDate": "2026-03-18T18:30:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public preview: GitHub Copilot integration in Schema Designer for the MSSQL extension ",
-    "link": "https://azure.microsoft.com/updates?id=558169",
-    "description": "The MSSQL extension for Visual Studio Code now introduces GitHub Copilot integration in Schema Designer, expanding the visual schema design experience with AI-assisted capabilities. Based on developer feedback and evolving workflows, you can now understan",
-    "pubDate": "2026-03-18T18:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Database DevOps in SSMS powered by SQL projects ",
-    "link": "https://azure.microsoft.com/updates?id=558155",
-    "description": "Bring the benefits of schema-as-code to your database development workflow. SQL database projects enable you to source control your database schema, perform reliable deployments to any environment, and integrate code quality checks into your development p",
-    "pubDate": "2026-03-18T18:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: SQL MCP Server",
-    "link": "https://azure.microsoft.com/updates?id=558150",
-    "description": "Announcing SQL MCP Server, our Model Context Protocol (MCP) connector for production databases. SQL MCP Server is a feature rich component of data API builder (DAB) that gives you a simple, predictable, secure way to bring AI agents into your data workflo",
-    "pubDate": "2026-03-18T18:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: GitHub Copilot in SQL Server Management Studio 22 ",
-    "link": "https://azure.microsoft.com/updates?id=558134",
-    "description": "GitHub Copilot is now generally available in SQL Server Management Studio (SSMS) 22, bringing AI‑powered assistance directly into the application that you use every day.  With GitHub Copilot in SSMS, you can use natural language to develop, explain, fix, ",
-    "pubDate": "2026-03-18T18:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Lakeflow Connect Free Tier now available in Azure Databricks  ",
-    "link": "https://azure.microsoft.com/updates?id=558810",
-    "description": "Azure Databricks now offers a Lakeflow Connect Free Tier that gives each workspace 100 free DBUs per workspace per day for ingestion from SaaS applications and databases. This allows you to bring roughly 100 million records of data per workspace per day i",
-    "pubDate": "2026-03-18T17:00:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Versionless key support for transparent data encryption in Azure SQL Database ",
-    "link": "https://azure.microsoft.com/updates?id=558183",
-    "description": "Azure SQL Database now supports versionless keys for transparent data encryption (TDE), giving you a simpler and more reliable way to manage your own encryption keys. You no longer need to reference a specific key version from Azure Key Vault or Managed H",
-    "pubDate": "2026-03-18T17:00:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Data API builder with built-in GitHub Copilot in MSSQL extension ",
-    "link": "https://azure.microsoft.com/updates?id=558178",
-    "description": "The MSSQL extension for Visual Studio Code now introduces Data API builder in public preview with built-in GitHub Copilot integration, bringing a guided back-end generation experience directly into your development workflow. You can generate REST, GraphQL",
-    "pubDate": "2026-03-18T17:00:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Set Up Real-Time Sync of MongoDB Atlas Data Changes to Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/analytics/sync-mongodb-atlas-fabric-analytics",
-    "description": "Learn how to integrate MongoDB Atlas with Microsoft Fabric by using open mirroring to keep data tables in sync with operational data changes.",
-    "pubDate": "2026-03-18T16:00:43.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Advancing agentic AI with Microsoft databases across a unified data estate",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-    "description": "<p>Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/\">Advancing agentic AI with Microsoft databases across a unified data estate</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-18T12:50:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
-    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-    "description": "<p>We're bring attendees together to share real experiences and solve challenges side-by-side. Only together can we move into meaningful results.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/\">FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-18T12:45:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
-    "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
-    "pubDate": "2026-03-18T10:26:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
-    "link": "https://azure.microsoft.com/updates?id=558016",
-    "description": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
-    "pubDate": "2026-03-17T17:45:45.000Z",
     "source": "Azure Updates"
   }
 ]
