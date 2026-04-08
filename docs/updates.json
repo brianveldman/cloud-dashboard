@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health ",
+    "link": "https://azure.microsoft.com/updates?id=559628",
+    "description": "We’re introducing regional level consolidated maintenance notifications for Azure Database for PostgreSQL to simplify how you stay informed about upcoming maintenance. Instead of one notification per server, now you receive a single notification per regio",
+    "pubDate": "2026-04-08T17:45:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: PgBouncer 1.25.1 support in Azure Database for PostgreSQL – Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=559623",
+    "description": "PgBouncer 1.25.1 is now generally available in Azure Database for PostgreSQL. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived connections.With t",
+    "pubDate": "2026-04-08T17:45:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Observability in AKS Namespace and Workload Views",
     "link": "https://azure.microsoft.com/updates?id=560039",
     "description": "AKS now surfaces observability data powered by Azure Monitor managed service for Prometheus directly within Namespace and Workload views, making it easier to:Monitor cluster and workload healthTroubleshoot pending or failed podsAnalyze resource utilizatio",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=558927",
     "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
     "pubDate": "2026-03-19T17:00:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Ambassador Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/ambassador",
-    "description": "Learn about the ambassador pattern, which creates helper services that send network requests on behalf of a consumer service or application.",
-    "pubDate": "2026-03-19T16:52:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: HC-series Azure Virtual Machines will be retired on May 31, 2027",
-    "link": "https://azure.microsoft.com/updates?id=548543",
-    "description": "On May 31, 2027, Microsoft Azure will retire the following HC-series virtual machine (VMs) sizes: Standard_HC44rs, Standard_HC44-16rs, and Standard_HC44-32rs. To ensure continuity and improved performance, we recommend transitioning to one of the current‑",
-    "pubDate": "2026-03-19T16:30:27.000Z",
     "source": "Azure Updates"
   }
 ]
