@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+    "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-08T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
     "link": "https://azure.microsoft.com/updates?id=559547",
     "description": "Azure Red Hat OpenShift (ARO) now supports NVIDIA H100 and\r\nH200 GPU-based Azure Virtual Machine SKUs, enabling customers to run\r\nlarge-scale AI, machine learning, and high-performance computing (HPC)\r\nworkloads on a fully managed OpenShift service. This upd",
@@ -173,6 +180,13 @@
     "description": "<p> Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/\">Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-02T15:37:22.000Z",
     "source": "Security"
+  },
+  {
+    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
+    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-01T21:45:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
@@ -684,19 +698,5 @@
     "description": "The Azure Sphere service is retiring and will stop supporting all customer application, OS, bug and security updates, along with DAA certificate issuance, on July 31, 2031. Why is this happening?  Azure Sphere pioneered secure IoT connectivity, combining ",
     "pubDate": "2026-03-20T17:15:50.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
-    "link": "https://azure.microsoft.com/updates?id=558927",
-    "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
-    "pubDate": "2026-03-19T17:00:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Ambassador Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/ambassador",
-    "description": "Learn about the ambassador pattern, which creates helper services that send network requests on behalf of a consumer service or application.",
-    "pubDate": "2026-03-19T16:52:25.000Z",
-    "source": "Azure Architecture"
   }
 ]
