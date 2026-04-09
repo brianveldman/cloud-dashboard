@@ -175,13 +175,6 @@
     "source": "Security"
   },
   {
-    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
-    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:45:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
     "link": "https://azure.microsoft.com/updates?id=558247",
     "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
@@ -698,5 +691,12 @@
     "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
     "pubDate": "2026-03-19T17:00:53.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Ambassador Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/ambassador",
+    "description": "Learn about the ambassador pattern, which creates helper services that send network requests on behalf of a consumer service or application.",
+    "pubDate": "2026-03-19T16:52:25.000Z",
+    "source": "Azure Architecture"
   }
 ]
