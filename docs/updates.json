@@ -1,5 +1,12 @@
 [
   {
+    "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/",
+    "description": "<p>A severe Android intent‑redirection vulnerability in a widely deployed SDK exposed sensitive user data across millions of apps. Microsoft researchers detail how the flaw works, why it matters, and how developers can mitigate similar risks by updating affected SDKs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/\">Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-09T13:21:18.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health ",
     "link": "https://azure.microsoft.com/updates?id=559628",
     "description": "We’re introducing regional level consolidated maintenance notifications for Azure Database for PostgreSQL to simplify how you stay informed about upcoming maintenance. Instead of one notification per server, now you receive a single notification per regio",
@@ -418,13 +425,6 @@
     "description": "<p>Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/\">Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-30T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/",
-    "description": "<p>Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/\">Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-30T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Copilot Cowork: Now available in Frontier",
