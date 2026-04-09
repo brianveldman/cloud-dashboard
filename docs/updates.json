@@ -1,5 +1,12 @@
 [
   {
+    "title": "Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/",
+    "description": "<p>Microsoft Incident Response – Detection and Response Team (DART) researchers observed an emerging, financially motivated threat actor, tracked as Storm-2755, compromising Canadian employee accounts to gain unauthorized access to employee profiles and divert salary payments to attacker-controlled accounts.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/\">Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-09T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/",
     "description": "<p>A severe Android intent‑redirection vulnerability in a widely deployed SDK exposed sensitive user data across millions of apps. Microsoft researchers detail how the flaw works, why it matters, and how developers can mitigate similar risks by updating affected SDKs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/\">Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -189,13 +196,6 @@
     "source": "Security"
   },
   {
-    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
-    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:45:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
     "link": "https://azure.microsoft.com/updates?id=558247",
     "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
@@ -354,13 +354,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/applying-security-fundamentals-to-ai-practical-advice-for-cisos/",
     "description": "<p>Read actionable advice for CISOs on securing AI, managing risk, and applying core security principles in today’s AI‑powered environment.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/31/applying-security-fundamentals-to-ai-practical-advice-for-cisos/\">Applying security fundamentals to AI: Practical advice for CISOs</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-03-31T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "WhatsApp malware campaign delivers VBScript and MSI backdoors",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/",
-    "description": "<p>A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/\">WhatsApp malware campaign delivers VBScript and MSI backdoors</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-31T13:43:05.000Z",
     "source": "Security"
   },
   {
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=557123",
     "description": "The Azure Sphere service is retiring and will stop supporting all customer application, OS, bug and security updates, along with DAA certificate issuance, on July 31, 2031. Why is this happening?  Azure Sphere pioneered secure IoT connectivity, combining ",
     "pubDate": "2026-03-20T17:15:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
+    "link": "https://azure.microsoft.com/updates?id=558927",
+    "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
+    "pubDate": "2026-03-19T17:00:53.000Z",
     "source": "Azure Updates"
   }
 ]
