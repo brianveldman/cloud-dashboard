@@ -7,13 +7,6 @@
     "source": "Security"
   },
   {
-    "title": "How Drasi used GitHub Copilot to find documentation bugs",
-    "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
-    "description": "<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/\">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T15:05:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/",
     "description": "<p>Microsoft Incident Response – Detection and Response Team (DART) researchers observed an emerging, financially motivated threat actor, tracked as Storm-2755, compromising Canadian employee accounts to gain unauthorized access to employee profiles and divert salary payments to attacker-controlled accounts.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/\">Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -54,13 +47,6 @@
     "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
-    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-    "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-08T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=558086",
     "description": "Starting March 31, 2027 Elastic query using Shard_Map_Manager external data source type reaches end of support.Existing workloads can continue to run using Azure SQL Elastic query - Shard_Map_Manager mode, but will no longer receive updates or support fro",
     "pubDate": "2026-03-20T19:00:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Sphere will be retired on July 31, 2031",
+    "link": "https://azure.microsoft.com/updates?id=557123",
+    "description": "The Azure Sphere service is retiring and will stop supporting all customer application, OS, bug and security updates, along with DAA certificate issuance, on July 31, 2031. Why is this happening?  Azure Sphere pioneered secure IoT connectivity, combining ",
+    "pubDate": "2026-03-20T17:15:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
+    "link": "https://azure.microsoft.com/updates?id=558927",
+    "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
+    "pubDate": "2026-03-19T17:00:53.000Z",
     "source": "Azure Updates"
   }
 ]
