@@ -1,12 +1,5 @@
 [
   {
-    "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-    "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "The agentic SOC—Rethinking SecOps for the next decade",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/",
     "description": "<p>In the SOC of the future, autonomous defense moves at machine speed, agents add context and coordination, and humans focus on judgment, risk, and outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/\">The agentic SOC—Rethinking SecOps for the next decade</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=558116",
     "description": "In mid-March 2026, the following updates and\r\nenhancements were made to Azure SQL:   \r\n Reduce\r\n     the consumption of storage space, I/O, and memory and improve performance\r\n     without investing time and effort into index maintenance jobs.  \r\n Configure\r\n  ",
     "pubDate": "2026-03-20T19:15:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure SQL Elastic query - Shard_Map_Manager mode",
+    "link": "https://azure.microsoft.com/updates?id=558086",
+    "description": "Starting March 31, 2027 Elastic query using Shard_Map_Manager external data source type reaches end of support.Existing workloads can continue to run using Azure SQL Elastic query - Shard_Map_Manager mode, but will no longer receive updates or support fro",
+    "pubDate": "2026-03-20T19:00:50.000Z",
     "source": "Azure Updates"
   }
 ]
