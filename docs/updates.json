@@ -1,10 +1,31 @@
 [
   {
+    "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
+    "link": "https://azure.microsoft.com/updates?id=559836",
+    "description": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
+    "pubDate": "2026-04-10T17:00:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
+    "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-09T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The agentic SOC—Rethinking SecOps for the next decade",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/",
     "description": "<p>In the SOC of the future, autonomous defense moves at machine speed, agents add context and coordination, and humans focus on judgment, risk, and outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/\">The agentic SOC—Rethinking SecOps for the next decade</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-09T19:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "How Drasi used GitHub Copilot to find documentation bugs",
+    "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
+    "description": "<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/\">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-09T15:05:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees",
@@ -47,6 +68,13 @@
     "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+    "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-08T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
@@ -670,33 +698,5 @@
     "description": "Learn how to use Azure DNS Private Resolver to simplify hybrid recursive Domain Name System (DNS) resolution for on-premises and Azure workloads.",
     "pubDate": "2026-03-23T15:45:09.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for mid-March 2026",
-    "link": "https://azure.microsoft.com/updates?id=558116",
-    "description": "In mid-March 2026, the following updates and\r\nenhancements were made to Azure SQL:   \r\n Reduce\r\n     the consumption of storage space, I/O, and memory and improve performance\r\n     without investing time and effort into index maintenance jobs.  \r\n Configure\r\n  ",
-    "pubDate": "2026-03-20T19:15:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure SQL Elastic query - Shard_Map_Manager mode",
-    "link": "https://azure.microsoft.com/updates?id=558086",
-    "description": "Starting March 31, 2027 Elastic query using Shard_Map_Manager external data source type reaches end of support.Existing workloads can continue to run using Azure SQL Elastic query - Shard_Map_Manager mode, but will no longer receive updates or support fro",
-    "pubDate": "2026-03-20T19:00:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Sphere will be retired on July 31, 2031",
-    "link": "https://azure.microsoft.com/updates?id=557123",
-    "description": "The Azure Sphere service is retiring and will stop supporting all customer application, OS, bug and security updates, along with DAA certificate issuance, on July 31, 2031. Why is this happening?  Azure Sphere pioneered secure IoT connectivity, combining ",
-    "pubDate": "2026-03-20T17:15:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
-    "link": "https://azure.microsoft.com/updates?id=558927",
-    "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
-    "pubDate": "2026-03-19T17:00:53.000Z",
-    "source": "Azure Updates"
   }
 ]
