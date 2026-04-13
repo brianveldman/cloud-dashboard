@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Managed identity support for graphical session recording",
+    "link": "https://azure.microsoft.com/updates?id=560162",
+    "description": "Today, we are announcing Azure Bastion now supports managed\r\nidentities for graphical session recording. Azure Bastion graphical session recording now supports write\r\naccess to storage accounts using managed identities. With this update, users\r\nhave the opti",
+    "pubDate": "2026-04-13T18:45:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Storage Mover now available in Azure Government (US)",
+    "link": "https://azure.microsoft.com/updates?id=560198",
+    "description": "Azure Storage Mover is now available in Azure\r\nGovernment (US), enabling U.S. government customers and partners to securely\r\nmigrate large‑scale file data to Azure Government cloud environments using a\r\nfully managed migration service.  What is Azure Storage",
+    "pubDate": "2026-04-13T18:00:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Monitor AKS applications with OpenTelemetry and Azure Monitor ",
     "link": "https://azure.microsoft.com/updates?id=560119",
     "description": "Azure Monitor now supports monitoring applications that run on Azure Kubernetes Service (AKS) by using OpenTelemetry for instrumentation and data collection.Leverage autoinstrumentation to deploy the Azure Monitor OpenTelemetry distro to workloads or use ",
@@ -156,7 +170,7 @@
   {
     "title": "[In preview] Public Preview: Rule impact analysis on Azure Network Watcher ",
     "link": "https://azure.microsoft.com/updates?id=559876",
-    "description": "Rule impact\r\nanalysis on Azure Network Watcher enables you to preview the impact of security\r\nadmin rules before applying them to your environment. This feature helps you\r\nvalidate rule behavior, identify potential conflicts, and ensure that\r\nconnectivity req",
+    "description": "Rule impact analysis on Azure Network Watcher enables you to preview the impact of security admin rules and network security group (NSG) rules before applying them to your environment. This feature helps you validate rule behavior, identify potential conf",
     "pubDate": "2026-04-06T16:15:40.000Z",
     "source": "Azure Updates"
   },
@@ -682,20 +696,6 @@
     "title": "Choose an Azure Speech Recognition and Generation Technology",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/speech-recognition-generation",
     "description": "Learn about speech recognition and generation capabilities in Foundry Tools, including speech-to-text, text-to-speech, speech translation, and avatar creation.",
-    "pubDate": "2026-03-24T15:26:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure AI Targeted Language Processing Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/targeted-language-processing",
-    "description": "Learn about targeted language processing capabilities in Foundry Tools, including natural language processing, text analytics, translation, and document data extraction.",
-    "pubDate": "2026-03-24T15:26:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure AI Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
-    "description": "Learn about AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
     "pubDate": "2026-03-24T15:26:52.000Z",
     "source": "Azure Architecture"
   }
