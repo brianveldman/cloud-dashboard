@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Smart tier (Azure Blob and Data Lake Storage)",
+    "link": "https://azure.microsoft.com/updates?id=559746",
+    "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
+    "pubDate": "2026-04-14T17:15:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
     "link": "https://azure.microsoft.com/updates?id=557828",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=557902",
     "description": "Network\r\nobservability can generate large volumes of metrics, making it difficult for\r\nteams to focus on data that is operationally relevant. Container network\r\nmetrics filtering in Azure Container Networking Services (ACNS) allows\r\noperators to control which",
     "pubDate": "2026-03-24T23:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: AI Agent for container networking troubleshooting",
-    "link": "https://azure.microsoft.com/updates?id=557887",
-    "description": "Troubleshooting Kubernetes networking issues is often slowed by logs and\r\nmetrics scattered across multiple tools, forcing engineers to manually\r\ncorrelate signals during incidents. The container networking agent provides a\r\nlightweight, web‑based interface ",
-    "pubDate": "2026-03-24T21:45:26.000Z",
     "source": "Azure Updates"
   }
 ]
