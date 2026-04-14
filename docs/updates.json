@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Rehost Adabas and Natural Applications on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/rehost-adabas-software-ag",
+    "description": "Learn how to migrate a Software AG Adabas and Natural mainframe system to Azure by using a rehost approach with minimal changes to your existing workload.",
+    "pubDate": "2026-04-10T14:39:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
     "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -70,6 +77,13 @@
     "source": "Security"
   },
   {
+    "title": "Google Cloud to Azure Services Comparison",
+    "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
+    "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
+    "pubDate": "2026-04-09T15:16:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "How Drasi used GitHub Copilot to find documentation bugs",
     "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
     "description": "<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/\">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -82,6 +96,27 @@
     "description": "<p>Microsoft Incident Response – Detection and Response Team (DART) researchers observed an emerging, financially motivated threat actor, tracked as Storm-2755, compromising Canadian employee accounts to gain unauthorized access to employee profiles and divert salary payments to attacker-controlled accounts.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/\">Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-09T15:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Migrate Mainframe Data Tier to Azure with mLogica LIBER*IRIS",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-data-platform",
+    "description": "Learn how mLogica LIBER*IRIS provides a proven solution for bulk data migration from a mainframe to Azure for enterprise workloads.",
+    "pubDate": "2026-04-09T14:58:27.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
+    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
+    "pubDate": "2026-04-09T14:48:26.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Basic Microsoft Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-microsoft-foundry-chat",
+    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
+    "pubDate": "2026-04-09T14:48:26.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
@@ -126,6 +161,20 @@
     "source": "Azure Blog"
   },
   {
+    "title": "AKS for Amazon EKS Professionals",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks",
+    "description": "Learn about the AKS managed solution, configurations, best practices, and similarities and differences compared to Amazon EKS.",
+    "pubDate": "2026-04-08T15:02:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Migrate from Amazon Elastic Kubernetes Service to Azure Kubernetes Service",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/migrate",
+    "description": "Learn how to migrate stateless and stateful workloads from Amazon Elastic Kubernetes Service (EKS) to Azure Kubernetes Service (AKS).",
+    "pubDate": "2026-04-08T15:02:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
     "link": "https://azure.microsoft.com/updates?id=559547",
     "description": "Azure Red Hat OpenShift (ARO) now supports NVIDIA H100 and\r\nH200 GPU-based Azure Virtual Machine SKUs, enabling customers to run\r\nlarge-scale AI, machine learning, and high-performance computing (HPC)\r\nworkloads on a fully managed OpenShift service. This upd",
@@ -159,6 +208,20 @@
     "description": "<p>Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor&#8217;s malicious infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/\">SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-07T14:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Cross-tenant Secure Access to Apps by Using Private Endpoints",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
+    "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
+    "pubDate": "2026-04-06T20:52:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Highly Available NVAs",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
+    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
+    "pubDate": "2026-04-06T20:47:37.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Network Security Perimeter for Azure Service Bus",
@@ -635,68 +698,5 @@
     "description": "Troubleshooting Kubernetes networking issues is often slowed by logs and\r\nmetrics scattered across multiple tools, forcing engineers to manually\r\ncorrelate signals during incidents. The container networking agent provides a\r\nlightweight, web‑based interface ",
     "pubDate": "2026-03-24T21:45:26.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: AKS managed GPU metrics in Azure Monitor ",
-    "link": "https://azure.microsoft.com/updates?id=557882",
-    "description": "Teams running GPU‑backed\r\nworkloads often lack integrated visibility into GPU utilization alongside\r\nKubernetes metrics. AKS managed GPU metrics automatically expose performance\r\nand utilization data from NVIDIA GPU‑enabled node pools into managed Prometheus",
-    "pubDate": "2026-03-24T18:30:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Cross-cluster networking in Azure Kubernetes Fleet Manager",
-    "link": "https://azure.microsoft.com/updates?id=557877",
-    "description": "Organizations running applications across multiple\r\nKubernetes clusters often face challenges with performance, global service\r\ndiscovery, and observability due to the complexity of distributed microservice\r\nenvironments. Azure Kubernetes Fleet Manager now p",
-    "pubDate": "2026-03-24T18:30:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Container Storage v2.1.0 now with Elastic SAN integration and on demand installation ",
-    "link": "https://azure.microsoft.com/updates?id=557912",
-    "description": "Containerized workloads often\r\nrequire higher and more consistent storage performance without managing large\r\nnumbers of individual disks. Azure Container Storage integration with Elastic\r\nSAN allows Kubernetes clusters to consume storage from a shared pool ",
-    "pubDate": "2026-03-24T18:15:48.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Container network logs in AKS ",
-    "link": "https://azure.microsoft.com/updates?id=557892",
-    "description": "Networking issues in Kubernetes\r\nenvironments can be difficult to diagnose due to limited visibility into\r\ntraffic flows and insufficient context around failures. Container network logs\r\nin Azure Kubernetes Service (AKS), now generally available, provide con",
-    "pubDate": "2026-03-24T18:15:48.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor Prometheus community recommended alerts for Azure Arc-enabled Kubernetes",
-    "link": "https://azure.microsoft.com/updates?id=558825",
-    "description": "Azure Monitor now offers one-click enablement of Prometheus\r\nrecommended alerts directly in the Azure Portal for Azure Arc-enabled\r\nKubernetes clusters. These alerts, based on enhanced Prometheus community\r\nrules, provide comprehensive coverage across cluste",
-    "pubDate": "2026-03-24T17:30:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Application routing with meshless Istio in AKS ",
-    "link": "https://azure.microsoft.com/updates?id=557927",
-    "description": "Following the deprecation\r\nof ingress‑nginx, Kubernetes operators need a supported, standards‑aligned\r\nmigration path for ingress without the complexity of a full service mesh.\r\nApplication Routing with Meshless Istio enables adoption of the Kubernetes\r\nGatew",
-    "pubDate": "2026-03-24T17:30:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft Azure Kubernetes Application Network ",
-    "link": "https://azure.microsoft.com/updates?id=557922",
-    "description": "As Kubernetes environments scale\r\nacross regions and clusters, IP‑based networking becomes difficult to manage\r\nand provides limited application‑level visibility and security controls. Azure\r\nKubernetes Application Network introduces application‑layer abstra",
-    "pubDate": "2026-03-24T17:30:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Ingest OTLP data into Azure Monitor with the OpenTelemetry Collector",
-    "link": "https://azure.microsoft.com/updates?id=559273",
-    "description": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals, enabling you to send telemetry data directly from OpenTelemetry-instrumented applications and platforms to Azure Monitor. You can configure your OpenTelemetry Collector ",
-    "pubDate": "2026-03-24T17:15:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure AI Video Processing Guide",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
-    "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
-    "pubDate": "2026-03-24T15:26:52.000Z",
-    "source": "Azure Architecture"
   }
 ]
