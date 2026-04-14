@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
+    "link": "https://azure.microsoft.com/updates?id=557828",
+    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
+    "pubDate": "2026-04-13T23:45:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Managed identity support for graphical session recording",
     "link": "https://azure.microsoft.com/updates?id=560162",
     "description": "Today, we are announcing Azure Bastion now supports managed\r\nidentities for graphical session recording. Azure Bastion graphical session recording now supports write\r\naccess to storage accounts using managed identities. With this update, users\r\nhave the opti",
@@ -689,13 +696,6 @@
     "title": "Azure AI Video Processing Guide",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
     "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
-    "pubDate": "2026-03-24T15:26:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure Speech Recognition and Generation Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/speech-recognition-generation",
-    "description": "Learn about speech recognition and generation capabilities in Foundry Tools, including speech-to-text, text-to-speech, speech translation, and avatar creation.",
     "pubDate": "2026-03-24T15:26:52.000Z",
     "source": "Azure Architecture"
   }
