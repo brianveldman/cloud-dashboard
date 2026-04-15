@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers. ",
+    "link": "https://azure.microsoft.com/updates?id=560241",
+    "description": "Azure Site Recovery now supports replication and disaster recovery for Windows Azure Virtual Machines running on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa v6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This enhancement allows",
+    "pubDate": "2026-04-14T21:15:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Announcing: Minimum billable object size for cooler storage tiers",
+    "link": "https://azure.microsoft.com/updates?id=559756",
+    "description": "For storage accounts with Azure Blob or Data Lake Storage\r\n(ADLS) we are introducing a minimum billable object size for the cool, cold and\r\narchive access tiers of 128KiB. Objects on those tiers that are smaller than\r\n128 KiB will be billed as 128 KiB object",
+    "pubDate": "2026-04-14T21:15:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage)",
     "link": "https://azure.microsoft.com/updates?id=559746",
     "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
@@ -684,19 +698,5 @@
     "description": "<p>To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/\">AI for nuclear energy: Powering an intelligent, resilient future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-03-25T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Multiregion BCDR for Azure Virtual Desktop",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
-    "description": "Learn about the possible options and scenarios so that you can design and implement an effective multiregion BCDR strategy for Azure Virtual Desktop.",
-    "pubDate": "2026-03-24T23:57:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Container network metrics filtering for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=557902",
-    "description": "Network\r\nobservability can generate large volumes of metrics, making it difficult for\r\nteams to focus on data that is operationally relevant. Container network\r\nmetrics filtering in Azure Container Networking Services (ACNS) allows\r\noperators to control which",
-    "pubDate": "2026-03-24T23:00:18.000Z",
-    "source": "Azure Updates"
   }
 ]
