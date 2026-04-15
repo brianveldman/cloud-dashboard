@@ -1,5 +1,26 @@
 [
   {
+    "title": "Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
+    "link": "https://azure.microsoft.com/updates?id=559751",
+    "description": "Microsoft Azure will retire support for HBv2-series,\r\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\r\nincluding:   \r\n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\r\n     Gb/s HDR InfiniBand  \r\n HC-series: 44 Intel Xeon Platinum 8168",
+    "pubDate": "2026-04-15T17:30:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Encrypt Premium SSD v2 and Ultra Disks with Cross Tenant Customer Managed Keys",
+    "link": "https://azure.microsoft.com/updates?id=559761",
+    "description": "Cross-tenant customer-managed\r\nkeys (CMK) for Premium SSD v2 and Ultra Disks are\r\nnow generally available. This capability allows managed disks to be\r\nencrypted using a customer-managed key stored in an Azure Key Vault\r\nlocated in a different Microsoft Entra ",
+    "pubDate": "2026-04-15T17:15:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Incident response for AI: Same fire, different fuel",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
+    "description": "<p>AI changes how incidents unfold and how we respond. Learn which IR practices still apply and where new telemetry, tools, and skills are needed.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/\">Incident response for AI: Same fire, different fuel</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-15T16:00:45.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers. ",
     "link": "https://azure.microsoft.com/updates?id=560241",
     "description": "Azure Site Recovery now supports replication and disaster recovery for Windows Azure Virtual Machines running on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa v6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This enhancement allows",
@@ -497,13 +518,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The threat to critical infrastructure has changed. Has your readiness?",
-    "link": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/threat-to-critical-infrastructure-has-changed",
-    "description": "<p>Five facts critical infrastructure (CI) leaders need to act on in 2026, grounded in what Microsoft Threat Intelligence is observing across sectors right now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/security-insider/threat-landscape/threat-to-critical-infrastructure-has-changed\">The threat to critical infrastructure has changed. Has your readiness?</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-03-31T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Retirement: Manually registered Azure VPN Clients for ​Azure Government and ​Microsoft Azure operated by 21Vianet clouds will be retired on March 31, 2029",
     "link": "https://azure.microsoft.com/updates?id=557395",
     "description": "On March 31, 2029, we’ll be retiring manually registered\r\nAzure VPN clients for point-to-site connections with Microsoft Entra ID\r\nauthentication for ​Azure\r\nGovernment and ​Microsoft\r\nAzure operated by 21Vianet clouds.  Recommended action: To prevent disrupt",
@@ -682,20 +696,6 @@
     "title": "[Launched] Generally Available: PostgreSQL migration service supports compatible EDB workloads into Azure Database for PostgreSQL ",
     "link": "https://azure.microsoft.com/updates?id=558865",
     "description": "We’re excited to announce that EDB PostgreSQL is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from EDB Postgres Extended Server to Azure using secure, reliable workflows des",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PostgreSQL migration service supports for Google AlloyDB into Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=558851",
-    "description": "We’re excited to announce that Google AlloyDB is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from Google AlloyDB to Azure using secure, reliable workflows designed for mini",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Online migration now uses the pgoutput plugin ",
-    "link": "https://azure.microsoft.com/updates?id=558846",
-    "description": "You can now leverage pgoutput for online (minimal-downtime) migrations with improved reliability and performance. By aligning with PostgreSQL’s native logical replication framework, this update improves ecosystem compatibility with modern PostgreSQL deplo",
     "pubDate": "2026-03-25T17:30:45.000Z",
     "source": "Azure Updates"
   }
