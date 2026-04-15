@@ -21,6 +21,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Optimize object storage costs automatically with smart tier—now generally available",
+    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-14T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
     "link": "https://azure.microsoft.com/updates?id=557828",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -691,12 +698,5 @@
     "description": "You can now leverage pgoutput for online (minimal-downtime) migrations with improved reliability and performance. By aligning with PostgreSQL’s native logical replication framework, this update improves ecosystem compatibility with modern PostgreSQL deplo",
     "pubDate": "2026-03-25T17:30:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "AI for nuclear energy: Powering an intelligent, resilient future",
-    "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
-    "description": "<p>To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/\">AI for nuclear energy: Powering an intelligent, resilient future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-03-25T15:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
