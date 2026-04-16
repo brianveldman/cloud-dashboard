@@ -1,5 +1,19 @@
 [
   {
+    "title": "Building your cryptographic inventory: A customer strategy for cryptographic posture management",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/",
+    "description": "<p>Learn how to build a comprehensive cryptographic inventory and strengthen quantum‑safe readiness using Microsoft Security tools, best‑practice lifecycle models, and partner solutions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/\">Building your cryptographic inventory: A customer strategy for cryptographic posture management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-16T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
+    "description": "<p>The Microsoft Defender Security Research Team uncovered a sophisticated macOS intrusion campaign attributed to the North Korean threat actor Sapphire Sleet that abuses user driven execution and social engineering to bypass macOS security protections and steal credentials, cryptocurrency assets, and sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/\">Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-16T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
     "link": "https://azure.microsoft.com/updates?id=559751",
     "description": "Microsoft Azure will retire support for HBv2-series,\r\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\r\nincluding:   \r\n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\r\n     Gb/s HDR InfiniBand  \r\n HC-series: 44 Intel Xeon Platinum 8168",
@@ -40,13 +54,6 @@
     "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
     "pubDate": "2026-04-14T17:15:47.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Optimize object storage costs automatically with smart tier—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-14T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
@@ -378,13 +385,6 @@
     "source": "Security"
   },
   {
-    "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/",
-    "description": "<p> Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/\">Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-02T15:37:22.000Z",
-    "source": "Security"
-  },
-  {
     "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
     "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -397,13 +397,6 @@
     "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
     "pubDate": "2026-04-01T21:00:19.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Mitigating the Axios npm supply chain compromise",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/",
-    "description": "<p>On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to potentially millions of users.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/\">Mitigating the Axios npm supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Retirement: Service Fabric support for Windows Server 2019 ends on March 31, 2027 - upgrade to Windows Server 2025",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: PostgreSQL migration service supports compatible EDB workloads into Azure Database for PostgreSQL ",
     "link": "https://azure.microsoft.com/updates?id=558865",
     "description": "We’re excited to announce that EDB PostgreSQL is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from EDB Postgres Extended Server to Azure using secure, reliable workflows des",
+    "pubDate": "2026-03-25T17:30:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: PostgreSQL migration service supports for Google AlloyDB into Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=558851",
+    "description": "We’re excited to announce that Google AlloyDB is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from Google AlloyDB to Azure using secure, reliable workflows designed for mini",
     "pubDate": "2026-03-25T17:30:45.000Z",
     "source": "Azure Updates"
   }
