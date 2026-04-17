@@ -70,13 +70,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Optimize object storage costs automatically with smart tier—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-14T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
     "link": "https://azure.microsoft.com/updates?id=557828",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=558841",
     "description": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelin",
     "pubDate": "2026-03-25T17:45:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: Azure SQL Managed Instance change event streaming ",
+    "link": "https://azure.microsoft.com/updates?id=558884",
+    "description": "You can now stream row‑level data changes—inserts, updates, and deletes—from Azure SQL Managed Instance to Azure Event Hubs in near real time with change event streaming (CES). SQL publishes changes as transactions commit, reducing latency while minimizin",
+    "pubDate": "2026-03-25T17:30:45.000Z",
     "source": "Azure Updates"
   }
 ]
