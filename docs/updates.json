@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Functions runtime v3 on Linux Consumption will stop running September 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=559311",
+    "description": "Azure Functions runtime v3 was retired on December\r\n13, 2022. As part of ongoing efforts to reduce reliance on legacy\r\ninfrastructure and focus investments on supported platforms, Azure will enforce\r\nthis retirement for Linux Consumption–based Function Apps ",
+    "pubDate": "2026-04-17T19:00:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Configure AKS backup using a single Azure CLI command",
     "link": "https://azure.microsoft.com/updates?id=560521",
     "description": "Azure Backup\r\nnow provides a simplified experience to configure backup for Azure\r\nKubernetes Service (AKS) clusters using a single Azure CLI command.Enabling\r\nbackup for AKS clusters through CLI requires multiple manual steps, including\r\ninstallation of the B",
@@ -42,7 +49,7 @@
     "source": "Security"
   },
   {
-    "title": "Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
+    "title": "Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
     "link": "https://azure.microsoft.com/updates?id=559751",
     "description": "Microsoft Azure will retire support for HBv2-series,\r\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\r\nincluding:   \r\n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\r\n     Gb/s HDR InfiniBand  \r\n HC-series: 44 Intel Xeon Platinum 8168",
     "pubDate": "2026-04-15T17:30:33.000Z",
@@ -82,13 +89,6 @@
     "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
     "pubDate": "2026-04-14T17:15:47.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Optimize object storage costs automatically with smart tier—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-14T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
@@ -138,13 +138,6 @@
     "description": "AKS now\r\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\r\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\r\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\r\nAKS clusters.Lear",
     "pubDate": "2026-04-13T16:00:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-13T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=557862",
     "description": "In‑place node pool upgrades can introduce risk by applying changes\r\ndirectly to running environments. Blue‑green agent pool upgrades create a\r\nparallel node pool with the new configuration, allowing validation before\r\nworkloads are shifted and providing a cl",
     "pubDate": "2026-03-25T20:00:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Fabric Mirroring integration for Azure Database for MySQL ",
+    "link": "https://azure.microsoft.com/updates?id=558841",
+    "description": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelin",
+    "pubDate": "2026-03-25T17:45:33.000Z",
     "source": "Azure Updates"
   }
 ]
