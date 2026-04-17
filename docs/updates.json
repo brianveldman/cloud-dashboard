@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Configure AKS backup using a single Azure CLI command",
+    "link": "https://azure.microsoft.com/updates?id=560521",
+    "description": "Azure Backup\r\nnow provides a simplified experience to configure backup for Azure\r\nKubernetes Service (AKS) clusters using a single Azure CLI command.Enabling\r\nbackup for AKS clusters through CLI requires multiple manual steps, including\r\ninstallation of the B",
+    "pubDate": "2026-04-17T17:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
+    "description": "<p>Domain compromise accelerates fast. Predictive shielding slowed it down. This real-world attack shows how exposure-based containment stopped credential abuse and broke the threat actor's momentum.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/\">Containing a domain compromise: How predictive shielding shut down lateral movement</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-17T14:51:01.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Azure Kubernetes Service support for Ubuntu 22.04 ",
     "link": "https://azure.microsoft.com/updates?id=557928",
     "description": "On June 30, 2027, we'll retire Ubuntu 22.04 on Azure\r\nKubernetes Service. To avoid disruptions, transition to\r\nUbuntu 24.04 or later by that date. Newer\r\nsupported versions include kernel\r\nupdates and security improvements.   Until June 30, 2027, you can cont",
@@ -406,13 +420,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Threat actor abuse of AI accelerates from tool to cyberattack surface",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/",
-    "description": "<p>Generative AI is upgrading cyberattacks, from 450% higher phishing click‑through rates to industrialized MFA bypass.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/\">Threat actor abuse of AI accelerates from tool to cyberattack surface</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-02T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
     "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=557862",
     "description": "In‑place node pool upgrades can introduce risk by applying changes\r\ndirectly to running environments. Blue‑green agent pool upgrades create a\r\nparallel node pool with the new configuration, allowing validation before\r\nworkloads are shifted and providing a cl",
     "pubDate": "2026-03-25T20:00:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Fabric Mirroring integration for Azure Database for MySQL ",
-    "link": "https://azure.microsoft.com/updates?id=558841",
-    "description": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelin",
-    "pubDate": "2026-03-25T17:45:33.000Z",
     "source": "Azure Updates"
   }
 ]
