@@ -105,6 +105,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Optimize object storage costs automatically with smart tier—now generally available",
+    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-14T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
     "link": "https://azure.microsoft.com/updates?id=557828",
     "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
@@ -152,6 +159,13 @@
     "description": "AKS now\r\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\r\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\r\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\r\nAKS clusters.Lear",
     "pubDate": "2026-04-13T16:00:36.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
+    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-13T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
@@ -684,19 +698,5 @@
     "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
     "pubDate": "2026-03-25T21:27:18.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Cosmos DB Mirroring in Microsoft Fabric with private endpoints ",
-    "link": "https://azure.microsoft.com/updates?id=558836",
-    "description": "We're excited to announce that private endpoint support for Azure Cosmos DB Mirroring in Microsoft Fabric is now generally available. You can now unlock powerful analytics on your operational data while keeping your enhanced network security posture intac",
-    "pubDate": "2026-03-25T20:00:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Blue-green agent pool upgrade in AKS ",
-    "link": "https://azure.microsoft.com/updates?id=557862",
-    "description": "In‑place node pool upgrades can introduce risk by applying changes\r\ndirectly to running environments. Blue‑green agent pool upgrades create a\r\nparallel node pool with the new configuration, allowing validation before\r\nworkloads are shifted and providing a cl",
-    "pubDate": "2026-03-25T20:00:39.000Z",
-    "source": "Azure Updates"
   }
 ]
