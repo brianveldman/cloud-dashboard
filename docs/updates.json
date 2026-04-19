@@ -84,13 +84,6 @@
     "source": "Security"
   },
   {
-    "title": "Cloud Cost Optimization: Principles that still matter",
-    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
-    "description": "<p>Discover how cloud cost optimization adapts in the age of AI, with best practices for managing spend, improving efficiency, and maximizing value.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/\">Cloud Cost Optimization: Principles that still matter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-15T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers. ",
     "link": "https://azure.microsoft.com/updates?id=560241",
     "description": "Azure Site Recovery now supports replication and disaster recovery for Windows Azure Virtual Machines running on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa v6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This enhancement allows",
@@ -698,5 +691,12 @@
     "description": "In late-March 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Configure built-in SQL code analysis rules and\r\n     severity settings without editing project XML.  \r\n Use Fabric connectivity\r\n     and provisioning options to connect wi",
     "pubDate": "2026-03-26T16:00:10.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Caching guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
+    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
+    "pubDate": "2026-03-25T21:27:18.000Z",
+    "source": "Azure Architecture"
   }
 ]
