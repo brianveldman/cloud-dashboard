@@ -84,6 +84,13 @@
     "source": "Security"
   },
   {
+    "title": "Cloud Cost Optimization: Principles that still matter",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
+    "description": "<p>Discover how cloud cost optimization adapts in the age of AI, with best practices for managing spend, improving efficiency, and maximizing value.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/\">Cloud Cost Optimization: Principles that still matter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-15T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers. ",
     "link": "https://azure.microsoft.com/updates?id=560241",
     "description": "Azure Site Recovery now supports replication and disaster recovery for Windows Azure Virtual Machines running on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa v6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This enhancement allows",
@@ -159,13 +166,6 @@
     "description": "AKS now\r\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\r\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\r\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\r\nAKS clusters.Lear",
     "pubDate": "2026-04-13T16:00:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-13T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
