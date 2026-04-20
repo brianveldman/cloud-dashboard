@@ -168,6 +168,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
+    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-13T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
     "link": "https://azure.microsoft.com/updates?id=559836",
     "description": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
@@ -691,12 +698,5 @@
     "description": "In late-March 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Configure built-in SQL code analysis rules and\r\n     severity settings without editing project XML.  \r\n Use Fabric connectivity\r\n     and provisioning options to connect wi",
     "pubDate": "2026-03-26T16:00:10.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Caching guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
-    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2026-03-25T21:27:18.000Z",
-    "source": "Azure Architecture"
   }
 ]
