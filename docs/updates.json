@@ -168,6 +168,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
+    "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-09T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "The agentic SOC—Rethinking SecOps for the next decade",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/",
     "description": "<p>In the SOC of the future, autonomous defense moves at machine speed, agents add context and coordination, and humans focus on judgment, risk, and outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/\">The agentic SOC—Rethinking SecOps for the next decade</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -180,6 +187,13 @@
     "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
     "pubDate": "2026-04-09T15:16:57.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "How Drasi used GitHub Copilot to find documentation bugs",
+    "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
+    "description": "<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/\">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-09T15:05:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees",
@@ -243,6 +257,13 @@
     "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+    "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-08T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "AKS for Amazon EKS Professionals",
@@ -455,6 +476,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
+    "description": "<p>Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/\">Azure IaaS: Keep critical applications running with built-in resiliency at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-01T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Get Started with Virtual Desktop Architecture Design",
     "link": "https://learn.microsoft.com/azure/architecture/virtual-desktop/virtual-desktop-get-started",
     "description": "Get an overview of Azure virtual desktop technologies and cloud desktop design, including architecture guidance, solution ideas, and reference architectures.",
@@ -532,6 +560,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
+    "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+    "description": "<p>Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/\">Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-31T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Best Practices for Background Jobs",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/background-jobs",
     "description": "Learn best practices for designing background jobs on Azure, including hosting options, reliability, and scaling for event-driven and scheduled jobs.",
@@ -567,6 +602,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Navigating digital sovereignty at the frontier of transformation",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+    "description": "<p>Digital sovereignty has become a practical leadership discipline grounded in risk management, continuity planning, and long-term accountability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/\">Navigating digital sovereignty at the frontier of transformation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T21:27:39.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",
     "link": "https://azure.microsoft.com/updates?id=556085",
     "description": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you'll need to migrate to Azure Database\r\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\r\ndistributed PostgreSQL capabilitie",
@@ -579,6 +621,13 @@
     "description": "Azure Premium SSD v2 is now available in South India (a region without Availability Zone).Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price ",
     "pubDate": "2026-03-30T16:30:50.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+    "description": "<p>Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/\">Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-03-30T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Copilot Cowork: Now available in Frontier",
@@ -649,54 +698,5 @@
     "description": "In‑place node pool upgrades can introduce risk by applying changes\r\ndirectly to running environments. Blue‑green agent pool upgrades create a\r\nparallel node pool with the new configuration, allowing validation before\r\nworkloads are shifted and providing a cl",
     "pubDate": "2026-03-25T20:00:39.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Fabric Mirroring integration for Azure Database for MySQL ",
-    "link": "https://azure.microsoft.com/updates?id=558841",
-    "description": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelin",
-    "pubDate": "2026-03-25T17:45:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure SQL Managed Instance change event streaming ",
-    "link": "https://azure.microsoft.com/updates?id=558884",
-    "description": "You can now stream row‑level data changes—inserts, updates, and deletes—from Azure SQL Managed Instance to Azure Event Hubs in near real time with change event streaming (CES). SQL publishes changes as transactions commit, reducing latency while minimizin",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom time zone support for pg_cron via cron.timezone in Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=558870",
-    "description": "You can now modify the cron.timezone server parameter in Azure Database for PostgreSQL. This parameter controls the time zone used by pg_cron when evaluating scheduled jobs. By configuring cron.timezone, you can ensure scheduled jobs run according to your",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PostgreSQL migration service supports compatible EDB workloads into Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=558865",
-    "description": "We’re excited to announce that EDB PostgreSQL is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from EDB Postgres Extended Server to Azure using secure, reliable workflows des",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PostgreSQL migration service supports for Google AlloyDB into Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=558851",
-    "description": "We’re excited to announce that Google AlloyDB is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from Google AlloyDB to Azure using secure, reliable workflows designed for mini",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Online migration now uses the pgoutput plugin ",
-    "link": "https://azure.microsoft.com/updates?id=558846",
-    "description": "You can now leverage pgoutput for online (minimal-downtime) migrations with improved reliability and performance. By aligning with PostgreSQL’s native logical replication framework, this update improves ecosystem compatibility with modern PostgreSQL deplo",
-    "pubDate": "2026-03-25T17:30:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Multiregion BCDR for Azure Virtual Desktop",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
-    "description": "Learn about the possible options and scenarios so that you can design and implement an effective multiregion BCDR strategy for Azure Virtual Desktop.",
-    "pubDate": "2026-03-24T23:57:28.000Z",
-    "source": "Azure Architecture"
   }
 ]
