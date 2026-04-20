@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent ",
+    "link": "https://azure.microsoft.com/updates?id=560530",
+    "description": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals. Send telemetry directly from OpenTelemetry-instrumented applications by using the Azure Monitor Agent (AMA) to receive OTLP from your apps and export it to Azure Monitor",
+    "pubDate": "2026-04-20T17:30:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Making opportunistic cyberattacks harder by design",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/",
+    "description": "<p>How Microsoft secures Dynamics 365 and Power Platform by removing credentials, reducing attack surfaces, and using platform engineering to block opportunistic threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/\">Making opportunistic cyberattacks harder by design</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-20T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
     "description": "<p>Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support—activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/\">Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -166,13 +180,6 @@
     "description": "AKS now\r\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\r\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\r\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\r\nAKS clusters.Lear",
     "pubDate": "2026-04-13T16:00:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-13T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
@@ -355,13 +362,6 @@
     "description": "Network Security Perimeter (NSP) support for Azure Service Bus is now generally available. Network Security Perimeter creates a logical network boundary around your Service Bus namespaces and other Azure PaaS resources, blocking unauthorized public access",
     "pubDate": "2026-04-06T18:00:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Inside an AI‑enabled device code phishing campaign",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
-    "description": "<p>A new wave of device code phishing shows how threat actors are scaling account compromise using AI and end‑to‑end automation. This campaign goes beyond traditional phishing by generating live authentication codes on demand, enabling higher success rates and sustained post‑compromise access.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/\">Inside an AI‑enabled device code phishing campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-06T16:34:17.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Rule impact analysis on Azure Network Watcher ",
