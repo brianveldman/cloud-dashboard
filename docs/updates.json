@@ -1,5 +1,12 @@
 [
   {
+    "title": "Detection strategies across cloud and identities against infiltrating IT workers",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
+    "description": "<p>The shift to remote and hybrid work since the pandemic expanded global hiring and accelerated digital onboarding, increasing reliance on online identity verification and remote access.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/\">Detection strategies across cloud and identities against infiltrating IT workers</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-21T16:03:09.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent ",
     "link": "https://azure.microsoft.com/updates?id=560530",
     "description": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals. Send telemetry directly from OpenTelemetry-instrumented applications by using the Azure Monitor Agent (AMA) to receive OTLP from your apps and export it to Azure Monitor",
@@ -182,13 +189,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-13T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
     "link": "https://azure.microsoft.com/updates?id=559836",
     "description": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
@@ -341,13 +341,6 @@
     "description": "When clusters\r\nexhaust available pod IP addresses, teams have historically been forced to\r\nrebuild environments to restore capacity, creating operational disruption. Pod\r\nCIDR expansion allows overlay‑based AKS clusters to increase their pod IP range\r\nin plac",
     "pubDate": "2026-04-07T17:00:23.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/",
-    "description": "<p>Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor&#8217;s malicious infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/\">SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-07T14:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Cross-tenant Secure Access to Apps by Using Private Endpoints",
@@ -698,5 +691,12 @@
     "description": "Learn about database architecture design on Azure, including technology choices, solution ideas, and reference architectures for your workloads.",
     "pubDate": "2026-03-26T19:21:37.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL updates for late-March 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=558879",
+    "description": "In late-March 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Configure built-in SQL code analysis rules and\r\n     severity settings without editing project XML.  \r\n Use Fabric connectivity\r\n     and provisioning options to connect wi",
+    "pubDate": "2026-03-26T16:00:10.000Z",
+    "source": "Azure Updates"
   }
 ]
