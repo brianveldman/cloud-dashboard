@@ -1,5 +1,12 @@
 [
   {
+    "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
+    "description": "<p>Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/\">Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T00:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Monitor pipeline",
     "link": "https://azure.microsoft.com/updates?id=559886",
     "description": "Azure Monitor pipeline is now generally available.Azure Monitor pipeline provides a centralized control point for telemetry ingestion and transformation, designed specifically for secure, high‑throughput, enterprise‑scale scenarios. It's built on open-sou",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/scalable-apps-performance-modeling-site-reliability",
     "description": "Build scalable cloud applications by using performance modeling and other principles and practices of site reliability engineering (SRE).",
     "pubDate": "2026-03-27T21:03:17.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "High-volume batch transaction processing",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/process-batch-transactions",
-    "description": "Use Azure Kubernetes Service (AKS) and Azure Service Bus to implement high-volume batch transaction processing.",
-    "pubDate": "2026-03-27T18:57:54.000Z",
     "source": "Azure Architecture"
   }
 ]
