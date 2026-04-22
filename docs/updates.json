@@ -42,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "AI-powered defense for an AI-accelerated threat landscape",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/",
+    "description": "<p>Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/\">AI-powered defense for an AI-accelerated threat landscape</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Monitor pipeline",
     "link": "https://azure.microsoft.com/updates?id=559886",
     "description": "Azure Monitor pipeline is now generally available.Azure Monitor pipeline provides a centralized control point for telemetry ingestion and transformation, designed specifically for secure, high‑throughput, enterprise‑scale scenarios. It's built on open-sou",
@@ -313,13 +320,6 @@
     "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
     "pubDate": "2026-04-09T14:48:26.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/",
-    "description": "<p>A severe Android intent‑redirection vulnerability in a widely deployed SDK exposed sensitive user data across millions of apps. Microsoft researchers detail how the flaw works, why it matters, and how developers can mitigate similar risks by updating affected SDKs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/\">Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T13:21:18.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health ",
