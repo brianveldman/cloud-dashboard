@@ -203,6 +203,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
+    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-13T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
     "link": "https://azure.microsoft.com/updates?id=559836",
     "description": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/process-batch-transactions",
     "description": "Use Azure Kubernetes Service (AKS) and Azure Service Bus to implement high-volume batch transaction processing.",
     "pubDate": "2026-03-27T18:57:54.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Event Sourcing Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/event-sourcing",
-    "description": "Learn how to use an append-only store to record the full series of events that describe actions taken on data in a domain.",
-    "pubDate": "2026-03-27T18:45:38.000Z",
     "source": "Azure Architecture"
   }
 ]
