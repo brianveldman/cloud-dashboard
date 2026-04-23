@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
+    "link": "https://azure.microsoft.com/updates?id=560805",
+    "description": "Azure Arc migration now supports SQL Server on Azure Virtual Machines as a migration target. You can migrate Arc-enabled SQL Server instances not only to Azure SQL Managed Instance but also to SQL Server running on Azure infrastructure—using the same unif",
+    "pubDate": "2026-04-22T20:45:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Denmark East  ",
     "link": "https://azure.microsoft.com/updates?id=560288",
     "description": "You can now\r\ndeploy Azure Database for PostgreSQL flexible server in the Denmark\r\nEast Azure region. Learn\r\nmore.",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=556085",
     "description": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you'll need to migrate to Azure Database\r\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\r\ndistributed PostgreSQL capabilitie",
     "pubDate": "2026-03-30T17:45:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in South India",
-    "link": "https://azure.microsoft.com/updates?id=559526",
-    "description": "Azure Premium SSD v2 is now available in South India (a region without Availability Zone).Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price ",
-    "pubDate": "2026-03-30T16:30:50.000Z",
     "source": "Azure Updates"
   }
 ]
