@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Capacity Autoscaling  ",
+    "link": "https://azure.microsoft.com/updates?id=560919",
+    "description": "Capacity\r\nAutoscaling support is now generally available on Elastic SAN. Customers can\r\navoid the constraints of overprovisioning and manual capacity management by\r\nsetting a policy to automatically expand SAN Capacity based on usage. Autoscaling\r\nprovides th",
+    "pubDate": "2026-04-23T18:30:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
     "link": "https://azure.microsoft.com/updates?id=560358",
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Indonesia Central",
     "link": "https://azure.microsoft.com/updates?id=559552",
     "description": "Azure Red Hat OpenShift (ARO) is now generally available in\r\nthe Indonesia Central Azure region, expanding regional availability for\r\ncustomers running mission‑critical OpenShift workloads on Azure. This release\r\nenables organizations in Indonesia and the br",
-    "pubDate": "2026-03-30T21:30:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed service for Prometheus",
-    "link": "https://azure.microsoft.com/updates?id=550519",
-    "description": "On March 31, 2027 Azure Monitor will be deprecating the sidecar for remote-write of Prometheus metrics to Azure Monitor Workspace. This is as part of our ongoing efforts to improve reliability and reduce complexity.We recommend configuring your self-hoste",
     "pubDate": "2026-03-30T21:30:50.000Z",
     "source": "Azure Updates"
   }
