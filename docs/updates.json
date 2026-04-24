@@ -70,6 +70,13 @@
     "source": "Security"
   },
   {
+    "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+    "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
     "description": "<p>Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/\">Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -278,13 +285,6 @@
     "description": "AKS now\r\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\r\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\r\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\r\nAKS clusters.Lear",
     "pubDate": "2026-04-13T16:00:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-13T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
