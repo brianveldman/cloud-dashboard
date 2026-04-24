@@ -14,6 +14,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T00:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
     "link": "https://azure.microsoft.com/updates?id=560805",
     "description": "Azure Arc migration now supports SQL Server on Azure Virtual Machines as a migration target. You can migrate Arc-enabled SQL Server instances not only to Azure SQL Managed Instance but also to SQL Server running on Azure infrastructure—using the same unif",
@@ -364,6 +371,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
+    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-13T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
     "link": "https://azure.microsoft.com/updates?id=559836",
     "description": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=557406",
     "description": "Import data from external sources (Preview) – S3, Snowflake, Azure SQL Db along with external Data Connections (Preview) in Azure Machine Learning are being deprecated. These features will no longer be available after September 30, 2026.   What this means",
     "pubDate": "2026-03-31T20:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Migrate a Web App by Using Azure API Management",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/apim-api-scenario",
-    "description": "Review an example scenario in which an e-commerce company in the travel industry uses Azure API Management to migrate a legacy web application.",
-    "pubDate": "2026-03-31T19:47:51.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure DevOps March 2026 updates",
-    "link": "https://azure.microsoft.com/updates?id=559660",
-    "description": "The following updates were made to Azure DevOps in March\r\n2026.   \r\n The\r\n     Remote MCP Server entered public preview, enabling seamless AI-powered\r\n     integration with Azure DevOps without requiring a local server.  \r\n Security\r\n     improvements included ",
-    "pubDate": "2026-03-31T18:15:10.000Z",
     "source": "Azure Updates"
   }
 ]
