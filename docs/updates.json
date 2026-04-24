@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Cascading read replicas in Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=560939",
+    "description": "Cascading read replicas are\r\nnow generally available in Azure Database for PostgreSQL, giving you greater\r\nflexibility to scale read‑intensive workloads. You can now create\r\nread replicas from existing ones, creating up to 30 across two\r\nlevels of replication",
+    "pubDate": "2026-04-24T16:45:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: CRC Protection ",
+    "link": "https://azure.microsoft.com/updates?id=560889",
+    "description": "Azure Elastic SAN now supports CRC-32C checksum verification\r\nwhen enabled on the client side for connections to Elastic SAN volumes. You can\r\nenable CRC protection when creating an Elastic SAN or enable it on an existing\r\nElastic SAN. Elastic SAN also offer",
+    "pubDate": "2026-04-24T16:45:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Active - Multiservice impact for Azure Workloads in East US",
+    "link": "https://azurestatusprodncus.azurewebsites.net/en-us/status/",
+    "description": "<p><strong>Impact Statement:</strong> Starting at 11:39 UTC on 24 April 2026, a subset of customers with resources in the East US region may experience failures or delays when provisioning, scaling, or updating Azure resources. This issue initially affected one availability zone in East US; as traffic was automatically rerouted and shared services were involved, some customers in other availability zones may also experience impact. Existing running workloads may also have intermittent connectivity issues to existing Virtual Machines and Virtual Desktop sessions.</p><p><strong>Current Status:</strong> Engineering has identified a suspected triggering deployment and a rolling rollback is actively underway across the affected availability zones. Traffic is being rebalanced within the region. Customers may begin to see recovery if using resources in AZ 02 and AZ03, with Availability Zone 01 currently in progress. Please refer to this <a href=\"https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli#physical-and-logical-availability-zones\" target=\"_blank\">documentation</a> to understand the logical to physical availability zone mapping for your subscription.&nbsp;</p><p>Mitigation is progressing; full recovery has not yet been validated.</p><p>The next update will be shared within 60 minutes, or as events warrant.</p>",
+    "pubDate": "2026-04-24T11:39:00.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
     "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
     "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -19,13 +40,6 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
-    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T00:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -684,19 +698,5 @@
     "description": "QoS update with cool\r\naccess enabled on Premium and Ultra service levels improves how Azure\r\nNetApp Files balances performance and cost for mixed hot and cool workloads.\r\nThroughput automatically adjusts as data moves to cool storage, maintaining hot‑tier\r\npe",
     "pubDate": "2026-04-01T18:15:44.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Select Azure AI Language Features ",
-    "link": "https://azure.microsoft.com/updates?id=557394",
-    "description": "On March 31, 2029, Microsoft will retire the following eight Azure AI Language features: Key Phrase ExtractionSentiment Analysis and Opinion MiningCustom Text ClassificationConversational Language Understanding (CLU)Custom Question Answering (CQA)Orchestr",
-    "pubDate": "2026-04-01T18:00:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-    "description": "<p>Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/\">Azure IaaS: Keep critical applications running with built-in resiliency at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T16:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
