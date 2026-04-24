@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T22:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Capacity Autoscaling  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity\r\nAutoscaling support is now generally available on Elastic SAN. Customers can\r\navoid the constraints of overprovisioning and manual capacity management by\r\nsetting a policy to automatically expand SAN Capacity based on usage. Autoscaling\r\nprovides th",
@@ -12,6 +19,13 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T00:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -68,6 +82,20 @@
     "description": "<p>Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/\">AI-powered defense for an AI-accelerated threat landscape</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-22T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+    "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
+    "description": "<p>Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/\">Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T00:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Monitor pipeline",
@@ -670,33 +698,5 @@
     "description": "<p>Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/\">Azure IaaS: Keep critical applications running with built-in resiliency at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-04-01T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Get Started with Virtual Desktop Architecture Design",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-desktop/virtual-desktop-get-started",
-    "description": "Get an overview of Azure virtual desktop technologies and cloud desktop design, including architecture guidance, solution ideas, and reference architectures.",
-    "pubDate": "2026-04-01T15:40:07.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Get Started with Storage Architecture Design",
-    "link": "https://learn.microsoft.com/azure/architecture/storage/storage-get-started",
-    "description": "Get started with Azure storage architecture design by comparing storage service types, reviewing reference architectures, and applying readiness guidance.",
-    "pubDate": "2026-03-31T21:07:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: External Data Import & Data Connections in Azure Machine Learning will be retired on September 30, 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=557406",
-    "description": "Import data from external sources (Preview) – S3, Snowflake, Azure SQL Db along with external Data Connections (Preview) in Azure Machine Learning are being deprecated. These features will no longer be available after September 30, 2026.   What this means",
-    "pubDate": "2026-03-31T20:00:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Migrate a Web App by Using Azure API Management",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/apim-api-scenario",
-    "description": "Review an example scenario in which an e-commerce company in the travel industry uses Azure API Management to migrate a legacy web application.",
-    "pubDate": "2026-03-31T19:47:51.000Z",
-    "source": "Azure Architecture"
   }
 ]
