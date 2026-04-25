@@ -49,6 +49,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T22:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Capacity Autoscaling  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity\r\nAutoscaling support is now generally available on Elastic SAN. Customers can\r\navoid the constraints of overprovisioning and manual capacity management by\r\nsetting a policy to automatically expand SAN Capacity based on usage. Autoscaling\r\nprovides th",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=558246",
     "description": "Service Fabric will end support for all clusters running on Windows Server\r\n2019 on March 31, 2027. Customers must upgrade\r\nto Windows Server 2025 by this date to remain in a supported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
     "pubDate": "2026-04-01T20:30:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Unlock Client-Side Configuration at Scale with Azure App Configuration and Azure Front Door",
-    "link": "https://azure.microsoft.com/updates?id=537234",
-    "description": "You can now deliver dynamic configuration directly to client-side\r\napplications—securely and at CDN scale—thanks to Azure App\r\nConfiguration’s integration with Azure Front Door. This delivers new\r\nflexibility for modern apps and unlocks a critical capability",
-    "pubDate": "2026-04-01T19:00:05.000Z",
     "source": "Azure Updates"
   }
 ]
