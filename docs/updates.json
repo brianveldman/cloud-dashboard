@@ -50,8 +50,8 @@
   },
   {
     "title": "Active - Multiservice impact for Azure Workloads in East US",
-    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-    "description": "<p><strong>Impact Statement:</strong> Starting at 11:39 UTC on 24 April 2026, a subset of customers with resources in the East US region may experience failures or delays when provisioning, scaling, or updating Azure resources. This issue initially affected one availability zone in East US; as traffic was automatically rerouted and shared services were involved, some customers in other availability zones may also experience impact. Existing running workloads may also have intermittent connectivity issues to existing Virtual Machines and Virtual Desktop sessions.</p><p><strong>Current Status:</strong> Our team has identified a suspected triggering deployment, and a rollback is actively underway across the Availability Zone (AZ) 01 and is showing significant improvements. As the mitigation efforts are ongoing, we detected a potential slight regression in AZ02 and AZ03 which we are actively investigating and monitoring.&nbsp;</p><p>Please refer to this <a href=\"https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview?tabs=azure-cli#physical-and-logical-availability-zones\" target=\"_blank\">documentation</a> to understand the logical to physical availability zone mapping for your subscription.&nbsp;</p><p>Some downstream services are also starting to recover. We expect mitigation to be completed in the next 60 minutes.&nbsp;</p><p>The next update will be shared within 60 minutes, or as events warrant.</p>",
+    "link": "https://azurestatusprodcus.azurewebsites.net/en-us/status/",
+    "description": "<p><strong>Impact Statement:</strong> Starting at 11:39 UTC on 24 April 2026, a subset of customers with resources in the East US region may experience failures or delays when provisioning, scaling, or updating Azure resources. This issue initially affected one availability zone in East US; as traffic was automatically rerouted and shared services were involved, some customers in other availability zones may also experience impact. Existing running workloads may also have intermittent connectivity issues to existing Virtual Machines and Virtual Desktop sessions.</p><p><strong>Current Status:</strong> Rollback is complete across all AZs, and availability has returned to expected levels. We are monitoring recovery as downstream services continue to mitigate. If customers are still experiencing issues, restarting resources should restore application health.</p><p>The next update will be shared within 30 minutes, or as events warrant. </p>",
     "pubDate": "2026-04-24T11:39:00.000Z",
     "source": "Azure Status"
   },
@@ -75,13 +75,6 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
-    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T00:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -698,5 +691,12 @@
     "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-04-01T21:45:00.000Z",
     "source": "Microsoft 365"
+  },
+  {
+    "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
+    "link": "https://azure.microsoft.com/updates?id=558247",
+    "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
+    "pubDate": "2026-04-01T21:00:19.000Z",
+    "source": "Azure Updates"
   }
 ]
