@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service ",
+    "link": "https://azure.microsoft.com/updates?id=561002",
+    "description": "Foundry\r\nAgent Service now supports bring‑your‑own‑model\r\nscenarios, allowing agents to use AI models deployed and managed outside of\r\nFoundry, including models hosted behind enterprise AI gateways such as Azure\r\nAPI Management. This enables organizations to ",
+    "pubDate": "2026-04-27T18:00:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Prompt Flow in Azure ML and Foundry",
     "link": "https://azure.microsoft.com/updates?id=502936",
     "description": "Prompt Flow will be retired from Microsoft Foundry and Azure Machine\r\nLearning on April 20, 2027 and replaced by a single, modern orchestration\r\nplatform: Microsoft\r\nAgent Framework. This change unlocks powerful new capabilities,\r\nincluding a unified, future-",
@@ -56,6 +63,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T22:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Capacity Autoscaling  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity\r\nAutoscaling support is now generally available on Elastic SAN. Customers can\r\navoid the constraints of overprovisioning and manual capacity management by\r\nsetting a policy to automatically expand SAN Capacity based on usage. Autoscaling\r\nprovides th",
@@ -68,6 +82,13 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T00:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -677,26 +698,5 @@
     "description": "Learn how to use Microsoft Fabric with Azure Service Bus for near real-time solutions at enterprise scale in production environments.",
     "pubDate": "2026-04-02T16:10:14.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
-    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:45:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
-    "link": "https://azure.microsoft.com/updates?id=558247",
-    "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
-    "pubDate": "2026-04-01T21:00:19.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Service Fabric support for Windows Server 2019 ends on March 31, 2027 - upgrade to Windows Server 2025",
-    "link": "https://azure.microsoft.com/updates?id=558246",
-    "description": "Service Fabric will end support for all clusters running on Windows Server\r\n2019 on March 31, 2027. Customers must upgrade\r\nto Windows Server 2025 by this date to remain in a supported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
-    "pubDate": "2026-04-01T20:30:41.000Z",
-    "source": "Azure Updates"
   }
 ]
