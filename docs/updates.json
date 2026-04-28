@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
+    "link": "https://azure.microsoft.com/updates?id=561148",
+    "description": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
+    "pubDate": "2026-04-28T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Cross-region IPAM pool association in Azure Virtual Network Manager",
+    "link": "https://azure.microsoft.com/updates?id=561067",
+    "description": "Managing IP address space across multiple regions can be difficult to scale and prone to configuration mistakes.With cross-region IPAM pool association, you can associate a single IPAM pool with virtual networks across multiple Azure regions. This helps c",
+    "pubDate": "2026-04-28T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Simplifying AWS defense with Microsoft Sentinel UEBA",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
     "description": "<p>Learn how Microsoft Sentinel UEBA helps defenders distinguish benign AWS activity from attacker behavior by enriching raw CloudTrail logs with clear, binary behavioral signals derived from baseline user, peer, and device behavior patterns.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/\">Simplifying AWS defense with Microsoft Sentinel UEBA</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -70,6 +84,34 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure Sandbox",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/azure-sandbox/azure-sandbox",
+    "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
+    "pubDate": "2026-04-24T15:22:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DevSecOps on Azure Kubernetes Service (AKS)",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
+    "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
+    "pubDate": "2026-04-24T15:18:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose a Compute Option for Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/compute-options",
+    "description": "Choose an Azure compute platform for a microservices architecture. Compare options based on interservice communication, independent scaling, and deployability.",
+    "pubDate": "2026-04-24T14:53:20.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T22:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Capacity Autoscaling  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity\r\nAutoscaling support is now generally available on Elastic SAN. Customers can\r\navoid the constraints of overprovisioning and manual capacity management by\r\nsetting a policy to automatically expand SAN Capacity based on usage. Autoscaling\r\nprovides th",
@@ -82,6 +124,13 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T00:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -147,6 +196,27 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Manage Virtual Machine Compliance",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/security/virtual-machine-compliance",
+    "description": "Manage virtual machine compliance without disrupting DevOps practices. Use Azure VM Image Builder and Azure Compute Gallery to minimize risk from system images.",
+    "pubDate": "2026-04-22T15:26:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Certificate Life Cycle Management on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/certificate-lifecycle/index",
+    "description": "Learn how to create an infrastructure and workflow to automate the renewal process for certificates issued by a nonintegrated certification authority (CA).",
+    "pubDate": "2026-04-22T15:17:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Load Testing with Custom Plugins for Event Hubs and IoT Hub to Simulate Device Behaviors",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/testing/load-testing/load-testing-with-custom-plugins",
+    "description": "Learn how to design KPIs and develop a dashboard for Azure Load Testing with custom JMeter plugins to simulate device behaviors.",
+    "pubDate": "2026-04-22T13:38:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
     "description": "<p>Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/\">Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -173,6 +243,20 @@
     "description": "<p>The shift to remote and hybrid work since the pandemic expanded global hiring and accelerated digital onboarding, increasing reliance on online identity verification and remote access.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/\">Detection strategies across cloud and identities against infiltrating IT workers</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-04-21T16:03:09.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Choose a Natural Language Processing Technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/natural-language-processing",
+    "description": "Choose a natural language processing technology for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
+    "pubDate": "2026-04-21T15:54:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "What Is a Data Lake?",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-lake",
+    "description": "Learn about the advantages of using data lake storage repositories, which can store terabytes and petabytes of data in its native, raw format.",
+    "pubDate": "2026-04-20T19:51:24.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent ",
@@ -613,90 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=559876",
     "description": "Rule impact analysis on Azure Network Watcher enables you to preview the impact of security admin rules and network security group (NSG) rules before applying them to your environment. This feature helps you validate rule behavior, identify potential conf",
     "pubDate": "2026-04-06T16:15:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Storage Options for a Kubernetes Cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/storage",
-    "description": "Understand storage options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) storage options.",
-    "pubDate": "2026-04-03T20:51:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Competing Consumers Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/competing-consumers",
-    "description": "Learn how the Competing Consumers pattern supports multiple concurrent consumers processing messages received on the same messaging channel.",
-    "pubDate": "2026-04-03T15:27:55.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Create a Modern Analytics Architecture by Using Azure Databricks",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture",
-    "description": "Learn how to create a modern analytics architecture by using Azure Databricks and Data Lake Storage. Unify data, analytics, and AI workloads at any scale.",
-    "pubDate": "2026-04-03T15:20:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitier Web Application Built for High Availability and Disaster Recovery",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/infrastructure/multi-tier-app-disaster-recovery",
-    "description": "Learn how to create a resilient multitier web application built for high availability and disaster recovery on Azure by using VMs.",
-    "pubDate": "2026-04-03T14:49:51.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Sharding Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/sharding",
-    "description": "Use the Sharding design pattern to divide a data store into horizontal partitions or shards to improve scalability and performance in distributed systems.",
-    "pubDate": "2026-04-02T19:07:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027 ",
-    "link": "https://azure.microsoft.com/updates?id=558027",
-    "description": "Starting March 31, 2027,\r\nPython applications hosted on Azure App Service on\r\nWindows and Azure Functions on Windows will no longer run. After\r\nthis date:  \r\n Your application configuration and content will\r\n     remain intact  \r\n Your apps will stop running  \r\n",
-    "pubDate": "2026-04-02T16:45:52.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Compute Resource Consolidation Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/compute-resource-consolidation",
-    "description": "Use the Compute Resource Consolidation design pattern to consolidate multiple tasks or operations into one computational unit.",
-    "pubDate": "2026-04-02T16:45:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027",
-    "link": "https://azure.microsoft.com/updates?id=558276",
-    "description": "AzureDnsZone\r\nendpoints (preview) for Azure Blob storage accounts will enter\r\nretirement in March 2027. Customers leveraging AzureDnsZone endpoints (preview)\r\nshould transition to Standard endpoints for all new and existing blob storage\r\naccount deployments b",
-    "pubDate": "2026-04-02T16:30:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choreography Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/choreography",
-    "description": "Learn how to set up services to decide when and how to process a business operation, instead of depending on a central orchestrator.",
-    "pubDate": "2026-04-02T16:30:04.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Real-Time Analytics with Azure Service Bus and Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
-    "description": "Learn how to use Microsoft Fabric with Azure Service Bus for near real-time solutions at enterprise scale in production environments.",
-    "pubDate": "2026-04-02T16:10:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
-    "description": "<p>Learn what’s new in Copilot Studio: Multi-agent systems are now generally available, plus recent updates to the Prompt Editor and governance controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\">New and improved: Multi-agent orchestration, connected experiences, and faster prompt iteration</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-01T21:45:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
-    "link": "https://azure.microsoft.com/updates?id=558247",
-    "description": "Service Fabric will end support\r\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\r\nmust upgrade to Windows Server 2025 by this date to remain in a\r\nsupported state. This change aligns Service\r\nFabric’s Windows OS image support mode",
-    "pubDate": "2026-04-01T21:00:19.000Z",
     "source": "Azure Updates"
   }
 ]
