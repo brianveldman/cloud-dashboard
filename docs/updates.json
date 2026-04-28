@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Connect to Elastic SAN from Windows VM via VM Extension ",
+    "link": "https://azure.microsoft.com/updates?id=560914",
+    "description": "Azure Elastic SAN now supports\r\nvolume connectivity for Windows Virtual Machines using the Elastic SAN VM\r\nextension, directly from the Azure Portal. This capability enables customers to\r\nconnect Elastic SAN volumes during virtual machine deployment, simplif",
+    "pubDate": "2026-04-28T20:30:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
     "link": "https://azure.microsoft.com/updates?id=561148",
     "description": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=559899",
     "description": "Network Security Perimeter (NSP) support for Azure Service Bus is now generally available. Network Security Perimeter creates a logical network boundary around your Service Bus namespaces and other Azure PaaS resources, blocking unauthorized public access",
     "pubDate": "2026-04-06T18:00:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Rule impact analysis on Azure Network Watcher ",
-    "link": "https://azure.microsoft.com/updates?id=559876",
-    "description": "Rule impact analysis on Azure Network Watcher enables you to preview the impact of security admin rules and network security group (NSG) rules before applying them to your environment. This feature helps you validate rule behavior, identify potential conf",
-    "pubDate": "2026-04-06T16:15:40.000Z",
     "source": "Azure Updates"
   }
 ]
