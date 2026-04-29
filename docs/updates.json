@@ -1,5 +1,12 @@
 [
   {
+    "title": "8 best practices for CISOs conducting risk reviews",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
+    "description": "<p>Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/\">8 best practices for CISOs conducting risk reviews</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-29T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Memory in Foundry Agent Service ",
     "link": "https://azure.microsoft.com/updates?id=560992",
     "description": "Foundry’s\r\nmemory (preview) is a managed long-term memory capability built directly\r\ninto Foundry Agent Service and now integrates natively with Microsoft Agent\r\nFramework and LangGraph— no external databases to provision, scale, or secure.",
@@ -579,13 +586,6 @@
     "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-04-09T19:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "The agentic SOC—Rethinking SecOps for the next decade",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/",
-    "description": "<p>In the SOC of the future, autonomous defense moves at machine speed, agents add context and coordination, and humans focus on judgment, risk, and outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/\">The agentic SOC—Rethinking SecOps for the next decade</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T19:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Google Cloud to Azure Services Comparison",
