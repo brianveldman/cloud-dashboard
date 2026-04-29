@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Microsoft Azure Red Hat OpenShift is now available in Austria East ",
+    "link": "https://azure.microsoft.com/updates?id=561135",
+    "description": "The Austria East region is now generally available\r\nto Azure Red Hat OpenShift customers and partners. The region\r\nincludes three availability zones, supporting resilient and scalable\r\noperations. Why it matters: \r\n In-country data residency: Data stored in\r\n ",
+    "pubDate": "2026-04-29T21:00:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Agent Framework 1.0",
+    "link": "https://azure.microsoft.com/updates?id=560982",
+    "description": "Microsoft\r\nAgent Framework is now version 1.0 for both .NET and Python, with\r\nstable APIs and a long-term support commitment. Agent Framework 1.0 supports\r\nmulti-agent orchestration, multi-provider model support, and cross-runtime\r\ninteroperability via A2A an",
+    "pubDate": "2026-04-29T18:15:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "8 best practices for CISOs conducting risk reviews",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
     "description": "<p>Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/\">8 best practices for CISOs conducting risk reviews</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -684,19 +698,5 @@
     "description": "Developers\r\nbuilding MCP servers on Azure Functions can expose tools but not resources.\r\nNow, Azure Functions supports MCP resource triggers, enabling\r\ndevelopers to expose resources directly from an Azure Functions–hosted Model\r\nContext Protocol (MCP) server",
     "pubDate": "2026-04-07T17:15:12.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Pod CIDR expansion in AKS",
-    "link": "https://azure.microsoft.com/updates?id=557907",
-    "description": "When clusters\r\nexhaust available pod IP addresses, teams have historically been forced to\r\nrebuild environments to restore capacity, creating operational disruption. Pod\r\nCIDR expansion allows overlay‑based AKS clusters to increase their pod IP range\r\nin plac",
-    "pubDate": "2026-04-07T17:00:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Cross-tenant Secure Access to Apps by Using Private Endpoints",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
-    "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
-    "pubDate": "2026-04-06T20:52:08.000Z",
-    "source": "Azure Architecture"
   }
 ]
