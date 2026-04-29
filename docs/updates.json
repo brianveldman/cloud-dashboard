@@ -147,13 +147,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
-    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T00:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
     "link": "https://azure.microsoft.com/updates?id=560805",
     "description": "Azure Arc migration now supports SQL Server on Azure Virtual Machines as a migration target. You can migrate Arc-enabled SQL Server instances not only to Azure SQL Managed Instance but also to SQL Server running on Azure infrastructure—using the same unif",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
     "pubDate": "2026-04-06T20:52:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Highly Available NVAs",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
+    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
+    "pubDate": "2026-04-06T20:47:37.000Z",
     "source": "Azure Architecture"
   }
 ]
