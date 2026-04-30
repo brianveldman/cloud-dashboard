@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Generally Available: Azure Functions support for Java 25",
+    "link": "https://azure.microsoft.com/updates?id=560879",
+    "description": "Azure Functions support for Java 25 is now generally\r\navailable.   You can now develop apps using Java 25 locally and deploy\r\nthem to supported Azure Functions plans on Linux and Windows,\r\nincluding the Flex Consumption plan.     Learn more: Update\r\nyour app ",
+    "pubDate": "2026-04-30T17:15:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "What’s new, updated, or recently released in Microsoft Security",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
+    "description": "<p>Stay ahead of emerging threats with Microsoft’s newest security innovations and updates, delivered through the In the Loop series.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/\">What’s new, updated, or recently released in Microsoft Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-30T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Email threat landscape: Q1 2026 trends and insights",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
+    "description": "<p>In early 2026, email threats increased with a rise in credential phishing, QR code phishing, and CAPTCHA-gated campaigns, highlighted by Microsoft’s disruption of the Tycoon2FA phishing platform which led to a 15% volume decrease and shifts in threat actor tactics.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/\">Email threat landscape: Q1 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-04-30T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Microsoft Azure Red Hat OpenShift is now available in Austria East ",
     "link": "https://azure.microsoft.com/updates?id=561135",
     "description": "The Austria East region is now generally available\r\nto Azure Red Hat OpenShift customers and partners. The region\r\nincludes three availability zones, supporting resilient and scalable\r\noperations. Why it matters: \r\n In-country data residency: Data stored in\r\n ",
@@ -427,13 +448,6 @@
     "source": "Security"
   },
   {
-    "title": "Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/",
-    "description": "<p>The Microsoft Defender Security Research Team uncovered a sophisticated macOS intrusion campaign attributed to the North Korean threat actor Sapphire Sleet that abuses user driven execution and social engineering to bypass macOS security protections and steal credentials, cryptocurrency assets, and sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/\">Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-16T15:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
     "link": "https://azure.microsoft.com/updates?id=559751",
     "description": "Microsoft Azure will retire support for HBv2-series,\r\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\r\nincluding:   \r\n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\r\n     Gb/s HDR InfiniBand  \r\n HC-series: 44 Intel Xeon Platinum 8168",
@@ -446,13 +460,6 @@
     "description": "Cross-tenant customer-managed\r\nkeys (CMK) for Premium SSD v2 and Ultra Disks are\r\nnow generally available. This capability allows managed disks to be\r\nencrypted using a customer-managed key stored in an Azure Key Vault\r\nlocated in a different Microsoft Entra ",
     "pubDate": "2026-04-15T17:15:38.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Incident response for AI: Same fire, different fuel",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
-    "description": "<p>AI changes how incidents unfold and how we respond. Learn which IR practices still apply and where new telemetry, tools, and skills are needed.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/\">Incident response for AI: Same fire, different fuel</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-15T16:00:45.000Z",
-    "source": "Security"
   },
   {
     "title": "Cloud Cost Optimization: Principles that still matter",
@@ -691,12 +698,5 @@
     "description": "Learn about the AKS managed solution, configurations, best practices, and similarities and differences compared to Amazon EKS.",
     "pubDate": "2026-04-08T15:02:22.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
-    "link": "https://azure.microsoft.com/updates?id=559547",
-    "description": "Azure Red Hat OpenShift (ARO) now supports NVIDIA H100 and\r\nH200 GPU-based Azure Virtual Machine SKUs, enabling customers to run\r\nlarge-scale AI, machine learning, and high-performance computing (HPC)\r\nworkloads on a fully managed OpenShift service. This upd",
-    "pubDate": "2026-04-07T19:30:53.000Z",
-    "source": "Azure Updates"
   }
 ]
