@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Prefix-scoped access for User Delegation SAS ",
+    "link": "https://azure.microsoft.com/updates?id=561257",
+    "description": "Support for prefix-scoped access for User Delegation\r\nSAS for Azure Blob Storage is generally available in all\r\nAzure regions. SAS tokens for Blob Storage have historically supported\r\ntwo levels of scope: container and individual blob. With this release, you",
+    "pubDate": "2026-04-30T18:00:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Generally Available: Azure Functions support for Java 25",
     "link": "https://azure.microsoft.com/updates?id=560879",
     "description": "Azure Functions support for Java 25 is now generally\r\navailable.   You can now develop apps using Java 25 locally and deploy\r\nthem to supported Azure Functions plans on Linux and Windows,\r\nincluding the Flex Consumption plan.     Learn more: Update\r\nyour app ",
@@ -96,13 +103,6 @@
     "description": "Foundry\r\nAgent Service now supports bring‑your‑own‑model\r\nscenarios, allowing agents to use AI models deployed and managed outside of\r\nFoundry, including models hosted behind enterprise AI gateways such as Azure\r\nAPI Management. This enables organizations to ",
     "pubDate": "2026-04-27T18:00:52.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-    "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-    "description": "<p>Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/\">Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-27T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Prompt Flow in Azure ML and Foundry",
