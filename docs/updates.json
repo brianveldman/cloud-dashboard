@@ -105,6 +105,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+    "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+    "description": "<p>Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/\">Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-27T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Prompt Flow in Azure ML and Foundry",
     "link": "https://azure.microsoft.com/updates?id=502936",
     "description": "Prompt Flow will be retired from Microsoft Foundry and Azure Machine\r\nLearning on April 20, 2027 and replaced by a single, modern orchestration\r\nplatform: Microsoft\r\nAgent Framework. This change unlocks powerful new capabilities,\r\nincluding a unified, future-",
@@ -691,12 +698,5 @@
     "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-04-08T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "AKS for Amazon EKS Professionals",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks",
-    "description": "Learn about the AKS managed solution, configurations, best practices, and similarities and differences compared to Amazon EKS.",
-    "pubDate": "2026-04-08T15:02:22.000Z",
-    "source": "Azure Architecture"
   }
 ]
