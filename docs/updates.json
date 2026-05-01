@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+    "description": "<p>​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-01T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Prefix-scoped access for User Delegation SAS ",
     "link": "https://azure.microsoft.com/updates?id=561257",
     "description": "Support for prefix-scoped access for User Delegation\r\nSAS for Azure Blob Storage is generally available in all\r\nAzure regions. SAS tokens for Blob Storage have historically supported\r\ntwo levels of scope: container and individual blob. With this release, you",
@@ -446,13 +453,6 @@
     "description": "For organizations leveraging individual user and group\r\nquotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol\r\nvolumes, the user and group quota reporting feature offers clear\r\nvisibility into key metrics such as quota limits, used c",
     "pubDate": "2026-04-16T18:00:13.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Building your cryptographic inventory: A customer strategy for cryptographic posture management",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/",
-    "description": "<p>Learn how to build a comprehensive cryptographic inventory and strengthen quantum‑safe readiness using Microsoft Security tools, best‑practice lifecycle models, and partner solutions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/\">Building your cryptographic inventory: A customer strategy for cryptographic posture management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-16T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
