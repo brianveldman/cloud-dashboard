@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
+    "link": "https://azure.microsoft.com/updates?id=561392",
+    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
+    "pubDate": "2026-05-01T21:45:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
     "description": "<p>​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
-    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-    "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-08T16:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
