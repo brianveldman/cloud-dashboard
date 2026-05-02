@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+    "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+    "description": "<p>As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/\">Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-30T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Generally Available: Azure Functions support for Java 25",
     "link": "https://azure.microsoft.com/updates?id=560879",
     "description": "Azure Functions support for Java 25 is now generally\r\navailable.   You can now develop apps using Java 25 locally and deploy\r\nthem to supported Azure Functions plans on Linux and Windows,\r\nincluding the Flex Consumption plan.     Learn more: Update\r\nyour app ",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Observability in AKS Namespace and Workload Views",
     "link": "https://azure.microsoft.com/updates?id=560039",
     "description": "AKS now surfaces observability data powered by Azure Monitor managed service for Prometheus directly within Namespace and Workload views, making it easier to:Monitor cluster and workload healthTroubleshoot pending or failed podsAnalyze resource utilizatio",
-    "pubDate": "2026-04-08T17:30:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Files assessments are now available using Azure Migrate",
-    "link": "https://azure.microsoft.com/updates?id=560025",
-    "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
   }
