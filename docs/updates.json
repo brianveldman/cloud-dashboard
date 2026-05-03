@@ -16,6 +16,13 @@
   {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+    "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-01T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
     "description": "<p>​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-01T15:00:00.000Z",
     "source": "Security"
@@ -26,6 +33,13 @@
     "description": "Support for prefix-scoped access for User Delegation\r\nSAS for Azure Blob Storage is generally available in all\r\nAzure regions. SAS tokens for Blob Storage have historically supported\r\ntwo levels of scope: container and individual blob. With this release, you",
     "pubDate": "2026-04-30T18:00:11.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+    "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+    "description": "<p>As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/\">Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-30T18:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Generally Available: Azure Functions support for Java 25",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=559623",
     "description": "PgBouncer 1.25.1 is now generally available in Azure Database for PostgreSQL. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived connections.With t",
     "pubDate": "2026-04-08T17:45:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Observability in AKS Namespace and Workload Views",
-    "link": "https://azure.microsoft.com/updates?id=560039",
-    "description": "AKS now surfaces observability data powered by Azure Monitor managed service for Prometheus directly within Namespace and Workload views, making it easier to:Monitor cluster and workload healthTroubleshoot pending or failed podsAnalyze resource utilizatio",
-    "pubDate": "2026-04-08T17:30:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Files assessments are now available using Azure Migrate",
-    "link": "https://azure.microsoft.com/updates?id=560025",
-    "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
-    "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
   }
 ]
