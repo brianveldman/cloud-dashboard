@@ -196,13 +196,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Capacity Autoscaling on Azure Elastic SAN  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity Autoscaling support is now generally available on\r\nElastic SAN. Customers can avoid the constraints of overprovisioning and manual\r\ncapacity management by setting a policy to automatically expand SAN Capacity\r\nbased on usage. Autoscaling provides th",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=559547",
     "description": "Azure Red Hat OpenShift (ARO) now supports NVIDIA H100 and\r\nH200 GPU-based Azure Virtual Machine SKUs, enabling customers to run\r\nlarge-scale AI, machine learning, and high-performance computing (HPC)\r\nworkloads on a fully managed OpenShift service. This upd",
     "pubDate": "2026-04-07T19:30:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Disable HTTP proxy in AKS ",
+    "link": "https://azure.microsoft.com/updates?id=557857",
+    "description": "Organizations\r\nthat use HTTP proxies to control outbound traffic often need to change or\r\nremove those settings as network requirements evolve, which can be disruptive\r\nin running clusters. Azure Kubernetes Service allows administrators to disable\r\nHTTP proxy",
+    "pubDate": "2026-04-07T17:45:41.000Z",
     "source": "Azure Updates"
   }
 ]
