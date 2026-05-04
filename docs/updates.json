@@ -16,6 +16,13 @@
   {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+    "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-01T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
     "description": "<p>​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-01T15:00:00.000Z",
     "source": "Security"
@@ -105,13 +112,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-    "description": "<p>Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/\">Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-28T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Simplifying AWS defense with Microsoft Sentinel UEBA",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
     "description": "<p>Learn how Microsoft Sentinel UEBA helps defenders distinguish benign AWS activity from attacker behavior by enriching raw CloudTrail logs with clear, binary behavioral signals derived from baseline user, peer, and device behavior patterns.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/\">Simplifying AWS defense with Microsoft Sentinel UEBA</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -124,13 +124,6 @@
     "description": "Foundry\r\nAgent Service now supports bring‑your‑own‑model\r\nscenarios, allowing agents to use AI models deployed and managed outside of\r\nFoundry, including models hosted behind enterprise AI gateways such as Azure\r\nAPI Management. This enables organizations to ",
     "pubDate": "2026-04-27T18:00:52.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-    "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-    "description": "<p>Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/\">Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-27T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Prompt Flow in Azure ML and Foundry",
@@ -210,13 +203,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Capacity Autoscaling on Azure Elastic SAN  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity Autoscaling support is now generally available on\r\nElastic SAN. Customers can avoid the constraints of overprovisioning and manual\r\ncapacity management by setting a policy to automatically expand SAN Capacity\r\nbased on usage. Autoscaling provides th",
@@ -294,13 +280,6 @@
     "source": "Security"
   },
   {
-    "title": "Microsoft Discovery: Advancing agentic R&D at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
-    "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-22T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Manage Virtual Machine Compliance",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/security/virtual-machine-compliance",
     "description": "Manage virtual machine compliance without disrupting DevOps practices. Use Azure VM Image Builder and Azure Compute Gallery to minimize risk from system images.",
@@ -320,13 +299,6 @@
     "description": "Learn how to design KPIs and develop a dashboard for Azure Load Testing with custom JMeter plugins to simulate device behaviors.",
     "pubDate": "2026-04-22T13:38:29.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
-    "description": "<p>Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/\">Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-22T00:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Monitor pipeline",
@@ -476,13 +448,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Cloud Cost Optimization: Principles that still matter",
-    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
-    "description": "<p>Discover how cloud cost optimization adapts in the age of AI, with best practices for managing spend, improving efficiency, and maximizing value.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/\">Cloud Cost Optimization: Principles that still matter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-15T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Technology Choices for Azure Solutions",
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/technology-choices-overview",
     "description": "Learn where to find Azure technology guidance across compute, data, analytics, networking, and AI by using curated comparison and choice resources.",
@@ -523,13 +488,6 @@
     "description": "Learn about hub-spoke topology in Azure, where the spoke virtual networks connect to the hub virtual network and can connect to each other.",
     "pubDate": "2026-04-14T16:13:27.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Optimize object storage costs automatically with smart tier—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-14T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
@@ -630,25 +588,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-    "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Google Cloud to Azure Services Comparison",
     "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
     "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
     "pubDate": "2026-04-09T15:16:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "How Drasi used GitHub Copilot to find documentation bugs",
-    "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
-    "description": "<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/\">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T15:05:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Migrate Mainframe Data Tier to Azure with mLogica LIBER*IRIS",
@@ -697,6 +641,62 @@
     "link": "https://azure.microsoft.com/updates?id=560025",
     "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "AKS for Amazon EKS Professionals",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks",
+    "description": "Learn about the AKS managed solution, configurations, best practices, and similarities and differences compared to Amazon EKS.",
+    "pubDate": "2026-04-08T15:02:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support",
+    "link": "https://azure.microsoft.com/updates?id=559547",
+    "description": "Azure Red Hat OpenShift (ARO) now supports NVIDIA H100 and\r\nH200 GPU-based Azure Virtual Machine SKUs, enabling customers to run\r\nlarge-scale AI, machine learning, and high-performance computing (HPC)\r\nworkloads on a fully managed OpenShift service. This upd",
+    "pubDate": "2026-04-07T19:30:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Disable HTTP proxy in AKS ",
+    "link": "https://azure.microsoft.com/updates?id=557857",
+    "description": "Organizations\r\nthat use HTTP proxies to control outbound traffic often need to change or\r\nremove those settings as network requirements evolve, which can be disruptive\r\nin running clusters. Azure Kubernetes Service allows administrators to disable\r\nHTTP proxy",
+    "pubDate": "2026-04-07T17:45:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions now supports MCP resource triggers",
+    "link": "https://azure.microsoft.com/updates?id=559981",
+    "description": "Developers\r\nbuilding MCP servers on Azure Functions can expose tools but not resources.\r\nNow, Azure Functions supports MCP resource triggers, enabling\r\ndevelopers to expose resources directly from an Azure Functions–hosted Model\r\nContext Protocol (MCP) server",
+    "pubDate": "2026-04-07T17:15:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Pod CIDR expansion in AKS",
+    "link": "https://azure.microsoft.com/updates?id=557907",
+    "description": "When clusters\r\nexhaust available pod IP addresses, teams have historically been forced to\r\nrebuild environments to restore capacity, creating operational disruption. Pod\r\nCIDR expansion allows overlay‑based AKS clusters to increase their pod IP range\r\nin plac",
+    "pubDate": "2026-04-07T17:00:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Cross-tenant Secure Access to Apps by Using Private Endpoints",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
+    "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
+    "pubDate": "2026-04-06T20:52:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Highly Available NVAs",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/network-virtual-appliance-high-availability",
+    "description": "Learn how to deploy network virtual appliances in high availability architectures for ingress and egress traffic in Azure.",
+    "pubDate": "2026-04-06T20:47:37.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Network Security Perimeter for Azure Service Bus",
+    "link": "https://azure.microsoft.com/updates?id=559899",
+    "description": "Network Security Perimeter (NSP) support for Azure Service Bus is now generally available. Network Security Perimeter creates a logical network boundary around your Service Bus namespaces and other Azure PaaS resources, blocking unauthorized public access",
+    "pubDate": "2026-04-06T18:00:04.000Z",
     "source": "Azure Updates"
   }
 ]
