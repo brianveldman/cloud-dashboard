@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service",
+    "link": "https://azure.microsoft.com/updates?id=561432",
+    "description": "We have identified an issue impacting Multi-line (Multiple\r\nNumber Assignment) feature for Teams Phone enablement related to the\r\nusage of AlternateId in customer internal implementations for\r\nAzure Communication Services (ACS). AlternateId is an Microsoft i",
+    "pubDate": "2026-05-04T17:45:58.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions durable task scheduler Consumption SKU",
+    "link": "https://azure.microsoft.com/updates?id=560957",
+    "description": "The Durable Task Scheduler Consumption SKU is now generally available. Run durable workflows and AI agent orchestrations on Azure with pay-per-use pricing. No storage to manage, no capacity to plan, and no idle costs.The Consumption SKU charges only for a",
+    "pubDate": "2026-05-04T17:45:58.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
+    "description": "<p>Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/\">Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-04T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
     "description": "<p>A high-severity Linux vulnerability, “Copy Fail” (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/\">CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -105,13 +126,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-    "description": "<p>Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/\">Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-28T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Simplifying AWS defense with Microsoft Sentinel UEBA",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
     "description": "<p>Learn how Microsoft Sentinel UEBA helps defenders distinguish benign AWS activity from attacker behavior by enriching raw CloudTrail logs with clear, binary behavioral signals derived from baseline user, peer, and device behavior patterns.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/\">Simplifying AWS defense with Microsoft Sentinel UEBA</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -124,13 +138,6 @@
     "description": "Foundry\r\nAgent Service now supports bring‑your‑own‑model\r\nscenarios, allowing agents to use AI models deployed and managed outside of\r\nFoundry, including models hosted behind enterprise AI gateways such as Azure\r\nAPI Management. This enables organizations to ",
     "pubDate": "2026-04-27T18:00:52.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-    "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
-    "description": "<p>Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/\">Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-27T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Prompt Flow in Azure ML and Foundry",
@@ -210,13 +217,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Capacity Autoscaling on Azure Elastic SAN  ",
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity Autoscaling support is now generally available on\r\nElastic SAN. Customers can avoid the constraints of overprovisioning and manual\r\ncapacity management by setting a policy to automatically expand SAN Capacity\r\nbased on usage. Autoscaling provides th",
@@ -229,13 +229,6 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
-    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T00:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -411,13 +404,6 @@
     "description": "Learn how to decouple back-end processing from front-end hosts by using asynchronous operations and HTTP polling for long-running tasks.",
     "pubDate": "2026-04-20T12:32:11.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
-    "description": "<p>Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support—activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/\">Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-18T12:55:45.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks ",
@@ -698,5 +684,19 @@
     "description": "Azure Migrate\r\nnow supports assessments for Azure Files, allowing customers and partners to\r\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\r\nLinux) to Azure Files. This feature enables discovery of file shares,\r\nvisibility int",
     "pubDate": "2026-04-08T17:30:02.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
+    "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+    "description": "<p>Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/\">Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-08T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "AKS for Amazon EKS Professionals",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks",
+    "description": "Learn about the AKS managed solution, configurations, best practices, and similarities and differences compared to Amazon EKS.",
+    "pubDate": "2026-04-08T15:02:22.000Z",
+    "source": "Azure Architecture"
   }
 ]
