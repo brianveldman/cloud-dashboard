@@ -14,6 +14,41 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Migrate IBM z/OS OLTP Workloads to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/ibm-zos-online-transaction-processing-azure",
+    "description": "Migrate a z/OS online transaction processing (OLTP) workload to an Azure application that is cost effective, responsive, scalable, and adaptable.",
+    "pubDate": "2026-05-04T16:55:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SAP HANA for Linux VMs in Scale-up Systems",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-hana-for-linux-virtual-machines",
+    "description": "Proven practices for running SAP HANA in a high-availability, scale-up environment that supports disaster recovery on Azure.",
+    "pubDate": "2026-05-04T16:55:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Hub-Spoke Network Topology in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke",
+    "description": "Learn about hub-spoke topology in Azure, where the spoke virtual networks connect to the hub virtual network and can connect to each other.",
+    "pubDate": "2026-05-04T16:50:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Hub-Spoke Network Topology That Uses Azure Virtual WAN",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke-virtual-wan-architecture",
+    "description": "Learn how to implement a hub-spoke network topology by using Azure Virtual WAN. Create a hub virtual network and spoke virtual networks that peer with the hub.",
+    "pubDate": "2026-05-04T16:50:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Implement a secure hybrid network",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz",
+    "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
+    "pubDate": "2026-05-04T16:50:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
     "description": "<p>Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/\">Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -35,11 +70,81 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Design a Hybrid Domain Name System (DNS) Solution by Using Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
+    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
+    "pubDate": "2026-05-01T21:17:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
+    "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
+    "pubDate": "2026-05-01T20:26:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure Service for Vector Search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Learn how to use this information to decide which Azure service for vector search best suits your application.",
+    "pubDate": "2026-05-01T20:26:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy IBM Sterling Order Management Software (OMS) on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/ibm/deploy-ibm-sterling-oms",
+    "description": "Run IBM Sterling Order Management Software (OMS) on Azure. Design and implement cloud solutions for Sterling OMS that use Azure.",
+    "pubDate": "2026-05-01T20:26:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Reliable Web App Pattern for Java",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/java/guidance",
+    "description": "Implement the Reliable Web App pattern for Java. Get essential guidance for migrating web apps to the cloud. Learn how to replatform web apps.",
+    "pubDate": "2026-05-01T20:26:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Data Factory enterprise hardened architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/azure-data-factory-enterprise-hardened",
+    "description": "Learn how to design an enterprise-hardened workload for Azure Data Factory in an Azure landing zone to build robust and efficient data pipelines.",
+    "pubDate": "2026-05-01T15:12:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
     "description": "<p>​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-01T15:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Access Foundry Models and Other Language Models Through a Gateway",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-guide",
+    "description": "Understand how implementing a gateway helps manage access to Azure OpenAI and other language models more securely and efficiently.",
+    "pubDate": "2026-04-30T21:42:20.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Image classification on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/intelligent-apps-image-processing",
+    "description": "Learn how to build image classification into your applications by using Azure services such as Azure AI Content Understanding and Azure Functions.",
+    "pubDate": "2026-04-30T21:33:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "External Configuration Store Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/external-configuration-store",
+    "description": "Review the External Configuration Store pattern, which moves configuration information out of the application deployment package to a centralized location.",
+    "pubDate": "2026-04-30T21:02:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Move an IoT Hub-Based Solution to a Production Environment",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/iot/iot-move-to-production",
+    "description": "Learn best practices for moving an IoT Hub-based solution to production, including deployment stamps, transient fault handling, and zero-touch provisioning.",
+    "pubDate": "2026-04-30T20:11:42.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Prefix-scoped access for User Delegation SAS ",
@@ -54,6 +159,13 @@
     "description": "<p>As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/\">Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-04-30T18:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Extract and Analyze Call Center Data by Using Azure OpenAI, Speech Services, and Language Services",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
+    "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI.",
+    "pubDate": "2026-04-30T17:28:55.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Generally Available: Azure Functions support for Java 25",
@@ -77,6 +189,20 @@
     "source": "Security"
   },
   {
+    "title": "Get Started with Security Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture/security/security-get-started",
+    "description": "Get an overview of Azure security technologies and security architecture design, including solution ideas and reference architectures.",
+    "pubDate": "2026-04-29T23:04:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deployment Stamps Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/deployment-stamp",
+    "description": "Learn about the Deployment Stamps pattern, which deploys many independent copies (known as stamps, service units, or scale units) of application components.",
+    "pubDate": "2026-04-29T21:28:56.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Microsoft Azure Red Hat OpenShift is now available in Austria East ",
     "link": "https://azure.microsoft.com/updates?id=561135",
     "description": "The Austria East region is now generally available\r\nto Azure Red Hat OpenShift customers and partners. The region\r\nincludes three availability zones, supporting resilient and scalable\r\noperations. Why it matters: \r\n In-country data residency: Data stored in\r\n ",
@@ -98,11 +224,39 @@
     "source": "Security"
   },
   {
+    "title": "Use a Split-Brain DNS Configuration to Host a Web App",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/networking/split-brain-dns",
+    "description": "Implement a split-brain DNS configuration to differentiate traffic treatment based on DNS and whether a client originates from the internet or a corporate network.",
+    "pubDate": "2026-04-29T15:30:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Run a Windows VM on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/n-tier/windows-vm",
+    "description": "Learn the best practices for running a Windows virtual machine on Azure, which requires some additional components, including networking and storage resources.",
+    "pubDate": "2026-04-29T15:05:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Run a Linux VM on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/n-tier/linux-vm",
+    "description": "Learn the best practices for running a Linux virtual machine on Azure, which requires some additional components, including networking and storage resources.",
+    "pubDate": "2026-04-29T14:57:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Memory in Foundry Agent Service ",
     "link": "https://azure.microsoft.com/updates?id=560992",
     "description": "Foundry’s\r\nmemory (preview) is a managed long-term memory capability built directly\r\ninto Foundry Agent Service and now integrates natively with Microsoft Agent\r\nFramework and LangGraph— no external databases to provision, scale, or secure.",
     "pubDate": "2026-04-29T00:00:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Multitenancy and Azure Cosmos DB",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/cosmos-db",
+    "description": "Learn about Azure Cosmos DB features that you can use for multitenant systems. See more resources that explain how to use Azure Cosmos DB in a multitenant solution.",
+    "pubDate": "2026-04-28T22:56:59.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Public Preview: Container Network Insights Agent",
@@ -119,6 +273,34 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Architectural Approaches for AI and Machine Learning in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-machine-learning",
+    "description": "Learn approaches for AI and machine learning multitenancy, including tenant isolation, model training, inference, and how to use Foundry Tools.",
+    "pubDate": "2026-04-28T20:06:11.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure for Google Cloud professionals",
+    "link": "https://learn.microsoft.com/azure/architecture//gcp-professional",
+    "description": "Learn the basics of Microsoft Azure accounts, platform, and services, and key similarities and differences between the Google Cloud and Azure platforms.",
+    "pubDate": "2026-04-28T18:20:55.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design a Hybrid Domain Name System (DNS) Solution by Using Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
+    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
+    "pubDate": "2026-04-28T18:18:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AKS triage—Container registry connectivity",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-triage-container-registry",
+    "description": "Learn about verifying the connection to a container registry. This step is part of the triage practice for Azure Kubernetes Service (AKS) clusters.",
+    "pubDate": "2026-04-28T17:52:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
     "link": "https://azure.microsoft.com/updates?id=561148",
     "description": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
@@ -131,6 +313,20 @@
     "description": "Managing IP address space across multiple regions can be difficult to scale and prone to configuration mistakes.With cross-region IPAM pool association, you can associate a single IPAM pool with virtual networks across multiple Azure regions. This helps c",
     "pubDate": "2026-04-28T17:45:04.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Compare AWS and Azure Accounts",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/accounts",
+    "description": "Learn the differences between Azure and AWS accounts and subscriptions. Understand the types of administrator accounts in Azure.",
+    "pubDate": "2026-04-28T17:44:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose a Kubernetes at the Edge Compute Option",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/choose-kubernetes-edge-compute-option",
+    "description": "Learn about trade-offs and considerations for various Kubernetes options available for extending compute on the edge.",
+    "pubDate": "2026-04-28T17:31:21.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
@@ -257,6 +453,13 @@
     "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
     "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot’s agentic capabilities in Word, Excel, and PowerPoint are generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/",
+    "description": "<p>From first draft to final polish, Copilot acts as a true collaborator, taking action while you stay in control.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/\">Copilot&#8217;s agentic capabilities in Word, Excel, and PowerPoint are generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-04-23T00:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
@@ -495,208 +698,5 @@
     "description": "<p>Discover how cloud cost optimization adapts in the age of AI, with best practices for managing spend, improving efficiency, and maximizing value.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/\">Cloud Cost Optimization: Principles that still matter</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-04-15T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Technology Choices for Azure Solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/technology-choices-overview",
-    "description": "Learn where to find Azure technology guidance across compute, data, analytics, networking, and AI by using curated comparison and choice resources.",
-    "pubDate": "2026-04-15T15:12:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Managed Redis Considerations for Multitenancy",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/managed-redis",
-    "description": "Learn about Azure Managed Redis features, like Microsoft Entra ID authentication, active geo-replication, and Redis modules, that you can use to improve the performance of multitenant systems.",
-    "pubDate": "2026-04-14T23:40:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers. ",
-    "link": "https://azure.microsoft.com/updates?id=560241",
-    "description": "Azure Site Recovery now supports replication and disaster recovery for Windows Azure Virtual Machines running on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa v6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This enhancement allows",
-    "pubDate": "2026-04-14T21:15:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Announcing: Minimum billable object size for cooler storage tiers",
-    "link": "https://azure.microsoft.com/updates?id=559756",
-    "description": "For storage accounts with Azure Blob or Data Lake Storage\r\n(ADLS) we are introducing a minimum billable object size for the cool, cold and\r\narchive access tiers of 128KiB. Objects on those tiers that are smaller than\r\n128 KiB will be billed as 128 KiB object",
-    "pubDate": "2026-04-14T21:15:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage)",
-    "link": "https://azure.microsoft.com/updates?id=559746",
-    "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
-    "pubDate": "2026-04-14T17:15:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Hub-Spoke Network Topology in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke",
-    "description": "Learn about hub-spoke topology in Azure, where the spoke virtual networks connect to the hub virtual network and can connect to each other.",
-    "pubDate": "2026-04-14T16:13:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Optimize object storage costs automatically with smart tier—now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-    "description": "<p>By continuously optimizing data placement, smart tier ensures your storage costs are aligned with actual usage.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/\">Optimize object storage costs automatically with smart tier—now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-14T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
-    "link": "https://azure.microsoft.com/updates?id=557828",
-    "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
-    "pubDate": "2026-04-13T23:45:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Migrate from Amazon Elastic Kubernetes Service to Azure Kubernetes Service",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/migrate",
-    "description": "Learn how to migrate stateless and stateful workloads from Amazon Elastic Kubernetes Service (EKS) to Azure Kubernetes Service (AKS).",
-    "pubDate": "2026-04-13T20:21:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Architecture for an AKS Cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-04-13T20:21:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Conceptual planning for IPv6 networking",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/ipv6-ip-planning",
-    "description": "Learn strategies for transitioning an IPv4 network environment on Azure to IPv6. IPv6 provides a larger pool of internet addresses to accommodate growth.",
-    "pubDate": "2026-04-13T20:14:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Managed identity support for graphical session recording",
-    "link": "https://azure.microsoft.com/updates?id=560162",
-    "description": "Today, we are announcing Azure Bastion now supports managed\r\nidentities for graphical session recording. Azure Bastion graphical session recording now supports write\r\naccess to storage accounts using managed identities. With this update, users\r\nhave the opti",
-    "pubDate": "2026-04-13T18:45:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Computer Forensics Chain of Custody in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/forensics/index",
-    "description": "Learn how to create an infrastructure and workflow to help ensure a valid digital evidence chain of custody (CoC) for computer forensics in Azure.",
-    "pubDate": "2026-04-13T18:14:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Storage Mover now available in Azure Government (US)",
-    "link": "https://azure.microsoft.com/updates?id=560198",
-    "description": "Azure Storage Mover is now available in Azure\r\nGovernment (US), enabling U.S. government customers and partners to securely\r\nmigrate large‑scale file data to Azure Government cloud environments using a\r\nfully managed migration service.  What is Azure Storage",
-    "pubDate": "2026-04-13T18:00:56.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Monitor AKS applications with OpenTelemetry and Azure Monitor ",
-    "link": "https://azure.microsoft.com/updates?id=560119",
-    "description": "Azure Monitor now supports monitoring applications that run on Azure Kubernetes Service (AKS) by using OpenTelemetry for instrumentation and data collection.Leverage autoinstrumentation to deploy the Azure Monitor OpenTelemetry distro to workloads or use ",
-    "pubDate": "2026-04-13T17:45:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Granular Encryption-in-Transit Controls for SMB and NFS on Azure Files ",
-    "link": "https://azure.microsoft.com/updates?id=560001",
-    "description": "Azure Files now supports independent configuration of encryption-in-transit settings for SMB and NFS protocols at the storage account level. Customers can now define protocol-specific security policies, enabling precise control over encryption requirement",
-    "pubDate": "2026-04-13T17:45:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Managed Grafana Essential SKU will retire on March 30, 2027",
-    "link": "https://azure.microsoft.com/updates?id=559395",
-    "description": "Azure Managed Grafana Essential SKU will be retired on March 30, 2027.Customers using the Essential SKU are encouraged to transition to Azure Managed Grafana Standard SKU or Azure Monitor Dashboards with Grafana before the retirement date to avoid service",
-    "pubDate": "2026-04-13T17:15:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: StandardV2 NAT Gateway as an outbound type for AKS ",
-    "link": "https://azure.microsoft.com/updates?id=560207",
-    "description": "AKS now\r\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\r\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\r\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\r\nAKS clusters.Lear",
-    "pubDate": "2026-04-13T16:00:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/",
-    "description": "<p>Microsoft 365 Copilot can now bring your go-to apps directly into the conversation, which closes the gap between AI-powered insight and real, in-app action.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/13/bring-your-everyday-business-apps-into-the-flow-of-work-with-agents-in-microsoft-365-copilot/\">Bring your everyday business apps into the flow of work with agents in Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-04-13T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
-    "link": "https://azure.microsoft.com/updates?id=559836",
-    "description": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
-    "pubDate": "2026-04-10T17:00:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Rehost Adabas and Natural Applications on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/rehost-adabas-software-ag",
-    "description": "Learn how to migrate a Software AG Adabas and Natural mainframe system to Azure by using a rehost approach with minimal changes to your existing workload.",
-    "pubDate": "2026-04-10T14:39:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-    "description": "<p>Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/\">Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Google Cloud to Azure Services Comparison",
-    "link": "https://learn.microsoft.com/azure/architecture/gcp-professional/services",
-    "description": "Compare Google Cloud and Microsoft Azure services. Not every Google Cloud service or Azure service is listed, and not every matched service has exact feature parity.",
-    "pubDate": "2026-04-09T15:16:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "How Drasi used GitHub Copilot to find documentation bugs",
-    "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
-    "description": "<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/\">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-09T15:05:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Migrate Mainframe Data Tier to Azure with mLogica LIBER*IRIS",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-data-platform",
-    "description": "Learn how mLogica LIBER*IRIS provides a proven solution for bulk data migration from a mainframe to Azure for enterprise workloads.",
-    "pubDate": "2026-04-09T14:58:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-04-09T14:48:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Basic Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-microsoft-foundry-chat",
-    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
-    "pubDate": "2026-04-09T14:48:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health ",
-    "link": "https://azure.microsoft.com/updates?id=559628",
-    "description": "We’re introducing regional level consolidated maintenance notifications for Azure Database for PostgreSQL to simplify how you stay informed about upcoming maintenance. Instead of one notification per server, now you receive a single notification per regio",
-    "pubDate": "2026-04-08T17:45:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PgBouncer 1.25.1 support in Azure Database for PostgreSQL – Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=559623",
-    "description": "PgBouncer 1.25.1 is now generally available in Azure Database for PostgreSQL. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived connections.With t",
-    "pubDate": "2026-04-08T17:45:09.000Z",
-    "source": "Azure Updates"
   }
 ]
