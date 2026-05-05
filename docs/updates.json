@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: Application Gateway for Containers managed add-on + AKS Automatic ",
+    "link": "https://azure.microsoft.com/updates?id=558403",
+    "description": "We previously announced the availability of Application Gateway for\r\nContainers and the Application Gateway for Containers AKS\r\nAdd-on for Azure Kubernetes Service (AKS). At that time, one\r\nlimitation was that Application Gateway for Containers could not be ",
+    "pubDate": "2026-05-05T17:30:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Elastic SAN support for AVS Gen2 Private Cloud  ",
+    "link": "https://azure.microsoft.com/updates?id=560909",
+    "description": "Elastic SAN datastores deliver simpler connectivity\r\nand improved performance when used with AVS Gen2 Private Cloud:   Simpler connectivity & configuration   \r\n No ExpressRoute gateway required   \r\n A single Private Endpoint is sufficient to configure\r\n     t",
+    "pubDate": "2026-05-05T16:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Single Volume Snapshots on Azure Elastic SAN",
+    "link": "https://azure.microsoft.com/updates?id=560899",
+    "description": "Azure Elastic SAN now supports single volume snapshots,\r\nenabling incremental, point‑in‑time backups of individual SAN volumes.\r\nSnapshots capture only changes since the previous snapshot and reside within\r\nthe SAN, allowing customers to quickly deploy new v",
+    "pubDate": "2026-05-05T16:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: AVS Support for AV64 SKU on Azure Elastic SAN",
+    "link": "https://azure.microsoft.com/updates?id=560894",
+    "description": "Azure\r\nElastic SAN datastores are now supported with AV64 SKUs, enabling higher-scale\r\nand higher-performance storage options for Azure VMware Solution deployments.",
+    "pubDate": "2026-05-05T16:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service",
     "link": "https://azure.microsoft.com/updates?id=561432",
     "description": "We have identified an issue impacting Multi-line (Multiple\r\nNumber Assignment) feature for Teams Phone enablement related to the\r\nusage of AlternateId in customer internal implementations for\r\nAzure Communication Services (ACS). AlternateId is an Microsoft i",
@@ -670,33 +698,5 @@
     "description": "Design and implement Windows 365 Azure network connections to integrate Cloud PCs with your existing network infrastructure and on-premises resources.",
     "pubDate": "2026-04-17T08:42:49.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Azure Kubernetes Service support for Ubuntu 22.04 ",
-    "link": "https://azure.microsoft.com/updates?id=557928",
-    "description": "On June 30, 2027, we'll retire Ubuntu 22.04 on Azure\r\nKubernetes Service. To avoid disruptions, transition to\r\nUbuntu 24.04 or later by that date. Newer\r\nsupported versions include kernel\r\nupdates and security improvements.   Until June 30, 2027, you can cont",
-    "pubDate": "2026-04-16T20:30:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Generally Available: User and group quota reports in Azure NetApp Files ",
-    "link": "https://azure.microsoft.com/updates?id=558483",
-    "description": "For organizations leveraging individual user and group\r\nquotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol\r\nvolumes, the user and group quota reporting feature offers clear\r\nvisibility into key metrics such as quota limits, used c",
-    "pubDate": "2026-04-16T18:00:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
-    "link": "https://azure.microsoft.com/updates?id=559751",
-    "description": "Microsoft Azure will retire support for HBv2-series,\r\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\r\nincluding:   \r\n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\r\n     Gb/s HDR InfiniBand  \r\n HC-series: 44 Intel Xeon Platinum 8168",
-    "pubDate": "2026-04-15T17:30:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Encrypt Premium SSD v2 and Ultra Disks with Cross Tenant Customer Managed Keys",
-    "link": "https://azure.microsoft.com/updates?id=559761",
-    "description": "Cross-tenant customer-managed\r\nkeys (CMK) for Premium SSD v2 and Ultra Disks are\r\nnow generally available. This capability allows managed disks to be\r\nencrypted using a customer-managed key stored in an Azure Key Vault\r\nlocated in a different Microsoft Entra ",
-    "pubDate": "2026-04-15T17:15:38.000Z",
-    "source": "Azure Updates"
   }
 ]
