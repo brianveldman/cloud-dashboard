@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
+    "link": "https://azure.microsoft.com/updates?id=560948",
+    "description": "Starting July 1, 2026, purchases and\r\nrenewals will no longer be available\r\nfor one-year Azure Reserved VM Instances for the Av2,\r\nAmv2, Bv1, D, Ds, Dv2, Dsv2, F, Fs, Fsv2, G, Gs, Ls, and Lsv2 VM\r\nseries. Additionally, one-year and three-year reserved instanc",
+    "pubDate": "2026-05-05T20:00:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers managed add-on + AKS Automatic ",
     "link": "https://azure.microsoft.com/updates?id=558403",
     "description": "We previously announced the availability of Application Gateway for\r\nContainers and the Application Gateway for Containers AKS\r\nAdd-on for Azure Kubernetes Service (AKS). At that time, one\r\nlimitation was that Application Gateway for Containers could not be ",
@@ -77,13 +84,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-    "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-04T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
     "description": "<p>Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/\">Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -145,6 +145,13 @@
     "description": "Learn how to design an enterprise-hardened workload for Azure Data Factory in an Azure landing zone to build robust and efficient data pipelines.",
     "pubDate": "2026-05-01T15:12:40.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+    "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-01T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
@@ -691,12 +698,5 @@
     "description": "Azure Backup\r\nnow provides a simplified experience to configure backup for Azure\r\nKubernetes Service (AKS) clusters using a single Azure CLI command.Enabling\r\nbackup for AKS clusters through CLI requires multiple manual steps, including\r\ninstallation of the B",
     "pubDate": "2026-04-17T17:15:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Windows 365 Azure Network Connection",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-desktop/windows-365-azure-network-connection",
-    "description": "Design and implement Windows 365 Azure network connections to integrate Cloud PCs with your existing network infrastructure and on-premises resources.",
-    "pubDate": "2026-04-17T08:42:49.000Z",
-    "source": "Azure Architecture"
   }
 ]
