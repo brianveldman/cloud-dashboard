@@ -49,13 +49,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
-    "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
-    "description": "<p>As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/\">Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-30T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Generally Available: Azure Functions support for Java 25",
     "link": "https://azure.microsoft.com/updates?id=560879",
     "description": "Azure Functions support for Java 25 is now generally\r\navailable.   You can now develop apps using Java 25 locally and deploy\r\nthem to supported Azure Functions plans on Linux and Windows,\r\nincluding the Flex Consumption plan.     Learn more: Update\r\nyour app ",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health ",
     "link": "https://azure.microsoft.com/updates?id=559628",
     "description": "We’re introducing regional level consolidated maintenance notifications for Azure Database for PostgreSQL to simplify how you stay informed about upcoming maintenance. Instead of one notification per server, now you receive a single notification per regio",
+    "pubDate": "2026-04-08T17:45:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: PgBouncer 1.25.1 support in Azure Database for PostgreSQL – Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=559623",
+    "description": "PgBouncer 1.25.1 is now generally available in Azure Database for PostgreSQL. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived connections.With t",
     "pubDate": "2026-04-08T17:45:09.000Z",
     "source": "Azure Updates"
   }
