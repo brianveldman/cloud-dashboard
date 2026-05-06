@@ -1,5 +1,19 @@
 [
   {
+    "title": "​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/",
+    "description": "<p>Microsoft is excited to be named an Overall Leader, and the Market Leader in the Kuppinger Cole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report, as we see automation and AI as core components of the future of cybersecurity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/\">​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-06T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "ClickFix campaign uses fake macOS utilities lures to deliver infostealers",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/06/clickfix-campaign-uses-fake-macos-utilities-lures-deliver-infostealers/",
+    "description": "<p>Threat actors are targeting macOS users with fake utility fixes that trick them into running malicious Terminal commands. This campaign evades traditional defenses by stealing credentials, wallets, and sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/06/clickfix-campaign-uses-fake-macos-utilities-lures-deliver-infostealers/\">ClickFix campaign uses fake macOS utilities lures to deliver infostealers</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-06T15:20:32.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
     "link": "https://azure.microsoft.com/updates?id=560948",
     "description": "Starting July 1, 2026, purchases and\r\nrenewals will no longer be available\r\nfor one-year Azure Reserved VM Instances for the Av2,\r\nAmv2, Bv1, D, Ds, Dv2, Dsv2, F, Fs, Fsv2, G, Gs, Ls, and Lsv2 VM\r\nseries. Additionally, one-year and three-year reserved instanc",
@@ -96,13 +110,6 @@
     "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
     "pubDate": "2026-05-04T16:50:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-    "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-04T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
@@ -630,13 +637,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Detection strategies across cloud and identities against infiltrating IT workers",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
-    "description": "<p>The shift to remote and hybrid work since the pandemic expanded global hiring and accelerated digital onboarding, increasing reliance on online identity verification and remote access.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/\">Detection strategies across cloud and identities against infiltrating IT workers</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-21T16:03:09.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Choose a Natural Language Processing Technology",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/natural-language-processing",
     "description": "Choose a natural language processing technology for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
@@ -679,13 +679,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Making opportunistic cyberattacks harder by design",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/",
-    "description": "<p>How Microsoft secures Dynamics 365 and Power Platform by removing credentials, reducing attack surfaces, and using platform engineering to block opportunistic threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/\">Making opportunistic cyberattacks harder by design</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-20T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Basic Enterprise Integration on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/enterprise-integration/basic-enterprise-integration",
     "description": "Learn how to implement a basic enterprise integration architecture on Azure by using Azure Logic Apps and Azure API Management.",
@@ -698,5 +691,12 @@
     "description": "Learn how to decouple back-end processing from front-end hosts by using asynchronous operations and HTTP polling for long-running tasks.",
     "pubDate": "2026-04-20T12:32:11.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks ",
+    "link": "https://azure.microsoft.com/updates?id=560590",
+    "description": "Azure Databricks now supports Anthropic Claude Opus 4.7\r\nthrough Azure Databricks AI Model Serving. Claude Opus 4.7\r\nis Anthropic's most capable hybrid reasoning model, delivering\r\nstronger performance on complex extraction and agentic reasoning tasks while\r\n",
+    "pubDate": "2026-04-17T21:30:12.000Z",
+    "source": "Azure Updates"
   }
 ]
