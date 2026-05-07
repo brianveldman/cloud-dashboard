@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West",
+    "link": "https://azure.microsoft.com/updates?id=561814",
+    "description": "Azure Premium SSD v2 is now available in all three\r\nAvailability Zones in Japan West.    Azure Premium SSD v2 disk, a next-generation general-purpose\r\nblock storage option for Azure virtual machines, offers\r\nsub-millisecond latencies and exceptional price pe",
+    "pubDate": "2026-05-07T18:15:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Dl/D/E v7 Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=560734",
+    "description": "Azure has announced the general availability of the new Dl/D/E v7 Virtual Machines, powered by the latest Intel® Xeon® 6 (Granite Rapids) processors. These general‑purpose and memory‑optimized VMs deliver up to 20% better general compute performance compa",
+    "pubDate": "2026-05-07T18:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "World Passkey Day: Advancing passwordless authentication",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
     "description": "<p>This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/\">World Passkey Day: Advancing passwordless authentication</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,6 +75,13 @@
     "description": "<p>Threat actors are targeting macOS users with fake utility fixes that trick them into running malicious Terminal commands. This campaign evades traditional defenses by stealing credentials, wallets, and sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/06/clickfix-campaign-uses-fake-macos-utilities-lures-deliver-infostealers/\">ClickFix campaign uses fake macOS utilities lures to deliver infostealers</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-06T15:20:32.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+    "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+    "description": "<p>As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/\">Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-06T14:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-lake",
     "description": "Learn about the advantages of using data lake storage repositories, which can store terabytes and petabytes of data in its native, raw format.",
     "pubDate": "2026-04-20T19:51:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent ",
-    "link": "https://azure.microsoft.com/updates?id=560530",
-    "description": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals. Send telemetry directly from OpenTelemetry-instrumented applications by using the Azure Monitor Agent (AMA) to receive OTLP from your apps and export it to Azure Monitor",
-    "pubDate": "2026-04-20T17:30:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Compensating Transaction Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/compensating-transaction",
-    "description": "Use the Compensating Transaction pattern to undo work when a step of an eventually consistent operation fails in distributed systems.",
-    "pubDate": "2026-04-20T17:12:08.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Event Sourcing Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/event-sourcing",
-    "description": "Learn how to use an append-only store to record the full series of events that describe actions taken on data in a domain.",
-    "pubDate": "2026-04-20T17:12:08.000Z",
     "source": "Azure Architecture"
   }
 ]
