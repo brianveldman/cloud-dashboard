@@ -1,5 +1,12 @@
 [
   {
+    "title": "World Passkey Day: Advancing passwordless authentication",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
+    "description": "<p>This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/\">World Passkey Day: Advancing passwordless authentication</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-07T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure SQL update for early-May 2026 ",
     "link": "https://azure.microsoft.com/updates?id=560283",
     "description": "In early May 2026, the following update and\r\nenhancement was made to Azure SQL: \r\n Right‑size memory\r\n     for Business Critical Azure SQL Managed Instance to\r\n     improve performance without overprovisioning.  Learn more.  ",
@@ -89,20 +96,6 @@
     "description": "Azure\r\nElastic SAN datastores are now supported with AV64 SKUs, enabling higher-scale\r\nand higher-performance storage options for Azure VMware Solution deployments.",
     "pubDate": "2026-05-05T16:00:38.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
-    "description": "<p>Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/\">Copilot Cowork: From conversation to action across skills, integrations, and devices</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-05T10:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
-    "description": "<p>As AI and agents take on more of the execution, people have more agency than ever to unlock their ambition, direct what gets done, and own the outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/\">Microsoft 365 Copilot, human agency, and the opportunity for every organization</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-05T10:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service",
@@ -222,13 +215,6 @@
     "description": "Learn how to design an enterprise-hardened workload for Azure Data Factory in an Azure landing zone to build robust and efficient data pipelines.",
     "pubDate": "2026-05-01T15:12:40.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
-    "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-01T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
@@ -630,13 +616,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "AI-powered defense for an AI-accelerated threat landscape",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/",
-    "description": "<p>Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/\">AI-powered defense for an AI-accelerated threat landscape</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-22T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Microsoft Discovery: Advancing agentic R&D at scale",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
     "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -697,6 +676,27 @@
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-lake",
     "description": "Learn about the advantages of using data lake storage repositories, which can store terabytes and petabytes of data in its native, raw format.",
     "pubDate": "2026-04-20T19:51:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent ",
+    "link": "https://azure.microsoft.com/updates?id=560530",
+    "description": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals. Send telemetry directly from OpenTelemetry-instrumented applications by using the Azure Monitor Agent (AMA) to receive OTLP from your apps and export it to Azure Monitor",
+    "pubDate": "2026-04-20T17:30:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Compensating Transaction Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/compensating-transaction",
+    "description": "Use the Compensating Transaction pattern to undo work when a step of an eventually consistent operation fails in distributed systems.",
+    "pubDate": "2026-04-20T17:12:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Event Sourcing Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/event-sourcing",
+    "description": "Learn how to use an append-only store to record the full series of events that describe actions taken on data in a domain.",
+    "pubDate": "2026-04-20T17:12:08.000Z",
     "source": "Azure Architecture"
   }
 ]
