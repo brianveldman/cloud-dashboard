@@ -245,6 +245,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+    "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+    "description": "<p>As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/\">Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-30T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Extract and Analyze Call Center Data by Using Azure OpenAI, Speech Services, and Language Services",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI.",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-deployment-patterns",
     "description": "Evaluate four Microsoft Fabric deployment patterns to structure capacities, workspaces, and items based on your requirements.",
     "pubDate": "2026-04-20T16:32:48.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Basic Enterprise Integration on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/enterprise-integration/basic-enterprise-integration",
-    "description": "Learn how to implement a basic enterprise integration architecture on Azure by using Azure Logic Apps and Azure API Management.",
-    "pubDate": "2026-04-20T14:41:30.000Z",
     "source": "Azure Architecture"
   }
 ]
