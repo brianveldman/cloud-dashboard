@@ -1,5 +1,12 @@
 [
   {
+    "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
+    "description": "<p>New research exposes how prompt injection in AI agent frameworks can lead to remote code execution. Learn how these vulnerabilities work, what’s impacted, and how to secure your agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/\">When prompts become shells: RCE vulnerabilities in AI agent frameworks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-07T20:22:39.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West",
     "link": "https://azure.microsoft.com/updates?id=561814",
     "description": "Azure Premium SSD v2 is now available in all three\r\nAvailability Zones in Japan West.    Azure Premium SSD v2 disk, a next-generation general-purpose\r\nblock storage option for Azure virtual machines, offers\r\nsub-millisecond latencies and exceptional price pe",
@@ -77,13 +84,6 @@
     "source": "Security"
   },
   {
-    "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
-    "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-    "description": "<p>As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/\">Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-06T14:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
     "link": "https://azure.microsoft.com/updates?id=560948",
     "description": "Starting July 1, 2026, purchases and\r\nrenewals will no longer be available\r\nfor one-year Azure Reserved VM Instances for the Av2,\r\nAmv2, Bv1, D, Ds, Dv2, Dsv2, F, Fs, Fsv2, G, Gs, Ls, and Lsv2 VM\r\nseries. Additionally, one-year and three-year reserved instanc",
@@ -117,6 +117,20 @@
     "description": "Azure\r\nElastic SAN datastores are now supported with AV64 SKUs, enabling higher-scale\r\nand higher-performance storage options for Azure VMware Solution deployments.",
     "pubDate": "2026-05-05T16:00:38.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
+    "description": "<p>Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/\">Copilot Cowork: From conversation to action across skills, integrations, and devices</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
+    "description": "<p>As AI and agents take on more of the execution, people have more agency than ever to unlock their ambition, direct what gets done, and own the outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/\">Microsoft 365 Copilot, human agency, and the opportunity for every organization</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service",
@@ -236,6 +250,13 @@
     "description": "Learn how to design an enterprise-hardened workload for Azure Data Factory in an Azure landing zone to build robust and efficient data pipelines.",
     "pubDate": "2026-05-01T15:12:40.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+    "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-01T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
@@ -462,13 +483,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Simplifying AWS defense with Microsoft Sentinel UEBA",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
-    "description": "<p>Learn how Microsoft Sentinel UEBA helps defenders distinguish benign AWS activity from attacker behavior by enriching raw CloudTrail logs with clear, binary behavioral signals derived from baseline user, peer, and device behavior patterns.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/\">Simplifying AWS defense with Microsoft Sentinel UEBA</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-28T13:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service ",
     "link": "https://azure.microsoft.com/updates?id=561002",
     "description": "Foundry\r\nAgent Service now supports bring‑your‑own‑model\r\nscenarios, allowing agents to use AI models deployed and managed outside of\r\nFoundry, including models hosted behind enterprise AI gateways such as Azure\r\nAPI Management. This enables organizations to ",
@@ -684,19 +698,5 @@
     "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in GA (General Availability).  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp",
     "pubDate": "2026-04-21T18:15:14.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Choose a Natural Language Processing Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/natural-language-processing",
-    "description": "Choose a natural language processing technology for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
-    "pubDate": "2026-04-21T15:54:45.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "What Is a Data Lake?",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-lake",
-    "description": "Learn about the advantages of using data lake storage repositories, which can store terabytes and petabytes of data in its native, raw format.",
-    "pubDate": "2026-04-20T19:51:24.000Z",
-    "source": "Azure Architecture"
   }
 ]
