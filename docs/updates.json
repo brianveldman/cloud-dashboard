@@ -84,6 +84,13 @@
     "source": "Security"
   },
   {
+    "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+    "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+    "description": "<p>As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/\">Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-06T14:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
     "link": "https://azure.microsoft.com/updates?id=560948",
     "description": "Starting July 1, 2026, purchases and\r\nrenewals will no longer be available\r\nfor one-year Azure Reserved VM Instances for the Av2,\r\nAmv2, Bv1, D, Ds, Dv2, Dsv2, F, Fs, Fsv2, G, Gs, Ls, and Lsv2 VM\r\nseries. Additionally, one-year and three-year reserved instanc",
@@ -236,13 +243,6 @@
     "description": "Learn how to design an enterprise-hardened workload for Azure Data Factory in an Azure landing zone to build robust and efficient data pipelines.",
     "pubDate": "2026-05-01T15:12:40.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
-    "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-01T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
