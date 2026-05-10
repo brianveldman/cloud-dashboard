@@ -133,6 +133,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
+    "description": "<p>Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/\">Copilot Cowork: From conversation to action across skills, integrations, and devices</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
+    "description": "<p>As AI and agents take on more of the execution, people have more agency than ever to unlock their ambition, direct what gets done, and own the outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/\">Microsoft 365 Copilot, human agency, and the opportunity for every organization</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service",
     "link": "https://azure.microsoft.com/updates?id=561432",
     "description": "We have identified an issue impacting Multi-line (Multiple\r\nNumber Assignment) feature for Teams Phone enablement related to the\r\nusage of AlternateId in customer internal implementations for\r\nAzure Communication Services (ACS). AlternateId is an Microsoft i",
@@ -684,19 +698,5 @@
     "description": "Azure Monitor pipeline is now generally available.Azure Monitor pipeline provides a centralized control point for telemetry ingestion and transformation, designed specifically for secure, high‑throughput, enterprise‑scale scenarios. It's built on open-sou",
     "pubDate": "2026-04-21T20:30:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Generally Available: Azure NetApp Files advanced ransomware protection ",
-    "link": "https://azure.microsoft.com/updates?id=560188",
-    "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in GA (General Availability).  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp",
-    "pubDate": "2026-04-21T18:15:14.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose a Natural Language Processing Technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/natural-language-processing",
-    "description": "Choose a natural language processing technology for sentiment analysis, topic and language detection, key phrase extraction, and document categorization.",
-    "pubDate": "2026-04-21T15:54:45.000Z",
-    "source": "Azure Architecture"
   }
 ]
