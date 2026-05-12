@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Virtual Network Manager rule impact analyzer ",
+    "link": "https://azure.microsoft.com/updates?id=562010",
+    "description": "Azure Virtual Network Manager rule impact\r\nanalyzer is now generally available, empowering you\r\nto simulate the impact of your security admin rules on your virtual\r\nnetworks before deploying your rules. With this capability, you\r\ncan simulate the effects of y",
+    "pubDate": "2026-05-12T17:30:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Sentinel TI - improved pattern parsing & revoke reliability",
+    "link": "https://azure.microsoft.com/updates?id=561510",
+    "description": "We’ve rolled out two important improvements to enhance\r\naccuracy and control in pattern-based workflows: Revoke fix: Resolved an issue where revoke\r\nactions were not consistently applied, ensuring changes now take effect\r\nreliably and as intended. Support fo",
+    "pubDate": "2026-05-12T17:30:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Defending consumer web properties against modern DDoS attacks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
+    "description": "<p>Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/\">Defending consumer web properties against modern DDoS attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-12T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
     "description": "<p>Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/\">Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -343,13 +364,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "What’s new, updated, or recently released in Microsoft Security",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
-    "description": "<p>Stay ahead of emerging threats with Microsoft’s newest security innovations and updates, delivered through the In the Loop series.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/\">What’s new, updated, or recently released in Microsoft Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-04-30T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Get Started with Security Architecture Design",
     "link": "https://learn.microsoft.com/azure/architecture/security/security-get-started",
     "description": "Get an overview of Azure security technologies and security architecture design, including solution ideas and reference architectures.",
@@ -684,19 +698,5 @@
     "description": "Learn how to design KPIs and develop a dashboard for Azure Load Testing with custom JMeter plugins to simulate device behaviors.",
     "pubDate": "2026-04-22T13:38:29.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
-    "description": "<p>Azure Accelerate for Databases helps organizations modernize their databases and build AI-ready capabilities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/\">Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-22T00:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor pipeline",
-    "link": "https://azure.microsoft.com/updates?id=559886",
-    "description": "Azure Monitor pipeline is now generally available.Azure Monitor pipeline provides a centralized control point for telemetry ingestion and transformation, designed specifically for secure, high‑throughput, enterprise‑scale scenarios. It's built on open-sou",
-    "pubDate": "2026-04-21T20:30:49.000Z",
-    "source": "Azure Updates"
   }
 ]
