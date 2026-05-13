@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China",
+    "link": "https://azure.microsoft.com/updates?id=561564",
+    "description": "Azure Monitor dashboards with Grafana are generally available, bringing the power of Grafana’s open and composable visualization platform directly into the Azure Portal. This capability enables developers and operators to create, edit, and share Grafana d",
+    "pubDate": "2026-05-12T23:45:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
     "description": "<p>What if you could generate realistic attack telemetry on demand? Explore research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/\">Accelerating detection engineering using AI-assisted synthetic attack logs generation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -7,9 +14,9 @@
     "source": "Security"
   },
   {
-    "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system finds 16 new vulnerabilities",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-finds-16-new-vulnerabilities/",
-    "description": "<p>Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-finds-16-new-vulnerabilities/\">Defense at AI speed: Microsoft’s new multi-model agentic security system finds 16 new vulnerabilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
+    "description": "<p>Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/\">Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-12T22:00:00.000Z",
     "source": "Security"
   },
@@ -691,12 +698,5 @@
     "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-04-22T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Manage Virtual Machine Compliance",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/security/virtual-machine-compliance",
-    "description": "Manage virtual machine compliance without disrupting DevOps practices. Use Azure VM Image Builder and Azure Compute Gallery to minimize risk from system images.",
-    "pubDate": "2026-04-22T15:26:18.000Z",
-    "source": "Azure Architecture"
   }
 ]
