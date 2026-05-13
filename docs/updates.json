@@ -63,20 +63,6 @@
     "source": "Security"
   },
   {
-    "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
-    "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
-    "description": "<p>Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/\">Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-11T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
-    "description": "<p>AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/\">Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-11T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
     "description": "<p>Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation attempts.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/\">Active attack: Dirty Frag Linux vulnerability expands post-compromise risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -698,5 +684,19 @@
     "description": "You can now migrate your Azure Database for PostgreSQL server from a virtual network‑integrated deployment to a network configuration that supports Private Endpoint connectivity. If you originally deployed your server inside a virtual network but now want",
     "pubDate": "2026-04-22T17:30:14.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric ",
+    "link": "https://azure.microsoft.com/updates?id=560293",
+    "description": "New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence.You can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so ri",
+    "pubDate": "2026-04-22T17:30:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+    "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T16:00:00.000Z",
+    "source": "Azure Blog"
   }
 ]
