@@ -1,5 +1,19 @@
 [
   {
+    "title": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
+    "description": "<p>What if you could generate realistic attack telemetry on demand? Explore research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/\">Accelerating detection engineering using AI-assisted synthetic attack logs generation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-12T22:53:09.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system finds 16 new vulnerabilities",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-finds-16-new-vulnerabilities/",
+    "description": "<p>Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-finds-16-new-vulnerabilities/\">Defense at AI speed: Microsoft’s new multi-model agentic security system finds 16 new vulnerabilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-12T22:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Update: 99.99% uptime for all Azure Service Bus Premium namespaces in Availability Zone regions",
     "link": "https://azure.microsoft.com/updates?id=561947",
     "description": "Starting May 1, 2026, all Azure Service Bus Premium\r\nnamespaces deployed in regions with Availability\r\nZone support now qualify for a 99.99% uptime SLA.\r\nPremium is the tier customers choose for their most important workloads, and\r\nthis update brings the SLA ",
@@ -40,20 +54,6 @@
     "description": "<p>Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/\">Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-12T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
-    "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
-    "description": "<p>Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/\">Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-11T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
-    "description": "<p>AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/\">Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-11T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
@@ -266,13 +266,6 @@
     "source": "Security"
   },
   {
-    "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
-    "description": "<p>A high-severity Linux vulnerability, “Copy Fail” (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/\">CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-02T03:06:08.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
     "link": "https://azure.microsoft.com/updates?id=561392",
     "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
@@ -327,13 +320,6 @@
     "description": "<p>Microsoft Agent 365 helps you take control of agent sprawl as your control plane to observe, govern, and secure agents and their interactions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-05-01T15:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
-    "description": "<p>​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/\">Microsoft Agent 365, now generally available, expands capabilities and integrations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-01T15:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Access Foundry Models and Other Language Models Through a Gateway",
@@ -698,5 +684,19 @@
     "description": "New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence.You can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so ri",
     "pubDate": "2026-04-22T17:30:14.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+    "description": "<p>Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/\">Microsoft Discovery: Advancing agentic R&amp;D at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-22T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Manage Virtual Machine Compliance",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/security/virtual-machine-compliance",
+    "description": "Manage virtual machine compliance without disrupting DevOps practices. Use Azure VM Image Builder and Azure Compute Gallery to minimize risk from system images.",
+    "pubDate": "2026-04-22T15:26:18.000Z",
+    "source": "Azure Architecture"
   }
 ]
