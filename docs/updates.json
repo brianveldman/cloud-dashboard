@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Managed Identity Support for Azure Files SMB Is now GA",
+    "link": "https://azure.microsoft.com/updates?id=562350",
+    "description": "Azure Files now supports Managed Identities for SMB\r\naccess, enabling applications and services to authenticate without storing\r\nstatic credentials or account keys. This feature aligns with Zero Trust\r\nprinciples, allowing workloads to use Entra-issued token",
+    "pubDate": "2026-05-14T17:30:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Defense in depth for autonomous AI agents",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
+    "description": "<p>As AI agents gain autonomy, defense in depth must evolve, with application-layer design, identity, and human oversight at the center.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/\">Defense in depth for autonomous AI agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-14T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Kazuar: Anatomy of a nation-state botnet",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
     "description": "<p>Kazuar, a sophisticated malware family attributed to the Russian state actor Secret Blizzard, has been under constant development for years and continues to evolve in support of espionage-focused operations. Over time, Kazuar has expanded from a relatively traditional backdoor into a highly modular peer-to-peer (P2P) botnet ecosystem designed to enable persistent, covert access to target environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/\">Kazuar: Anatomy of a nation-state botnet</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -19,6 +33,13 @@
     "description": "Azure Container Apps Express is now available in public preview. It is the simplest and fastest way to launch and scale powerful applications on Azure, from zero to hyperscale, without infrastructure decisions. It represents the first Azure compute platfo",
     "pubDate": "2026-05-13T17:30:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+    "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+    "description": "<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/\">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-13T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China",
@@ -54,6 +75,13 @@
     "description": "Confidential computing for Azure Service Bus Premium is now\r\ngenerally available in Korea Central and UAE North. This\r\ncapability enables Service Bus to process messages inside hardware-based\r\ntrusted execution environments (TEEs), adding protection for data",
     "pubDate": "2026-05-12T18:30:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
+    "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+    "description": "<p>Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/\">Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-12T18:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Virtual Network Manager rule impact analyzer ",
@@ -173,13 +201,6 @@
     "description": "Azure Cosmos DB now offers spherical quantization in public preview to help you achieve faster vector indexing with higher recall and accuracy at scale. Spherical quantization is an advanced vector compression technique designed to preserve search quality",
     "pubDate": "2026-05-06T18:30:28.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/",
-    "description": "<p>Microsoft is excited to be named an Overall Leader, and the Market Leader in the Kuppinger Cole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report, as we see automation and AI as core components of the future of cybersecurity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/\">​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-06T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=560288",
     "description": "You can now\r\ndeploy Azure Database for PostgreSQL flexible server in the Denmark\r\nEast Azure region. Learn\r\nmore.",
     "pubDate": "2026-04-22T17:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Dynamic data masking with Azure Cosmos DB ",
-    "link": "https://azure.microsoft.com/updates?id=559633",
-    "description": "Dynamic data masking (DDM) is a\r\nserver-side, policy-based security feature in Azure Cosmos DB that\r\nhelps your organization protect sensitive data from unauthorized\r\naccess. DDM dynamically masks data for nonprivileged users, ensuring that\r\nsensitive informa",
-    "pubDate": "2026-04-22T17:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Logical replication slot sync Status metric for Azure PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=513249",
-    "description": "You can now monitor the synchronization status of\r\nyour logical replication slots in Azure Database for PostgreSQL – Flexible\r\nServer using the new logical_replication_slot_sync_status metric, now in\r\npublic preview. This Azure Monitor metric shows whether e",
-    "pubDate": "2026-04-22T17:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Premium SSD v2 for Azure Database for PostgreSQL  ",
-    "link": "https://azure.microsoft.com/updates?id=560336",
-    "description": "We are excited to announce the general availability of Premium SSD v2 for Azure Database for PostgreSQL flexible server. With Premium SSD v2, you can achieve up to four times higher IOPS, significantly lower latency, and better price-performance for I/O-i",
-    "pubDate": "2026-04-22T17:30:14.000Z",
     "source": "Azure Updates"
   }
 ]
