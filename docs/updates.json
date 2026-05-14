@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Support for workloads with large files in Azure NetApp Files ",
+    "link": "https://azure.microsoft.com/updates?id=561722",
+    "description": "To support seamless migration and operation of workloads\r\nthat use large files including Azure VMware Solution (AVS) virtual machines\r\nwith large VMDK disks, Azure\r\nNetApp Files now supports file sizes of up to 64 TiB for regular volumes. This enhancement\r\nen",
+    "pubDate": "2026-05-14T18:00:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Managed Identity Support for Azure Files SMB Is now GA",
     "link": "https://azure.microsoft.com/updates?id=562350",
     "description": "Azure Files now supports Managed Identities for SMB\r\naccess, enabling applications and services to authenticate without storing\r\nstatic credentials or account keys. This feature aligns with Zero Trust\r\nprinciples, allowing workloads to use Entra-issued token",
@@ -35,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From commit to cloud: Powering what’s next for PostgreSQL",
-    "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-    "description": "<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/\">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-13T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China",
     "link": "https://azure.microsoft.com/updates?id=561564",
     "description": "Azure Monitor dashboards with Grafana are generally available, bringing the power of Grafana’s open and composable visualization platform directly into the Azure Portal. This capability enables developers and operators to create, edit, and share Grafana d",
@@ -75,13 +75,6 @@
     "description": "Confidential computing for Azure Service Bus Premium is now\r\ngenerally available in Korea Central and UAE North. This\r\ncapability enables Service Bus to process messages inside hardware-based\r\ntrusted execution environments (TEEs), adding protection for data",
     "pubDate": "2026-05-12T18:30:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-    "description": "<p>Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/\">Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-12T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Virtual Network Manager rule impact analyzer ",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Denmark East  ",
     "link": "https://azure.microsoft.com/updates?id=560288",
     "description": "You can now\r\ndeploy Azure Database for PostgreSQL flexible server in the Denmark\r\nEast Azure region. Learn\r\nmore.",
+    "pubDate": "2026-04-22T17:45:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Dynamic data masking with Azure Cosmos DB ",
+    "link": "https://azure.microsoft.com/updates?id=559633",
+    "description": "Dynamic data masking (DDM) is a\r\nserver-side, policy-based security feature in Azure Cosmos DB that\r\nhelps your organization protect sensitive data from unauthorized\r\naccess. DDM dynamically masks data for nonprivileged users, ensuring that\r\nsensitive informa",
     "pubDate": "2026-04-22T17:45:10.000Z",
     "source": "Azure Updates"
   }
