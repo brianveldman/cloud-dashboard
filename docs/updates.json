@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+    "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+    "description": "<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/\">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-13T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China",
     "link": "https://azure.microsoft.com/updates?id=561564",
     "description": "Azure Monitor dashboards with Grafana are generally available, bringing the power of Grafana’s open and composable visualization platform directly into the Azure Portal. This capability enables developers and operators to create, edit, and share Grafana d",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Dynamic data masking with Azure Cosmos DB ",
     "link": "https://azure.microsoft.com/updates?id=559633",
     "description": "Dynamic data masking (DDM) is a\r\nserver-side, policy-based security feature in Azure Cosmos DB that\r\nhelps your organization protect sensitive data from unauthorized\r\naccess. DDM dynamically masks data for nonprivileged users, ensuring that\r\nsensitive informa",
-    "pubDate": "2026-04-22T17:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Logical replication slot sync Status metric for Azure PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=513249",
-    "description": "You can now monitor the synchronization status of\r\nyour logical replication slots in Azure Database for PostgreSQL – Flexible\r\nServer using the new logical_replication_slot_sync_status metric, now in\r\npublic preview. This Azure Monitor metric shows whether e",
     "pubDate": "2026-04-22T17:45:10.000Z",
     "source": "Azure Updates"
   }
