@@ -42,6 +42,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
+    "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+    "description": "<p>Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/\">Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-12T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Virtual Network Manager rule impact analyzer ",
     "link": "https://azure.microsoft.com/updates?id=562010",
     "description": "Azure Virtual Network Manager rule impact\r\nanalyzer is now generally available, empowering you\r\nto simulate the impact of your security admin rules on your virtual\r\nnetworks before deploying your rules. With this capability, you\r\ncan simulate the effects of y",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=513249",
     "description": "You can now monitor the synchronization status of\r\nyour logical replication slots in Azure Database for PostgreSQL – Flexible\r\nServer using the new logical_replication_slot_sync_status metric, now in\r\npublic preview. This Azure Monitor metric shows whether e",
     "pubDate": "2026-04-22T17:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Premium SSD v2 for Azure Database for PostgreSQL  ",
-    "link": "https://azure.microsoft.com/updates?id=560336",
-    "description": "We are excited to announce the general availability of Premium SSD v2 for Azure Database for PostgreSQL flexible server. With Premium SSD v2, you can achieve up to four times higher IOPS, significantly lower latency, and better price-performance for I/O-i",
-    "pubDate": "2026-04-22T17:30:14.000Z",
     "source": "Azure Updates"
   }
 ]
