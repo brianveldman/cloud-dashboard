@@ -140,6 +140,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/",
+    "description": "<p>See what's new in Copilot Studio, April 2026: updates to workflows, increased control over agent operations, and an expanded agent usage estimator.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/\">New and improved: Agent governance, intelligent workflows, and connected app experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-11T17:25:12.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
     "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
     "description": "<p>AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/\">Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=560919",
     "description": "Capacity Autoscaling support is now generally available on\r\nElastic SAN. Customers can avoid the constraints of overprovisioning and manual\r\ncapacity management by setting a policy to automatically expand SAN Capacity\r\nbased on usage. Autoscaling provides th",
     "pubDate": "2026-04-23T18:30:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
-    "link": "https://azure.microsoft.com/updates?id=560358",
-    "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
-    "pubDate": "2026-04-23T16:45:55.000Z",
     "source": "Azure Updates"
   }
 ]
