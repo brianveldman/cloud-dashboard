@@ -1,5 +1,40 @@
 [
   {
+    "title": "Active - Microsoft Fabric / Power BI / Power BI Embedded - Degraded performance in multiple regions",
+    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
+    "description": "Impact Statement: Starting from 13:59 UTC on 18 May 2026, customers using Microsoft Fabric - including Power BI and PowerBI Embedded - may be experiencing delays or failures while interacting with the service. This issue is affecting multiple regions in the Azure public cloud. The Microsoft Fabric service status page is being updated at: https://support.fabric.microsoft.com/support/. Current Status: We identified that an unexpected increase in request traffic is causing a portion of the infrastructure to operate below optimal levels. Our on-call engineering teams have identified what we believe to be the relevant contributing factors, and have started to apply mitigations. We are initially applying these in a single region to help validate their effectiveness, before applying them more broadly. We are not able to provide a revised estimate of when this issue will be resolved - but the next update will be provided by 19:30 UTC (in approximately 60 minutes) or sooner if we have more to share.",
+    "pubDate": "2026-05-18T18:33:10.000Z",
+    "source": "Azure Status"
+  },
+  {
+    "title": "[Launched] Generally Available: Application Insights Auto-instrumentation for Azure Kubernetes Service apps",
+    "link": "https://azure.microsoft.com/updates?id=562049",
+    "description": "Azure Monitor Application Insights auto-instrumentation for Azure Kubernetes Service (AKS) apps is now generally available, making it easier to monitor your applications without modifying source code. With just a few configuration steps, you can automatic",
+    "pubDate": "2026-05-18T18:00:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched]  Generally Available: Auto activation for SaaS subscriptions in Microsoft Marketplace",
+    "link": "https://azure.microsoft.com/updates?id=561771",
+    "description": "Auto activation for SaaS solutions is now available in Microsoft Marketplace, making it faster and easier to get the value from your SaaS products. When auto activation is enabled, your subscription—and billing cycle—begins the moment you complete your pu",
+    "pubDate": "2026-05-18T18:00:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Front Door WebSocket",
+    "link": "https://azure.microsoft.com/updates?id=562548",
+    "description": "Azure Front Door Standard and Premium now support WebSocket in general availability. WebSocket is enabled by default and requires no additional configuration. WebSocket provides full-duplex communication over a single, long-lived TCP connection, enabling ",
+    "pubDate": "2026-05-18T17:45:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "How to better protect your growing business in an AI-powered world",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/",
+    "description": "<p>See how built-in security helps keep your growing business running, protect customer trust, and support growth.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/\">How to better protect your growing business in an AI-powered world</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-18T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements",
     "link": "https://azure.microsoft.com/updates?id=562533",
     "description": "Role names in Microsoft Foundry have been updated to align with the product brand. The following built-in roles are now renamed:Azure AI Account Owner → Foundry Account OwnerAzure AI Owner → Foundry OwnerAzure AI User → Foundry UserAzure AI Project Manage",
@@ -180,13 +215,6 @@
     "description": "Azure has announced the general availability of the new Dl/D/E v7 Virtual Machines, powered by the latest Intel® Xeon® 6 (Granite Rapids) processors. These general‑purpose and memory‑optimized VMs deliver up to 20% better general compute performance compa",
     "pubDate": "2026-05-07T18:00:38.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "World Passkey Day: Advancing passwordless authentication",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
-    "description": "<p>This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/\">World Passkey Day: Advancing passwordless authentication</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-07T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Azure SQL update for early-May 2026 ",
@@ -670,33 +698,5 @@
     "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
     "pubDate": "2026-04-24T15:22:01.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "DevSecOps on Azure Kubernetes Service (AKS)",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
-    "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
-    "pubDate": "2026-04-24T15:18:58.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose a Compute Option for Microservices",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/design/compute-options",
-    "description": "Choose an Azure compute platform for a microservices architecture. Compare options based on interservice communication, independent scaling, and deployability.",
-    "pubDate": "2026-04-24T14:53:20.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-    "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-    "description": "<p>OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/\">OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-04-23T22:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Capacity Autoscaling on Azure Elastic SAN  ",
-    "link": "https://azure.microsoft.com/updates?id=560919",
-    "description": "Capacity Autoscaling support is now generally available on\r\nElastic SAN. Customers can avoid the constraints of overprovisioning and manual\r\ncapacity management by setting a policy to automatically expand SAN Capacity\r\nbased on usage. Autoscaling provides th",
-    "pubDate": "2026-04-23T18:30:11.000Z",
-    "source": "Azure Updates"
   }
 ]
