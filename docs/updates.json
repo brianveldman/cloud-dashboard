@@ -2,8 +2,8 @@
   {
     "title": "Active - Microsoft Fabric / Power BI / Power BI Embedded - Degraded performance in multiple regions",
     "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-    "description": "Impact Statement: Starting from 13:59 UTC on 18 May 2026, customers using Microsoft Fabric - including Power BI and PowerBI Embedded - may be experiencing delays or failures while interacting with the service. This issue is affecting multiple regions in the Azure public cloud. The Microsoft Fabric service status page is being updated at: https://support.fabric.microsoft.com/support/. Current Status: We identified that an unexpected increase in request traffic is causing a portion of the infrastructure to operate below optimal levels. Our on-call engineering teams have identified what we believe to be the relevant contributing factors, and have started to apply mitigations. We are initially applying these in a single region to help validate their effectiveness, before applying them more broadly. We are not able to provide a revised estimate of when this issue will be resolved - but the next update will be provided by 19:30 UTC (in approximately 60 minutes) or sooner if we have more to share.",
-    "pubDate": "2026-05-18T18:33:10.000Z",
+    "description": "Impact Statement: Starting from 13:59 UTC on 18 May 2026, customers using Microsoft Fabric - including Power BI and PowerBI Embedded - may be experiencing delays or failures while interacting with the service. This issue is affecting multiple regions in the Azure public cloud. Current Status: For the latest details, please refer to the Microsoft Fabric service status page: https://support.fabric.microsoft.com/support/",
+    "pubDate": "2026-05-18T19:22:52.000Z",
     "source": "Azure Status"
   },
   {
