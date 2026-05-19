@@ -1,5 +1,47 @@
 [
   {
+    "title": "[In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards",
+    "link": "https://azure.microsoft.com/updates?id=561049",
+    "description": "Azure App Configuration now supports a scorecards capability in public preview. Scorecards provide a telemetry-driven view of how feature flag variants are performing in production, helping teams identify measurable changes after a rollout without manuall",
+    "pubDate": "2026-05-19T17:15:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure NetApp Files cache volumes ",
+    "link": "https://azure.microsoft.com/updates?id=562259",
+    "description": "Azure NetApp Files cache volumes is now Generally Available. Azure NetApp Files now support cache volumes, which are cloud-based caches of an external origin volume, containing only the most actively accessed data on the volume. This brings data and files",
+    "pubDate": "2026-05-19T17:00:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Virtual Network updates – default limits increased for NSGs and route tables ",
+    "link": "https://azure.microsoft.com/updates?id=562695",
+    "description": "Azure Virtual Network has increased the default platform limits for network security groups (NSGs) and route tables. The new defaults are now 2,000 security rules per NSG, 6,000 addresses or ports per NSG rule, 1,000 routes per route table, and 600 route ",
+    "pubDate": "2026-05-19T16:45:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Network Watcher rule impact analyser ",
+    "link": "https://azure.microsoft.com/updates?id=562690",
+    "description": "Azure Network Watcher rule impact analyzer is now generally available, enabling you to assess the potential impact of your network security group (NSG) or security admin rule changes on live network traffic before applying them. With this capability, you ",
+    "pubDate": "2026-05-19T16:45:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Mock runs for Azure Storage Actions – Validate before you execute",
+    "link": "https://azure.microsoft.com/updates?id=559494",
+    "description": "Azure\r\nStorage Actions, our fully managed platform that transforms how\r\norganizations automate data management tasks for Azure Blob and Data Lake\r\nStorage, now supports mock runs - a new way to simulate task execution at full\r\nscale without modifying any data",
+    "pubDate": "2026-05-19T16:00:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Exposing Fox Tempest: A malware-signing service operation",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
+    "description": "<p>Fox Tempest is a financially motivated threat actor operating a malware‑signing‑as‑a‑service (MSaaS) used by other cybercriminals, including Vanilla Tempest and Storm groups, to more effectively distribute malicious code, including ransomware.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/\">Exposing Fox Tempest: A malware-signing service operation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-19T15:07:01.000Z",
+    "source": "Security"
+  },
+  {
     "title": "How Storm-2949 turned a compromised identity into a cloud-wide breach",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/",
     "description": "<p>Storm-2949 turned stolen credentials into a cloud-wide breach, moving from identity compromise to large-scale data theft without using malware. This incident shows how threat actors can exploit trusted systems to operate undetected.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/\">How Storm-2949 turned a compromised identity into a cloud-wide breach</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -187,13 +229,6 @@
     "description": "<p>AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/\">Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-05-11T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
-    "description": "<p>Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation attempts.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/\">Active attack: Dirty Frag Linux vulnerability expands post-compromise risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-08T17:12:46.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West",
@@ -663,40 +698,5 @@
     "description": "WireGuard in‑transit encryption is now generally\r\navailable for Azure Kubernetes Service (AKS) clusters using Azure CNI\r\npowered by Cilium and Advanced Container Networking Services (ACNS). This capability enables transparent, node‑level encryption\r\nfor inte",
     "pubDate": "2026-04-24T18:15:17.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Support for .NET 8 (LTS) ends on November 10, 2026—upgrade your apps to .NET 10 (LTS) ",
-    "link": "https://azure.microsoft.com/updates?id=558033",
-    "description": "On November 10, 2026, support for .NET 8 (LTS)\r\nwill end. Your apps that are hosted on App Service will continue to run,\r\nbut security updates will no longer\r\nbe available and we'll no longer provide customer service\r\nfor .NET 8 (LTS). Required action: To avo",
-    "pubDate": "2026-04-24T17:45:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Cascading read replicas in Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=560939",
-    "description": "Cascading read replicas are\r\nnow generally available in Azure Database for PostgreSQL, giving you greater\r\nflexibility to scale read‑intensive workloads. You can now create\r\nread replicas from existing ones, creating up to 30 across two\r\nlevels of replication",
-    "pubDate": "2026-04-24T16:45:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Elastic SAN support for CRC Protection ",
-    "link": "https://azure.microsoft.com/updates?id=560889",
-    "description": "Azure Elastic SAN now supports CRC‑32C checksum verification when enabled on the client for connections to Elastic SAN volumes. CRC protection can be enabled at creation time or on an existing Elastic SAN.Elastic SAN also provides a volume group–level enf",
-    "pubDate": "2026-04-24T16:45:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Sandbox",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/azure-sandbox/azure-sandbox",
-    "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
-    "pubDate": "2026-04-24T15:22:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "DevSecOps on Azure Kubernetes Service (AKS)",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
-    "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
-    "pubDate": "2026-04-24T15:18:58.000Z",
-    "source": "Azure Architecture"
   }
 ]
