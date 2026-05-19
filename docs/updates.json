@@ -1,10 +1,10 @@
 [
   {
-    "title": "Active - Microsoft Fabric / Power BI / Power BI Embedded - Degraded performance in multiple regions",
-    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-    "description": "Impact Statement: Starting from 13:59 UTC on 18 May 2026, customers using Microsoft Fabric - including Power BI and PowerBI Embedded - may be experiencing delays or failures while interacting with the service. This issue is affecting multiple regions in the Azure public cloud. Current Status: For the latest details, please refer to the Microsoft Fabric service status page: https://support.fabric.microsoft.com/support/",
-    "pubDate": "2026-05-18T19:22:52.000Z",
-    "source": "Azure Status"
+    "title": "How Storm-2949 turned a compromised identity into a cloud-wide breach",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/",
+    "description": "<p>Storm-2949 turned stolen credentials into a cloud-wide breach, moving from identity compromise to large-scale data theft without using malware. This incident shows how threat actors can exploit trusted systems to operate undetected.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/\">How Storm-2949 turned a compromised identity into a cloud-wide breach</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-18T22:42:50.000Z",
+    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Application Insights Auto-instrumentation for Azure Kubernetes Service apps",
@@ -193,13 +193,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
     "description": "<p>Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation attempts.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/\">Active attack: Dirty Frag Linux vulnerability expands post-compromise risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-08T17:12:46.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
-    "description": "<p>New research exposes how prompt injection in AI agent frameworks can lead to remote code execution. Learn how these vulnerabilities work, what’s impacted, and how to secure your agents.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/\">When prompts become shells: RCE vulnerabilities in AI agent frameworks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-07T20:22:39.000Z",
     "source": "Security"
   },
   {
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/azure-sandbox/azure-sandbox",
     "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
     "pubDate": "2026-04-24T15:22:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "DevSecOps on Azure Kubernetes Service (AKS)",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
+    "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
+    "pubDate": "2026-04-24T15:18:58.000Z",
     "source": "Azure Architecture"
   }
 ]
