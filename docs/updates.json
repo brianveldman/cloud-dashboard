@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Event Grid Subscription Identifiers",
+    "link": "https://azure.microsoft.com/updates?id=562970",
+    "description": "Gain more flexibility in message handling with Subscription Identifiers by enabling subscribers to identify which subscription triggered delivery,\r\n     helping streamline client-side processing in more advanced MQTT\r\n     scenarios.  Together, these enhanc",
+    "pubDate": "2026-05-20T15:15:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Event Grid releases for April 2026",
+    "link": "https://azure.microsoft.com/updates?id=562240",
+    "description": "Azure Event Grid namespaces are expanding MQTT capabilities\r\nto help organizations build more connected, scalable, and MQTT V5 standards-based\r\nreal-time solutions. These updates make it easier to deliver responsive device\r\nexperiences, simplify backend inte",
+    "pubDate": "2026-05-20T15:15:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards",
     "link": "https://azure.microsoft.com/updates?id=561049",
     "description": "Azure App Configuration now supports a scorecards capability in public preview. Scorecards provide a telemetry-driven view of how feature flag variants are performing in production, helping teams identify measurable changes after a rollout without manuall",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Hosted Agents in Foundry Agent Service ",
     "link": "https://azure.microsoft.com/updates?id=560997",
     "description": "Hosted agents run in an isolated execution sandbox\r\nthat provides a dedicated, secure runtime per agent session. Sessions start\r\nwith a clean environment with no shared state between sessions, no\r\ncross-session data leakage, and strong compute boundaries bet",
-    "pubDate": "2026-04-24T18:15:17.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Foundry Toolkit for Visual Studio Code (formerly AI Toolkit for VS Code)",
-    "link": "https://azure.microsoft.com/updates?id=560987",
-    "description": "Foundry\r\nToolkit for VS Code is now generally available and provides VS Code tooling for\r\nMicrosoft Agent Framework, including agent creation from templates or via\r\nGitHub Copilot, local test/debug with visualization and traces, and direct\r\ndeployment to Foun",
-    "pubDate": "2026-04-24T18:15:17.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: WireGuard In‑Transit Encryption for Azure Kubernetes Service (AKS)",
-    "link": "https://azure.microsoft.com/updates?id=560015",
-    "description": "WireGuard in‑transit encryption is now generally\r\navailable for Azure Kubernetes Service (AKS) clusters using Azure CNI\r\npowered by Cilium and Advanced Container Networking Services (ACNS). This capability enables transparent, node‑level encryption\r\nfor inte",
     "pubDate": "2026-04-24T18:15:17.000Z",
     "source": "Azure Updates"
   }
