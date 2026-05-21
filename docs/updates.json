@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: User Groups and IP address pools for P2S connections",
+    "link": "https://azure.microsoft.com/updates?id=564460",
+    "description": "User Groups and IP Address Pools for Point-to-Site\r\nconnections in VPN Gateway enable customers to assign distinct IP address pools\r\nto remote users based on their credentials. With this capability, customers can organize remote users\r\ninto separate groups a",
+    "pubDate": "2026-05-21T18:45:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: TLS/SSL certificate support for Azure Functions Flex Consumption ",
+    "link": "https://azure.microsoft.com/updates?id=562808",
+    "description": "Flex Consumption introduces a site-scoped certificate model in\r\npublic preview in all the regions where Flex Consumption is available. Unlike\r\nwebspace-scoped certificates on other hosting plans which are shared across\r\napps in the same region + resource gro",
+    "pubDate": "2026-05-21T18:45:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "What’s new in Microsoft Security: May 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
     "description": "<p>Microsoft Security’s latest updates extend visibility, control, and protection across expanding ecosystems as organizations accelerate AI adoption.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/\">What’s new in Microsoft Security: May 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,13 +75,6 @@
     "description": "Azure Site-to-Site VPN with digital certificate\r\nauthentication provides an alternative to the traditional pre-shared key (PSK)\r\nmodel by using a certificate-based asymmetric trust model. In this\r\nconfiguration, Azure and the on-premises VPN device authentic",
     "pubDate": "2026-05-20T16:45:53.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-    "description": "<p>Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/\">Azure IaaS: Deploy high-performance workloads with a system-level approach</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-20T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Securing the gaming culture of cultures",
@@ -691,12 +698,5 @@
     "description": "Learn about verifying the connection to a container registry. This step is part of the triage practice for Azure Kubernetes Service (AKS) clusters.",
     "pubDate": "2026-04-28T17:52:45.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
-    "link": "https://azure.microsoft.com/updates?id=561148",
-    "description": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
-    "pubDate": "2026-04-28T17:45:04.000Z",
-    "source": "Azure Updates"
   }
 ]
