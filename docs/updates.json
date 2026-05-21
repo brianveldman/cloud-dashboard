@@ -84,6 +84,13 @@
     "source": "Security"
   },
   {
+    "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
+    "description": "<p>We are excited to announce the general availability (GA) of Entra-Only identities for Azure Files SMB. With native Microsoft Entra ID authentication, organizations can now grant secure, identity-based access to SMB file shares using cloud-native-only identities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/\">Azure Files Entra-Only identities: Advancing cloud-native identity and security</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-19T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards",
     "link": "https://azure.microsoft.com/updates?id=561049",
     "description": "Azure App Configuration now supports a scorecards capability in public preview. Scorecards provide a telemetry-driven view of how feature flag variants are performing in production, helping teams identify measurable changes after a rollout without manuall",
@@ -691,12 +698,5 @@
     "description": "Managing IP address space across multiple regions can be difficult to scale and prone to configuration mistakes.With cross-region IPAM pool association, you can associate a single IPAM pool with virtual networks across multiple Azure regions. This helps c",
     "pubDate": "2026-04-28T17:45:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Compare AWS and Azure Accounts",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/accounts",
-    "description": "Learn the differences between Azure and AWS accounts and subscriptions. Understand the types of administrator accounts in Azure.",
-    "pubDate": "2026-04-28T17:44:06.000Z",
-    "source": "Azure Architecture"
   }
 ]
