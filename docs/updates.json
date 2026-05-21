@@ -1,5 +1,12 @@
 [
   {
+    "title": "What’s new in Microsoft Security: May 2026",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
+    "description": "<p>Microsoft Security’s latest updates extend visibility, control, and protection across expanding ecosystems as organizations accelerate AI adoption.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/\">What’s new in Microsoft Security: May 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-21T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: SQL Server on Azure VMs in Malaysia West, Indonesia Central ",
     "link": "https://azure.microsoft.com/updates?id=562094",
     "description": "SQL Server on Azure Virtual Machines is now generally available in the Malaysia West and Indonesia Central Azure regions. With this regional expansion, you can deploy and manage SQL Server workloads closer to your users while helping meet data residency r",
@@ -54,6 +61,13 @@
     "description": "Azure Site-to-Site VPN with digital certificate\r\nauthentication provides an alternative to the traditional pre-shared key (PSK)\r\nmodel by using a certificate-based asymmetric trust model. In this\r\nconfiguration, Azure and the on-premises VPN device authentic",
     "pubDate": "2026-05-20T16:45:53.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+    "description": "<p>Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/\">Azure IaaS: Deploy high-performance workloads with a system-level approach</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-20T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Securing the gaming culture of cultures",
@@ -236,13 +250,6 @@
     "description": "Azure Monitor dashboards with Grafana are generally available, bringing the power of Grafana’s open and composable visualization platform directly into the Azure Portal. This capability enables developers and operators to create, edit, and share Grafana d",
     "pubDate": "2026-05-12T23:45:17.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
-    "description": "<p>What if you could generate realistic attack telemetry on demand? Explore research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/\">Accelerating detection engineering using AI-assisted synthetic attack logs generation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-12T22:53:09.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Update: 99.99% uptime for all Azure Service Bus Premium namespaces in Availability Zone regions",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
     "link": "https://azure.microsoft.com/updates?id=561148",
     "description": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
-    "pubDate": "2026-04-28T17:45:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Cross-region IPAM pool association in Azure Virtual Network Manager",
-    "link": "https://azure.microsoft.com/updates?id=561067",
-    "description": "Managing IP address space across multiple regions can be difficult to scale and prone to configuration mistakes.With cross-region IPAM pool association, you can associate a single IPAM pool with virtual networks across multiple Azure regions. This helps c",
     "pubDate": "2026-04-28T17:45:04.000Z",
     "source": "Azure Updates"
   }
