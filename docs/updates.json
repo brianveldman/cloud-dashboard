@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Entra-only identities with Azure Files",
+    "link": "https://azure.microsoft.com/updates?id=562359",
+    "description": "Azure Files announces general availability of Entra-only identities for SMB\r\naccess, enabling organizations to securely access file shares using\r\ncloud-native identities without requiring Active Directory or hybrid identity\r\ninfrastructure. With Microsoft En",
+    "pubDate": "2026-05-21T22:00:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure NetApp Files object REST API ",
+    "link": "https://azure.microsoft.com/updates?id=562254",
+    "description": "The Object REST API (an S3-compatible REST API) on Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services, enabling you to use your existing data in new ways. With the Object REST API, you can seamlessly integr",
+    "pubDate": "2026-05-21T21:45:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement:  TLS 1.0 and TLS 1.1 in Azure App Service, Azure Functions, and Azure Logic Apps",
+    "link": "https://azure.microsoft.com/updates?id=557852",
+    "description": "As part of\r\nAzure’s ongoing security improvements, App Service, Functions, and Logic Apps\r\nwill no longer accept connections using TLS 1.0 or TLS 1.1 after May 31, 2027.\r\nAny client, application, or service that continues to use these legacy TLS\r\nversions wil",
+    "pubDate": "2026-05-21T21:45:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: User Groups and IP address pools for P2S connections",
     "link": "https://azure.microsoft.com/updates?id=564460",
     "description": "User Groups and IP Address Pools for Point-to-Site\r\nconnections in VPN Gateway enable customers to assign distinct IP address pools\r\nto remote users based on their credentials. With this capability, customers can organize remote users\r\ninto separate groups a",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-machine-learning",
     "description": "Learn approaches for AI and machine learning multitenancy, including tenant isolation, model training, inference, and how to use Foundry Tools.",
     "pubDate": "2026-04-28T20:06:11.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure for Google Cloud professionals",
-    "link": "https://learn.microsoft.com/azure/architecture//gcp-professional",
-    "description": "Learn the basics of Microsoft Azure accounts, platform, and services, and key similarities and differences between the Google Cloud and Azure platforms.",
-    "pubDate": "2026-04-28T18:20:55.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a Hybrid Domain Name System (DNS) Solution by Using Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
-    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
-    "pubDate": "2026-04-28T18:18:29.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "AKS triage—Container registry connectivity",
-    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-triage-container-registry",
-    "description": "Learn about verifying the connection to a container registry. This step is part of the triage practice for Azure Kubernetes Service (AKS) clusters.",
-    "pubDate": "2026-04-28T17:52:45.000Z",
     "source": "Azure Architecture"
   }
 ]
