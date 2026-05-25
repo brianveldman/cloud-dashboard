@@ -1,12 +1,5 @@
 [
   {
-    "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
-    "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
-    "description": "<p>With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/\">Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-22T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
     "description": "<p>Microsoft has been recognized as a Leader in The Forrester Wave™: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/\">Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -26,13 +19,6 @@
     "description": "<p>How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/\">Microsoft Security success stories: How St. Luke&#8217;s and ManpowerGroup are securing AI foundations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-22T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
-    "description": "<p>Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/\">Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-22T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Entra-only identities with Azure Files",
@@ -133,13 +119,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-    "description": "<p>Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/\">Azure IaaS: Deploy high-performance workloads with a system-level approach</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-20T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Securing the gaming culture of cultures",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/",
     "description": "<p>Read about the unique challenges and rewards of securing gaming platforms and how to better protect gaming communities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/\">Securing the gaming culture of cultures</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -166,13 +145,6 @@
     "description": "<p>The AI systems shipping inside enterprises today are fundamentally different from the ones we were building even two years ago, because they have moved well past answering questions and into accessing your email, retrieving records from your CRM, writing and executing code, and taking actions on your behalf across dozens of connected systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/\">Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-20T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
-    "description": "<p>We are excited to announce the general availability (GA) of Entra-Only identities for Azure Files SMB. With native Microsoft Entra ID authentication, organizations can now grant secure, identity-based access to SMB file shares using cloud-native-only identities.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/\">Azure Files Entra-Only identities: Advancing cloud-native identity and security</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-19T19:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards",
@@ -287,13 +259,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From commit to cloud: Powering what’s next for PostgreSQL",
-    "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-    "description": "<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/\">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-13T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China",
     "link": "https://azure.microsoft.com/updates?id=561564",
     "description": "Azure Monitor dashboards with Grafana are generally available, bringing the power of Grafana’s open and composable visualization platform directly into the Azure Portal. This capability enables developers and operators to create, edit, and share Grafana d",
@@ -315,13 +280,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-    "description": "<p>Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/\">Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-12T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Virtual Network Manager rule impact analyzer ",
     "link": "https://azure.microsoft.com/updates?id=562010",
     "description": "Azure Virtual Network Manager rule impact\r\nanalyzer is now generally available, empowering you\r\nto simulate the impact of your security admin rules on your virtual\r\nnetworks before deploying your rules. With this capability, you\r\ncan simulate the effects of y",
@@ -336,25 +294,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
-    "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
-    "description": "<p>Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/\">Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-11T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/",
     "description": "<p>See what's new in Copilot Studio, April 2026: updates to workflows, increased control over agent operations, and an expanded agent usage estimator.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/\">New and improved: Agent governance, intelligent workflows, and connected app experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-05-11T17:25:12.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
-    "description": "<p>AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/\">Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-11T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West",
@@ -411,13 +355,6 @@
     "description": "Azure Cosmos DB now offers spherical quantization in public preview to help you achieve faster vector indexing with higher recall and accuracy at scale. Spherical quantization is an advanced vector compression technique designed to preserve search quality",
     "pubDate": "2026-05-06T18:30:28.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
-    "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-    "description": "<p>As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/\">Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-06T14:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
@@ -516,13 +453,6 @@
     "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
     "pubDate": "2026-05-04T16:50:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-    "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-04T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
@@ -697,6 +627,76 @@
     "link": "https://azure.microsoft.com/updates?id=561020",
     "description": "Troubleshooting Kubernetes networking issues is often slowed by logs and metrics scattered across multiple tools, requiring engineers to manually correlate signals during incidents. The Container Network Insights Agent provides a lightweight, web‑based in",
     "pubDate": "2026-04-28T21:30:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Connect to Azure Elastic SAN from Windows VM via VM Extension ",
+    "link": "https://azure.microsoft.com/updates?id=560914",
+    "description": "Azure Elastic SAN now supports\r\nvolume connectivity for Windows Virtual Machines using the Elastic SAN VM\r\nextension, directly from the Azure Portal. This capability enables customers to\r\nconnect Elastic SAN volumes during virtual machine deployment, simplif",
+    "pubDate": "2026-04-28T20:30:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Architectural Approaches for AI and Machine Learning in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-machine-learning",
+    "description": "Learn approaches for AI and machine learning multitenancy, including tenant isolation, model training, inference, and how to use Foundry Tools.",
+    "pubDate": "2026-04-28T20:06:11.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure for Google Cloud professionals",
+    "link": "https://learn.microsoft.com/azure/architecture//gcp-professional",
+    "description": "Learn the basics of Microsoft Azure accounts, platform, and services, and key similarities and differences between the Google Cloud and Azure platforms.",
+    "pubDate": "2026-04-28T18:20:55.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design a Hybrid Domain Name System (DNS) Solution by Using Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
+    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
+    "pubDate": "2026-04-28T18:18:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AKS triage—Container registry connectivity",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-triage-container-registry",
+    "description": "Learn about verifying the connection to a container registry. This step is part of the triage practice for Azure Kubernetes Service (AKS) clusters.",
+    "pubDate": "2026-04-28T17:52:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
+    "link": "https://azure.microsoft.com/updates?id=561148",
+    "description": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
+    "pubDate": "2026-04-28T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Cross-region IPAM pool association in Azure Virtual Network Manager",
+    "link": "https://azure.microsoft.com/updates?id=561067",
+    "description": "Managing IP address space across multiple regions can be difficult to scale and prone to configuration mistakes.With cross-region IPAM pool association, you can associate a single IPAM pool with virtual networks across multiple Azure regions. This helps c",
+    "pubDate": "2026-04-28T17:45:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Compare AWS and Azure Accounts",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/accounts",
+    "description": "Learn the differences between Azure and AWS accounts and subscriptions. Understand the types of administrator accounts in Azure.",
+    "pubDate": "2026-04-28T17:44:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose a Kubernetes at the Edge Compute Option",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/choose-kubernetes-edge-compute-option",
+    "description": "Learn about trade-offs and considerations for various Kubernetes options available for extending compute on the edge.",
+    "pubDate": "2026-04-28T17:31:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service ",
+    "link": "https://azure.microsoft.com/updates?id=561002",
+    "description": "Foundry\r\nAgent Service now supports bring‑your‑own‑model\r\nscenarios, allowing agents to use AI models deployed and managed outside of\r\nFoundry, including models hosted behind enterprise AI gateways such as Azure\r\nAPI Management. This enables organizations to ",
+    "pubDate": "2026-04-27T18:00:52.000Z",
     "source": "Azure Updates"
   }
 ]
