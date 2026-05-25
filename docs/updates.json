@@ -1,12 +1,5 @@
 [
   {
-    "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
-    "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
-    "description": "<p>With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/\">Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-22T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
     "description": "<p>Microsoft has been recognized as a Leader in The Forrester Wave™: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/\">Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -26,13 +19,6 @@
     "description": "<p>How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/\">Microsoft Security success stories: How St. Luke&#8217;s and ManpowerGroup are securing AI foundations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-05-22T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
-    "description": "<p>Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/\">Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-22T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Entra-only identities with Azure Files",
@@ -131,13 +117,6 @@
     "description": "Azure Site-to-Site VPN with digital certificate\r\nauthentication provides an alternative to the traditional pre-shared key (PSK)\r\nmodel by using a certificate-based asymmetric trust model. In this\r\nconfiguration, Azure and the on-premises VPN device authentic",
     "pubDate": "2026-05-20T16:45:53.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-    "description": "<p>Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/\">Azure IaaS: Deploy high-performance workloads with a system-level approach</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-20T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Securing the gaming culture of cultures",
@@ -616,6 +595,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+    "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+    "description": "<p>As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/\">Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-04-30T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Extract and Analyze Call Center Data by Using Azure OpenAI, Speech Services, and Language Services",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Azure OpenAI.",
@@ -698,5 +684,19 @@
     "description": "Troubleshooting Kubernetes networking issues is often slowed by logs and metrics scattered across multiple tools, requiring engineers to manually correlate signals during incidents. The Container Network Insights Agent provides a lightweight, web‑based in",
     "pubDate": "2026-04-28T21:30:30.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Connect to Azure Elastic SAN from Windows VM via VM Extension ",
+    "link": "https://azure.microsoft.com/updates?id=560914",
+    "description": "Azure Elastic SAN now supports\r\nvolume connectivity for Windows Virtual Machines using the Elastic SAN VM\r\nextension, directly from the Azure Portal. This capability enables customers to\r\nconnect Elastic SAN volumes during virtual machine deployment, simplif",
+    "pubDate": "2026-04-28T20:30:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Architectural Approaches for AI and Machine Learning in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-machine-learning",
+    "description": "Learn approaches for AI and machine learning multitenancy, including tenant isolation, model training, inference, and how to use Foundry Tools.",
+    "pubDate": "2026-04-28T20:06:11.000Z",
+    "source": "Azure Architecture"
   }
 ]
