@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Virtual Network Manager integration with Virtual WAN ",
+    "link": "https://azure.microsoft.com/updates?id=564478",
+    "description": "Azure Virtual Network Manager integration with Virtual WAN is now in public preview, enabling you to use an Azure Virtual WAN hub as the hub in Azure Virtual Network Manager hub-and-spoke connectivity configurations, bringing together Azure Virtual Networ",
+    "pubDate": "2026-05-26T18:00:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Virtual network flow logs connector with Microsoft Sentinel",
     "link": "https://azure.microsoft.com/updates?id=564689",
     "description": "Azure virtual network flow logs connector with Microsoft Sentinel is now generally available, enabling you to seamlessly export and analyze network traffic data within your security operations workflows. With this integration, you can bring rich, network-",
@@ -691,12 +698,5 @@
     "description": "Foundry’s\r\nmemory (preview) is a managed long-term memory capability built directly\r\ninto Foundry Agent Service and now integrates natively with Microsoft Agent\r\nFramework and LangGraph— no external databases to provision, scale, or secure.",
     "pubDate": "2026-04-29T00:00:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Multitenancy and Azure Cosmos DB",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/cosmos-db",
-    "description": "Learn about Azure Cosmos DB features that you can use for multitenant systems. See more resources that explain how to use Azure Cosmos DB in a multitenant solution.",
-    "pubDate": "2026-04-28T22:56:59.000Z",
-    "source": "Azure Architecture"
   }
 ]
