@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Virtual network flow logs connector with Microsoft Sentinel",
+    "link": "https://azure.microsoft.com/updates?id=564689",
+    "description": "Azure virtual network flow logs connector with Microsoft Sentinel is now generally available, enabling you to seamlessly export and analyze network traffic data within your security operations workflows. With this integration, you can bring rich, network-",
+    "pubDate": "2026-05-26T16:45:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
     "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
     "description": "<p>With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/\">Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Learn about Azure Cosmos DB features that you can use for multitenant systems. See more resources that explain how to use Azure Cosmos DB in a multitenant solution.",
     "pubDate": "2026-04-28T22:56:59.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Public Preview: Container Network Insights Agent",
-    "link": "https://azure.microsoft.com/updates?id=561020",
-    "description": "Troubleshooting Kubernetes networking issues is often slowed by logs and metrics scattered across multiple tools, requiring engineers to manually correlate signals during incidents. The Container Network Insights Agent provides a lightweight, web‑based in",
-    "pubDate": "2026-04-28T21:30:30.000Z",
-    "source": "Azure Updates"
   }
 ]
