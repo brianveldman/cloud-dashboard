@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Multiparty private offers in Microsoft Marketplace expand to 30 countries in Europe ",
+    "link": "https://azure.microsoft.com/updates?id=563016",
+    "description": "Multiparty private offers give Microsoft partners a way to procure third-party cloud and AI solutions for customers through Marketplace. Software companies can expand into new markets by working with partners that bring established customer relationships,",
+    "pubDate": "2026-05-27T17:45:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
     "description": "<p>Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/\">From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Learn the best practices for running a Linux virtual machine on Azure, which requires some additional components, including networking and storage resources.",
     "pubDate": "2026-04-29T14:57:52.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Memory in Foundry Agent Service ",
-    "link": "https://azure.microsoft.com/updates?id=560992",
-    "description": "Foundry’s\r\nmemory (preview) is a managed long-term memory capability built directly\r\ninto Foundry Agent Service and now integrates natively with Microsoft Agent\r\nFramework and LangGraph— no external databases to provision, scale, or secure.",
-    "pubDate": "2026-04-29T00:00:55.000Z",
-    "source": "Azure Updates"
   }
 ]
