@@ -1,5 +1,12 @@
 [
   {
+    "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
+    "description": "<p>Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/\">From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-26T21:35:34.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Virtual Network Manager integration with Virtual WAN ",
     "link": "https://azure.microsoft.com/updates?id=564478",
     "description": "Azure Virtual Network Manager integration with Virtual WAN is now in public preview, enabling you to use an Azure Virtual WAN hub as the hub in Azure Virtual Network Manager hub-and-spoke connectivity configurations, bringing together Azure Virtual Networ",
@@ -257,13 +264,6 @@
     "description": "Azure Front Door Standard and Premium now support WebSocket in general availability. WebSocket is enabled by default and requires no additional configuration. WebSocket provides full-duplex communication over a single, long-lived TCP connection, enabling ",
     "pubDate": "2026-05-18T17:45:33.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "How to better protect your growing business in an AI-powered world",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/",
-    "description": "<p>See how built-in security helps keep your growing business running, protect customer trust, and support growth.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/\">How to better protect your growing business in an AI-powered world</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-18T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements",
