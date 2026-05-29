@@ -1,8 +1,15 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Site Recovery Support for Performance Plus Managed Disks",
+    "link": "https://azure.microsoft.com/updates?id=564644",
+    "description": "Azure Site Recovery\r\n(ASR) now supports replication of virtual machines using Performance Plus\r\nenabled managed disks. With this update, virtual machines using Premium SSD,\r\nStandard SSD or Standard HDD managed disks with Performance Plus capability for\r\nhigh",
+    "pubDate": "2026-05-29T15:15:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Active – Multi Service degradation in West US 2 region.",
-    "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-    "description": "<p>Impact Statement: Starting at 04:27 UTC on 29 May 2026, we are investigating an incident which is impacting multiple services in West US 2, due to a power event. This impacts service accessibility region-wide, with customers potentially experiencing increased latency and intermittent connectivity, including timeouts when connecting to resources.</p><p>Affected Azure services include, but are not limited to: </p><p><em>App Service, Azure Functions, Azure Virtual Machines, Azure Virtual Machine Scale Sets, Azure Backup, Azure Container Registry, Azure Cosmos DB, Azure Database for MySQL flexible servers, </em>Azure Database PostgreSQL Flexible Server, <em>Azure IoT Hub, Azure Kubernetes Service (AKS), Azure Monitor, Application Insights, Log Analytics, Azure NetApp Files, Azure Site Recovery, Azure Synapse Analytics, Microsoft Defender for Cloud, Azure Databricks and Azure Storage, Redis, Azure SQL, Azure Managed Grafana</em></p><p>Current Status: We identified this issue through our automated monitoring after detecting elevated alerts related to network and infrastructure health in the West US 2 region.</p><p>The issue was triggered by a power event in the datacenter, which impacted underlying infrastructure and led to increased latency and intermittent connectivity for select resources. We are aware of the impact and are actively investigating.</p><p>Mitigation efforts are underway to restore affected network components across dependent services, including Storage and Compute. Telemetry indicates that certain customers might start noticing improvements as these measures advance. We are maintaining ongoing monitoring of the situation to guarantee complete service restoration and to prevent any further recurrences.</p><p>The next update will be provided within 2 hours, or sooner if there are significant developments.</p>",
+    "link": "https://azurestatusprodncus.azurewebsites.net/en-us/status/",
+    "description": "<p>Impact Statement: Starting at 04:27 UTC on 29 May 2026, we are investigating an incident which is impacting multiple services in West US 2, due to a power event. This impacts service accessibility region-wide, with customers potentially experiencing increased latency and intermittent connectivity, including timeouts when connecting to resources.</p><p>Affected Azure services include, but are not limited to:</p><p><em>Azure Functions, Azure Database for MySQL flexible servers, Azure Database PostgreSQL Flexible Server, Azure Databricks and, Redis, Azure SQL, Azure Managed Grafana, Virtual Machine, Virtual Machine Scale Set, Azure Kubernetes Service, Storage, </em><span>Application Insights</span></p><p>Current Status: We are actively mitigating service impact in the West US 2 region following severe thunderstorms that caused widespread power outages. Backup generators were unable to fully stabilize power, leading to temperature spikes and instability across datacenter hardware and network devices.</p><p>Recovery efforts are well underway, including power cycling and targeted reboots of network and storage devices, physical inspections, node remediation, and traffic redirection to healthy infrastructure. Our telemetry indicates significant improvements. Customers might start noticing improvements as these measures advance, though full mitigation is delayed by persistent hardware and network instability, storage dependencies, and cooling normalization.</p><p>Recovered Azure services:</p><p><em>Service Bus, Storage, App Service (Web Apps), Azure Site Recovery, Backup (MAB), Azure Cosmos DB, Azure Log Analytics, Application Insights, Azure Monitor, Azure Resource Manager, Data Explorer, Azure IoT Hub, Microsoft Defender for Cloud Apps, Azure Container Registry, Azure Policy, Azure NetApp Files, Azure Resource Graph, Azure Synapse, Azure Database for MySQL - Flexible Server</em></p><p>Our teams actively working to address the issue, with manual intervention and inspections ongoing to stabilize remaining scale units and restore full service which is expected to be completed within the next hour.</p>",
     "pubDate": "2026-05-29T04:27:00.000Z",
     "source": "Azure Status"
   },
@@ -691,12 +698,5 @@
     "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-05-04T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
-    "link": "https://azure.microsoft.com/updates?id=561392",
-    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
-    "pubDate": "2026-05-01T21:45:13.000Z",
-    "source": "Azure Updates"
   }
 ]
