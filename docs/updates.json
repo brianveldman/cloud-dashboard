@@ -1,5 +1,12 @@
 [
   {
+    "title": "Active – Network connectivity degradation in West US 2",
+    "link": "https://azurestatusprodncus.azurewebsites.net/en-us/status/",
+    "description": "Impact Statement- Starting at 04:27 UTC on 29 May 2026, customers may experience increased latency, intermittent connectivity, or timeouts when accessing resources hosted in the West US 2 region, due to a power event. We are in process of recovering power and working to restore infrastructure in the region. We started seeing partial recovery and will be sending targeted communications to impacted customers through the Azure Service Health dashboard.&nbsp;The next update will be provided within 60 minutes.",
+    "pubDate": "2026-05-29T07:07:59.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
     "description": "<p>The Mini Shai-Hulud campaign used malicious npm packages to target cloud and CI/CD credentials across developer environments. This report details the attack chain, detection opportunities, and mitigation guidance to help organizations identify and disrupt related activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/\">Typosquatted npm packages used to steal cloud and CI/CD secrets</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
     "pubDate": "2026-05-01T21:45:13.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Design a Hybrid Domain Name System (DNS) Solution by Using Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-dns-infra",
-    "description": "Learn how to design a hybrid Domain Name System (DNS) solution to resolve names for workloads that are hosted on-premises and in Microsoft Azure.",
-    "pubDate": "2026-05-01T21:17:58.000Z",
-    "source": "Azure Architecture"
   }
 ]
