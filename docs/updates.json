@@ -1,5 +1,12 @@
 [
   {
+    "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
+    "description": "<p>A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/\">Malicious npm packages abuse dependency confusion to profile developer environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-05-30T00:06:20.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Microsoft is named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/",
     "description": "<p>Microsoft is named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/\">Microsoft is named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,6 +68,13 @@
     "description": "Azure virtual network flow logs connector with Microsoft Sentinel is now generally available, enabling you to seamlessly export and analyze network traffic data within your security operations workflows. With this integration, you can bring rich, network-",
     "pubDate": "2026-05-26T16:45:10.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+    "description": "<p>Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/\">New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-26T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
@@ -201,13 +215,6 @@
     "description": "<p>Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/\">Azure IaaS: Deploy high-performance workloads with a system-level approach</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-05-20T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Securing the gaming culture of cultures",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/",
-    "description": "<p>Read about the unique challenges and rewards of securing gaming platforms and how to better protect gaming communities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/\">Securing the gaming culture of cultures</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-20T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Azure Event Grid Subscription Identifiers",
@@ -691,12 +698,5 @@
     "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-05-04T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
-    "link": "https://azure.microsoft.com/updates?id=561392",
-    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
-    "pubDate": "2026-05-01T21:45:13.000Z",
-    "source": "Azure Updates"
   }
 ]
