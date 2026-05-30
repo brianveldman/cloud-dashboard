@@ -70,13 +70,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
-    "description": "<p>Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/\">New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-26T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
     "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
     "description": "<p>With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/\">Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -698,5 +691,12 @@
     "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-05-04T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
+    "link": "https://azure.microsoft.com/updates?id=561392",
+    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
+    "pubDate": "2026-05-01T21:45:13.000Z",
+    "source": "Azure Updates"
   }
 ]
