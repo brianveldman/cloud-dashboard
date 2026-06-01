@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Functions Support for Node.js 24",
+    "link": "https://azure.microsoft.com/updates?id=562647",
+    "description": "Azure Functions support for Node.js 24 is now\r\ngenerally available.   You can now develop apps using Node.js 24 locally\r\nand deploy them to supported Azure Functions plans on Linux and\r\nWindows, including the Flex Consumption plan.     Please note that Remot",
+    "pubDate": "2026-06-01T13:45:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
     "description": "<p>A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/\">Malicious npm packages abuse dependency confusion to profile developer environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -19,6 +26,13 @@
     "description": "Azure Site Recovery\r\n(ASR) now supports replication of virtual machines using Performance Plus\r\nenabled managed disks. With this update, virtual machines using Premium SSD,\r\nStandard SSD or Standard HDD managed disks with Performance Plus capability for\r\nhigh",
     "pubDate": "2026-05-29T15:15:43.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+    "description": "<p>Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367\">Claude Opus 4.8 is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-05-29T14:46:32.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
@@ -684,19 +698,5 @@
     "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
     "pubDate": "2026-05-04T16:50:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-    "description": "<p>Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/\">Azure IaaS: Defense in depth built on secure-by-design principles</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-05-04T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Update: Egress and data transfer with Azure in the United Kingdom",
-    "link": "https://azure.microsoft.com/updates?id=561392",
-    "description": "We support customer choice, including the choice to transfer\r\nyour data between Azure and environments outside of Azure. Azure has offered free egress\r\nand at-cost data\r\ntransfer for customers and CSP partners in Europe transferring data via the\r\ninternet bet",
-    "pubDate": "2026-05-01T21:45:13.000Z",
-    "source": "Azure Updates"
   }
 ]
