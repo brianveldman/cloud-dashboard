@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Build 2026: Securing code, agents, and models across the development lifecycle",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
+    "description": "<p>Discover how Microsoft enables fast, secure AI development with MDASH and new security capabilities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/\">Microsoft Build 2026: Securing code, agents, and models across the development lifecycle</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T17:15:18.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Snapshot backup for SQL Server in Azure VMs",
     "link": "https://azure.microsoft.com/updates?id=564668",
     "description": "Azure Backup now supports snapshot-based backup for SQL Server running on Azure Virtual Machines. This new capability uses Azure disk snapshots combined with native SQL transaction log backups to deliver near-instant, low-impact full backups for large SQL",
@@ -126,25 +133,11 @@
     "source": "Security"
   },
   {
-    "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
-    "description": "<p>On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/\">Introducing Microsoft 365 Business with Copilot: The new standard for small business</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-28T19:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "SAP Landscape Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-whole-landscape",
     "description": "Best practices and recommendations for architecting an entire SAP landscape on Azure.",
     "pubDate": "2026-05-28T15:31:54.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing a new design for Microsoft 365 Copilot",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
-    "description": "<p>We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/\">Introducing a new design for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-28T15:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
@@ -215,13 +208,6 @@
     "description": "Azure virtual network flow logs connector with Microsoft Sentinel is now generally available, enabling you to seamlessly export and analyze network traffic data within your security operations workflows. With this integration, you can bring rich, network-",
     "pubDate": "2026-05-26T16:45:10.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
-    "description": "<p>Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/\">New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-05-26T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Get Started with Analytics Architecture Design",
@@ -383,13 +369,6 @@
     "description": "Secure your IT environment by using Azure security services and Azure Security Benchmark. This article is part of a series.",
     "pubDate": "2026-05-20T21:33:32.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/",
-    "description": "<p>Compromised @antv npm packages deploy the Mini Shai-Hulud payload to steal CI/CD secrets from Linux-based automation environments. The malware executes during npm install and targets credentials across GitHub, AWS, Kubernetes, Vault, npm, and 1Password platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/\">Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-05-20T17:48:44.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: langchain-azure-cosmosdb python package for Azure Cosmos DB ",
@@ -698,5 +677,26 @@
     "description": "Azure Premium SSD v2 is now available in all three\r\nAvailability Zones in Japan West.    Azure Premium SSD v2 disk, a next-generation general-purpose\r\nblock storage option for Azure virtual machines, offers\r\nsub-millisecond latencies and exceptional price pe",
     "pubDate": "2026-05-07T18:15:17.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Dl/D/E v7 Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=560734",
+    "description": "Azure has announced the general availability of the new Dl/D/E v7 Virtual Machines, powered by the latest Intel® Xeon® 6 (Granite Rapids) processors. These general‑purpose and memory‑optimized VMs deliver up to 20% better general compute performance compa",
+    "pubDate": "2026-05-07T18:00:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Use Deployment Scripts to Check Resource Properties",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/devops/deployment-scripts-property-check",
+    "description": "Use Bicep and a deployment script to pause a deployment until a resource property returns a specific value.",
+    "pubDate": "2026-05-07T17:43:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Modern Web App Pattern for .NET",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance",
+    "description": "Implement the Modern Web App pattern for .NET. Modernize web apps in the cloud with prescriptive architecture, code, and configuration guidance.",
+    "pubDate": "2026-05-07T17:04:09.000Z",
+    "source": "Azure Architecture"
   }
 ]
