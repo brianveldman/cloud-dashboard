@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Simple log alerts in Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=561978",
+    "description": "We are excited to announce the General Availability of Simple log alerts in Azure Monitor, available starting today. This feature is designed to provide a simplified and more intuitive experience for monitoring and alerting, enhancing your ability to dete",
+    "pubDate": "2026-06-03T02:00:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Code-first observability for Foundry Agents in VS Code ",
     "link": "https://azure.microsoft.com/updates?id=563197",
     "description": "Microsoft Foundry brings code-first observability to agent developers in public preview, delivered as an observe skill inside the Foundry Plugin for VS Code Copilot Chat. Developers run the full evaluation-driven optimization loop from the editor through ",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Azure Kubernetes Fleet Manager for Arc-enabled clusters",
     "link": "https://azure.microsoft.com/updates?id=562904",
     "description": "Managing Kubernetes clusters across hybrid and multi-cloud environments is fragmented by default: different consoles, different tools, different operational models. Azure Kubernetes Fleet Manager now supports Azure Arc-enabled Kubernetes in GA, so any CNC",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure API Management Premium v2 now supports multiple custom domains",
-    "link": "https://azure.microsoft.com/updates?id=562899",
-    "description": "Organizations\r\noften need to expose APIs, developer portals, and management endpoints under\r\ndifferent branded or organizational domain names- — for example,\r\napi.contoso.com for external partners, apis.hrportal.contoso.com for an\r\ninternal HR platform, and d",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
