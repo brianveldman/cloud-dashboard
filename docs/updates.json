@@ -182,6 +182,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T19:15:57.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
     "link": "https://azure.microsoft.com/updates?id=564868",
     "description": "A new workspace-wide Genie MCP endpoint enables any Microsoft Copilot Studio agent to query natural-language questions across an entire Azure Databricks workspace through a single endpoint. The endpoint auto-routes across all connected Genie spaces and Un",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Azure API Center now provides a data plane MCP server for enterprise-wide discovery of APIs and AI assets. ",
     "link": "https://azure.microsoft.com/updates?id=562914",
     "description": "As\r\norganizations adopt MCP-based tooling and AI agents at scale, developers need a\r\nsimpler way to discover and connect to the growing ecosystem of enterprise MCP\r\nservers, tools, APIs, and AI assets.  With\r\nthis update, Azure API Center introduces a data pl",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure API Center now supports agent registration, agent assessment, and Git-based synchronization. ",
-    "link": "https://azure.microsoft.com/updates?id=562909",
-    "description": "As\r\norganizations increasingly build autonomous AI agents to automate workflows and\r\norchestrate enterprise tasks, developers need a centralized way to discover,\r\ngovern, and reuse these capabilities across teams.  With\r\nthis update, Azure API Center enables ",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
