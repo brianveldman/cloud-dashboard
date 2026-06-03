@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In development] Announcing: Confidential Live Migration for Intel TDX confidential VMs in Azure",
+    "link": "https://azure.microsoft.com/updates?id=565000",
+    "description": "Microsoft is announcing Confidential Live Migration in Azure, a new capability designed to improve operational flexibility and availability for Intel® TDX Confidential VMs during platform servicing. Confidential Live Migration helps move a Confidential VM",
+    "pubDate": "2026-06-03T18:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Infrastructure Resiliency Manager",
+    "link": "https://azure.microsoft.com/updates?id=564759",
+    "description": "Azure Infrastructure Resiliency Manager is now in public preview, offering a unified, goal-driven experience to design, assess, and improve application resiliency across Azure. It brings together capabilities across Availability Zones, Azure Advisor, Chao",
+    "pubDate": "2026-06-03T17:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL - Flexible Server: DuckDB extension",
+    "link": "https://azure.microsoft.com/updates?id=563766",
+    "description": "You can now install the DuckDB extension in Azure Database for PostgreSQL flexible server. Learn more.",
+    "pubDate": "2026-06-03T17:00:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Advanced full-text search in Azure DocumentDB",
+    "link": "https://azure.microsoft.com/updates?id=563077",
+    "description": "Now you can unify your search operations in a single database. Azure DocumentDB has added fuzzy search, proximity search, more language support, and BM25 ranking to its full-text capabilities, bringing vector and advanced text search operations together. ",
+    "pubDate": "2026-06-03T17:00:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
     "description": "<p>A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/\">Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -180,13 +208,6 @@
     "description": "We’re excited to announce the General Availability of Dynamic threshold for Log search alerts! Using dynamic thresholds means you don't have to know the right threshold for each Log alert rule - Dynamic thresholds calculate the most appropriate thresholds",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "AI alone won’t change your business. The system running it will.",
-    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
-    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-02T19:15:57.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
@@ -675,27 +696,6 @@
     "title": "[In preview] Public Preview: Knowledge as a Service with Azure Logic Apps.",
     "link": "https://azure.microsoft.com/updates?id=562929",
     "description": "Most RAG\r\nimplementations today are complex. Teams must build ingestion\r\npipelines, manage chunking and embeddings, configure vector stores, wire up\r\nretrieval layers, and then operate the entire system in\r\nproduction.  With\r\nAzure Logic Apps, RAG becomes a na",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Logic Apps Automation SKU for agentic business process automation. ",
-    "link": "https://azure.microsoft.com/updates?id=562924",
-    "description": "As\r\norganizations move toward agentic automation, developers increasingly need a\r\nsimpler way to combine workflows, APIs, and AI agents into production-ready\r\nbusiness processes. Today, building these systems often requires stitching\r\ntogether multiple Azure ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally available: Generally available: Managed system node pools in AKS Automatic",
-    "link": "https://azure.microsoft.com/updates?id=562919",
-    "description": "Provisioning and maintaining system node pools in AKS requires ongoing work to handle scaling, patching, and availability. Managed system node pools in AKS Automatic remove that responsibility. The platform provisions and operates the infrastructure for c",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure API Center now provides a data plane MCP server for enterprise-wide discovery of APIs and AI assets. ",
-    "link": "https://azure.microsoft.com/updates?id=562914",
-    "description": "As\r\norganizations adopt MCP-based tooling and AI agents at scale, developers need a\r\nsimpler way to discover and connect to the growing ecosystem of enterprise MCP\r\nservers, tools, APIs, and AI assets.  With\r\nthis update, Azure API Center introduces a data pl",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
