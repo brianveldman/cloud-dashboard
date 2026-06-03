@@ -1,5 +1,12 @@
 [
   {
+    "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
+    "description": "<p>A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/\">Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-03T04:45:06.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Simple log alerts in Azure Monitor",
     "link": "https://azure.microsoft.com/updates?id=561978",
     "description": "We are excited to announce the General Availability of Simple log alerts in Azure Monitor, available starting today. This feature is designed to provide a simplified and more intuitive experience for monitoring and alerting, enhancing your ability to dete",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Azure API Center now supports agent registration, agent assessment, and Git-based synchronization. ",
     "link": "https://azure.microsoft.com/updates?id=562909",
     "description": "As\r\norganizations increasingly build autonomous AI agents to automate workflows and\r\norchestrate enterprise tasks, developers need a centralized way to discover,\r\ngovern, and reuse these capabilities across teams.  With\r\nthis update, Azure API Center enables ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Kubernetes Fleet Manager for Arc-enabled clusters",
-    "link": "https://azure.microsoft.com/updates?id=562904",
-    "description": "Managing Kubernetes clusters across hybrid and multi-cloud environments is fragmented by default: different consoles, different tools, different operational models. Azure Kubernetes Fleet Manager now supports Azure Arc-enabled Kubernetes in GA, so any CNC",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
