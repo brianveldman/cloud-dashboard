@@ -1,5 +1,40 @@
 [
   {
+    "title": "[In preview] Public Preview: Code-first observability for Foundry Agents in VS Code ",
+    "link": "https://azure.microsoft.com/updates?id=563197",
+    "description": "Microsoft Foundry brings code-first observability to agent developers in public preview, delivered as an observe skill inside the Foundry Plugin for VS Code Copilot Chat. Developers run the full evaluation-driven optimization loop from the editor through ",
+    "pubDate": "2026-06-02T23:15:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Agent kit for Azure Cosmos DB",
+    "link": "https://azure.microsoft.com/updates?id=563022",
+    "description": "Your AI coding agents just got smarter about building high-performance database applications. The Azure Cosmos DB Agent Kit is now generally available, bringing proven best practices directly into your development workflow. Whether you're designing data m",
+    "pubDate": "2026-06-02T22:30:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL updates for early-June",
+    "link": "https://azure.microsoft.com/updates?id=563142",
+    "description": "In early June 2026, the following update and enhancement was made to Azure SQL: Now you can use AES 256 symmetric keys to configure transparent data encryption (TDE) with customer-managed keys in Azure SQL Database. Learn more. ",
+    "pubDate": "2026-06-02T22:15:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Secure, Modern Access to Azure Files on macOS with MS Entra ID ",
+    "link": "https://azure.microsoft.com/updates?id=565073",
+    "description": "Azure Files now supports access\r\nfrom macOS using Entra ID authentication (Public Preview), enabling secure,\r\nidentity-based access to file shares for cross-platform teams. This expands\r\nsupport for modern workflows, allowing users on macOS to seamlessly acc",
+    "pubDate": "2026-06-02T22:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: File share centric management model (Microsoft.FileShares) for Azure Files",
+    "link": "https://azure.microsoft.com/updates?id=565062",
+    "description": "The new file share service management experience for Azure Files is now generally available for NFS 4.1 shares on SSD storage. Powered by the Microsoft.FileShares resource provider, file shares are now top-level Azure resources that you can create, secure",
+    "pubDate": "2026-06-02T21:30:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In development] Preview: Azure Cobalt 200 Arm-based Dpsv7, Dplsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines ",
     "link": "https://azure.microsoft.com/updates?id=564451",
     "description": "The general purpose Dpsv7 and Dplsv7, memory-optimized Epsv7, high-memory Mpsv4, and dense storage Lpsv5 VMs are now available in preview. These virtual machines deliver significant enhancements over the previous generation Cobalt 100 VMs, offering improv",
@@ -661,41 +696,6 @@
     "title": "[Launched] Generally Available: Azure API Management Premium v2 now supports multiple custom domains",
     "link": "https://azure.microsoft.com/updates?id=562899",
     "description": "Organizations\r\noften need to expose APIs, developer portals, and management endpoints under\r\ndifferent branded or organizational domain names- — for example,\r\napi.contoso.com for external partners, apis.hrportal.contoso.com for an\r\ninternal HR platform, and d",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure API Management now supports token metrics for all token types",
-    "link": "https://azure.microsoft.com/updates?id=562885",
-    "description": "As\r\norganizations adopt advanced AI models, understanding token consumption is\r\nbecoming more complex. Traditional metrics focused primarily on prompt and\r\ncompletion tokens often fail to capture newer token categories such\r\nas cached, reasoning, or thinking ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure API Management now supports content safety controls for MCP and A2A APIs. ",
-    "link": "https://azure.microsoft.com/updates?id=562880",
-    "description": "As\r\norganizations deploy more agentic applications and MCP-based tools, enforcing\r\nconsistent safety and compliance policies across agent interactions becomes\r\nincreasingly important. Many teams today rely on fragmented or custom\r\nimplementations for content ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public preview: Connector Namespace",
-    "link": "https://azure.microsoft.com/updates?id=562874",
-    "description": "Integrating\r\napps with SaaS and line-of-business systems today means writing custom API\r\nclient code, managing credentials, and handling retries, pagination, and\r\nwebhooks for every service. Connector\r\nNamespace is a fully managed service providing pre-built\r\n",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Logic Apps MCP Server. ",
-    "link": "https://azure.microsoft.com/updates?id=562868",
-    "description": "As\r\norganizations adopt AI agents and MCP-based tooling, integration teams often\r\nneed to build and maintain custom API layers just to make existing\r\nworkflows callable by agents. This additional plumbing increases\r\ndevelopment effort, operational complexity,",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Logic Apps Codeful Workflows with Logic Apps Standard SDK. ",
-    "link": "https://azure.microsoft.com/updates?id=562863",
-    "description": "Modern\r\nintegration and automation teams increasingly want the flexibility of writing\r\nworkflows directly in code while still benefiting from managed\r\norchestration, enterprise connectors, and cloud-scale operational capabilities.\r\nTraditional workflow models",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
