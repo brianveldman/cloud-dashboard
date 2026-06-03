@@ -1,5 +1,82 @@
 [
   {
+    "title": "[Launched] Generally Available: Self-serve custom photo avatar creation in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563491",
+    "description": "Microsoft Foundry brings self-serve custom photo avatar creation to GA in the Foundry NextGen fine-tuning portal. Enterprise customers building voice agents with avatars or producing content with avatar and speech often need a branded avatar instead of a ",
+    "pubDate": "2026-06-03T20:45:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Belgium Central",
+    "link": "https://azure.microsoft.com/updates?id=564849",
+    "description": "Azure Red Hat OpenShift (ARO) is now generally available in Azure\r\nBelgium Central, expanding regional availability for OpenShift deployments\r\nacross Europe. With the launch of Microsoft’s first Azure region in Belgium,\r\ncustomers can now run fully managed O",
+    "pubDate": "2026-06-03T19:15:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Agent-to-agent (A2A) support for Prompt agents and Hosted agents in Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563716",
+    "description": "Microsoft Foundry Agent Service adds agent-to-agent (A2A) communication in public preview for Prompt agents and Hosted agents that use the responses protocol. Agents can call other agents by name through a managed endpoint, with identity, content safety, ",
+    "pubDate": "2026-06-03T19:15:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: Conversational PII NextGen Playground in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=564246",
+    "description": "In public preview, Microsoft Foundry now offers a Conversational PII (ConvPII) NextGen Playground with transcript input and an API Configuration Panel, enabling developers to validate PII detection across multi-speaker dialogue before integrating the API.",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: TextPII NextGen Playground updates in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=564241",
+    "description": "In public preview, Microsoft Foundry now offers an updated TextPII NextGen Playground with a refreshed API Configuration Panel, including preview features introduced at Ignite 2025. This update lets developers test predefined PII categories, redaction mod",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Observability developer experience in Azure Developer CLI (azd)",
+    "link": "https://azure.microsoft.com/updates?id=563736",
+    "description": "Use the Azure Developer CLI (azd) CLI evaluation experience to add a measured quality loop to an agent created with Microsoft Foundry. It empowers users on the hosted-agent lifecycle in azd, where you create, provision, deploy, initialize evaluation asset",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Domain filter for specialized model discovery in Foundry model catalog",
+    "link": "https://azure.microsoft.com/updates?id=563731",
+    "description": "Microsoft Foundry model catalog adds a domain filter in public preview, helping developers narrow the catalog of over 1,900 models to the ones trained for a specific industry or use case. Filters cover domains such as robotics, biomedical sciences, materi",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Foundry for Visual Studio Code (June Build 2026 refresh)",
+    "link": "https://azure.microsoft.com/updates?id=563721",
+    "description": "The Microsoft Foundry extension for Visual Studio Code reaches general availability with a Build 2026 refresh that brings the full model catalog, model playground, and Hosted agent deployment into the editor. Developers can sign in with their Azure accoun",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Evaluations with Intelligent Trace Sampling",
+    "link": "https://azure.microsoft.com/updates?id=563696",
+    "description": "Microsoft Foundry observability introduces intelligent trace filtering and sampling for evaluations in public preview. Instead of running evaluations against all production traces, Foundry now select a representative subset of traces using a multi-stage M",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Custom Voice portal experience in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563691",
+    "description": "Azure AI Speech moves the Custom Voice authoring experience into the Microsoft Foundry portal in general availability. Approved Custom Voice customers can now upload voice talent recordings and consent statements, run data quality checks, train neural voi",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Rubric evaluator in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563656",
+    "description": "Microsoft Foundry introduces rubric evaluators for measuring agent quality, now in public preview for single-turn and multi-turn agent flows. Rubric evaluators enable developers to define context-specific evaluation criteria using agent prompts, productio",
+    "pubDate": "2026-06-03T19:00:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In development] Announcing: Confidential Live Migration for Intel TDX confidential VMs in Azure",
     "link": "https://azure.microsoft.com/updates?id=565000",
     "description": "Microsoft is announcing Confidential Live Migration in Azure, a new capability designed to improve operational flexibility and availability for Intel® TDX Confidential VMs during platform servicing. Confidential Live Migration helps move a Confidential VM",
@@ -619,83 +696,6 @@
     "title": "[Launched] Generally Available: Service-managed failover in Azure DocumentDB",
     "link": "https://azure.microsoft.com/updates?id=563057",
     "description": "Azure DocumentDB is excited to announce the general availability of service-managed failover for multi-region clusters. In the event of a regional outage, Azure DocumentDB will automatically fail over the globally distributed cluster from the primary regi",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Relational Database to Azure Cosmos DB NoSQL Migration Assistant",
-    "link": "https://azure.microsoft.com/updates?id=563052",
-    "description": "You can now more easily migrate from relational databases such as Oracle, SQL Server, PostgreSQL, and MySQL to Azure Cosmos DB for NoSQL. The Migration Assistant in the Azure Cosmos DB extension for Visual Studio Code guides you through a structured workf",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Cosmos DB distributed transactions",
-    "link": "https://azure.microsoft.com/updates?id=563047",
-    "description": "Announcing the public preview of distributed transactions in Azure Cosmos DB. You can now perform atomic operations across items and partitions, with changes committing together or rolling back automatically on failure. Distributed transactions eliminate ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Per-partition automatic failover for Azure Cosmos DB",
-    "link": "https://azure.microsoft.com/updates?id=563042",
-    "description": "Per-partition automatic failover (PPAF) is now generally available in Azure Cosmos DB, bringing faster recovery and higher availability to your mission-critical applications. With PPAF, you no longer need to fail over an entire account during a regional d",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: MCP Toolkit for Azure Cosmos DB",
-    "link": "https://azure.microsoft.com/updates?id=563032",
-    "description": "You can use the MCP Toolkit for Azure Cosmos DB, now in general availability, to connect your AI agents and copilots to operational data with enterprise-ready reliability. This release gives you a standardized way to expose Cosmos DB capabilities through ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Introducing AI Assistant in the Azure Cosmos DB extension for Visual Studio Code",
-    "link": "https://azure.microsoft.com/updates?id=563027",
-    "description": "You can now use AI assistance in the Azure Cosmos DB extension for Visual Studio Code to work with your data faster and with less manual effort. You can ask questions in plain English and get optimized Azure Cosmos DB queries, use chat participant command",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Change partition keys in Azure Cosmos DB for NoSQL API",
-    "link": "https://azure.microsoft.com/updates?id=563017",
-    "description": "You can now change the partition key of an Azure Cosmos DB NoSQL container directly from the Azure portal with just a few clicks. The process supports both online and offline modes by copying data from the source container to a new container through the C",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: New Azure Cosmos DB cost estimator",
-    "link": "https://azure.microsoft.com/updates?id=562976",
-    "description": "Plan your Azure Cosmos DB deployment with confidence. The Azure Cosmos DB cost estimator is now in public preview, giving you a fast, accurate way to model throughput, storage, regions, and capacity mode before you provision a single account. Whether you ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cosmos DB all versions and deletes change feed mode",
-    "link": "https://azure.microsoft.com/updates?id=562971",
-    "description": "The Azure Cosmos DB all versions and deletes change feed mode is now generally available, giving you complete visibility into every change that happens in your containers. Unlike the default latest version mode, which surfaces only the most recent state o",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Logic Apps now enables developers to invoke Microsoft Foundry Agents directly from workflows. ",
-    "link": "https://azure.microsoft.com/updates?id=562939",
-    "description": "Organizations\r\nbuilding AI agents often face a disconnect between where agents are built and\r\nwhere business processes are automated. Now, with improved integration between\r\nAzure AI Foundry and Azure Logic Apps, developers can now more easily\r\noperationalize",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Anyscale on Azure",
-    "link": "https://azure.microsoft.com/updates?id=562934",
-    "description": "Now in\r\nPublic Preview, Anyscale on Azure is a cloud-native managed Ray platform for\r\nmachine learning engineers and AI developers who need to run Python workloads\r\nat massive scale without compromising speed or control. It brings the power of\r\nRay’s distribu",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Knowledge as a Service with Azure Logic Apps.",
-    "link": "https://azure.microsoft.com/updates?id=562929",
-    "description": "Most RAG\r\nimplementations today are complex. Teams must build ingestion\r\npipelines, manage chunking and embeddings, configure vector stores, wire up\r\nretrieval layers, and then operate the entire system in\r\nproduction.  With\r\nAzure Logic Apps, RAG becomes a na",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
