@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Monitor Service Level Indicators (SLI)",
+    "link": "https://azure.microsoft.com/updates?id=565159",
+    "description": "Azure Monitor now includes Service Level Indicators (SLIs) and Service Level Objectives (SLOs), giving teams a clearer way to measure how customers actually experience their applications. Instead of relying only on infrastructure signals like CPU or isola",
+    "pubDate": "2026-06-04T16:30:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: MAI-Voice-2 in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=563217",
     "description": "Microsoft Foundry now offers MAI-Voice-2 in public preview, a first-party voice model from the Microsoft AI team. MAI-Voice-2 generates natural speech across more than 10 languages and supports voice cloning from a short reference sample, plus voice promp",
@@ -313,6 +320,13 @@
     "description": "We’re excited to announce the General Availability of Dynamic threshold for Log search alerts! Using dynamic thresholds means you don't have to know the right threshold for each Log alert rule - Dynamic thresholds calculate the most appropriate thresholds",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T19:15:57.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
@@ -682,20 +696,6 @@
     "title": "[Launched] Generally Available: Azure HorizonDB Agentic Advisor Solution Accelerator",
     "link": "https://azure.microsoft.com/updates?id=563092",
     "description": "Agentic Advisor Solution Accelerator for Azure HorizonDB is now generally available. You can use this financial services-focused reference solution to build multi-agent applications in Python using LangGraph and Mem0, with Azure HorizonDB as the data and ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure HorizonDB",
-    "link": "https://azure.microsoft.com/updates?id=563087",
-    "description": "Azure HorizonDB is a PostgreSQL-compatible database service engineered for performance and built for what's next. It delivers future-proof autoscaling storage up to 128 TB, up to three times faster performance than self-managed PostgreSQL, and rapid compu",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure DocumentDB instant free tier clusters",
-    "link": "https://azure.microsoft.com/updates?id=563082",
-    "description": "With near-instant provisioning of free tier clusters, you can get started immediately on Azure DocumentDB. Learn more.",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
