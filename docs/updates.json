@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: MAI-Voice-2 in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563217",
+    "description": "Microsoft Foundry now offers MAI-Voice-2 in public preview, a first-party voice model from the Microsoft AI team. MAI-Voice-2 generates natural speech across more than 10 languages and supports voice cloning from a short reference sample, plus voice promp",
+    "pubDate": "2026-06-03T23:00:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] General Availability: Backup your ledger files for audit with Azure confidential ledger’s new tool ",
+    "link": "https://azure.microsoft.com/updates?id=560810",
+    "description": "Ever wondered how to allow auditing personas (i.e. security analyst in your organization or security assessment contractor) the ability to view your ledger files and establish trust in the cryptographic\r\n proofs themselves? With the new localized, web ledg",
+    "pubDate": "2026-06-03T22:15:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Text Analytics for Health NextGen Playground in Azure AI Language",
+    "link": "https://azure.microsoft.com/updates?id=563671",
+    "description": "Azure AI Language brings the next-generation Text Analytics for Health (TA4H) playground to general availability in the Microsoft Foundry portal. Clinical informatics teams and ISVs can paste discharge summaries, doctor's notes, or research abstracts and ",
+    "pubDate": "2026-06-03T21:15:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: User feedback logging in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563431",
+    "description": "This feature introduces end user feedback logging semantics that enables developers to capture structured feedback signals from real users interacting with AI agents—such as thumbs up/down, ratings, or custom annotations—and automatically associates that ",
+    "pubDate": "2026-06-03T21:15:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Self-serve custom photo avatar creation in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=563491",
     "description": "Microsoft Foundry brings self-serve custom photo avatar creation to GA in the Foundry NextGen fine-tuning portal. Enterprise customers building voice agents with avatars or producing content with avatar and speech often need a branded avatar instead of a ",
@@ -285,6 +313,13 @@
     "description": "We’re excited to announce the General Availability of Dynamic threshold for Log search alerts! Using dynamic thresholds means you don't have to know the right threshold for each Log alert rule - Dynamic thresholds calculate the most appropriate thresholds",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T19:15:57.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
@@ -661,41 +696,6 @@
     "title": "[In preview] Public Preview: Azure HorizonDB",
     "link": "https://azure.microsoft.com/updates?id=563087",
     "description": "Azure HorizonDB is a PostgreSQL-compatible database service engineered for performance and built for what's next. It delivers future-proof autoscaling storage up to 128 TB, up to three times faster performance than self-managed PostgreSQL, and rapid compu",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure DocumentDB instant free tier clusters",
-    "link": "https://azure.microsoft.com/updates?id=563082",
-    "description": "With near-instant provisioning of free tier clusters, you can get started immediately on Azure DocumentDB. Learn more.",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure DocumentDB Migration Extension in Visual Studio Code",
-    "link": "https://azure.microsoft.com/updates?id=563072",
-    "description": "Announcing the general availability of the Azure DocumentDB Migration Extension for Visual Studio Code. With this release, you can create, run, and manage migration jobs directly from Visual Studio Code to move data from your on-premises or cloud-based Mo",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Change streams (multi-shard) in Azure DocumentDB",
-    "link": "https://azure.microsoft.com/updates?id=563067",
-    "description": "You can build real-time, event-driven applications with change streams in Azure DocumentDB, now in public preview and featuring multi-node support. You can capture live data changes with controlled polling, helping you power instant analytics, automation,",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Graceful failover with zero data loss guarantee",
-    "link": "https://azure.microsoft.com/updates?id=563062",
-    "description": "Azure DocumentDB is excited to announce the general availability of graceful failovers that promote replica clusters while guaranteeing zero data loss.  \r\n\r\nThis feature is an addition to the already existing force promote feature, which immediately promote",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Service-managed failover in Azure DocumentDB",
-    "link": "https://azure.microsoft.com/updates?id=563057",
-    "description": "Azure DocumentDB is excited to announce the general availability of service-managed failover for multi-region clusters. In the event of a regional outage, Azure DocumentDB will automatically fail over the globally distributed cluster from the primary regi",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
