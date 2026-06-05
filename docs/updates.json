@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Ingestion Volume Change dashboard in Metrics Usage Insights",
+    "link": "https://azure.microsoft.com/updates?id=565286",
+    "description": "Metrics Usage Insights now includes an Ingestion Volume Change dashboard to help you compare ingestion volume over time. Quickly detect spikes or drops in time series counts and event ingestion rates, enabling faster investigation of cost changes and more",
+    "pubDate": "2026-06-05T20:45:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: Guest RDMA on Azure Boost",
+    "link": "https://azure.microsoft.com/updates?id=564981",
+    "description": "Guest RDMA is now in preview on Azure, starting in the UK South region, bringing high-throughput, ultra-low latency networking directly into guest VMs within the same region. By using Azure Boost to enable RDMA in the guest OS, applications can bypass the",
+    "pubDate": "2026-06-05T20:30:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
     "description": "<p>Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/\">Securing CI/CD in an agentic world: Claude Code Github action case</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -420,13 +434,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "AI alone won’t change your business. The system running it will.",
-    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
-    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-02T19:15:57.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
     "link": "https://azure.microsoft.com/updates?id=564868",
     "description": "A new workspace-wide Genie MCP endpoint enables any Microsoft Copilot Studio agent to query natural-language questions across an entire Azure Databricks workspace through a single endpoint. The endpoint auto-routes across all connected Genie spaces and Un",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: OneLake Catalog integration for Foundry IQ Knowledge Sources",
     "link": "https://azure.microsoft.com/updates?id=563227",
     "description": "Microsoft Foundry IQ adds public preview support for OneLake Catalog as a knowledge source, so agents can ground responses on lakehouse tables, files, and shortcuts already governed in Microsoft Fabric. Data engineers register the OneLake catalog once and",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Region-agnostic reservations for Global PTU in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563212",
-    "description": "Microsoft Foundry adds region-agnostic reservations for\r\nGlobal Provisioned Throughput Units (PTUs) at general availability, letting\r\ncustomers commit to PTU capacity once and consume it from any supported region.\r\nPreviously, a reserved PTU commitment was t",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
