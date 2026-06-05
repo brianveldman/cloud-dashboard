@@ -413,13 +413,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "AI alone won’t change your business. The system running it will.",
-    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
-    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-02T19:15:57.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
     "link": "https://azure.microsoft.com/updates?id=564868",
     "description": "A new workspace-wide Genie MCP endpoint enables any Microsoft Copilot Studio agent to query natural-language questions across an entire Azure Databricks workspace through a single endpoint. The endpoint auto-routes across all connected Genie spaces and Un",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Speech SDK 1.50 for Azure AI Speech",
     "link": "https://azure.microsoft.com/updates?id=563192",
     "description": "Speech SDK 1.50 ships as a generally available release across all supported languages: C#, C++, Java, JavaScript, Python, Objective-C, Swift, and Go. The release rolls up the latest speech-to-text and text-to-speech features behind a stable API surface an",
+    "pubDate": "2026-06-02T19:00:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: CLI and SDK support for Deployment Templates",
+    "link": "https://azure.microsoft.com/updates?id=563187",
+    "description": "Deployment templates in Azure Machine Learning add CLI and SDK support in public preview, so platform teams can create, update, delete, and manage templates from infrastructure-as-code pipelines instead of only the portal. The new commands work with az ml",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
