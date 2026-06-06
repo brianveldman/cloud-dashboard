@@ -434,6 +434,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T19:15:57.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Databricks workspace-wide Genie MCP for Microsoft Copilot Studio",
     "link": "https://azure.microsoft.com/updates?id=564868",
     "description": "A new workspace-wide Genie MCP endpoint enables any Microsoft Copilot Studio agent to query natural-language questions across an entire Azure Databricks workspace through a single endpoint. The endpoint auto-routes across all connected Genie spaces and Un",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Image serving in Foundry IQ knowledge bases",
     "link": "https://azure.microsoft.com/updates?id=563237",
     "description": "Foundry IQ knowledge bases now surface document-extracted images at query time in public preview. When ingestion pulls figures, screenshots, and diagrams out of PDFs, slides, and Office files, Foundry IQ retains each image alongside the text it appeared w",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: OneLake Catalog integration for Foundry IQ Knowledge Sources",
-    "link": "https://azure.microsoft.com/updates?id=563227",
-    "description": "Microsoft Foundry IQ adds public preview support for OneLake Catalog as a knowledge source, so agents can ground responses on lakehouse tables, files, and shortcuts already governed in Microsoft Fabric. Data engineers register the OneLake catalog once and",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
