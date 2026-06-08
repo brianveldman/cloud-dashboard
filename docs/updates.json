@@ -1,5 +1,54 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=565271",
+    "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
+    "pubDate": "2026-06-08T18:15:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Premium SSD v2 disks now support non-zonal Azure Virtual Machines ",
+    "link": "https://azure.microsoft.com/updates?id=565359",
+    "description": "Azure Premium SSD v2 disks now support non-zonal, single-instance Azure virtual machines in select Azure regions with Availability Zones (AZs). Customers can now deploy Premium SSD v2 with non-zonal virtual machines without selecting an Availability Zone.",
+    "pubDate": "2026-06-08T18:00:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft Foundry agent security capabilities in Microsoft Defender for Cloud are transitioning to a Microsoft Agent 365 license",
+    "link": "https://azure.microsoft.com/updates?id=565171",
+    "description": "Starting July 1, 2026, Microsoft Foundry agent security capabilities previously available through Microsoft Defender for Cloud will transition to a Microsoft Agent 365 license. Agent protection in Defender will be powered by Agent 365 observability logs a",
+    "pubDate": "2026-06-08T17:15:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Site Recovery support for Linux Azure VMs with NVMe disk controllers.",
+    "link": "https://azure.microsoft.com/updates?id=565103",
+    "description": "Azure Site Recovery\r\nnow supports replication and disaster recovery for Linux Azure Virtual Machines\r\nrunning on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa\r\nv6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This support is\r\nlimited t",
+    "pubDate": "2026-06-08T17:15:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Maintenance control for Azure Database for PostgreSQL - reschedule, apply on demand, view and download",
+    "link": "https://azure.microsoft.com/updates?id=563756",
+    "description": "Enhanced maintenance control capabilities are now generally available for Azure Database for PostgreSQL Flexible Server. These new capabilities give you greater visibility and flexibility in managing platform maintenance events, helping reduce disruption ",
+    "pubDate": "2026-06-08T17:15:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Managed Redis now supports Entra ID based RBAC for data management ",
+    "link": "https://azure.microsoft.com/updates?id=564873",
+    "description": "With role-based access control (RBAC) for Azure Managed Redis data access, you can precisely control who can read, write, or administer your Redis data using Microsoft Entra ID—without relying on shared keys. Built on top of Redis Access Control Lists (AC",
+    "pubDate": "2026-06-08T16:15:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
+    "description": "<p>As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/\">AI brands as bait: How threat actors are using the AI hype in social engineering</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-08T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Ingestion Volume Change dashboard in Metrics Usage Insights",
     "link": "https://azure.microsoft.com/updates?id=565286",
     "description": "Metrics Usage Insights now includes an Ingestion Volume Change dashboard to help you compare ingestion volume over time. Quickly detect spikes or drops in time series counts and event ingestion rates, enabling faster investigation of cost changes and more",
@@ -647,55 +696,6 @@
     "title": "[Launched] Generally Available: Adaptive custom translation in the Azure AI Foundry NextGen playground",
     "link": "https://azure.microsoft.com/updates?id=563307",
     "description": "Adaptive\r\nCustom Translation (AdaptCT) is generally available in the Azure AI Foundry\r\nNextGen playground for Azure Translator. AdaptCT enables enterprises to adapt\r\ntranslations to domain‑specific terminology using small datasets—eliminating\r\nthe need for tr",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Photo Avatar standard and custom in Azure AI Speech",
-    "link": "https://azure.microsoft.com/updates?id=563282",
-    "description": "Photo Avatar in Azure AI Speech is now generally available in standard and custom flavors. Standard Photo Avatar produces a talking head video from a single photo at 512x512 resolution, and custom Photo Avatar lets you fine-tune the look from your own ima",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft Purview sensitivity label auditing in Azure AI Search",
-    "link": "https://azure.microsoft.com/updates?id=563267",
-    "description": "Azure AI Search now emits audit events for Microsoft Purview sensitivity labels carried alongside indexed documents. When the SharePoint in Microsoft 365 indexer is configured to preserve and honor sensitivity labels, query-time filtering decisions and la",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: SharePoint in Microsoft 365 indexer supports ASPX pages and Lists",
-    "link": "https://azure.microsoft.com/updates?id=563262",
-    "description": "The Azure AI Search SharePoint in Microsoft 365 indexer now indexes ASPX site content and SharePoint Lists in addition to document libraries. The indexer connects through a Microsoft Entra application registration with application or delegated permissions",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Content Understanding extractionMode for documents",
-    "link": "https://azure.microsoft.com/updates?id=563257",
-    "description": "Content Understanding in Microsoft Foundry now supports an extractionMode setting that lets you choose how documents are analyzed. Pick a layout-aware mode for structured documents where tables, sections, and reading order matter, or a faster text-only mo",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: GenAI prompt skill and chat completion in Azure AI Search knowledge sources",
-    "link": "https://azure.microsoft.com/updates?id=563247",
-    "description": "Azure AI Search makes the GenAI prompt skill generally available, letting indexers call chat completion models during enrichment without custom code. Authors point the skill at a Foundry-hosted model, write a prompt template that references field values, ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Managed identity for Foundry billing calls from Azure AI Search",
-    "link": "https://azure.microsoft.com/updates?id=563242",
-    "description": "Azure AI Search now supports managed identity authentication for the billing operations it issues against Microsoft Foundry resources, replacing the prior key-based flow. Customers assign a system-assigned or user-assigned identity to the search service, ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Image serving in Foundry IQ knowledge bases",
-    "link": "https://azure.microsoft.com/updates?id=563237",
-    "description": "Foundry IQ knowledge bases now surface document-extracted images at query time in public preview. When ingestion pulls figures, screenshots, and diagrams out of PDFs, slides, and Office files, Foundry IQ retains each image alongside the text it appeared w",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
