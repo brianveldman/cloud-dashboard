@@ -21,6 +21,13 @@
     "source": "Security"
   },
   {
+    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-09T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=565271",
     "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Incremental SharePoint permissions sync for Azure AI Search and Foundry IQ",
     "link": "https://azure.microsoft.com/updates?id=563396",
     "description": "Azure AI Search and Foundry IQ Knowledge Sources add incremental SharePoint permissions sync in public preview, keeping document-level, site, and library access control lists current as SharePoint permissions change. Enterprises store business-critical co",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Content Understanding NextGen in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563361",
-    "description": "Microsoft Foundry brings Content Understanding into the portal in public preview, ending the context switch to the standalone Content Understanding Studio for everyday work. Developers get Read and Layout playgrounds inside Foundry for OCR text extraction",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
