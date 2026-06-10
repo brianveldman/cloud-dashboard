@@ -1,5 +1,26 @@
 [
   {
+    "title": "Retirement: Azure Synapse Link for Azure Cosmos DB NoSQL",
+    "link": "https://azure.microsoft.com/updates?id=558560",
+    "description": "As of March 31, 2026, new Azure Cosmos DB NoSQL accounts can no longer enable Azure Synapse Link. Existing customers will remain fully supported until March 31, 2029, when Azure Synapse Link will reach end of life.We encourage all customers to begin migra",
+    "pubDate": "2026-06-10T17:00:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure VPN Client for Linux (Preview) will be retired on August 31, 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=565393",
+    "description": "The Azure VPN Client for Linux (Preview) has remained in public preview and does not have a path to general availability (GA). As part of our ongoing efforts to align Azure networking services with current security and reliability standards, this preview ",
+    "pubDate": "2026-06-10T16:15:16.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Turn specs into evals for any agent with ASSERT",
+    "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
+    "description": "<p>Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents.</p>\n<p>The post <a href=\"https://commandline.microsoft.com/assert-written-intent-executable-evals/\">Turn specs into evals for any agent with ASSERT</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-10T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Agent mode for GitHub Copilot in SQL Server Management Studio (SSMS) ",
     "link": "https://azure.microsoft.com/updates?id=562637",
     "description": "You can now use Agent mode for GitHub Copilot in SSMS to work with your database: investigating performance problems, tuning queries, reviewing maintenance and configuration, identifying security concerns, troubleshooting errors, and assisting with operat",
@@ -675,27 +696,6 @@
     "title": "[Launched] Generally Available: Custom Avatar and Custom Video portal in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=563436",
     "description": "Azure AI Speech brings the Custom Avatar and Custom Video authoring experiences into the Microsoft Foundry portal in general availability. Approved customers can upload an actor's video recording, fine-tune a custom video avatar, and generate synthetic ta",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Trace Replay and trace visualizations for Foundry agents",
-    "link": "https://azure.microsoft.com/updates?id=563426",
-    "description": "Microsoft Foundry observability adds Trace Replay and new trace visualizations in public preview, giving agent developers a faster way to debug multi-step runs. The replay view rewinds a captured trace step by step, showing the model, tool, and inter-agen",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: MCP Server Knowledge Source in Microsoft Foundry IQ",
-    "link": "https://azure.microsoft.com/updates?id=563411",
-    "description": "Microsoft Foundry IQ now supports external MCP servers as federated knowledge sources in public preview, expanding retrieval beyond data customers index themselves. Teams can register MCP servers from systems like Salesforce, Atlassian, Confluence, and Se",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Incremental SharePoint permissions sync for Azure AI Search and Foundry IQ",
-    "link": "https://azure.microsoft.com/updates?id=563396",
-    "description": "Azure AI Search and Foundry IQ Knowledge Sources add incremental SharePoint permissions sync in public preview, keeping document-level, site, and library access control lists current as SharePoint permissions change. Enterprises store business-critical co",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
