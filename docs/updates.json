@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Agent mode for GitHub Copilot in SQL Server Management Studio (SSMS) ",
+    "link": "https://azure.microsoft.com/updates?id=562637",
+    "description": "You can now use Agent mode for GitHub Copilot in SSMS to work with your database: investigating performance problems, tuning queries, reviewing maintenance and configuration, identifying security concerns, troubleshooting errors, and assisting with operat",
+    "pubDate": "2026-06-09T23:45:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: PostgreSQL Hub for Azure Developers ",
     "link": "https://azure.microsoft.com/updates?id=562084",
     "description": "PostgreSQL Hub for Azure Developers brings together key AI and application development resources for PostgreSQL on Azure. It includes curated sample apps and solution accelerators, tutorials, and structured learning pathways to help you build everything f",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Content Understanding NextGen in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=563361",
     "description": "Microsoft Foundry brings Content Understanding into the portal in public preview, ending the context switch to the standalone Content Understanding Studio for everyday work. Developers get Read and Layout playgrounds inside Foundry for OCR text extraction",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Document translation for image files (synchronous, single document)",
-    "link": "https://azure.microsoft.com/updates?id=563341",
-    "description": "Azure AI Translator now supports synchronous single-document image translation at general availability. Customers can submit a standalone image file (JPEG, PNG, and similar formats) through one synchronous API call and receive the translated result immedi",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
