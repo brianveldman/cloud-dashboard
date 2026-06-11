@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Load Balancer Inbound NAT rule version 1 for Azure VMSS (aka Inbound NAT Pools)",
+    "link": "https://azure.microsoft.com/updates?id=565482",
+    "description": "Update to our previous communication: We previously\r\nannounced the retirement of all Inbound NAT rules version 1 resources, which\r\nincluded both single-VM NAT rules and NAT pools for Virtual Machine Scale\r\nSets. We have narrowed the scope of this retirement ",
+    "pubDate": "2026-06-11T16:15:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Microsoft Entra server principals on Azure SQL Database ",
     "link": "https://azure.microsoft.com/updates?id=565154",
     "description": "Microsoft Entra server principals (logins) for Azure SQL Database is now generally available. You can now use CREATE LOGIN ... FROM EXTERNAL PROVIDER in the virtual master database, bringing parity with SQL logins for your Microsoft Entra identities.With ",
@@ -47,6 +54,13 @@
     "description": "<p>Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/\">Reconstructing AI activity in investigations </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-09T17:35:06.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-09T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Neural HD voice update (HDv2.5) in Azure AI Speech",
     "link": "https://azure.microsoft.com/updates?id=563526",
     "description": "Azure AI Speech is rolling out an updated Neural HD text-to-speech model, moving customers from DragonHDLatest to HDv2.5. The update raises audio quality scores, adds style and paralinguistic tag support for English voices, and reduces word error rate in ",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Toolbox connectors and triggers in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563456",
-    "description": "Microsoft Foundry adds connectors and time-based triggers to the Foundry Tools toolbox in public preview, giving enterprise developers and automation engineers a native way to build event-driven AI agents. Foundry agents today are invoked only through dir",
-    "pubDate": "2026-06-02T19:00:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom Avatar and Custom Video portal in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563436",
-    "description": "Azure AI Speech brings the Custom Avatar and Custom Video authoring experiences into the Microsoft Foundry portal in general availability. Approved customers can upload an actor's video recording, fine-tune a custom video avatar, and generate synthetic ta",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
