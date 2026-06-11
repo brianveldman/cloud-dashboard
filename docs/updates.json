@@ -49,13 +49,6 @@
     "source": "Security"
   },
   {
-    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-09T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=565271",
     "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
@@ -696,6 +689,13 @@
     "title": "[In preview] Public Preview: Toolbox connectors and triggers in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=563456",
     "description": "Microsoft Foundry adds connectors and time-based triggers to the Foundry Tools toolbox in public preview, giving enterprise developers and automation engineers a native way to build event-driven AI agents. Foundry agents today are invoked only through dir",
+    "pubDate": "2026-06-02T19:00:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Custom Avatar and Custom Video portal in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563436",
+    "description": "Azure AI Speech brings the Custom Avatar and Custom Video authoring experiences into the Microsoft Foundry portal in general availability. Approved customers can upload an actor's video recording, fine-tune a custom video avatar, and generate synthetic ta",
     "pubDate": "2026-06-02T19:00:47.000Z",
     "source": "Azure Updates"
   }
