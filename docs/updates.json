@@ -21,13 +21,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "3 things leaders need to know from Microsoft Build 2026",
-    "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
-    "description": "<p>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/\">3 things leaders need to know from Microsoft Build 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-11T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: SQL MCP Server",
     "link": "https://azure.microsoft.com/updates?id=564734",
     "description": "SQL MCP Server is now generally available, giving customers\r\na secure, high-performance way to build agentic solutions with controlled\r\naccess to production data. Built for SQL and compatible with PostgreSQL and\r\nAzure Cosmos DB, SQL MCP Server is a dynamic,",
@@ -698,5 +691,12 @@
     "description": "We’re excited to announce the General Availability of Dynamic threshold for Log search alerts! Using dynamic thresholds means you don't have to know the right threshold for each Log alert rule - Dynamic thresholds calculate the most appropriate thresholds",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T19:15:57.000Z",
+    "source": "Azure Blog"
   }
 ]
