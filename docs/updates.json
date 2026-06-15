@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
+    "description": "<p>See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/\">Microsoft Defender email security benchmarking: Key insights from one year of data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-15T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools",
     "link": "https://azure.microsoft.com/updates?id=564774",
     "description": "Azure Compute will retire the following Virtual Machine series on November 15, 2028, impacting Azure Batch pools that rely on them:Av2-seriesF-series, Fs-series, Fsv2-seriesG-series, Gs-seriesLsv2-seriesAfter this date:New Batch pools using these VM serie",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Rolling updates in Flex Consumption ",
     "link": "https://azure.microsoft.com/updates?id=562365",
     "description": "Rolling updates are now generally available in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.Instead of forcefully restarting all instances during code or configuration updates, the platform gracefully ",
-    "pubDate": "2026-06-02T19:30:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Dynamic threshold for Log search alerts",
-    "link": "https://azure.microsoft.com/updates?id=561984",
-    "description": "We’re excited to announce the General Availability of Dynamic threshold for Log search alerts! Using dynamic thresholds means you don't have to know the right threshold for each Log alert rule - Dynamic thresholds calculate the most appropriate thresholds",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
   }
