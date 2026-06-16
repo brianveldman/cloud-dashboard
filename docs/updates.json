@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code",
+    "link": "https://azure.microsoft.com/updates?id=562497",
+    "description": "The Azure Functions extension for VS Code now provides a redesigned Create New Project experience in public preview, featuring a rich, visual template gallery that replaces the multi-step Quick Pick wizard with a searchable, filterable view of project tem",
+    "pubDate": "2026-06-16T19:00:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Log Analytics Summary Rules experience",
     "link": "https://azure.microsoft.com/updates?id=562027",
     "description": "A new Azure portal experience for Summary Rules in Log Analytics is now available. Summary Rules enable aggregation of high-volume log data at a defined cadence and store it in summarized tables for improved query performance, reporting, or enhanced data ",
@@ -689,13 +696,6 @@
     "title": "[In development] Private Preview: multiparty analytics with Azure Confidential Clean Rooms",
     "link": "https://azure.microsoft.com/updates?id=564495",
     "description": "Microsoft is announcing the preview of multiparty analytics with Azure Confidential Clean Rooms, resulting in fully managed service that allows customers and their partners to securely analyze privacy sensitive datasets with Apache Spark based big-data an",
-    "pubDate": "2026-06-02T19:30:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: Storage optimized Lasv5 and Laosv5 Azure VM series",
-    "link": "https://azure.microsoft.com/updates?id=564446",
-    "description": "The Lasv5 and Laosv5 storage optimized VMs, based\r\non the 5th Gen AMD EPYC™ processor (Turin), are in preview. Lasv5-series is designed for storage-intensive workloads\r\nrequiring high disk capacity, throughput, and I/O, while Laosv5-series is\r\nwell-suited fo",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
   }
