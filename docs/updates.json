@@ -14,13 +14,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Copilot Cowork is now generally available",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
-    "description": "<p>Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/\">Copilot Cowork is now generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-06-16T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
     "description": "<p>See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/\">Microsoft Defender email security benchmarking: Key insights from one year of data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -696,6 +689,13 @@
     "title": "[In development] Private Preview: multiparty analytics with Azure Confidential Clean Rooms",
     "link": "https://azure.microsoft.com/updates?id=564495",
     "description": "Microsoft is announcing the preview of multiparty analytics with Azure Confidential Clean Rooms, resulting in fully managed service that allows customers and their partners to securely analyze privacy sensitive datasets with Apache Spark based big-data an",
+    "pubDate": "2026-06-02T19:30:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: Storage optimized Lasv5 and Laosv5 Azure VM series",
+    "link": "https://azure.microsoft.com/updates?id=564446",
+    "description": "The Lasv5 and Laosv5 storage optimized VMs, based\r\non the 5th Gen AMD EPYC™ processor (Turin), are in preview. Lasv5-series is designed for storage-intensive workloads\r\nrequiring high disk capacity, throughput, and I/O, while Laosv5-series is\r\nwell-suited fo",
     "pubDate": "2026-06-02T19:30:20.000Z",
     "source": "Azure Updates"
   }
