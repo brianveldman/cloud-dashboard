@@ -1,5 +1,40 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments",
+    "link": "https://azure.microsoft.com/updates?id=566145",
+    "description": "Azure Migrate now integrates with GitHub Copilot\r\nModernization (public preview) to deliver at scale code insights. This capability brings\r\ntogether Azure Migrate’s portfolio-level discovery and assessment with GitHub\r\nCopilot’s context-aware code analysis. ",
+    "pubDate": "2026-06-17T18:00:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Databricks native read access to Microsoft OneLake ",
+    "link": "https://azure.microsoft.com/updates?id=565733",
+    "description": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster ac",
+    "pubDate": "2026-06-17T18:00:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake ",
+    "link": "https://azure.microsoft.com/updates?id=565706",
+    "description": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. By storing data direc",
+    "pubDate": "2026-06-17T18:00:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
+    "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
+    "description": "<p>See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592\">AI is accelerating cyberattacks—here’s how to stay ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-17T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: ICMP Support for Azure Standard V2 NAT Gateway",
+    "link": "https://azure.microsoft.com/updates?id=565487",
+    "description": "Azure\r\nStandardV2 NAT Gateway now supports outbound ICMP Echo Request and Echo Reply\r\ntraffic, enabling customers to use tools such as ping to quickly validate\r\noutbound connectivity and troubleshoot network issues from workloads behind\r\nStandardV2 NAT Gatewa",
+    "pubDate": "2026-06-17T16:30:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code",
     "link": "https://azure.microsoft.com/updates?id=562497",
     "description": "The Azure Functions extension for VS Code now provides a redesigned Create New Project experience in public preview, featuring a rich, visual template gallery that replaces the multi-step Quick Pick wizard with a searchable, filterable view of project tem",
@@ -662,41 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=563142",
     "description": "In early June 2026, the following update and enhancement was made to Azure SQL: Now you can use AES 256 symmetric keys to configure transparent data encryption (TDE) with customer-managed keys in Azure SQL Database. Learn more. ",
     "pubDate": "2026-06-02T22:15:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Secure, Modern Access to Azure Files on macOS with MS Entra ID ",
-    "link": "https://azure.microsoft.com/updates?id=565073",
-    "description": "Azure Files now supports access\r\nfrom macOS using Entra ID authentication (Public Preview), enabling secure,\r\nidentity-based access to file shares for cross-platform teams. This expands\r\nsupport for modern workflows, allowing users on macOS to seamlessly acc",
-    "pubDate": "2026-06-02T22:00:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: File share centric management model (Microsoft.FileShares) for Azure Files",
-    "link": "https://azure.microsoft.com/updates?id=565062",
-    "description": "The new file share service management experience for Azure Files is now generally available for NFS 4.1 shares on SSD storage. Powered by the Microsoft.FileShares resource provider, file shares are now top-level Azure resources that you can create, secure",
-    "pubDate": "2026-06-02T21:30:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Gateway Aggregation Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-aggregation",
-    "description": "Learn about the Gateway Aggregation pattern, which uses a gateway to aggregate many individual requests into a single request.",
-    "pubDate": "2026-06-02T21:21:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In development] Preview: Azure Cobalt 200 Arm-based Dpsv7, Dplsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines ",
-    "link": "https://azure.microsoft.com/updates?id=564451",
-    "description": "The general purpose Dpsv7 and Dplsv7, memory-optimized Epsv7, high-memory Mpsv4, and dense storage Lpsv5 VMs are now available in preview. These virtual machines deliver significant enhancements over the previous generation Cobalt 100 VMs, offering improv",
-    "pubDate": "2026-06-02T21:00:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Unified Text Translation API in Azure AI Translator",
-    "link": "https://azure.microsoft.com/updates?id=563631",
-    "description": "Azure AI\r\nTranslator's unified Text Translation API reaches general availability, giving\r\ndevelopers a single endpoint that fronts neural machine translation, large\r\nlanguage model translation, small language model translation, Adaptive custom\r\ntranslation, a",
-    "pubDate": "2026-06-02T21:00:30.000Z",
     "source": "Azure Updates"
   }
 ]
