@@ -1,5 +1,19 @@
 [
   {
+    "title": "Beyond the benchmark: Advancing security at AI speed ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
+    "description": "<p>Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/\">Beyond the benchmark: Advancing security at AI speed </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-17T19:30:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
+    "description": "<p>Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/\">​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-17T18:30:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments",
     "link": "https://azure.microsoft.com/updates?id=566145",
     "description": "Azure Migrate now integrates with GitHub Copilot\r\nModernization (public preview) to deliver at scale code insights. This capability brings\r\ntogether Azure Migrate’s portfolio-level discovery and assessment with GitHub\r\nCopilot’s context-aware code analysis. ",
@@ -684,19 +698,5 @@
     "description": "Learn how to use the Gatekeeper pattern to protect applications and services by using a dedicated host instance as a broker to validate requests and data.",
     "pubDate": "2026-06-02T22:33:27.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Agent kit for Azure Cosmos DB",
-    "link": "https://azure.microsoft.com/updates?id=563022",
-    "description": "Your AI coding agents just got smarter about building high-performance database applications. The Azure Cosmos DB Agent Kit is now generally available, bringing proven best practices directly into your development workflow. Whether you're designing data m",
-    "pubDate": "2026-06-02T22:30:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for early-June",
-    "link": "https://azure.microsoft.com/updates?id=563142",
-    "description": "In early June 2026, the following update and enhancement was made to Azure SQL: Now you can use AES 256 symmetric keys to configure transparent data encryption (TDE) with customer-managed keys in Azure SQL Database. Learn more. ",
-    "pubDate": "2026-06-02T22:15:55.000Z",
-    "source": "Azure Updates"
   }
 ]
