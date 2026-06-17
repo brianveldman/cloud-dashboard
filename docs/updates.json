@@ -14,6 +14,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+    "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "description": "<p>Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/\">Modernize your data with Azure Storage: Plan and migrate with confidence</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Copilot Cowork is now generally available",
     "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
     "description": "<p>Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/\">Copilot Cowork is now generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[In development] Preview: Azure Cobalt 200 Arm-based Dpsv7, Dplsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines ",
     "link": "https://azure.microsoft.com/updates?id=564451",
     "description": "The general purpose Dpsv7 and Dplsv7, memory-optimized Epsv7, high-memory Mpsv4, and dense storage Lpsv5 VMs are now available in preview. These virtual machines deliver significant enhancements over the previous generation Cobalt 100 VMs, offering improv",
-    "pubDate": "2026-06-02T21:00:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Unified Text Translation API in Azure AI Translator",
-    "link": "https://azure.microsoft.com/updates?id=563631",
-    "description": "Azure AI\r\nTranslator's unified Text Translation API reaches general availability, giving\r\ndevelopers a single endpoint that fronts neural machine translation, large\r\nlanguage model translation, small language model translation, Adaptive custom\r\ntranslation, a",
     "pubDate": "2026-06-02T21:00:30.000Z",
     "source": "Azure Updates"
   }
