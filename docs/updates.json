@@ -1,5 +1,12 @@
 [
   {
+    "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
+    "description": "<p>Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/\">Crypto Clipper uses Tor and worm-like propagation for persistence and control</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-17T23:11:43.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Beyond the benchmark: Advancing security at AI speed ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
     "description": "<p>Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/\">Beyond the benchmark: Advancing security at AI speed </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -677,13 +684,6 @@
     "description": "Now you can unify your search operations in a single database. Azure DocumentDB has added fuzzy search, proximity search, more language support, and BM25 ranking to its full-text capabilities, bringing vector and advanced text search operations together. ",
     "pubDate": "2026-06-03T17:00:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
-    "description": "<p>A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/\">Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-03T04:45:06.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Simple log alerts in Azure Monitor",
