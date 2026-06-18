@@ -63,6 +63,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+    "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "description": "<p>Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/\">Modernize your data with Azure Storage: Plan and migrate with confidence</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Copilot Cowork is now generally available",
     "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
     "description": "<p>Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/\">Copilot Cowork is now generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Microsoft Foundry brings code-first observability to agent developers in public preview, delivered as an observe skill inside the Foundry Plugin for VS Code Copilot Chat. Developers run the full evaluation-driven optimization loop from the editor through ",
     "pubDate": "2026-06-02T23:15:29.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Gatekeeper Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/gatekeeper",
-    "description": "Learn how to use the Gatekeeper pattern to protect applications and services by using a dedicated host instance as a broker to validate requests and data.",
-    "pubDate": "2026-06-02T22:33:27.000Z",
-    "source": "Azure Architecture"
   }
 ]
