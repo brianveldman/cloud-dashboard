@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
+    "description": "<p>New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/\">New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-18T19:36:08.000Z",
+    "source": "Security"
+  },
+  {
     "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
     "description": "<p>A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/\">From package to postinstall payload: Inside the Mastra npm supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -75,6 +82,13 @@
     "description": "A new Azure portal experience for Summary Rules in Log Analytics is now available. Summary Rules enable aggregation of high-volume log data at a defined cadence and store it in summarized tables for improved query performance, reporting, or enhanced data ",
     "pubDate": "2026-06-16T17:15:28.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+    "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "description": "<p>Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/\">Modernize your data with Azure Storage: Plan and migrate with confidence</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-16T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Copilot Cowork is now generally available",
@@ -385,13 +399,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
-    "description": "<p>Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/\">Securing CI/CD in an agentic world: Claude Code Github action case</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-05T16:46:47.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[In preview] Public Preview: Voice sync for avatar support in Voice Live API in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=564176",
     "description": "In public preview, Microsoft Foundry now supports avatar voice sync with custom voices in the Voice Live API, allowing developers to pair branded or persona-specific text-to-speech voices with real-time avatar experiences. This update helps teams building",
@@ -691,12 +698,5 @@
     "description": "Microsoft Foundry brings code-first observability to agent developers in public preview, delivered as an observe skill inside the Foundry Plugin for VS Code Copilot Chat. Developers run the full evaluation-driven optimization loop from the editor through ",
     "pubDate": "2026-06-02T23:15:29.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Gatekeeper Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/gatekeeper",
-    "description": "Learn how to use the Gatekeeper pattern to protect applications and services by using a dedicated host instance as a broker to validate requests and data.",
-    "pubDate": "2026-06-02T22:33:27.000Z",
-    "source": "Azure Architecture"
   }
 ]
