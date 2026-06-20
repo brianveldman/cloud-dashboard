@@ -14,9 +14,9 @@
     "source": "Security"
   },
   {
-    "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
+    "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
-    "description": "<p>A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/\">From package to postinstall payload: Inside the Mastra npm supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/\">From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-18T03:43:04.000Z",
     "source": "Security"
   },
