@@ -8,68 +8,60 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>☁️</text></svg>">
 </head>
 <body>
-    <div class="header">
+    <div class="dashboard-shell">
+        <div class="header clean-header">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-8">
+                        <h1><i class="fab fa-microsoft"></i> Cloud Dashboard</h1>
+                        <p class="mb-0">Compact update overview, refreshed every 3 hours</p>
+                        <p class="mb-0">Created by <a class="meta-link" href="https://www.linkedin.com/in/brian-veldman">Brian Veldman</a></p>
+                    </div>
+                    <div class="col-md-4 text-md-end">
+                        <small class="date-text">Last updated: {{LAST_UPDATED}}</small>
+                    </div>
+                </div>
+            </div>
+            <button class="theme-toggle" onclick="toggleTheme()">
+                <i class="fas fa-sun" id="themeIcon"></i>
+                <span id="themeText">Light Mode</span>
+            </button>
+        </div>
+
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-8">
-                    <h1>
-                        <i class="fab fa-microsoft"></i> Cloud Dashboard
-                    </h1>
-                    <p class="mb-0">Updates from official sources every 3 hours</p>
-                     <p class="mb-0"> Created by <a href="https://www.linkedin.com/in/brian-veldman">Brian Veldman</a></p>
+            <div class="row mb-4 compact-stats">
+                <div class="col-md-3">
+                    <div class="stats-card compact">
+                        <h4>{{TOTAL_UPDATES}}</h4>
+                        <p class="mb-0">Updates</p>
+                    </div>
                 </div>
-                <div class="col-md-4 text-md-end">
-                    <small>Last updated: {{LAST_UPDATED}}</small>
+                <div class="col-md-3">
+                    <div class="stats-card compact">
+                        <h4>6</h4>
+                        <p class="mb-0">Sources</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stats-card compact">
+                        <h4>3h</h4>
+                        <p class="mb-0">Interval</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stats-card compact">
+                        <h4>Auto</h4>
+                        <p class="mb-0">Refresh</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <button class="theme-toggle" onclick="toggleTheme()">
-            <i class="fas fa-sun" id="themeIcon"></i>
-            <span id="themeText">Light Mode</span>
-        </button>
-    </div>
 
-    <div class="container">
-        <!-- Stats Overview -->
-        <div class="row mb-4">
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-newspaper"></i></h3>
-                    <h4>{{TOTAL_UPDATES}}</h4>
-                    <p class="mb-0">Total Updates</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-rss"></i></h3>
-                    <h4>6</h4>
-                    <p class="mb-0">Active Sources</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-clock"></i></h3>
-                    <h4>3 Hours</h4>
-                    <p class="mb-0">Update Interval</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stats-card">
-                    <h3><i class="fas fa-sync-alt"></i></h3>
-                    <h4>Auto</h4>
-                    <p class="mb-0">Refresh</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="filter-section">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <input type="text" id="searchInput" class="form-control search-box" 
-                           placeholder="🔍 Search updates...">
-                </div>
-                <div class="col-md-6">
-                    <div class="select-wrapper">
+            <div class="filter-section compact">
+                <div class="row align-items-center">
+                    <div class="col-md-7">
+                        <input type="text" id="searchInput" class="form-control search-box" placeholder="Search updates...">
+                    </div>
+                    <div class="col-md-5">
                         <select id="sourceFilter" class="form-select">
                             <option value="">All sources</option>
                             <option value="Azure Updates">Azure Updates</option>
@@ -82,31 +74,41 @@
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div id="updatesContainer">
-            {{UPDATES_CONTENT}}
-        </div>
+            <div id="updatesContainer" class="updates-table-wrap">
+                <table class="updates-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Source</th>
+                            <th>Update</th>
+                            <th>Summary</th>
+                        </tr>
+                    </thead>
+                    <tbody id="updatesTableBody">
+                        {{UPDATES_CONTENT}}
+                    </tbody>
+                </table>
+            </div>
 
-        <div class="text-center mt-4">
-            <small class="text-muted">
-                This dashboard is automatically updated every 3 hours via GitHub Actions - Feel free to star the repository.<br>
-                <a href="https://github.com/brianveldman/azure-updates" target="_blank" class="github-link">
-                    <i class="fab fa-github"></i> View on GitHub
-                </a>
-            </small>
+            <div class="text-center mt-4">
+                <small class="text-muted">
+                    Automatically updated every 3 hours via GitHub Actions -
+                    <a href="https://github.com/brianveldman/azure-updates" target="_blank" class="github-link">
+                        <i class="fab fa-github"></i> View on GitHub
+                    </a>
+                </small>
+            </div>
         </div>
     </div>
 
     <script>
-        // Theme toggle functionality
         function toggleTheme() {
             const body = document.body;
             const themeIcon = document.getElementById('themeIcon');
             const themeText = document.getElementById('themeText');
-            
             body.classList.toggle('light-mode');
-            
+
             if (body.classList.contains('light-mode')) {
                 themeIcon.className = 'fas fa-moon';
                 themeText.textContent = 'Dark Mode';
@@ -118,13 +120,12 @@
             }
         }
 
-        // Load saved theme
         function loadTheme() {
             const savedTheme = localStorage.getItem('theme');
             const body = document.body;
             const themeIcon = document.getElementById('themeIcon');
             const themeText = document.getElementById('themeText');
-            
+
             if (savedTheme === 'light') {
                 body.classList.add('light-mode');
                 themeIcon.className = 'fas fa-moon';
@@ -132,32 +133,30 @@
             }
         }
 
-        // Search functionality
         document.getElementById('searchInput').addEventListener('input', filterUpdates);
         document.getElementById('sourceFilter').addEventListener('change', filterUpdates);
 
         function filterUpdates() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const sourceFilter = document.getElementById('sourceFilter').value;
-            const cards = document.querySelectorAll('.update-card');
+            const rows = document.querySelectorAll('.update-row');
 
-            cards.forEach(card => {
-                const title = card.querySelector('h5').textContent.toLowerCase();
-                const description = card.querySelector('p').textContent.toLowerCase();
-                const source = card.getAttribute('data-source');
+            rows.forEach(row => {
+                const title = row.querySelector('.update-title').textContent.toLowerCase();
+                const description = row.querySelector('.update-description').textContent.toLowerCase();
+                const source = row.getAttribute('data-source');
 
                 const matchesSearch = title.includes(searchTerm) || description.includes(searchTerm);
                 const matchesSource = !sourceFilter || source === sourceFilter;
 
                 if (matchesSearch && matchesSource) {
-                    card.style.display = 'block';
+                    row.style.display = '';
                 } else {
-                    card.style.display = 'none';
+                    row.style.display = 'none';
                 }
             });
         }
 
-        // Initialize theme on page load
         document.addEventListener('DOMContentLoaded', loadTheme);
     </script>
 </body>
