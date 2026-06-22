@@ -127,22 +127,21 @@ jobs:
         const updatesHTML = updates.map(update => {
           const badgeClass = update.source.toLowerCase().replace(/\s+/g, '-');
           const formattedDate = moment(update.pubDate).format('MMM DD, YYYY');
-          const shortDesc = update.description.substring(0, 200) + (update.description.length > 200 ? '...' : '');
+          const plainDesc = String(update.description || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+          const shortDesc = plainDesc.substring(0, 140) + (plainDesc.length > 140 ? '...' : '');
           
-          return '<div class="update-card mb-3" data-source="' + update.source + '">' +
-                 '<div class="card-body">' +
-                 '<div class="row">' +
-                 '<div class="col-md-9">' +
-                 '<h5><a href="' + update.link + '" target="_blank" class="text-decoration-none">' + update.title + '</a></h5>' +
-                 '<p class="text-muted">' + shortDesc + '</p>' +
-                 '</div>' +
-                 '<div class="col-md-3 text-md-end">' +
-                 '<span class="source-badge ' + badgeClass + ' mb-2">' + update.source + '</span><br>' +
+          return '<tr class="update-row" data-source="' + update.source + '">' +
+                 '<td class="update-date-cell">' +
                  '<small class="date-text"><i class="far fa-calendar"></i> ' + formattedDate + '</small>' +
-                 '</div>' +
-                 '</div>' +
-                 '</div>' +
-                 '</div>';
+                 '</td>' +
+                 '<td class="update-source-cell">' +
+                 '<span class="source-badge ' + badgeClass + '">' + update.source + '</span>' +
+                 '</td>' +
+                 '<td class="update-title-cell">' +
+                 '<a href="' + update.link + '" target="_blank" class="update-link update-title">' + update.title + '</a>' +
+                 '</td>' +
+                 '<td class="update-summary-cell update-description">' + shortDesc + '</td>' +
+                 '</tr>';
         }).join('');
 
         // Replace updates placeholder
