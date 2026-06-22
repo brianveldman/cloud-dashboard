@@ -1,5 +1,12 @@
 [
   {
+    "title": "Guarding AI memory",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
+    "description": "<p>What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/\">Guarding AI memory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-22T19:07:28.000Z",
+    "source": "Security"
+  },
+  {
     "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
     "description": "<p>Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/\">One intrusion, two cyberattackers: Uncovering parallel threat activity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -278,13 +285,6 @@
     "description": "The Azure VPN Client for Linux (Preview) has remained in public preview and does not have a path to general availability (GA). As part of our ongoing efforts to align Azure networking services with current security and reliability standards, this preview ",
     "pubDate": "2026-06-10T16:15:16.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Turn specs into evals for any agent with ASSERT",
-    "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
-    "description": "<p>Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents.</p>\n<p>The post <a href=\"https://commandline.microsoft.com/assert-written-intent-executable-evals/\">Turn specs into evals for any agent with ASSERT</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-10T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Modern Data Platform Architecture for SMBs",
