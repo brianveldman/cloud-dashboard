@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Generally Available: Azure NetApp Files migration assistant ",
+    "link": "https://azure.microsoft.com/updates?id=565480",
+    "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
+    "pubDate": "2026-06-23T20:15:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Guarding AI memory",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
     "description": "<p>What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/\">Guarding AI memory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -105,9 +112,9 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
+    "title": "New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
-    "description": "<p>New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/\">New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "description": "<p>New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/\">New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-18T19:36:08.000Z",
     "source": "Security"
   },
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=563716",
     "description": "Microsoft Foundry Agent Service adds agent-to-agent (A2A) communication in public preview for Prompt agents and Hosted agents that use the responses protocol. Agents can call other agents by name through a managed endpoint, with identity, content safety, ",
     "pubDate": "2026-06-03T19:15:46.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Conversational PII NextGen Playground in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=564246",
-    "description": "In public preview, Microsoft Foundry now offers a Conversational PII (ConvPII) NextGen Playground with transcript input and an API Configuration Panel, enabling developers to validate PII detection across multi-speaker dialogue before integrating the API.",
-    "pubDate": "2026-06-03T19:00:25.000Z",
     "source": "Azure Updates"
   }
 ]
