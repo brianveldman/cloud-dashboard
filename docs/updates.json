@@ -7,11 +7,74 @@
     "source": "Security"
   },
   {
+    "title": "Choose a Kubernetes at the Edge Compute Option",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/choose-kubernetes-edge-compute-option",
+    "description": "Learn about trade-offs and considerations for various Kubernetes options available for extending compute on the edge.",
+    "pubDate": "2026-06-22T17:19:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Modern Web App Pattern for .NET",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance",
+    "description": "Implement the Modern Web App pattern for .NET. Modernize web apps in the cloud by using prescriptive architecture, code, and configuration guidance.",
+    "pubDate": "2026-06-22T17:14:37.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
     "description": "<p>Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/\">One intrusion, two cyberattackers: Uncovering parallel threat activity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-22T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Run SAP BW/4HANA with Linux Virtual Machines",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-bw4hana-with-linux-virtual-machines",
+    "description": "Learn about the SAP BW/4HANA application tier and how it's suitable for a high availability, small-scale production environment of SAP BW/4HANA on Azure.",
+    "pubDate": "2026-06-22T15:47:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure Accounts",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/accounts",
+    "description": "Learn the differences between Azure and AWS accounts and subscriptions. Understand the types of administrator accounts in Azure.",
+    "pubDate": "2026-06-22T15:39:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect Azure Databricks to the Reference Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-databricks-to-solution",
+    "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data in Azure Databricks using Delta Lake and Structured Streaming.",
+    "pubDate": "2026-06-19T22:00:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect Microsoft Fabric to the Reference Solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-fabric-to-solution",
+    "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data using Microsoft Fabric and KQL databases.",
+    "pubDate": "2026-06-19T22:00:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect an on-premises SAP system to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/howto-connect-on-premises-sap-to-azure",
+    "description": "Step by step guide that shows how to connect an on-premises SAP Enterprise Resource Planning system to Azure.",
+    "pubDate": "2026-06-19T22:00:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Enable an industrial dataspace on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/howto-iot-industrial-dataspaces",
+    "description": "Step by step guide that shows how to enable an industrial dataspace on Azure based on open-source reference implementations.",
+    "pubDate": "2026-06-19T22:00:39.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure industrial IoT reference solution architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/iot-industrial-solution-architecture",
+    "description": "Industrial IoT reference solution architecture for condition monitoring, overall equipment effectiveness (OEE) calculation, forecasting, and anomaly detection.",
+    "pubDate": "2026-06-19T22:00:39.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "AutoJack: How a single page can RCE the host running your AI agent ",
@@ -21,11 +84,53 @@
     "source": "Security"
   },
   {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
+    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
+    "pubDate": "2026-06-18T22:22:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
+    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
+    "pubDate": "2026-06-18T22:22:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design a Secure Research Environment for Regulated Data",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/secure-compute-for-research",
+    "description": "Learn how to design an architecture on Azure for a regulated environment that allows researchers to access sensitive data.",
+    "pubDate": "2026-06-18T19:42:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
     "description": "<p>New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/\">New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-18T19:36:08.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Develop a RAG Solution - Chunking Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
+    "description": "Learn about the various chunking strategies, like boundary based, custom code, and document analysis models.",
+    "pubDate": "2026-06-18T16:40:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Chunk Enrichment Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase",
+    "description": "Learn how to augment your chunks with metadata like title, summary, keywords, and entities, and learn common cleaning methods that can improve vector matches.",
+    "pubDate": "2026-06-18T16:40:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Develop a RAG Solution - Generate Embeddings Phase",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings",
+    "description": "Learn how embeddings work, how to choose an embedding model, and how your embedding model can affect your vector search results.",
+    "pubDate": "2026-06-18T16:40:38.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
@@ -77,6 +182,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Choose an Analytical Data Store in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/analytical-data-stores",
+    "description": "Evaluate analytical data store options for big data by reviewing key selection criteria and a capability matrix to compare database models and features.",
+    "pubDate": "2026-06-17T17:31:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
     "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
     "description": "<p>See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592\">AI is accelerating cyberattacks—here’s how to stay ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -89,6 +201,13 @@
     "description": "Azure\r\nStandardV2 NAT Gateway now supports outbound ICMP Echo Request and Echo Reply\r\ntraffic, enabling customers to use tools such as ping to quickly validate\r\noutbound connectivity and troubleshoot network issues from workloads behind\r\nStandardV2 NAT Gatewa",
     "pubDate": "2026-06-17T16:30:04.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Deploy AD DS in an Azure Virtual Network",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/identity/adds-extend-domain",
+    "description": "Learn how to extend an on-premises Active Directory domain to Azure to provide distributed authentication services in hybrid cloud environments.",
+    "pubDate": "2026-06-16T22:09:30.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code",
@@ -578,125 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=564246",
     "description": "In public preview, Microsoft Foundry now offers a Conversational PII (ConvPII) NextGen Playground with transcript input and an API Configuration Panel, enabling developers to validate PII detection across multi-speaker dialogue before integrating the API.",
     "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: TextPII NextGen Playground updates in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=564241",
-    "description": "In public preview, Microsoft Foundry now offers an updated TextPII NextGen Playground with a refreshed API Configuration Panel, including preview features introduced at Ignite 2025. This update lets developers test predefined PII categories, redaction mod",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Observability developer experience in Azure Developer CLI (azd)",
-    "link": "https://azure.microsoft.com/updates?id=563736",
-    "description": "Use the Azure Developer CLI (azd) CLI evaluation experience to add a measured quality loop to an agent created with Microsoft Foundry. It empowers users on the hosted-agent lifecycle in azd, where you create, provision, deploy, initialize evaluation asset",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Domain filter for specialized model discovery in Foundry model catalog",
-    "link": "https://azure.microsoft.com/updates?id=563731",
-    "description": "Microsoft Foundry model catalog adds a domain filter in public preview, helping developers narrow the catalog of over 1,900 models to the ones trained for a specific industry or use case. Filters cover domains such as robotics, biomedical sciences, materi",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Foundry for Visual Studio Code (June Build 2026 refresh)",
-    "link": "https://azure.microsoft.com/updates?id=563721",
-    "description": "The Microsoft Foundry extension for Visual Studio Code reaches general availability with a Build 2026 refresh that brings the full model catalog, model playground, and Hosted agent deployment into the editor. Developers can sign in with their Azure accoun",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Evaluations with Intelligent Trace Sampling",
-    "link": "https://azure.microsoft.com/updates?id=563696",
-    "description": "Microsoft Foundry observability introduces intelligent trace filtering and sampling for evaluations in public preview. Instead of running evaluations against all production traces, Foundry now select a representative subset of traces using a multi-stage M",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom Voice portal experience in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563691",
-    "description": "Azure AI Speech moves the Custom Voice authoring experience into the Microsoft Foundry portal in general availability. Approved Custom Voice customers can now upload voice talent recordings and consent statements, run data quality checks, train neural voi",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Rubric evaluator in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563656",
-    "description": "Microsoft Foundry introduces rubric evaluators for measuring agent quality, now in public preview for single-turn and multi-turn agent flows. Rubric evaluators enable developers to define context-specific evaluation criteria using agent prompts, productio",
-    "pubDate": "2026-06-03T19:00:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Announcing: Confidential Live Migration for Intel TDX confidential VMs in Azure",
-    "link": "https://azure.microsoft.com/updates?id=565000",
-    "description": "Microsoft is announcing Confidential Live Migration in Azure, a new capability designed to improve operational flexibility and availability for Intel® TDX Confidential VMs during platform servicing. Confidential Live Migration helps move a Confidential VM",
-    "pubDate": "2026-06-03T18:15:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Automate Document Classification in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
-    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
-    "pubDate": "2026-06-03T17:31:58.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy IBM Maximo Application Suite (MAS) on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite",
-    "description": "Learn how to run IBM Maximo Application Suite (MAS) on Azure. See guidance for designing and implementing cloud solutions with MAS 8.5 and up that use Azure.",
-    "pubDate": "2026-06-03T17:23:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure Firewall to help protect an AKS cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-firewall",
-    "description": "Deploy an AKS cluster in a hub-and-spoke network topology by using Terraform and Azure DevOps. Help protect inbound and outbound traffic by using Azure Firewall.",
-    "pubDate": "2026-06-03T17:23:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Infrastructure Resiliency Manager",
-    "link": "https://azure.microsoft.com/updates?id=564759",
-    "description": "Azure Infrastructure Resiliency Manager is now in public preview, offering a unified, goal-driven experience to design, assess, and improve application resiliency across Azure. It brings together capabilities across Availability Zones, Azure Advisor, Chao",
-    "pubDate": "2026-06-03T17:15:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Cloud Design Patterns",
-    "link": "https://learn.microsoft.com/azure/architecture//patterns",
-    "description": "Learn about design patterns for building reliable, scalable, and more secure applications in the cloud with examples based on Microsoft Azure.",
-    "pubDate": "2026-06-03T17:14:04.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Database for PostgreSQL - Flexible Server: DuckDB extension",
-    "link": "https://azure.microsoft.com/updates?id=563766",
-    "description": "You can now install the DuckDB extension in Azure Database for PostgreSQL flexible server. Learn more.",
-    "pubDate": "2026-06-03T17:00:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Advanced full-text search in Azure DocumentDB",
-    "link": "https://azure.microsoft.com/updates?id=563077",
-    "description": "Now you can unify your search operations in a single database. Azure DocumentDB has added fuzzy search, proximity search, more language support, and BM25 ranking to its full-text capabilities, bringing vector and advanced text search operations together. ",
-    "pubDate": "2026-06-03T17:00:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Simple log alerts in Azure Monitor",
-    "link": "https://azure.microsoft.com/updates?id=561978",
-    "description": "We are excited to announce the General Availability of Simple log alerts in Azure Monitor, available starting today. This feature is designed to provide a simplified and more intuitive experience for monitoring and alerting, enhancing your ability to dete",
-    "pubDate": "2026-06-03T02:00:57.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Code-first observability for Foundry Agents in VS Code ",
-    "link": "https://azure.microsoft.com/updates?id=563197",
-    "description": "Microsoft Foundry brings code-first observability to agent developers in public preview, delivered as an observe skill inside the Foundry Plugin for VS Code Copilot Chat. Developers run the full evaluation-driven optimization loop from the editor through ",
-    "pubDate": "2026-06-02T23:15:29.000Z",
     "source": "Azure Updates"
   }
 ]
