@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
+    "link": "https://azure.microsoft.com/updates?id=566516",
+    "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
+    "pubDate": "2026-06-24T19:00:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/",
+    "description": "<p>Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/\">CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-24T18:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
     "description": "<p>On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/\">StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -208,13 +222,6 @@
     "description": "Evaluate analytical data store options for big data by reviewing key selection criteria and a capability matrix to compare database models and features.",
     "pubDate": "2026-06-17T17:31:45.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
-    "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
-    "description": "<p>See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592\">AI is accelerating cyberattacks—here’s how to stay ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-17T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: ICMP Support for Azure Standard V2 NAT Gateway",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=563491",
     "description": "Microsoft Foundry brings self-serve custom photo avatar creation to GA in the Foundry NextGen fine-tuning portal. Enterprise customers building voice agents with avatars or producing content with avatar and speech often need a branded avatar instead of a ",
     "pubDate": "2026-06-03T20:45:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Belgium Central",
-    "link": "https://azure.microsoft.com/updates?id=564849",
-    "description": "Azure Red Hat OpenShift (ARO) is now generally available in Azure\r\nBelgium Central, expanding regional availability for OpenShift deployments\r\nacross Europe. With the launch of Microsoft’s first Azure region in Belgium,\r\ncustomers can now run fully managed O",
-    "pubDate": "2026-06-03T19:15:46.000Z",
     "source": "Azure Updates"
   }
 ]
