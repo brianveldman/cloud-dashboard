@@ -1,5 +1,12 @@
 [
   {
+    "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
+    "description": "<p>On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/\">StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-24T12:30:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Generally Available: Azure NetApp Files migration assistant ",
     "link": "https://azure.microsoft.com/updates?id=565480",
     "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
@@ -257,13 +264,6 @@
     "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Foundry Tools and Microsoft Foundry.",
     "pubDate": "2026-06-15T19:52:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
-    "description": "<p>See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/\">Microsoft Defender email security benchmarking: Key insights from one year of data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-15T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Rate Limiting Pattern",
