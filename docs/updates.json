@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
+    "link": "https://azure.microsoft.com/updates?id=564806",
+    "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
+    "pubDate": "2026-06-25T16:00:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
+    "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
     "link": "https://azure.microsoft.com/updates?id=566516",
     "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
@@ -186,13 +200,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
     "description": "<p>Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/\">Beyond the benchmark: Advancing security at AI speed </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-17T19:30:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
-    "description": "<p>Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/\">​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-17T18:30:00.000Z",
     "source": "Security"
   },
   {
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=563431",
     "description": "This feature introduces end user feedback logging semantics that enables developers to capture structured feedback signals from real users interacting with AI agents—such as thumbs up/down, ratings, or custom annotations—and automatically associates that ",
     "pubDate": "2026-06-03T21:15:57.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Self-serve custom photo avatar creation in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563491",
-    "description": "Microsoft Foundry brings self-serve custom photo avatar creation to GA in the Foundry NextGen fine-tuning portal. Enterprise customers building voice agents with avatars or producing content with avatar and speech often need a branded avatar instead of a ",
-    "pubDate": "2026-06-03T20:45:02.000Z",
     "source": "Azure Updates"
   }
 ]
