@@ -1,5 +1,12 @@
 [
   {
+    "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
+    "description": "<p>Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/\">Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T22:30:29.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
     "link": "https://azure.microsoft.com/updates?id=564806",
     "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
@@ -193,13 +200,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
     "description": "<p>Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/\">Crypto Clipper uses Tor and worm-like propagation for persistence and control</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-17T23:11:43.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Beyond the benchmark: Advancing security at AI speed ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
-    "description": "<p>Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/\">Beyond the benchmark: Advancing security at AI speed </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-17T19:30:00.000Z",
     "source": "Security"
   },
   {
