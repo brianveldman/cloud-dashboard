@@ -49,13 +49,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From insight to action: The next phase of agentic cloud operations",
-    "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-    "description": "<p>What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions?</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/\">From insight to action: The next phase of agentic cloud operations</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-23T15:45:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Guarding AI memory",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
     "description": "<p>What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/\">Guarding AI memory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=563431",
     "description": "This feature introduces end user feedback logging semantics that enables developers to capture structured feedback signals from real users interacting with AI agents—such as thumbs up/down, ratings, or custom annotations—and automatically associates that ",
     "pubDate": "2026-06-03T21:15:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Self-serve custom photo avatar creation in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563491",
+    "description": "Microsoft Foundry brings self-serve custom photo avatar creation to GA in the Foundry NextGen fine-tuning portal. Enterprise customers building voice agents with avatars or producing content with avatar and speech often need a branded avatar instead of a ",
+    "pubDate": "2026-06-03T20:45:02.000Z",
     "source": "Azure Updates"
   }
 ]
