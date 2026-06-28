@@ -1,12 +1,5 @@
 [
   {
-    "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
-    "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-    "description": "<p>Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention and conversion risk, and lost revenue.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/\">The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-26T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
     "description": "<p>Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/\">Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -696,6 +689,13 @@
     "title": "[Launched] Generally Available: Text Analytics for Health NextGen Playground in Azure AI Language",
     "link": "https://azure.microsoft.com/updates?id=563671",
     "description": "Azure AI Language brings the next-generation Text Analytics for Health (TA4H) playground to general availability in the Microsoft Foundry portal. Clinical informatics teams and ISVs can paste discharge summaries, doctor's notes, or research abstracts and ",
+    "pubDate": "2026-06-03T21:15:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: User feedback logging in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563431",
+    "description": "This feature introduces end user feedback logging semantics that enables developers to capture structured feedback signals from real users interacting with AI agents—such as thumbs up/down, ratings, or custom annotations—and automatically associates that ",
     "pubDate": "2026-06-03T21:15:57.000Z",
     "source": "Azure Updates"
   }
