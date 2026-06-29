@@ -35,6 +35,13 @@
     "source": "Security"
   },
   {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
     "link": "https://azure.microsoft.com/updates?id=566516",
     "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=560810",
     "description": "Ever wondered how to allow auditing personas (i.e. security analyst in your organization or security assessment contractor) the ability to view your ledger files and establish trust in the cryptographic\r\n proofs themselves? With the new localized, web ledg",
     "pubDate": "2026-06-03T22:15:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Text Analytics for Health NextGen Playground in Azure AI Language",
-    "link": "https://azure.microsoft.com/updates?id=563671",
-    "description": "Azure AI Language brings the next-generation Text Analytics for Health (TA4H) playground to general availability in the Microsoft Foundry portal. Clinical informatics teams and ISVs can paste discharge summaries, doctor's notes, or research abstracts and ",
-    "pubDate": "2026-06-03T21:15:57.000Z",
     "source": "Azure Updates"
   }
 ]
