@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chromium extension uses AI‑related branding to redirect browser search",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
+    "description": "<p>A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/\">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-29T16:27:46.000Z",
+    "source": "Security"
+  },
+  {
     "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
     "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
     "description": "<p>Poor database performance is never just a database problem. In enterprise teams, it shows up as missed SLAs, delayed releases, frustrated development teams, and rising operational risk. The performance problem compounds further in business impact, often resulting in frustrated customers, retention and conversion risk, and lost revenue.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/\">The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -200,13 +207,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
     "description": "<p>A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/\">From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-18T03:43:04.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
-    "description": "<p>Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/\">Crypto Clipper uses Tor and worm-like propagation for persistence and control</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-17T23:11:43.000Z",
     "source": "Security"
   },
   {
