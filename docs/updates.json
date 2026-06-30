@@ -1,10 +1,66 @@
 [
   {
+    "title": "[Launched] Generally Available: Client-side data integrity protections in Azure Blob Storage",
+    "link": "https://azure.microsoft.com/updates?id=566895",
+    "description": "Azure Blob Storage has long supported data integrity validation, starting with MD5 as part of the original HTTP standards and adding CRC64-NVME support in 2019. Today, CRC64-NVME is now integrated into the latest Azure Blob SDKs for .NET, C++, and JavaScr",
+    "pubDate": "2026-06-30T20:45:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Toolboxes in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=563481",
+    "description": "Microsoft Foundry brings Toolboxes to GA, providing a unified endpoint to invoke the most-used tools in prompt agents and callable outside of prompt agents. Today every agent team hand-assembles its own tool list to solve the same tasks, with no shared ar",
+    "pubDate": "2026-06-30T19:00:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Accelerating the quantum-safe timeline",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/",
+    "description": "<p>We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/\">Accelerating the quantum-safe timeline</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-30T19:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "​​What’s new in Microsoft Security: June 2026",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
+    "description": "<p>This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/\">​​What’s new in Microsoft Security: June 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-30T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Securing AI agents: When AI tools move from reading to acting",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+    "description": "<p>MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/\">Securing AI agents: When AI tools move from reading to acting</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-06-30T15:57:11.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Claude in Microsoft Foundry is now generally available",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+    "description": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-29T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Chromium extension uses AI‑related branding to redirect browser search",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
     "description": "<p>A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/\">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-29T16:27:46.000Z",
     "source": "Security"
+  },
+  {
+    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+    "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-29T15:15:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Accelerate modern Linux workloads with Azure Files",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "description": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-29T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
@@ -33,6 +89,13 @@
     "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-25T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
@@ -147,13 +210,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "AutoJack: How a single page can RCE the host running your AI agent ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
-    "description": "<p>AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution through AutoGen Studio’s MCP WebSocket. The research highlights a broader pattern - when agents can browse untrusted content and access local services, traditional boundaries like localhost are no longer secure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/\">AutoJack: How a single page can RCE the host running your AI agent </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-19T00:17:54.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Baseline Microsoft Foundry Chat Reference Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
@@ -175,13 +231,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
-    "description": "<p>New Forrester Total Economic Impact™ study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/\">New Forrester Total Economic Impact™ study projects a 124% ROI from unifying with Microsoft Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-18T19:36:08.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Develop a RAG Solution - Chunking Phase",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
     "description": "Learn about the various chunking strategies, like boundary based, custom code, and document analysis models.",
@@ -201,13 +250,6 @@
     "description": "Learn how embeddings work, how to choose an embedding model, and how your embedding model can affect your vector search results.",
     "pubDate": "2026-06-18T16:40:38.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
-    "description": "<p>A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/\">From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-18T03:43:04.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments",
@@ -655,48 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=565159",
     "description": "Azure Monitor now includes Service Level Indicators (SLIs) and Service Level Objectives (SLOs), giving teams a clearer way to measure how customers actually experience their applications. Instead of relying only on infrastructure signals like CPU or isola",
     "pubDate": "2026-06-04T16:30:52.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Best Practices for Monitoring and Diagnostics",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
-    "description": "Learn how to track how customers use your distributed applications and services, trace resource utilization, and monitor health and performance.",
-    "pubDate": "2026-06-04T15:58:04.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: MAI-Voice-2 in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563217",
-    "description": "Microsoft Foundry now offers MAI-Voice-2 in public preview, a first-party voice model from the Microsoft AI team. MAI-Voice-2 generates natural speech across more than 10 languages and supports voice cloning from a short reference sample, plus voice promp",
-    "pubDate": "2026-06-03T23:00:57.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Storage Options for a Kubernetes Cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/storage",
-    "description": "Understand storage options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) storage options.",
-    "pubDate": "2026-06-03T22:56:17.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Polyglot Persistence with Azure Cosmos DB and Azure SQL Database",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/idea/combine-relational-nosql",
-    "description": "Learn how to use Azure Cosmos DB and Azure SQL Database together in a polyglot persistence architecture that assigns each workload to its best-fit database.",
-    "pubDate": "2026-06-03T22:51:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] General Availability: Backup your ledger files for audit with Azure confidential ledger’s new tool ",
-    "link": "https://azure.microsoft.com/updates?id=560810",
-    "description": "Ever wondered how to allow auditing personas (i.e. security analyst in your organization or security assessment contractor) the ability to view your ledger files and establish trust in the cryptographic\r\n proofs themselves? With the new localized, web ledg",
-    "pubDate": "2026-06-03T22:15:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Text Analytics for Health NextGen Playground in Azure AI Language",
-    "link": "https://azure.microsoft.com/updates?id=563671",
-    "description": "Azure AI Language brings the next-generation Text Analytics for Health (TA4H) playground to general availability in the Microsoft Foundry portal. Clinical informatics teams and ISVs can paste discharge summaries, doctor's notes, or research abstracts and ",
-    "pubDate": "2026-06-03T21:15:57.000Z",
     "source": "Azure Updates"
   }
 ]
