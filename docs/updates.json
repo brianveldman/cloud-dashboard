@@ -1,5 +1,47 @@
 [
   {
+    "title": "[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer  ",
+    "link": "https://azure.microsoft.com/updates?id=566209",
+    "description": "We’re excited to introduce the newly renamed Az.PostgreSQLFlexibleServer PowerShell module, delivering a more streamlined experience for you to manage Azure Database for PostgreSQL with PowerShell. Building on the capabilities of the previous Az.PostgreSq",
+    "pubDate": "2026-07-01T17:19:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen",
+    "link": "https://azure.microsoft.com/updates?id=563331",
+    "description": "Document-based PII detection in Azure AI Language now ships an initial playground experience in the Microsoft Foundry NextGen portal. The playground loads a prepared sample document, runs it through the document-based PII feature, and shows the redacted o",
+    "pubDate": "2026-07-01T17:04:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language",
+    "link": "https://azure.microsoft.com/updates?id=564382",
+    "description": "Azure AI Language now offers a refreshed Document PII playground in general availability, giving customers a faster way to evaluate personally identifiable information detection on documents. The playground ships with curated sample inputs and outputs, so",
+    "pubDate": "2026-07-01T17:01:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Instant Access via application consistent restore points",
+    "link": "https://azure.microsoft.com/updates?id=565758",
+    "description": "Azure introduces Instant Access for VM Restore Points, enabling you to restore disks immediately after a restore point is created—without waiting for background data replication.Key benefits:Faster recovery (lower RTO): Restore disks instantly—no wait for",
+    "pubDate": "2026-07-01T16:59:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: Azure Storage Mover now supports migration from Google Cloud Storage (GCS)",
+    "link": "https://azure.microsoft.com/updates?id=566948",
+    "description": "Azure Storage Mover now supports cloud-to-cloud migration of data from Google Cloud Storage (GCS) to Azure Blob Storage, helping organizations simplify multi-cloud consolidation onto Azure.Using the S3-compatible interface, customers can migrate data from",
+    "pubDate": "2026-07-01T16:56:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
+    "description": "<p>Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/\">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-01T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Client-side data integrity protections in Azure Blob Storage",
     "link": "https://azure.microsoft.com/updates?id=566895",
     "description": "Azure Blob Storage has long supported data integrity validation, starting with MD5 as part of the original HTTP standards and adding CRC64-NVME support in 2019. Today, CRC64-NVME is now integrated into the latest Azure Blob SDKs for .NET, C++, and JavaScr",
@@ -35,32 +77,11 @@
     "source": "Security"
   },
   {
-    "title": "Claude in Microsoft Foundry is now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-    "description": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Chromium extension uses AI‑related branding to redirect browser search",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
     "description": "<p>A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/\">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-29T16:27:46.000Z",
     "source": "Security"
-  },
-  {
-    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-    "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Accelerate modern Linux workloads with Azure Files",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-    "description": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
@@ -89,6 +110,13 @@
     "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-25T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
@@ -145,13 +173,6 @@
     "description": "Implement the Modern Web App pattern for .NET. Modernize web apps in the cloud by using prescriptive architecture, code, and configuration guidance.",
     "pubDate": "2026-06-22T17:14:37.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
-    "description": "<p>Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/\">One intrusion, two cyberattackers: Uncovering parallel threat activity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-22T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Run SAP BW/4HANA with Linux Virtual Machines",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
     "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
     "pubDate": "2026-06-04T18:30:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Kubernetes Service (AKS) - Planning",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-start-here",
-    "description": "Learn how to plan, design, and operate Azure Kubernetes Service (AKS) clusters, from foundational concepts to production-ready baseline implementations.",
-    "pubDate": "2026-06-04T17:16:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor Service Level Indicators (SLI)",
-    "link": "https://azure.microsoft.com/updates?id=565159",
-    "description": "Azure Monitor now includes Service Level Indicators (SLIs) and Service Level Objectives (SLOs), giving teams a clearer way to measure how customers actually experience their applications. Instead of relying only on infrastructure signals like CPU or isola",
-    "pubDate": "2026-06-04T16:30:52.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Best Practices for Monitoring and Diagnostics",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
-    "description": "Learn how to track how customers use your distributed applications and services, trace resource utilization, and monitor health and performance.",
-    "pubDate": "2026-06-04T15:58:04.000Z",
     "source": "Azure Architecture"
   }
 ]
