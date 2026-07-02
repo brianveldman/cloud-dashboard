@@ -1,5 +1,12 @@
 [
   {
+    "title": "Improving security posture across the Microsoft partner ecosystem",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
+    "description": "<p>Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/\">Improving security posture across the Microsoft partner ecosystem</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-02T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer  ",
     "link": "https://azure.microsoft.com/updates?id=566209",
     "description": "We’re excited to introduce the newly renamed Az.PostgreSQLFlexibleServer PowerShell module, delivering a more streamlined experience for you to manage Azure Database for PostgreSQL with PowerShell. Building on the capabilities of the previous Az.PostgreSq",
@@ -133,6 +140,13 @@
     "source": "Security"
   },
   {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
     "link": "https://azure.microsoft.com/updates?id=566516",
     "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
@@ -168,24 +182,10 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Guarding AI memory",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
-    "description": "<p>What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/\">Guarding AI memory</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-22T19:07:28.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Choose a Kubernetes at the Edge Compute Option",
     "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/choose-kubernetes-edge-compute-option",
     "description": "Learn about trade-offs and considerations for various Kubernetes options available for extending compute on the edge.",
     "pubDate": "2026-06-22T17:19:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Modern Web App Pattern for .NET",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance",
-    "description": "Implement the Modern Web App pattern for .NET. Modernize web apps in the cloud by using prescriptive architecture, code, and configuration guidance.",
-    "pubDate": "2026-06-22T17:14:37.000Z",
     "source": "Azure Architecture"
   },
   {
