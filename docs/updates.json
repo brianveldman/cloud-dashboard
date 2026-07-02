@@ -1,59 +1,10 @@
 [
   {
-    "title": "[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer  ",
-    "link": "https://azure.microsoft.com/updates?id=566209",
-    "description": "We’re excited to introduce the newly renamed Az.PostgreSQLFlexibleServer PowerShell module, delivering a more streamlined experience for you to manage Azure Database for PostgreSQL with PowerShell. Building on the capabilities of the previous Az.PostgreSq",
-    "pubDate": "2026-07-01T17:19:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen",
-    "link": "https://azure.microsoft.com/updates?id=563331",
-    "description": "Document-based PII detection in Azure AI Language now ships an initial playground experience in the Microsoft Foundry NextGen portal. The playground loads a prepared sample document, runs it through the document-based PII feature, and shows the redacted o",
-    "pubDate": "2026-07-01T17:04:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language",
-    "link": "https://azure.microsoft.com/updates?id=564382",
-    "description": "Azure AI Language now offers a refreshed Document PII playground in general availability, giving customers a faster way to evaluate personally identifiable information detection on documents. The playground ships with curated sample inputs and outputs, so",
-    "pubDate": "2026-07-01T17:01:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Instant Access via application consistent restore points",
-    "link": "https://azure.microsoft.com/updates?id=565758",
-    "description": "Azure introduces Instant Access for VM Restore Points, enabling you to restore disks immediately after a restore point is created—without waiting for background data replication.Key benefits:Faster recovery (lower RTO): Restore disks instantly—no wait for",
-    "pubDate": "2026-07-01T16:59:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure Storage Mover now supports migration from Google Cloud Storage (GCS)",
-    "link": "https://azure.microsoft.com/updates?id=566948",
-    "description": "Azure Storage Mover now supports cloud-to-cloud migration of data from Google Cloud Storage (GCS) to Azure Blob Storage, helping organizations simplify multi-cloud consolidation onto Azure.Using the S3-compatible interface, customers can migrate data from",
-    "pubDate": "2026-07-01T16:56:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
     "description": "<p>Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/\">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-01T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[Launched] Generally Available: Client-side data integrity protections in Azure Blob Storage",
-    "link": "https://azure.microsoft.com/updates?id=566895",
-    "description": "Azure Blob Storage has long supported data integrity validation, starting with MD5 as part of the original HTTP standards and adding CRC64-NVME support in 2019. Today, CRC64-NVME is now integrated into the latest Azure Blob SDKs for .NET, C++, and JavaScr",
-    "pubDate": "2026-06-30T20:45:26.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Toolboxes in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563481",
-    "description": "Microsoft Foundry brings Toolboxes to GA, providing a unified endpoint to invoke the most-used tools in prompt agents and callable outside of prompt agents. Today every agent team hand-assembles its own tool list to solve the same tasks, with no shared ar",
-    "pubDate": "2026-06-30T19:00:51.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Accelerating the quantum-safe timeline",
@@ -126,25 +77,11 @@
     "source": "Security"
   },
   {
-    "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
-    "link": "https://azure.microsoft.com/updates?id=564806",
-    "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
-    "pubDate": "2026-06-25T16:00:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
     "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-25T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
-    "link": "https://azure.microsoft.com/updates?id=566516",
-    "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
-    "pubDate": "2026-06-24T19:00:43.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms",
@@ -159,13 +96,6 @@
     "description": "<p>On June 24, 2026, Microsoft’s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/\">StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-24T12:30:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[In preview] Generally Available: Azure NetApp Files migration assistant ",
-    "link": "https://azure.microsoft.com/updates?id=565480",
-    "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
-    "pubDate": "2026-06-23T20:15:55.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "From insight to action: The next phase of agentic cloud operations",
@@ -287,27 +217,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments",
-    "link": "https://azure.microsoft.com/updates?id=566145",
-    "description": "Azure Migrate now integrates with GitHub Copilot\r\nModernization (public preview) to deliver at scale code insights. This capability brings\r\ntogether Azure Migrate’s portfolio-level discovery and assessment with GitHub\r\nCopilot’s context-aware code analysis. ",
-    "pubDate": "2026-06-17T18:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Databricks native read access to Microsoft OneLake ",
-    "link": "https://azure.microsoft.com/updates?id=565733",
-    "description": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster ac",
-    "pubDate": "2026-06-17T18:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake ",
-    "link": "https://azure.microsoft.com/updates?id=565706",
-    "description": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. By storing data direc",
-    "pubDate": "2026-06-17T18:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Choose an Analytical Data Store in Azure",
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/analytical-data-stores",
     "description": "Evaluate analytical data store options for big data by reviewing key selection criteria and a capability matrix to compare database models and features.",
@@ -315,32 +224,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[Launched] Generally Available: ICMP Support for Azure Standard V2 NAT Gateway",
-    "link": "https://azure.microsoft.com/updates?id=565487",
-    "description": "Azure\r\nStandardV2 NAT Gateway now supports outbound ICMP Echo Request and Echo Reply\r\ntraffic, enabling customers to use tools such as ping to quickly validate\r\noutbound connectivity and troubleshoot network issues from workloads behind\r\nStandardV2 NAT Gatewa",
-    "pubDate": "2026-06-17T16:30:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Deploy AD DS in an Azure Virtual Network",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/identity/adds-extend-domain",
     "description": "Learn how to extend an on-premises Active Directory domain to Azure to provide distributed authentication services in hybrid cloud environments.",
     "pubDate": "2026-06-16T22:09:30.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code",
-    "link": "https://azure.microsoft.com/updates?id=562497",
-    "description": "The Azure Functions extension for VS Code now provides a redesigned Create New Project experience in public preview, featuring a rich, visual template gallery that replaces the multi-step Quick Pick wizard with a searchable, filterable view of project tem",
-    "pubDate": "2026-06-16T19:00:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Log Analytics Summary Rules experience",
-    "link": "https://azure.microsoft.com/updates?id=562027",
-    "description": "A new Azure portal experience for Summary Rules in Log Analytics is now available. Summary Rules enable aggregation of high-volume log data at a defined cadence and store it in summarized tables for improved query performance, reporting, or enhanced data ",
-    "pubDate": "2026-06-16T17:15:28.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
@@ -406,39 +294,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools",
-    "link": "https://azure.microsoft.com/updates?id=564774",
-    "description": "Azure Compute will retire the following Virtual Machine series on November 15, 2028, impacting Azure Batch pools that rely on them:Av2-seriesF-series, Fs-series, Fsv2-seriesG-series, Gs-seriesLsv2-seriesAfter this date:New Batch pools using these VM serie",
-    "pubDate": "2026-06-11T19:00:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: D-series, Ds-series, Dv2-series, Dsv2-series, and Ls-series Virtual Machines for Azure Batch pools",
-    "link": "https://azure.microsoft.com/updates?id=564772",
-    "description": "Azure Compute will retire the following Virtual Machine series on May 1, 2028, impacting Azure Batch pools that rely on them:D-series, Ds-seriesDv2-series, Dsv2-seriesLs-seriesAfter this date:New Batch pools using these VM series cannot be createdExisting",
-    "pubDate": "2026-06-11T19:00:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: GPv1 and Legacy Blob storage account creation",
-    "link": "https://azure.microsoft.com/updates?id=564441",
-    "description": "As part of our ongoing efforts to streamline the Azure\r\nStorage portfolio and deliver enhanced performance, scalability, and cost\r\nefficiency, we are announcing the retirement of all General purpose v1 (GPv1)\r\nstorage accounts. This includes legacy blob stor",
-    "pubDate": "2026-06-11T19:00:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "3 things leaders need to know from Microsoft Build 2026",
     "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
     "description": "<p>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/\">3 things leaders need to know from Microsoft Build 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-06-11T19:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL MCP Server",
-    "link": "https://azure.microsoft.com/updates?id=564734",
-    "description": "SQL MCP Server is now generally available, giving customers\r\na secure, high-performance way to build agentic solutions with controlled\r\naccess to production data. Built for SQL and compatible with PostgreSQL and\r\nAzure Cosmos DB, SQL MCP Server is a dynamic,",
-    "pubDate": "2026-06-11T18:45:02.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Use Azure Databricks to Orchestrate MLOps",
@@ -490,34 +350,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Retirement: Azure Load Balancer Inbound NAT rule version 1 for Azure VMSS (aka Inbound NAT Pools)",
-    "link": "https://azure.microsoft.com/updates?id=565482",
-    "description": "Update to our previous communication: We previously\r\nannounced the retirement of all Inbound NAT rules version 1 resources, which\r\nincluded both single-VM NAT rules and NAT pools for Virtual Machine Scale\r\nSets. We have narrowed the scope of this retirement ",
-    "pubDate": "2026-06-11T16:15:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Entra server principals on Azure SQL Database ",
-    "link": "https://azure.microsoft.com/updates?id=565154",
-    "description": "Microsoft Entra server principals (logins) for Azure SQL Database is now generally available. You can now use CREATE LOGIN ... FROM EXTERNAL PROVIDER in the virtual master database, bringing parity with SQL logins for your Microsoft Entra identities.With ",
-    "pubDate": "2026-06-10T20:45:26.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Synapse Link for Azure Cosmos DB NoSQL",
-    "link": "https://azure.microsoft.com/updates?id=558560",
-    "description": "As of March 31, 2026, new Azure Cosmos DB NoSQL accounts can no longer enable Azure Synapse Link. Existing customers will remain fully supported until March 31, 2029, when Azure Synapse Link will reach end of life.We encourage all customers to begin migra",
-    "pubDate": "2026-06-10T17:00:06.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure VPN Client for Linux (Preview) will be retired on August 31, 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=565393",
-    "description": "The Azure VPN Client for Linux (Preview) has remained in public preview and does not have a path to general availability (GA). As part of our ongoing efforts to align Azure networking services with current security and reliability standards, this preview ",
-    "pubDate": "2026-06-10T16:15:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Modern Data Platform Architecture for SMBs",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/small-medium-modern-data-platform",
     "description": "Use Microsoft Fabric and Azure Databricks to build a modern data platform architecture designed for small and medium businesses.",
@@ -546,81 +378,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Agent mode for GitHub Copilot in SQL Server Management Studio (SSMS) ",
-    "link": "https://azure.microsoft.com/updates?id=562637",
-    "description": "You can now use Agent mode for GitHub Copilot in SSMS to work with your database: investigating performance problems, tuning queries, reviewing maintenance and configuration, identifying security concerns, troubleshooting errors, and assisting with operat",
-    "pubDate": "2026-06-09T23:45:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: PostgreSQL Hub for Azure Developers ",
-    "link": "https://azure.microsoft.com/updates?id=562084",
-    "description": "PostgreSQL Hub for Azure Developers brings together key AI and application development resources for PostgreSQL on Azure. It includes curated sample apps and solution accelerators, tutorials, and structured learning pathways to help you build everything f",
-    "pubDate": "2026-06-09T18:45:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
     "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-06-09T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
-    "link": "https://azure.microsoft.com/updates?id=565271",
-    "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
-    "pubDate": "2026-06-08T18:15:14.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Premium SSD v2 disks now support non-zonal Azure Virtual Machines ",
-    "link": "https://azure.microsoft.com/updates?id=565359",
-    "description": "Azure Premium SSD v2 disks now support non-zonal, single-instance Azure virtual machines in select Azure regions with Availability Zones (AZs). Customers can now deploy Premium SSD v2 with non-zonal virtual machines without selecting an Availability Zone.",
-    "pubDate": "2026-06-08T18:00:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft Foundry agent security capabilities in Microsoft Defender for Cloud are transitioning to a Microsoft Agent 365 license",
-    "link": "https://azure.microsoft.com/updates?id=565171",
-    "description": "Starting July 1, 2026, Microsoft Foundry agent security capabilities previously available through Microsoft Defender for Cloud will transition to a Microsoft Agent 365 license. Agent protection in Defender will be powered by Agent 365 observability logs a",
-    "pubDate": "2026-06-08T17:15:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Site Recovery support for Linux Azure VMs with NVMe disk controllers.",
-    "link": "https://azure.microsoft.com/updates?id=565103",
-    "description": "Azure Site Recovery\r\nnow supports replication and disaster recovery for Linux Azure Virtual Machines\r\nrunning on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa\r\nv6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This support is\r\nlimited t",
-    "pubDate": "2026-06-08T17:15:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Maintenance control for Azure Database for PostgreSQL - reschedule, apply on demand, view and download",
-    "link": "https://azure.microsoft.com/updates?id=563756",
-    "description": "Enhanced maintenance control capabilities are now generally available for Azure Database for PostgreSQL Flexible Server. These new capabilities give you greater visibility and flexibility in managing platform maintenance events, helping reduce disruption ",
-    "pubDate": "2026-06-08T17:15:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Managed Redis now supports Entra ID based RBAC for data management ",
-    "link": "https://azure.microsoft.com/updates?id=564873",
-    "description": "With role-based access control (RBAC) for Azure Managed Redis data access, you can precisely control who can read, write, or administer your Redis data using Microsoft Entra ID—without relying on shared keys. Built on top of Redis Access Control Lists (AC",
-    "pubDate": "2026-06-08T16:15:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Ingestion Volume Change dashboard in Metrics Usage Insights",
-    "link": "https://azure.microsoft.com/updates?id=565286",
-    "description": "Metrics Usage Insights now includes an Ingestion Volume Change dashboard to help you compare ingestion volume over time. Quickly detect spikes or drops in time series counts and event ingestion rates, enabling faster investigation of cost changes and more",
-    "pubDate": "2026-06-05T20:45:48.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: Guest RDMA on Azure Boost",
-    "link": "https://azure.microsoft.com/updates?id=564981",
-    "description": "Guest RDMA is now in preview on Azure, starting in the UK South region, bringing high-throughput, ultra-low latency networking directly into guest VMs within the same region. By using Azure Boost to enable RDMA in the guest OS, applications can bypass the",
-    "pubDate": "2026-06-05T20:30:12.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Windows 365 Azure Network Connection",
@@ -630,73 +392,311 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Voice sync for avatar support in Voice Live API in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=564176",
-    "description": "In public preview, Microsoft Foundry now supports avatar voice sync with custom voices in the Voice Live API, allowing developers to pair branded or persona-specific text-to-speech voices with real-time avatar experiences. This update helps teams building",
-    "pubDate": "2026-06-04T22:15:50.000Z",
-    "source": "Azure Updates"
+    "title": "Analytics End-to-End with Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
+    "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
+    "pubDate": "2026-06-04T18:30:50.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[Launched] Generally Available: Azure Files assessments are now available worldwide using Azure Migrate",
-    "link": "https://azure.microsoft.com/updates?id=564563",
-    "description": "We’re pleased to\r\nannounce that Azure Migrate now generally supports discovery and assessment\r\nof SMB and NFS file shares hosted on Windows and Linux servers. This gives\r\ncustomers a complete, data-driven view of their file share environment and a\r\nclear path",
-    "pubDate": "2026-06-04T21:45:11.000Z",
-    "source": "Azure Updates"
+    "title": "Azure Kubernetes Service (AKS) - Planning",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-start-here",
+    "description": "Learn how to plan, design, and operate Azure Kubernetes Service (AKS) clusters, from foundational concepts to production-ready baseline implementations.",
+    "pubDate": "2026-06-04T17:16:09.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: AI pipelines in Azure HorizonDB",
-    "link": "https://azure.microsoft.com/updates?id=565182",
-    "description": "AI pipelines for Azure HorizonDB is now\r\navailable in public preview. AI pipelines let you describe an AI data ingestion\r\nworkflow, chunking, embedding, extraction, generation, and ranking,\r\ndeclaratively in SQL, and run it as a fault-tolerant pipeline insid",
-    "pubDate": "2026-06-04T19:45:40.000Z",
-    "source": "Azure Updates"
+    "title": "Best Practices for Monitoring and Diagnostics",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
+    "description": "Learn how to track how customers use your distributed applications and services, trace resource utilization, and monitor health and performance.",
+    "pubDate": "2026-06-04T15:58:04.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[Launched] Generally Available: Ingest OTLP signals into Azure Monitor with the OpenTelemetry Collector",
-    "link": "https://azure.microsoft.com/updates?id=565090",
-    "description": "Azure Monitor's support for native ingestion of OpenTelemetry Protocol (OTLP) signals is now generally available. This enables you to send telemetry data directly from OpenTelemetry-instrumented applications and platforms to Azure Monitor. You can configu",
-    "pubDate": "2026-06-04T19:45:40.000Z",
-    "source": "Azure Updates"
+    "title": "Storage Options for a Kubernetes Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/storage",
+    "description": "Understand storage options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) storage options.",
+    "pubDate": "2026-06-03T22:56:17.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Tool search in Microsoft Foundry toolboxes",
-    "link": "https://azure.microsoft.com/updates?id=563506",
-    "description": "Microsoft Foundry adds tool search to Foundry toolboxes in public preview, giving developers and admins a fast way to find the right tool inside large, multi-team catalogs. As your toolbox grows, sending every tool definition on every turn gets expensive.",
-    "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
+    "title": "Polyglot Persistence with Azure Cosmos DB and Azure SQL Database",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/idea/combine-relational-nosql",
+    "description": "Learn how to use Azure Cosmos DB and Azure SQL Database together in a polyglot persistence architecture that assigns each workload to its best-fit database.",
+    "pubDate": "2026-06-03T22:51:57.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: APIM Support for Foundry Models in Azure AI Search",
-    "link": "https://azure.microsoft.com/updates?id=563451",
-    "description": "Microsoft Foundry brings Azure API Management support to all Foundry model integrations in Azure AI Search, now in public preview. Enterprise platform engineers and AI solution teams running large-scale RAG pipelines can place Foundry and Azure OpenAI mod",
-    "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
+    "title": "Automate Document Classification in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions",
+    "description": "Learn how to use the durable functions feature of Azure Functions as an automated document processing pipeline to classify documents by type.",
+    "pubDate": "2026-06-03T17:31:58.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Azure SQL as a knowledge source in Foundry IQ",
-    "link": "https://azure.microsoft.com/updates?id=563446",
-    "description": "Microsoft Foundry adds Azure SQL Database as a first-class Knowledge Source in Azure AI Search, available in public preview. Enterprise developers and solution architects building Copilot, RAG, and agentic experiences can now expose authoritative tables a",
-    "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
+    "title": "Deploy IBM Maximo Application Suite (MAS) on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite",
+    "description": "Learn how to run IBM Maximo Application Suite (MAS) on Azure. See guidance for designing and implementing cloud solutions with MAS 8.5 and up that use Azure.",
+    "pubDate": "2026-06-03T17:23:30.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[Launched] Generally Available: Microsoft Discovery",
-    "link": "https://azure.microsoft.com/updates?id=562733",
-    "description": "Microsoft Discovery is now generally available, providing research and development organizations an enterprise\r\nplatform for building and governing agentic AI workflows across scientific and\r\nengineering disciplines. Also available in preview is the Microso",
-    "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
+    "title": "Use Azure Firewall to help protect an AKS cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-firewall",
+    "description": "Deploy an AKS cluster in a hub-and-spoke network topology by using Terraform and Azure DevOps. Help protect inbound and outbound traffic by using Azure Firewall.",
+    "pubDate": "2026-06-03T17:23:30.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[Launched] Generally Available: Private Connectivity for Azure AI Search and Foundry Knowledge Bases",
-    "link": "https://azure.microsoft.com/updates?id=563516",
-    "description": "Azure AI Search and Foundry Knowledge Bases now support private, end-to-end network connectivity between search resources and Foundry services. Customers can route ingestion, enrichment, retrieval, and agent traffic over Shared Private Link or Network Sec",
-    "pubDate": "2026-06-04T19:15:11.000Z",
-    "source": "Azure Updates"
+    "title": "Cloud Design Patterns",
+    "link": "https://learn.microsoft.com/azure/architecture//patterns",
+    "description": "Learn about design patterns for building reliable, scalable, and more secure applications in the cloud with examples based on Microsoft Azure.",
+    "pubDate": "2026-06-03T17:14:04.000Z",
+    "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Fabric IQ Ontology Knowledge Source in Microsoft Foundry IQ",
-    "link": "https://azure.microsoft.com/updates?id=563416",
-    "description": "Microsoft Foundry IQ now treats a Microsoft Fabric Ontology as a federated knowledge source in public preview, giving agents a way to query the semantic layer customers already curate in Fabric. Foundry IQ translates natural language questions into ontolo",
-    "pubDate": "2026-06-04T19:15:11.000Z",
-    "source": "Azure Updates"
+    "title": "Gatekeeper Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/gatekeeper",
+    "description": "Learn how to use the Gatekeeper pattern to protect applications and services by using a dedicated host instance as a broker to validate requests and data.",
+    "pubDate": "2026-06-02T22:33:27.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Gateway Aggregation Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-aggregation",
+    "description": "Learn about the Gateway Aggregation pattern, which uses a gateway to aggregate many individual requests into a single request.",
+    "pubDate": "2026-06-02T21:21:49.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Migrate IBM z/OS OLTP Workloads to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/ibm-zos-online-transaction-processing-azure",
+    "description": "Migrate a z/OS online transaction processing (OLTP) workload to an Azure application that is cost effective, responsive, scalable, and adaptable.",
+    "pubDate": "2026-06-02T20:44:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Integrate IBM mainframe and midrange message queues with Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/integrate-ibm-message-queues-azure",
+    "description": "This example describes a data-first approach to middleware integration that enables IBM message queues (MQs).",
+    "pubDate": "2026-06-02T20:44:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Replicate and Sync Mainframe Data to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/migration/sync-mainframe-data-with-azure",
+    "description": "Learn how to replicate data while you modernize mainframe and midrange systems. Sync on-premises data with Azure data during modernization.",
+    "pubDate": "2026-06-02T20:44:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Mainframe File Replication and Sync on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/mainframe-azure-file-replication",
+    "description": "Learn about several options for moving, converting, transforming, and storing mainframe and midrange file system data on-premises and in Azure.",
+    "pubDate": "2026-06-02T20:44:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AI alone won’t change your business. The system running it will.",
+    "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "description": "<p>We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/\">AI alone won’t change your business. The system running it will.</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T19:15:57.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Multitenancy and Azure SQL Database",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/sql-database",
+    "description": "This article outlines Azure SQL Database features for designing a multitenant system and provides guidance and examples for using Azure SQL in multitenant solutions.",
+    "pubDate": "2026-06-02T19:08:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Microsoft Scout: Your always-on personal agent",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
+    "description": "<p>Microsoft Scout is integrated across the Microsoft 365 apps you use every day, keeping it grounded in your flow of work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/\">Introducing Microsoft Scout: Your always-on personal agent</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Announcing the new Work IQ APIs",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/",
+    "description": "<p>Work IQ is a new intelligence layer for Microsoft 365, designed to understand how work gets done across your organizations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/\">Announcing the new Work IQ APIs</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T17:00:15.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Strangler Fig Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/strangler-fig",
+    "description": "Learn how to incrementally migrate a legacy system by gradually replacing specific pieces of functionality with new applications and services.",
+    "pubDate": "2026-06-02T10:57:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Basic Microsoft Foundry Chat Reference Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/basic-microsoft-foundry-chat",
+    "description": "Establish foundational knowledge for how to build and deploy enterprise chat applications by using Microsoft Foundry and Azure App Service.",
+    "pubDate": "2026-06-01T22:05:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure Compute Services",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/compute",
+    "description": "Compare the compute services in Azure and Amazon Web Services (AWS). Explore the differences in virtual machines (VMs), containers, and serverless technologies.",
+    "pubDate": "2026-06-01T15:55:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Architecture for an AKS Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-06-01T14:59:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Anti-Corruption Layer Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/anti-corruption-layer",
+    "description": "Learn about the Anti-Corruption Layer pattern. Implement a facade or adapter layer between a modern application and a legacy system.",
+    "pubDate": "2026-05-29T23:06:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure for AWS Professionals",
+    "link": "https://learn.microsoft.com/azure/architecture//aws-professional",
+    "description": "Learn about the basics of the Microsoft Azure platform, accounts, and services. Discover key similarities and differences between the AWS and Azure platforms.",
+    "pubDate": "2026-05-29T22:47:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build the Second Layer of Defense by Using Microsoft Defender XDR",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-defender-xdr-build-second-layer-defense",
+    "description": "Enhance security in your IT environment by implementing Microsoft Defender XDR across applications and infrastructure to detect and respond to ransomware.",
+    "pubDate": "2026-05-29T22:21:11.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Throttling Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/throttling",
+    "description": "Control the resources that an application instance, tenant, or service consumes so that the system continues to meet service-level objectives (SLOs) under load.",
+    "pubDate": "2026-05-29T21:46:18.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Data partitioning strategies",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/data-partitioning-strategies",
+    "description": "View guidance on separating data partitions to be managed and accessed separately in different services, such as Azure AI Search, Azure storage queues, and more.",
+    "pubDate": "2026-05-29T20:36:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Files Accessed from On-Premises and Secured by AD DS in a Private Network",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/azure-files-on-premises-authentication",
+    "description": "Learn how to provide on-premises access to Azure Files with security provided by on-premises Windows Server Active Directory Domain Services (AD DS).",
+    "pubDate": "2026-05-29T18:58:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Implement a secure hybrid network",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz",
+    "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
+    "pubDate": "2026-05-29T14:34:20.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Minimal Storage – Change Feed to Replicate Data",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/idea/minimal-storage-change-feed-replicate-data",
+    "description": "Architecture for a high-availability solution that uses two Azure storage services, one for quick access to high-demand data, the other for low-demand data.",
+    "pubDate": "2026-05-29T14:22:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
+    "description": "<p>On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/\">Introducing Microsoft 365 Business with Copilot: The new standard for small business</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-28T19:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "SAP Landscape Architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-whole-landscape",
+    "description": "Best practices and recommendations for architecting an entire SAP landscape on Azure.",
+    "pubDate": "2026-05-28T15:31:54.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing a new design for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
+    "description": "<p>We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/\">Introducing a new design for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-28T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Best Practices in Cloud Applications",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/index-best-practices",
+    "description": "Learn about some best practices for building cloud applications and how they align with the Azure Well-Architected Framework.",
+    "pubDate": "2026-05-27T22:08:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Dynamic AI Agents at Scale Pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ai-agents-at-scale",
+    "description": "Learn how to dynamically select and orchestrate AI agents from a pool by using Microsoft Foundry, Azure AI Search, and Azure OpenAI to build multiagent systems.",
+    "pubDate": "2026-05-27T20:07:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SAP deployment in Azure using an Oracle database",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
+    "description": "Learn proven practices for running SAP on Oracle in Azure, with high availability.",
+    "pubDate": "2026-05-26T22:25:56.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SAP HANA for Linux VMs in Scale-up Systems",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-hana-for-linux-virtual-machines",
+    "description": "Proven practices for running SAP HANA in a high-availability, scale-up environment that supports disaster recovery on Azure.",
+    "pubDate": "2026-05-26T22:25:56.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+    "description": "<p>Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/\">New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-26T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Get Started with Analytics Architecture Design",
+    "link": "https://learn.microsoft.com/azure/architecture/analytics/analytics-get-started",
+    "description": "Get an overview of Azure analytics technologies, guidance, solution ideas, and reference architectures.",
+    "pubDate": "2026-05-26T15:27:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect an On-Premises Network to Azure by Using ExpressRoute with VPN Failover",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover",
+    "description": "Learn how to connect an on-premises network to an Azure virtual network by using ExpressRoute with a virtual private network (VPN) gateway failover.",
+    "pubDate": "2026-05-22T23:38:48.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural Approaches for Identity in Multitenant Solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/identity",
+    "description": "This article covers identity management strategies for multitenant solutions, including authentication, authorization, federation, and security considerations.",
+    "pubDate": "2026-05-22T23:33:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "CI/CD for Microservices",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/ci-cd",
+    "description": "Learn about continuous integration and continuous delivery (CI/CD) for microservices, including challenges and recommended approaches.",
+    "pubDate": "2026-05-22T23:24:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Governance Visualizer Deployment Guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/landing-zones/azure-governance-visualizer-accelerator",
+    "description": "Analyze and streamline cloud governance for compliance and operational insights across your organization by using Azure Governance Visualizer.",
+    "pubDate": "2026-05-22T23:23:24.000Z",
+    "source": "Azure Architecture"
   }
 ]
