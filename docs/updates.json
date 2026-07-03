@@ -91,32 +91,11 @@
     "source": "Security"
   },
   {
-    "title": "Claude in Microsoft Foundry is now generally available",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-    "description": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Chromium extension uses AI‑related branding to redirect browser search",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
     "description": "<p>A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/\">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-29T16:27:46.000Z",
     "source": "Security"
-  },
-  {
-    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-    "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Accelerate modern Linux workloads with Azure Files",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-    "description": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
@@ -698,5 +677,26 @@
     "description": "Microsoft Foundry IQ now treats a Microsoft Fabric Ontology as a federated knowledge source in public preview, giving agents a way to query the semantic layer customers already curate in Fabric. Foundry IQ translates natural language questions into ontolo",
     "pubDate": "2026-06-04T19:15:11.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=563222",
+    "description": "Microsoft Foundry IQ reaches general availability, giving developers a managed knowledge layer that grounds agents in enterprise data without rebuilding retrieval pipelines for each project. Teams connect SharePoint, OneLake, Azure Blob, and other sources",
+    "pubDate": "2026-06-04T19:15:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Content Understanding chunking and image verbalization in Azure AI Search",
+    "link": "https://azure.microsoft.com/updates?id=563661",
+    "description": "Azure AI Search now supports Content Understanding chunking and image verbalization in public preview, expanding the built-in skill that parses rich documents during indexing. Indexers can split documents into semantically meaningful chunks and generate t",
+    "pubDate": "2026-06-04T19:00:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Analytics End-to-End with Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
+    "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
+    "pubDate": "2026-06-04T18:30:50.000Z",
+    "source": "Azure Architecture"
   }
 ]
