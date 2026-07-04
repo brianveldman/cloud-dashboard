@@ -49,13 +49,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Proving application resilience on Azure with Chaos Studio",
-    "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-    "description": "<p>Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/\">Proving application resilience on Azure with Chaos Studio</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-01T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
     "description": "<p>Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/\">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -82,13 +75,6 @@
     "description": "<p>We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/\">Accelerating the quantum-safe timeline</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-30T19:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-    "description": "<p>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/\">Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-30T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "​​What’s new in Microsoft Security: June 2026",
@@ -159,13 +145,6 @@
     "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-25T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Copilot in Excel: Built for the era of Frontier Finance",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-06-25T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
@@ -697,6 +676,27 @@
     "link": "https://azure.microsoft.com/updates?id=562733",
     "description": "Microsoft Discovery is now generally available, providing research and development organizations an enterprise\r\nplatform for building and governing agentic AI workflows across scientific and\r\nengineering disciplines. Also available in preview is the Microso",
     "pubDate": "2026-06-04T19:30:58.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Private Connectivity for Azure AI Search and Foundry Knowledge Bases",
+    "link": "https://azure.microsoft.com/updates?id=563516",
+    "description": "Azure AI Search and Foundry Knowledge Bases now support private, end-to-end network connectivity between search resources and Foundry services. Customers can route ingestion, enrichment, retrieval, and agent traffic over Shared Private Link or Network Sec",
+    "pubDate": "2026-06-04T19:15:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Fabric IQ Ontology Knowledge Source in Microsoft Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=563416",
+    "description": "Microsoft Foundry IQ now treats a Microsoft Fabric Ontology as a federated knowledge source in public preview, giving agents a way to query the semantic layer customers already curate in Fabric. Foundry IQ translates natural language questions into ontolo",
+    "pubDate": "2026-06-04T19:15:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=563222",
+    "description": "Microsoft Foundry IQ reaches general availability, giving developers a managed knowledge layer that grounds agents in enterprise data without rebuilding retrieval pipelines for each project. Teams connect SharePoint, OneLake, Azure Blob, and other sources",
+    "pubDate": "2026-06-04T19:15:11.000Z",
     "source": "Azure Updates"
   }
 ]
