@@ -168,6 +168,13 @@
     "source": "Security"
   },
   {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
     "link": "https://azure.microsoft.com/updates?id=566516",
     "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=562733",
     "description": "Microsoft Discovery is now generally available, providing research and development organizations an enterprise\r\nplatform for building and governing agentic AI workflows across scientific and\r\nengineering disciplines. Also available in preview is the Microso",
     "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Private Connectivity for Azure AI Search and Foundry Knowledge Bases",
-    "link": "https://azure.microsoft.com/updates?id=563516",
-    "description": "Azure AI Search and Foundry Knowledge Bases now support private, end-to-end network connectivity between search resources and Foundry services. Customers can route ingestion, enrichment, retrieval, and agent traffic over Shared Private Link or Network Sec",
-    "pubDate": "2026-06-04T19:15:11.000Z",
     "source": "Azure Updates"
   }
 ]
