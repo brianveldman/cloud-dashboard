@@ -7,13 +7,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Meet Brain: The AI system behind Azure reliability",
-    "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-    "description": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-02T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Improving security posture across the Microsoft partner ecosystem",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
     "description": "<p>Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/\">Improving security posture across the Microsoft partner ecosystem</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -579,6 +572,13 @@
     "description": "PostgreSQL Hub for Azure Developers brings together key AI and application development resources for PostgreSQL on Azure. It includes curated sample apps and solution accelerators, tutorials, and structured learning pathways to help you build everything f",
     "pubDate": "2026-06-09T18:45:07.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-09T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
