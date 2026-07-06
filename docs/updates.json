@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Meet Brain: The AI system behind Azure reliability",
+    "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+    "description": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-02T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Improving security posture across the Microsoft partner ecosystem",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
     "description": "<p>Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/\">Improving security posture across the Microsoft partner ecosystem</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -49,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Proving application resilience on Azure with Chaos Studio",
+    "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+    "description": "<p>Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/\">Proving application resilience on Azure with Chaos Studio</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-01T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
     "description": "<p>Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/\">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -77,9 +91,9 @@
     "source": "Security"
   },
   {
-    "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
+    "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
     "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-    "description": "<p>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/\">Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "description": "<p>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/\">Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-06-30T16:00:00.000Z",
     "source": "Azure Blog"
   },
@@ -567,13 +581,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-09T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=565271",
     "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=562733",
     "description": "Microsoft Discovery is now generally available, providing research and development organizations an enterprise\r\nplatform for building and governing agentic AI workflows across scientific and\r\nengineering disciplines. Also available in preview is the Microso",
     "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Private Connectivity for Azure AI Search and Foundry Knowledge Bases",
-    "link": "https://azure.microsoft.com/updates?id=563516",
-    "description": "Azure AI Search and Foundry Knowledge Bases now support private, end-to-end network connectivity between search resources and Foundry services. Customers can route ingestion, enrichment, retrieval, and agent traffic over Shared Private Link or Network Sec",
-    "pubDate": "2026-06-04T19:15:11.000Z",
     "source": "Azure Updates"
   }
 ]
