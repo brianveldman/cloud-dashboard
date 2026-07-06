@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Support 5x churn in Azure Site Recovery",
+    "link": "https://azure.microsoft.com/updates?id=566966",
+    "description": "Azure Site Recovery now supports up to 5x churn (500 MB/s per VM). This major enhancement empowers customers to confidently run high IOPS workloads with Azure Site Recovery, ensuring robust disaster recovery for even the most demanding applications like d",
+    "pubDate": "2026-07-06T15:00:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=567194",
     "description": "Azure Databricks now supports Anthropic Claude Sonnet 5 through Azure Databricks AI Model Serving. Claude Sonnet 5 is Anthropic's most agentic Sonnet model to date, delivering near-Opus-level intelligence with Sonnet's cost efficiency and speed. Designed ",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Azure SQL as a knowledge source in Foundry IQ",
     "link": "https://azure.microsoft.com/updates?id=563446",
     "description": "Microsoft Foundry adds Azure SQL Database as a first-class Knowledge Source in Azure AI Search, available in public preview. Enterprise developers and solution architects building Copilot, RAG, and agentic experiences can now expose authoritative tables a",
-    "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Discovery",
-    "link": "https://azure.microsoft.com/updates?id=562733",
-    "description": "Microsoft Discovery is now generally available, providing research and development organizations an enterprise\r\nplatform for building and governing agentic AI workflows across scientific and\r\nengineering disciplines. Also available in preview is the Microso",
     "pubDate": "2026-06-04T19:30:58.000Z",
     "source": "Azure Updates"
   }
