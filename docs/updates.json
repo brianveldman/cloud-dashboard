@@ -1,5 +1,47 @@
 [
   {
+    "title": "[In preview] Public Preview: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
+    "link": "https://azure.microsoft.com/updates?id=567218",
+    "description": "Azure Web Application Firewall (WAF) helps protect your web applications from common threats and attacks. In some cases, WAF may block requests that are safe and expected for your application. Existing exclusions help reduce false positives by omitting sp",
+    "pubDate": "2026-07-07T17:42:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Chaos Studio Workspaces and Scenarios",
+    "link": "https://azure.microsoft.com/updates?id=567184",
+    "description": "Azure Chaos Studio now supports Workspaces and Scenarios, a faster, application-centric way to validate how your workloads hold up during real outages.Point a Workspace at your application's scope—a subscription, resource group, or service group—and Chaos",
+    "pubDate": "2026-07-07T17:40:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Export historical data from Log Analytics workspace with Export jobs ",
+    "link": "https://azure.microsoft.com/updates?id=566591",
+    "description": "The Log Analytics Export job enables you to export historical data from a Log Analytics workspace to an Azure Storage account based on a specified query and time range. This allows you to extract only the data you need and move it to external systems for ",
+    "pubDate": "2026-07-07T17:37:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Network Security Perimeter support for Azure Event Hubs",
+    "link": "https://azure.microsoft.com/updates?id=567203",
+    "description": "Azure Event Hubs now supports Network Security Perimeter (NSP), enabling organizations to define a logical network isolation boundary for PaaS resources and control public network access through perimeter-based access rules.With Network Security Perimeter",
+    "pubDate": "2026-07-07T17:35:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Confidential Computing support for Azure Event Hubs Dedicated",
+    "link": "https://azure.microsoft.com/updates?id=567212",
+    "description": "Azure Event Hubs Dedicated now supports Confidential Computing, enabling organizations to protect streaming data while it is being processed in memory. By leveraging hardware-based trusted execution environments (TEEs), customers can help safeguard sensit",
+    "pubDate": "2026-07-07T17:33:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Chile Central",
+    "link": "https://azure.microsoft.com/updates?id=566732",
+    "description": "Azure Red Hat OpenShift (ARO) is now generally available in Azure\r\nChile Central, expanding regional availability for OpenShift deployments\r\nacross South America. With the launch of Microsoft’s first Azure region in\r\nChile, customers can now run fully manage",
+    "pubDate": "2026-07-07T17:31:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
     "description": "<p>Read five key learnings from the Frost &#038; Sullivan 2025 Frost Radar™ for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/\">5 insights from Frost &amp; Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -26,13 +68,6 @@
     "description": "Azure Databricks now supports Anthropic Claude Sonnet 5 through Azure Databricks AI Model Serving. Claude Sonnet 5 is Anthropic's most agentic Sonnet model to date, delivering near-Opus-level intelligence with Sonnet's cost efficiency and speed. Designed ",
     "pubDate": "2026-07-02T22:21:51.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Meet Brain: The AI system behind Azure reliability",
-    "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-    "description": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-02T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Improving security posture across the Microsoft partner ecosystem",
@@ -77,13 +112,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Proving application resilience on Azure with Chaos Studio",
-    "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-    "description": "<p>Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/\">Proving application resilience on Azure with Chaos Studio</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-01T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
     "description": "<p>Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/\">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -110,13 +138,6 @@
     "description": "<p>We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/\">Accelerating the quantum-safe timeline</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-30T19:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-    "description": "<p>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/\">Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-30T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "​​What’s new in Microsoft Security: June 2026",
@@ -187,13 +208,6 @@
     "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-25T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Copilot in Excel: Built for the era of Frontier Finance",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-06-25T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
@@ -595,6 +609,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-09T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=565271",
     "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=565182",
     "description": "AI pipelines for Azure HorizonDB is now\r\navailable in public preview. AI pipelines let you describe an AI data ingestion\r\nworkflow, chunking, embedding, extraction, generation, and ranking,\r\ndeclaratively in SQL, and run it as a fault-tolerant pipeline insid",
     "pubDate": "2026-06-04T19:45:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Ingest OTLP signals into Azure Monitor with the OpenTelemetry Collector",
-    "link": "https://azure.microsoft.com/updates?id=565090",
-    "description": "Azure Monitor's support for native ingestion of OpenTelemetry Protocol (OTLP) signals is now generally available. This enables you to send telemetry data directly from OpenTelemetry-instrumented applications and platforms to Azure Monitor. You can configu",
-    "pubDate": "2026-06-04T19:45:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Tool search in Microsoft Foundry toolboxes",
-    "link": "https://azure.microsoft.com/updates?id=563506",
-    "description": "Microsoft Foundry adds tool search to Foundry toolboxes in public preview, giving developers and admins a fast way to find the right tool inside large, multi-team catalogs. As your toolbox grows, sending every tool definition on every turn gets expensive.",
-    "pubDate": "2026-06-04T19:30:58.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: APIM Support for Foundry Models in Azure AI Search",
-    "link": "https://azure.microsoft.com/updates?id=563451",
-    "description": "Microsoft Foundry brings Azure API Management support to all Foundry model integrations in Azure AI Search, now in public preview. Enterprise platform engineers and AI solution teams running large-scale RAG pipelines can place Foundry and Azure OpenAI mod",
-    "pubDate": "2026-06-04T19:30:58.000Z",
     "source": "Azure Updates"
   }
 ]
