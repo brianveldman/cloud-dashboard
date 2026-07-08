@@ -70,13 +70,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Meet Brain: The AI system behind Azure reliability",
-    "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-    "description": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-02T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Improving security posture across the Microsoft partner ecosystem",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
     "description": "<p>Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/\">Improving security posture across the Microsoft partner ecosystem</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -119,13 +112,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Proving application resilience on Azure with Chaos Studio",
-    "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-    "description": "<p>Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/\">Proving application resilience on Azure with Chaos Studio</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-01T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/",
     "description": "<p>Frost &#038; Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/\">Microsoft named a leader in the Frost Radar for cloud and application runtime security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -152,13 +138,6 @@
     "description": "<p>We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/\">Accelerating the quantum-safe timeline</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-30T19:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-    "description": "<p>As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/\">Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-30T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "​​What’s new in Microsoft Security: June 2026",
@@ -229,13 +208,6 @@
     "description": "<p>Microsoft named a Leader in the Forrester Wave™: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/\">Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-25T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Copilot in Excel: Built for the era of Frontier Finance",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-06-25T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
@@ -637,6 +609,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+    "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "description": "<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/\">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-09T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines",
     "link": "https://azure.microsoft.com/updates?id=565271",
     "description": "Azure NCv6-series virtual machines (VMs) are now generally available in the Azure Southeast Asia and West US 2 regions. NCv6 VMs are powered by NVIDIA RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs) with each GPU featuring 96 GB of ",
@@ -698,5 +677,26 @@
     "description": "Design and implement Windows 365 Azure network connections to integrate Cloud PCs with your existing network infrastructure and on-premises resources.",
     "pubDate": "2026-06-05T18:34:30.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Voice sync for avatar support in Voice Live API in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=564176",
+    "description": "In public preview, Microsoft Foundry now supports avatar voice sync with custom voices in the Voice Live API, allowing developers to pair branded or persona-specific text-to-speech voices with real-time avatar experiences. This update helps teams building",
+    "pubDate": "2026-06-04T22:15:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Files assessments are now available worldwide using Azure Migrate",
+    "link": "https://azure.microsoft.com/updates?id=564563",
+    "description": "We’re pleased to\r\nannounce that Azure Migrate now generally supports discovery and assessment\r\nof SMB and NFS file shares hosted on Windows and Linux servers. This gives\r\ncustomers a complete, data-driven view of their file share environment and a\r\nclear path",
+    "pubDate": "2026-06-04T21:45:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: AI pipelines in Azure HorizonDB",
+    "link": "https://azure.microsoft.com/updates?id=565182",
+    "description": "AI pipelines for Azure HorizonDB is now\r\navailable in public preview. AI pipelines let you describe an AI data ingestion\r\nworkflow, chunking, embedding, extraction, generation, and ranking,\r\ndeclaratively in SQL, and run it as a fault-tolerant pipeline insid",
+    "pubDate": "2026-06-04T19:45:40.000Z",
+    "source": "Azure Updates"
   }
 ]
