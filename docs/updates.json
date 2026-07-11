@@ -56,6 +56,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+    "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "description": "<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/\">Frontier models and production agents: Advancing Microsoft Foundry for the agentic era</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-09T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
     "description": "<p>GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/\">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -418,13 +425,6 @@
     "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
     "pubDate": "2026-06-23T20:15:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "From insight to action: The next phase of agentic cloud operations",
-    "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-    "description": "<p>What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions?</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/\">From insight to action: The next phase of agentic cloud operations</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-23T15:45:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Choose a Kubernetes at the Edge Compute Option",
