@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
+    "link": "https://azure.microsoft.com/updates?id=567556",
+    "description": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 & 7.2. will\r\nno longer be supported by Automation.  Runbooks\r\nusing these versions may continue to run but will not receive security updates,\r\nbug fixes, or o",
+    "pubDate": "2026-07-10T21:33:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
     "description": "<p>Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: July 2026 progress report on Microsoft&#8217;s Secure Future Initiative</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -84,13 +91,6 @@
     "source": "Security"
   },
   {
-    "title": "Built to bounce back: How Azure resiliency evolved",
-    "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-    "description": "<p>Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/\">Built to bounce back: How Azure resiliency evolved</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-08T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Secure Azure Functions with Event Hubs",
     "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/security",
     "description": "Learn how to securely develop and deploy efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
@@ -159,13 +159,6 @@
     "description": "Learn how to build image classification into your applications by using Azure services such as Azure Content Understanding and Azure Functions.",
     "pubDate": "2026-07-07T16:31:05.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "External key management for Azure Managed HSM is now in public preview",
-    "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
-    "description": "<p>Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/\">External key management for Azure Managed HSM is now in public preview</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-07T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Resilient Design Guidance for Event Hubs and Functions",
@@ -574,6 +567,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
+    "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "description": "<p>Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/\">Modernize your data with Azure Storage: Plan and migrate with confidence</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Copilot Cowork is now generally available",
     "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
     "description": "<p>Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/\">Copilot Cowork is now generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -651,6 +651,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "3 things leaders need to know from Microsoft Build 2026",
+    "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+    "description": "<p>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/\">3 things leaders need to know from Microsoft Build 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-11T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: SQL MCP Server",
     "link": "https://azure.microsoft.com/updates?id=564734",
     "description": "SQL MCP Server is now generally available, giving customers\r\na secure, high-performance way to build agentic solutions with controlled\r\naccess to production data. Built for SQL and compatible with PostgreSQL and\r\nAzure Cosmos DB, SQL MCP Server is a dynamic,",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ingest-etl-stream-with-adb",
     "description": "Create ETL pipelines for batch and streaming data with Azure Databricks to simplify data lake ingestion at any scale.",
     "pubDate": "2026-06-11T17:15:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Teamcenter PLM with Azure NetApp Files",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/manufacturing/teamcenter-plm-netapp-files",
-    "description": "Learn how to use Azure NetApp Files as a storage solution for Siemens Teamcenter product lifecycle management (PLM).",
-    "pubDate": "2026-06-11T17:11:55.000Z",
     "source": "Azure Architecture"
   }
 ]
