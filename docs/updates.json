@@ -1,10 +1,24 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
+    "link": "https://azure.microsoft.com/updates?id=567444",
+    "description": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting from instant compute, automated scaling, and reduced infrastructure management.  Eligible UK West workspaces",
+    "pubDate": "2026-07-13T17:04:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
     "link": "https://azure.microsoft.com/updates?id=567556",
     "description": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 & 7.2. will\r\nno longer be supported by Automation.  Runbooks\r\nusing these versions may continue to run but will not receive security updates,\r\nbug fixes, or o",
     "pubDate": "2026-07-10T21:33:34.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Multiple-region Architectures for Azure App Service Disaster Recovery",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/guides/multi-region-app-service/multi-region-app-service",
+    "description": "Learn about multiple-region architectures and how you can use them to deploy web apps across multiple regions for disaster recovery and replication.",
+    "pubDate": "2026-07-10T16:54:09.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
     "description": "Learn how to use Microsoft Fabric with Azure Service Bus for near real-time solutions at enterprise scale in production environments.",
     "pubDate": "2026-06-11T17:16:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use AI to Forecast Customer Orders",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/next-order-forecasting",
-    "description": "Learn how to use AI and machine learning to forecast a customer's future order quantity for a specific SKU. See the Azure services that you can use in this solution.",
-    "pubDate": "2026-06-11T17:16:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build ETL pipelines with Azure Databricks and Delta Lake",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ingest-etl-stream-with-adb",
-    "description": "Create ETL pipelines for batch and streaming data with Azure Databricks to simplify data lake ingestion at any scale.",
-    "pubDate": "2026-06-11T17:15:34.000Z",
     "source": "Azure Architecture"
   }
 ]
