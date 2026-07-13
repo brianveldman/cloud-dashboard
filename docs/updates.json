@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/",
+    "description": "<p>Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/\">Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-13T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
     "link": "https://azure.microsoft.com/updates?id=567556",
     "description": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 & 7.2. will\r\nno longer be supported by Automation.  Runbooks\r\nusing these versions may continue to run but will not receive security updates,\r\nbug fixes, or o",
@@ -68,6 +75,13 @@
     "description": "Guidance for operations for the architecture of a mission-critical workload on Azure.",
     "pubDate": "2026-07-09T17:12:11.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
+    "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "description": "<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/\">Frontier models and production agents: Advancing Microsoft Foundry for the agentic era</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-09T17:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
@@ -378,13 +392,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Chromium extension uses AI‑related branding to redirect browser search",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
-    "description": "<p>A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/\">Chromium extension uses AI‑related branding to redirect browser search</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T16:27:46.000Z",
-    "source": "Security"
-  },
-  {
     "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -432,13 +439,6 @@
     "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
     "pubDate": "2026-06-23T20:15:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "From insight to action: The next phase of agentic cloud operations",
-    "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-    "description": "<p>What if your cloud environment could help you move from insight to action in real time, with systems already working through the next set of decisions?</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/\">From insight to action: The next phase of agentic cloud operations</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-23T15:45:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Choose a Kubernetes at the Edge Compute Option",
