@@ -1,5 +1,12 @@
 [
   {
+    "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
+    "description": "<p>Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/\">Defending SaaS-based applications against ShinyHunters OAuth abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-13T22:02:41.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
     "link": "https://azure.microsoft.com/updates?id=567444",
     "description": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting from instant compute, automated scaling, and reduced infrastructure management.  Eligible UK West workspaces",
@@ -375,13 +382,6 @@
     "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
     "description": "<p>This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/\">​​What’s new in Microsoft Security: June 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-06-30T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Securing AI agents: When AI tools move from reading to acting",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
-    "description": "<p>MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/\">Securing AI agents: When AI tools move from reading to acting</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-30T15:57:11.000Z",
     "source": "Security"
   },
   {
