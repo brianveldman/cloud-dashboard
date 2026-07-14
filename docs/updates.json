@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Front Door edge actions",
+    "link": "https://azure.microsoft.com/updates?id=567402",
+    "description": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user",
+    "pubDate": "2026-07-14T20:03:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
     "description": "<p>Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/\">Defending SaaS-based applications against ShinyHunters OAuth abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
     "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
     "pubDate": "2026-06-11T17:17:45.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Real-Time Analytics with Azure Service Bus and Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-service-bus",
-    "description": "Learn how to use Microsoft Fabric with Azure Service Bus for near real-time solutions at enterprise scale in production environments.",
-    "pubDate": "2026-06-11T17:16:49.000Z",
     "source": "Azure Architecture"
   }
 ]
