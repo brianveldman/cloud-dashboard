@@ -1,5 +1,68 @@
 [
   {
+    "title": "Announcing: GitHub Copilot and Claude Code connectors in Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=563701",
+    "description": "Microsoft Agent Framework now ships generally available connectors for GitHub Copilot and Claude Code, so developers can build .NET and Python agents that delegate coding tasks to either system without writing custom adapter code. The connectors plug into",
+    "pubDate": "2026-07-15T18:58:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=563571",
+    "description": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 38 percent on GAIA and competitive results on AssistantBench and WebArena in published benchmarks. The GA ",
+    "pubDate": "2026-07-15T18:57:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Agent Harness in Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=563546",
+    "description": "Microsoft Agent Framework reaches general availability for Agent Harness, the production runtime for agents built with the framework. Customers running pilots on the preview harness can now move the same agent code into production with backwards compatibi",
+    "pubDate": "2026-07-15T18:55:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Multi-agent orchestration SDK with the Microsoft Foundry Agent Framework in C# and Python",
+    "link": "https://azure.microsoft.com/updates?id=564312",
+    "description": "Microsoft Foundry is now introducing Agent Framework, a unified multi-agent orchestration SDK for C# and Python. This release consolidates patterns previously spread across AutoGen and Semantic Kernel, giving developers a consistent set of abstractions fo",
+    "pubDate": "2026-07-15T18:53:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Tracing for Microsoft Agent Framework (Python and .NET)",
+    "link": "https://azure.microsoft.com/updates?id=564071",
+    "description": "In public preview, Microsoft Foundry now offers tracing for the Microsoft Agent Framework in both Python and .NET, helping developers observe how agents reason, call tools, and interact with models during execution. This release is part of the broader hos",
+    "pubDate": "2026-07-15T18:51:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: CodeAct pattern and Hyperlight containers in Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=563566",
+    "description": "Microsoft Agent Framework adds the CodeAct pattern in public preview, which lets agents collapse a multi-step plan into a single executable code block rather than chaining one tool call at a time. In representative workloads, CodeAct cut end-to-end latenc",
+    "pubDate": "2026-07-15T18:50:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Episodic procedural memory in Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=563561",
+    "description": "Microsoft Agent Framework adds episodic procedural memory in public preview, a built-in store that lets agents remember successful task patterns and replay them on similar future requests. The framework records action sequences, tool selections, and inter",
+    "pubDate": "2026-07-15T18:48:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Agent Channel for Microsoft Agent Framework multi-agent communication",
+    "link": "https://azure.microsoft.com/updates?id=563556",
+    "description": "Microsoft Agent Framework introduces Agent Channel in public preview, a built-in primitive that lets agents send structured messages to each other without bespoke routing code. Channels carry typed messages, support request and response or fire-and-forget",
+    "pubDate": "2026-07-15T18:47:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL updates for mid-July 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=567426",
+    "description": "In mid-July 2026, the following updates and enhancements\r\nwere made to Azure SQL: \r\n Shortcut\r\n     Configuration lets you customize keyboard shortcuts for Quick Queries, the\r\n     Results Grid, and the Query Editor directly within Visual Studio\r\n     Code—wit",
+    "pubDate": "2026-07-15T17:50:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Expanding Azure Arc SQL Migration with SQL Server on Azure Virtual Machines ",
     "link": "https://azure.microsoft.com/updates?id=567362",
     "description": "The Azure Arc migration solution now supports SQL Server on Azure Virtual Machines as a migration target. Arc-enabled SQL Server instances can now be migrated to both Azure SQL Managed Instance and SQL Server on Azure infrastructure using the same unified",
@@ -635,68 +698,5 @@
     "description": "Learn how to design a scalable conversation analytics system that extracts insights from conversational data by using Foundry Tools and Microsoft Foundry.",
     "pubDate": "2026-06-15T19:52:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Rate Limiting Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/rate-limiting-pattern",
-    "description": "Control the rate at which your application sends requests to a service so that you stay within the service's throttling limits and overall capacity.",
-    "pubDate": "2026-06-14T10:26:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "High Availability for Multitier AKS Applications",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/aks/aks-high-availability",
-    "description": "Read about high availability for multitier application deployment in AKS clusters. Includes a checklist to identify and eliminate points of failure.",
-    "pubDate": "2026-06-12T22:06:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "SD-WAN Integration with Azure Hub-and-Spoke Network Topologies",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/sd-wan-integration-hub-spoke-network-topologies",
-    "description": "Learn how to integrate SD-WAN with Azure hub-and-spoke networks by using Route Server, ExpressRoute, and network virtual appliances (NVAs) for hybrid connectivity.",
-    "pubDate": "2026-06-12T20:06:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Queue-Based Load Leveling Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/queue-based-load-leveling",
-    "description": "Learn how to smooth intermittent heavy loads by using a queue that acts as a buffer between a task and the service that it invokes.",
-    "pubDate": "2026-06-12T16:14:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build a Multiple-Agent Workflow Automation Solution by using Microsoft Agent Framework",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/multiple-agent-workflow-automation",
-    "description": "Learn how to design and deploy scalable multi‑agent automation infrastructure by using Microsoft Agent Framework, Azure Container Apps, and Foundry Tools.",
-    "pubDate": "2026-06-12T16:06:56.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Caching Guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/caching",
-    "description": "Learn how caching can improve the performance and scalability of a system by copying frequently accessed data to fast storage close to the application.",
-    "pubDate": "2026-06-11T19:54:20.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools",
-    "link": "https://azure.microsoft.com/updates?id=564774",
-    "description": "Azure Compute will retire the following Virtual Machine series on November 15, 2028, impacting Azure Batch pools that rely on them:Av2-seriesF-series, Fs-series, Fsv2-seriesG-series, Gs-seriesLsv2-seriesAfter this date:New Batch pools using these VM serie",
-    "pubDate": "2026-06-11T19:00:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: D-series, Ds-series, Dv2-series, Dsv2-series, and Ls-series Virtual Machines for Azure Batch pools",
-    "link": "https://azure.microsoft.com/updates?id=564772",
-    "description": "Azure Compute will retire the following Virtual Machine series on May 1, 2028, impacting Azure Batch pools that rely on them:D-series, Ds-seriesDv2-series, Dsv2-seriesLs-seriesAfter this date:New Batch pools using these VM series cannot be createdExisting",
-    "pubDate": "2026-06-11T19:00:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: GPv1 and Legacy Blob storage account creation",
-    "link": "https://azure.microsoft.com/updates?id=564441",
-    "description": "As part of our ongoing efforts to streamline the Azure\r\nStorage portfolio and deliver enhanced performance, scalability, and cost\r\nefficiency, we are announcing the retirement of all General purpose v1 (GPv1)\r\nstorage accounts. This includes legacy blob stor",
-    "pubDate": "2026-06-11T19:00:41.000Z",
-    "source": "Azure Updates"
   }
 ]
