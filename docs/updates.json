@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: Expanding Azure Arc SQL Migration with SQL Server on Azure Virtual Machines ",
+    "link": "https://azure.microsoft.com/updates?id=567362",
+    "description": "The Azure Arc migration solution now supports SQL Server on Azure Virtual Machines as a migration target. Arc-enabled SQL Server instances can now be migrated to both Azure SQL Managed Instance and SQL Server on Azure infrastructure using the same unified",
+    "pubDate": "2026-07-15T17:35:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Turning threat intelligence into decisive action with Defender Experts",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
+    "description": "<p>Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/\">Turning threat intelligence into decisive action with Defender Experts</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-15T16:00:35.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[In preview] Public Preview: Advanced platform metrics in Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=567726",
+    "description": "Starting July 15, 2026, advanced platform metrics are available in Public Preview. This update provides enhanced visibility into platform performance, resource health, and operational trends across supported Azure services. With advanced platform metrics,",
+    "pubDate": "2026-07-15T15:30:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: DevUI Agent Inspector for Microsoft Agent Framework",
+    "link": "https://azure.microsoft.com/updates?id=563551",
+    "description": "Microsoft Agent Framework adds DevUI Agent Inspector in public preview, a local debugging surface that shows agent runs as a navigable tree of model calls, tool invocations, and intermediate state. Developers can pause, replay, and edit prompts mid-run, s",
+    "pubDate": "2026-07-15T15:15:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Front Door edge actions",
     "link": "https://azure.microsoft.com/updates?id=567402",
     "description": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user",
@@ -385,13 +413,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "​​What’s new in Microsoft Security: June 2026",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
-    "description": "<p>This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/\">​​What’s new in Microsoft Security: June 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-06-30T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Claude in Microsoft Foundry is now generally available",
     "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
     "description": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -677,26 +698,5 @@
     "description": "As part of our ongoing efforts to streamline the Azure\r\nStorage portfolio and deliver enhanced performance, scalability, and cost\r\nefficiency, we are announcing the retirement of all General purpose v1 (GPv1)\r\nstorage accounts. This includes legacy blob stor",
     "pubDate": "2026-06-11T19:00:41.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL MCP Server",
-    "link": "https://azure.microsoft.com/updates?id=564734",
-    "description": "SQL MCP Server is now generally available, giving customers\r\na secure, high-performance way to build agentic solutions with controlled\r\naccess to production data. Built for SQL and compatible with PostgreSQL and\r\nAzure Cosmos DB, SQL MCP Server is a dynamic,",
-    "pubDate": "2026-06-11T18:45:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Use Azure Databricks to Orchestrate MLOps",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/orchestrate-machine-learning-azure-databricks",
-    "description": "Learn about an approach for machine learning operations (MLOps) that uses Azure Databricks to run model training and batch scoring.",
-    "pubDate": "2026-06-11T18:14:07.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Esri ArcGIS Platform on Azure Virtual Desktop",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/data/esri-arcgis-azure-virtual-desktop",
-    "description": "View a reference architecture that shows how to deploy ArcGIS Pro in Azure Virtual Desktop to support the hyperscale of Azure.",
-    "pubDate": "2026-06-11T17:17:45.000Z",
-    "source": "Azure Architecture"
   }
 ]
