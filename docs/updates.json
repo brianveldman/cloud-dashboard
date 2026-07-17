@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
+    "link": "https://azure.microsoft.com/updates?id=567646",
+    "description": "You can now develop functions using Python 3.14 locally and\r\ndeploy them to Azure Functions plans on Linux. Upgrade your apps to Python 3.14 to take advantage\r\nof enhanced security, a longer support window, and continued compatibility with\r\nthe Azure Functio",
+    "pubDate": "2026-07-17T17:47:00.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: Azure Functions Support for PowerShell 7.6 ",
+    "link": "https://azure.microsoft.com/updates?id=567651",
+    "description": "Azure Functions support for PowerShell 7.6 is now available in preview. You can now develop apps using PowerShell 7.6 locally and deploy them to Azure Functions plans. Learn more:  What's\r\nnew in PowerShell 7.6 Azure Functions PowerShell versions and their",
+    "pubDate": "2026-07-17T17:44:00.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
     "description": "<p>Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/\">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -684,19 +698,5 @@
     "description": "Learn how to extend an on-premises Active Directory domain to Azure to provide distributed authentication services in hybrid cloud environments.",
     "pubDate": "2026-06-16T22:09:30.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code",
-    "link": "https://azure.microsoft.com/updates?id=562497",
-    "description": "The Azure Functions extension for VS Code now provides a redesigned Create New Project experience in public preview, featuring a rich, visual template gallery that replaces the multi-step Quick Pick wizard with a searchable, filterable view of project tem",
-    "pubDate": "2026-06-16T19:00:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Log Analytics Summary Rules experience",
-    "link": "https://azure.microsoft.com/updates?id=562027",
-    "description": "A new Azure portal experience for Summary Rules in Log Analytics is now available. Summary Rules enable aggregation of high-volume log data at a defined cadence and store it in summarized tables for improved query performance, reporting, or enhanced data ",
-    "pubDate": "2026-06-16T17:15:28.000Z",
-    "source": "Azure Updates"
   }
 ]
