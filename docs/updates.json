@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
+    "description": "<p>Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/\">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-17T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server ",
     "link": "https://azure.microsoft.com/updates?id=567527",
     "description": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available. You can use assessments to continuously evaluate the security posture of your Azure PostgreSQL flexible ",
@@ -390,13 +397,6 @@
     "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
     "pubDate": "2026-07-07T12:58:38.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
-    "description": "<p>Read five key learnings from the Frost &#038; Sullivan 2025 Frost Radar™ for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/\">5 insights from Frost &amp; Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-06T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP",
