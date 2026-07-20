@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=567594",
+    "description": "Azure Monitor Application Insights now stores generative AI\r\ncontent in a dedicated GenAIContent table (AppGenAIContent in Log\r\nAnalytics), making it possible to apply newly\r\navailable access controls to sensitive AI telemetry. Because Application\r\nInsights p",
+    "pubDate": "2026-07-20T15:09:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: IPv6 support for Azure VPN Gateway",
+    "link": "https://azure.microsoft.com/updates?id=567847",
+    "description": "IPv6 support for Azure VPN Gateway enables customers to run IPv6 inner traffic through VPN tunnels in a dual‑stack configuration. IPv6 is supported on all production SKU gateways that use standard public IPs.IPv6 inner traffic can be configured for both n",
+    "pubDate": "2026-07-20T14:59:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
     "link": "https://azure.microsoft.com/updates?id=567646",
     "description": "You can now develop functions using Python 3.14 locally and\r\ndeploy them to Azure Functions plans on Linux. Upgrade your apps to Python 3.14 to take advantage\r\nof enhanced security, a longer support window, and continued compatibility with\r\nthe Azure Functio",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/analytical-data-stores",
     "description": "Evaluate analytical data store options for big data by reviewing key selection criteria and a capability matrix to compare database models and features.",
     "pubDate": "2026-06-17T17:31:45.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: ICMP Support for Azure Standard V2 NAT Gateway",
-    "link": "https://azure.microsoft.com/updates?id=565487",
-    "description": "Azure\r\nStandardV2 NAT Gateway now supports outbound ICMP Echo Request and Echo Reply\r\ntraffic, enabling customers to use tools such as ping to quickly validate\r\noutbound connectivity and troubleshoot network issues from workloads behind\r\nStandardV2 NAT Gatewa",
-    "pubDate": "2026-06-17T16:30:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Deploy AD DS in an Azure Virtual Network",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/identity/adds-extend-domain",
-    "description": "Learn how to extend an on-premises Active Directory domain to Azure to provide distributed authentication services in hybrid cloud environments.",
-    "pubDate": "2026-06-16T22:09:30.000Z",
     "source": "Azure Architecture"
   }
 ]
