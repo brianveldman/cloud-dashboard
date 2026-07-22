@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Standard service endpoint ",
+    "link": "https://azure.microsoft.com/updates?id=561475",
+    "description": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services under the Private Link family. This enhanced capability overcomes the scale and management limitations of ",
+    "pubDate": "2026-07-22T16:57:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
+    "description": "<p>Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/\">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-22T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=567594",
     "description": "Azure Monitor Application Insights now stores generative AI\r\ncontent in a dedicated GenAIContent table (AppGenAIContent in Log\r\nAnalytics), making it possible to apply newly\r\navailable access controls to sensitive AI telemetry. Because Application\r\nInsights p",
@@ -334,13 +348,6 @@
     "description": "Learn proven practices for running SAP on Oracle in Azure, with high availability.",
     "pubDate": "2026-07-08T20:58:16.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud  ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
-    "description": "<p>At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/\">Protecting Microsoft at AI speed: How SFI proactively hardens our cloud  </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-08T17:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Built to bounce back: How Azure resiliency evolved",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/secure-compute-for-research",
     "description": "Learn how to design an architecture on Azure for a regulated environment that allows researchers to access sensitive data.",
     "pubDate": "2026-06-18T19:42:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Chunking Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
-    "description": "Learn about the various chunking strategies, like boundary based, custom code, and document analysis models.",
-    "pubDate": "2026-06-18T16:40:38.000Z",
     "source": "Azure Architecture"
   }
 ]
