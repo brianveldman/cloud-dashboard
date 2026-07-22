@@ -63,6 +63,13 @@
     "source": "Security"
   },
   {
+    "title": "Implement a Zero Trust Network for Web Applications by Using Azure Firewall and Azure Application Gateway",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall",
+    "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
+    "pubDate": "2026-07-16T14:56:17.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
     "description": "<p>Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/\">Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -175,6 +182,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Baseline Highly Available Zone-Redundant App Services Web Application",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant",
+    "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
+    "pubDate": "2026-07-14T12:48:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
     "description": "<p>Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/\">Defending SaaS-based applications against ShinyHunters OAuth abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -196,11 +210,46 @@
     "source": "Security"
   },
   {
+    "title": "Refactor mainframe computer systems that run Adabas & Natural",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/refactor-adabas-aks",
+    "description": "Learn how to modernize mainframe computer systems that run Adabas & Natural and move them to the cloud.",
+    "pubDate": "2026-07-13T15:04:30.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Architecture for an AKS Cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-07-13T14:02:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
     "link": "https://azure.microsoft.com/updates?id=567556",
     "description": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 & 7.2. will\r\nno longer be supported by Automation.  Runbooks\r\nusing these versions may continue to run but will not receive security updates,\r\nbug fixes, or o",
     "pubDate": "2026-07-10T21:33:34.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Siemens Teamcenter baseline architecture on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/manufacturing/teamcenter-baseline",
+    "description": "Learn about the Siemens Teamcenter product lifecycle management (PLM) solution architecture on Azure.",
+    "pubDate": "2026-07-10T21:04:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generate Documents from Your Data",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/generate-documents-from-your-data",
+    "description": "Learn how to build a simple system to generate documents. It combines retrieval, summarization, and generation to support faster document drafting by using AI.",
+    "pubDate": "2026-07-10T21:03:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Enhance Network Access Security to Kubernetes",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/private-clusters",
+    "description": "Understand networking options to help securely access the Kubernetes API server, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
+    "pubDate": "2026-07-10T19:45:40.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Multiple-region Architectures for Azure App Service Disaster Recovery",
@@ -271,13 +320,6 @@
     "description": "<p>GigaWiper, also tracked as BLUERABBIT, is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/\">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-09T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Baseline Architecture for an AKS Cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-07-08T22:35:41.000Z",
-    "source": "Azure Architecture"
   },
   {
     "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
@@ -655,48 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-chunking-phase",
     "description": "Learn about the various chunking strategies, like boundary based, custom code, and document analysis models.",
     "pubDate": "2026-06-18T16:40:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Chunk Enrichment Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase",
-    "description": "Learn how to augment your chunks with metadata like title, summary, keywords, and entities, and learn common cleaning methods that can improve vector matches.",
-    "pubDate": "2026-06-18T16:40:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Develop a RAG Solution - Generate Embeddings Phase",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings",
-    "description": "Learn how embeddings work, how to choose an embedding model, and how your embedding model can affect your vector search results.",
-    "pubDate": "2026-06-18T16:40:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments",
-    "link": "https://azure.microsoft.com/updates?id=566145",
-    "description": "Azure Migrate now integrates with GitHub Copilot\r\nModernization (public preview) to deliver at scale code insights. This capability brings\r\ntogether Azure Migrate’s portfolio-level discovery and assessment with GitHub\r\nCopilot’s context-aware code analysis. ",
-    "pubDate": "2026-06-17T18:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Databricks native read access to Microsoft OneLake ",
-    "link": "https://azure.microsoft.com/updates?id=565733",
-    "description": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster ac",
-    "pubDate": "2026-06-17T18:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake ",
-    "link": "https://azure.microsoft.com/updates?id=565706",
-    "description": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. By storing data direc",
-    "pubDate": "2026-06-17T18:00:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose an Analytical Data Store in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/analytical-data-stores",
-    "description": "Evaluate analytical data store options for big data by reviewing key selection criteria and a capability matrix to compare database models and features.",
-    "pubDate": "2026-06-17T17:31:45.000Z",
     "source": "Azure Architecture"
   }
 ]
