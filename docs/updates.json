@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure DDoS Protection custom policy",
+    "link": "https://azure.microsoft.com/updates?id=568063",
+    "description": "Azure DDoS Protection custom policy\r\nis now in public preview. This capability provides per-resource control over\r\nDDoS mitigation thresholds for protected Standard Load Balancer frontend IP\r\nconfigurations. Customers can configure fixed\r\ninbound detection th",
+    "pubDate": "2026-07-23T16:47:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Issues connecting to resources in West US ",
+    "link": "https://azure.status.microsoft/en-us/status/",
+    "description": "<p>Starting at approximately 14:44 UTC on 23 July 2026, customers may have experienced intermittent connectivity failures, increased latency, or difficulty accessing Azure and other Microsoft cloud (<a href=\"https://status.cloud.microsoft/\" target=\"_blank\">https://status.cloud.microsoft/</a>) services associated with the West US region. Customers whose traffic traverses affected West US network infrastructure may also experience downstream impact. Impacted services include:</p><p>App Service, Application Gateway, Azure AD B2C, Azure AI Search, Azure API Management, Azure Bastion, Azure Bot Service, Azure Database for PostgreSQL - Flexible Server, Azure Databricks, Azure Firewall, Azure Kubernetes Service (AKS), Azure Virtual Desktop, Azure VMware Solution, ExpressRoute Circuits, ExpressRoute Gateways, Partner Center, Power BI Embedded, Virtual WAN, VPN Gateway</p><p>Current Status:</p><p>We may have identified the likely cause of the issue and are actively deploying mitigation actions. Based on our current progress, we expect to have additional information on the effectiveness of these actions within approximately 30 minutes. We are closely monitoring service recovery as this action is rolling out.&nbsp;</p>",
+    "pubDate": "2026-07-23T16:29:09.000Z",
+    "source": "Azure Status"
+  },
+  {
+    "title": "Email threat landscape: Q2 2026 trends and insights",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/",
+    "description": "<p>In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/\">Email threat landscape: Q2 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-23T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Standard service endpoint ",
     "link": "https://azure.microsoft.com/updates?id=561475",
     "description": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services under the Private Link family. This enhanced capability overcomes the scale and management limitations of ",
@@ -327,13 +348,6 @@
     "description": "<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/\">Frontier models and production agents: Advancing Microsoft Foundry for the agentic era</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-09T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
-    "description": "<p>GigaWiper, also tracked as BLUERABBIT, is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/\">GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-09T15:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
     "pubDate": "2026-06-18T22:22:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
-    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
-    "pubDate": "2026-06-18T22:22:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a Secure Research Environment for Regulated Data",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/secure-compute-for-research",
-    "description": "Learn how to design an architecture on Azure for a regulated environment that allows researchers to access sensitive data.",
-    "pubDate": "2026-06-18T19:42:06.000Z",
     "source": "Azure Architecture"
   }
 ]
