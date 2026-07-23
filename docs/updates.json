@@ -1,17 +1,17 @@
 [
   {
+    "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+    "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "description": "<p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/\">AT&amp;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-23T18:30:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure DDoS Protection custom policy",
     "link": "https://azure.microsoft.com/updates?id=568063",
     "description": "Azure DDoS Protection custom policy\r\nis now in public preview. This capability provides per-resource control over\r\nDDoS mitigation thresholds for protected Standard Load Balancer frontend IP\r\nconfigurations. Customers can configure fixed\r\ninbound detection th",
     "pubDate": "2026-07-23T16:47:24.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Issues connecting to resources in West US ",
-    "link": "https://azure.status.microsoft/en-us/status/",
-    "description": "<p>Starting at approximately 14:44 UTC on 23 July 2026, customers may have experienced intermittent connectivity failures, increased latency, or difficulty accessing Azure and other Microsoft cloud (<a href=\"https://status.cloud.microsoft/\" target=\"_blank\">https://status.cloud.microsoft/</a>) services associated with the West US region. Customers whose traffic traverses affected West US network infrastructure may also experience downstream impact. Impacted services include:</p><p>App Service, Application Gateway, Azure AD B2C, Azure AI Search, Azure API Management, Azure Bastion, Azure Bot Service, Azure Database for PostgreSQL - Flexible Server, Azure Databricks, Azure Firewall, Azure Kubernetes Service (AKS), Azure Virtual Desktop, Azure VMware Solution, ExpressRoute Circuits, ExpressRoute Gateways, Partner Center, Power BI Embedded, Virtual WAN, VPN Gateway</p><p>Current Status:</p><p>We may have identified the likely cause of the issue and are actively deploying mitigation actions. Based on our current progress, we expect to have additional information on the effectiveness of these actions within approximately 30 minutes. We are closely monitoring service recovery as this action is rolling out.&nbsp;</p>",
-    "pubDate": "2026-07-23T16:29:09.000Z",
-    "source": "Azure Status"
   },
   {
     "title": "Email threat landscape: Q2 2026 trends and insights",
@@ -602,13 +602,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Accelerate modern Linux workloads with Azure Files",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-    "description": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
     "link": "https://azure.microsoft.com/updates?id=564806",
     "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
@@ -696,6 +689,13 @@
     "title": "Baseline Microsoft Foundry Chat Reference Architecture",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
+    "pubDate": "2026-06-18T22:22:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
+    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
     "pubDate": "2026-06-18T22:22:41.000Z",
     "source": "Azure Architecture"
   }
