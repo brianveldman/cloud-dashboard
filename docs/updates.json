@@ -1,12 +1,5 @@
 [
   {
-    "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
-    "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-    "description": "<p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/\">AT&amp;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-23T18:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure DDoS Protection custom policy",
     "link": "https://azure.microsoft.com/updates?id=568063",
     "description": "Azure DDoS Protection custom policy\r\nis now in public preview. This capability provides per-resource control over\r\nDDoS mitigation thresholds for protected Standard Load Balancer frontend IP\r\nconfigurations. Customers can configure fixed\r\ninbound detection th",
@@ -602,11 +595,25 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Accelerate modern Linux workloads with Azure Files",
+    "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "description": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-06-29T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
     "link": "https://azure.microsoft.com/updates?id=564806",
     "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
     "pubDate": "2026-06-25T16:00:03.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
     "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
     "pubDate": "2026-06-18T22:22:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a Secure Research Environment for Regulated Data",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/secure-compute-for-research",
-    "description": "Learn how to design an architecture on Azure for a regulated environment that allows researchers to access sensitive data.",
-    "pubDate": "2026-06-18T19:42:06.000Z",
     "source": "Azure Architecture"
   }
 ]
