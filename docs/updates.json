@@ -609,13 +609,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Copilot in Excel: Built for the era of Frontier Finance",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-06-25T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
     "link": "https://azure.microsoft.com/updates?id=566516",
     "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
     "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
     "pubDate": "2026-06-18T22:22:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design a Secure Research Environment for Regulated Data",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/secure-compute-for-research",
+    "description": "Learn how to design an architecture on Azure for a regulated environment that allows researchers to access sensitive data.",
+    "pubDate": "2026-06-18T19:42:06.000Z",
     "source": "Azure Architecture"
   }
 ]
