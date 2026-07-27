@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Claude Opus 5 on Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=568316",
+    "description": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic's latest model for advanced reasoning, coding, agentic workflows, and professional knowledge work. Claude Opus 5 is designed for complex tasks requi",
+    "pubDate": "2026-07-27T19:41:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: HTTP header insertion in Azure Firewall ",
     "link": "https://azure.microsoft.com/updates?id=568115",
     "description": "Azure Firewall now supports HTTP header insertion, enabling\r\norganizations to add or overwrite HTTP/HTTPS request\r\nheaders directly from Azure Firewall application rules. This capability helps\r\ncustomers enforce security controls, support tenant restriction ",
@@ -689,13 +696,6 @@
     "title": "Connect Azure Databricks to the Reference Solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-databricks-to-solution",
     "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data in Azure Databricks using Delta Lake and Structured Streaming.",
-    "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect Microsoft Fabric to the Reference Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-fabric-to-solution",
-    "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data using Microsoft Fabric and KQL databases.",
     "pubDate": "2026-06-19T22:00:39.000Z",
     "source": "Azure Architecture"
   }
