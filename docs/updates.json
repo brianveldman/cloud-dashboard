@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Launched] Generally Available: HTTP header insertion in Azure Firewall ",
+    "link": "https://azure.microsoft.com/updates?id=568115",
+    "description": "Azure Firewall now supports HTTP header insertion, enabling\r\norganizations to add or overwrite HTTP/HTTPS request\r\nheaders directly from Azure Firewall application rules. This capability helps\r\ncustomers enforce security controls, support tenant restriction ",
+    "pubDate": "2026-07-27T16:54:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: AI Gateway in Azure API Management ",
+    "link": "https://azure.microsoft.com/updates?id=568184",
+    "description": "The AI Gateway tier for Azure API Management is now available in public preview. Building on the AI gateway capabilities already available across API Management tiers, the new AI Gateway tier provides a dedicated experience optimized for AI workloads.As o",
+    "pubDate": "2026-07-27T16:44:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Rethinking security for the age of AI",
+    "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+    "description": "<p>Why security needs a new Cyber Stack&#160;—&#160;Introducing Project Perception The physics of cybersecurity are changing.&#160;Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/\">Rethinking security for the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-27T16:40:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Enhancing AI security through global AI red teaming",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/",
+    "description": "<p>Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilience of frontier AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/\">Enhancing AI security through global AI red teaming</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-27T16:25:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "DevSecOps for infrastructure as code (IaC)",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
+    "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
+    "pubDate": "2026-07-24T14:48:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
     "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
     "description": "<p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/\">AT&amp;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -33,6 +68,27 @@
     "description": "<p>Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/\">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-22T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "SAP deployment on Azure by using an Oracle database",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
+    "description": "Learn how to deploy SAP NetWeaver with Oracle Database on Azure in a high-availability (HA) architecture by using availability zones and Data Guard.",
+    "pubDate": "2026-07-22T08:29:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Analytical Data Store in Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-analytical-data-stores",
+    "description": "Evaluate analytical data store options in Microsoft Fabric based on data volumes, types, compute engine, ingestion, transformation, and query patterns.",
+    "pubDate": "2026-07-21T20:42:36.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AKS Triage—Node and Pod Health",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-triage-node-health",
+    "description": "Learn about the triage step, in which you examine the health of Azure Kubernetes Service (AKS) worker nodes and pods and resolve problems.",
+    "pubDate": "2026-07-20T16:48:10.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
@@ -238,13 +294,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/",
-    "description": "<p>Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/\">Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-13T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Refactor mainframe computer systems that run Adabas & Natural",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/refactor-adabas-aks",
     "description": "Learn how to modernize mainframe computer systems that run Adabas & Natural and move them to the cloud.",
@@ -292,13 +341,6 @@
     "description": "Learn about multiple-region architectures and how you can use them to deploy web apps across multiple regions for disaster recovery and replication.",
     "pubDate": "2026-07-10T16:54:09.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
-    "description": "<p>Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/\">Securing our future: July 2026 progress report on Microsoft&#8217;s Secure Future Initiative</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-10T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI",
@@ -354,13 +396,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
     "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
     "pubDate": "2026-07-08T21:03:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "SAP deployment in Azure using an Oracle database",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
-    "description": "Learn proven practices for running SAP on Oracle in Azure, with high availability.",
-    "pubDate": "2026-07-08T20:58:16.000Z",
     "source": "Azure Architecture"
   },
   {
@@ -662,41 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-fabric-to-solution",
     "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data using Microsoft Fabric and KQL databases.",
     "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises SAP system to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/howto-connect-on-premises-sap-to-azure",
-    "description": "Step by step guide that shows how to connect an on-premises SAP Enterprise Resource Planning system to Azure.",
-    "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Enable an industrial dataspace on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/howto-iot-industrial-dataspaces",
-    "description": "Step by step guide that shows how to enable an industrial dataspace on Azure based on open-source reference implementations.",
-    "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure industrial IoT reference solution architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/iot-industrial-solution-architecture",
-    "description": "Industrial IoT reference solution architecture for condition monitoring, overall equipment effectiveness (OEE) calculation, forecasting, and anomaly detection.",
-    "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-06-18T22:22:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture in an Azure Landing Zone",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
-    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
-    "pubDate": "2026-06-18T22:22:41.000Z",
     "source": "Azure Architecture"
   }
 ]
