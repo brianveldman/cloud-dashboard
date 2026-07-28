@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Launched] Generally Available: Application Routing with Gateway API",
+    "link": "https://azure.microsoft.com/updates?id=567944",
+    "description": "Managing ingress routing while adopting newer Kubernetes standards can require balancing modernization efforts with existing deployments. Application Routing with Gateway API is now generally available on AKS, bringing the Kubernetes Gateway API to ingres",
+    "pubDate": "2026-07-28T16:54:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Resource placement in Azure Kubernetes Fleet Manager",
+    "link": "https://azure.microsoft.com/updates?id=567931",
+    "description": "Managing Kubernetes resources across multiple clusters can require significant manual effort to apply updates and maintain consistency. Resource placement in Azure Kubernetes Fleet Manager is now generally available and enables platform and application te",
+    "pubDate": "2026-07-28T16:52:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Maximum allowed failures for update runs in Azure Kubernetes Fleet Manager ",
+    "link": "https://azure.microsoft.com/updates?id=567939",
+    "description": "In fail-fast update rollouts, a small number of member cluster update failures can halt progress across a broader update deployment. Maximum Allowed Failures for update runs in Azure Kubernetes Fleet Manager, now available in preview, introduces an option",
+    "pubDate": "2026-07-28T16:51:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Prepared Image Specification",
+    "link": "https://azure.microsoft.com/updates?id=567949",
+    "description": "Organizations running large-scale, AI, GPU, Windows, and other performance-sensitive workloads on AKS often experience longer node startup times because new nodes must repeatedly download container images and perform initialization tasks before workloads ",
+    "pubDate": "2026-07-28T16:45:37.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in India (India South Central)",
+    "link": "https://azure.microsoft.com/updates?id=568013",
+    "description": "Microsoft announces the opening of its fourth datacenter region in India, India South Central, with campuses in Hyderabad, Telangana. The region will provide customers with local, secure, state-of-the-art cloud infrastructure designed with AI readiness as",
+    "pubDate": "2026-07-28T15:40:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Claude Opus 5 on Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=568316",
     "description": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic's latest model for advanced reasoning, coding, agentic workflows, and professional knowledge work. Claude Opus 5 is designed for complex tasks requi",
@@ -651,52 +686,17 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
     "link": "https://azure.microsoft.com/updates?id=566516",
     "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
     "pubDate": "2026-06-24T19:00:43.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Generally Available: Azure NetApp Files migration assistant ",
-    "link": "https://azure.microsoft.com/updates?id=565480",
-    "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
-    "pubDate": "2026-06-23T20:15:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose a Kubernetes at the Edge Compute Option",
-    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/choose-kubernetes-edge-compute-option",
-    "description": "Learn about trade-offs and considerations for various Kubernetes options available for extending compute on the edge.",
-    "pubDate": "2026-06-22T17:19:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run SAP BW/4HANA with Linux Virtual Machines",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-bw4hana-with-linux-virtual-machines",
-    "description": "Learn about the SAP BW/4HANA application tier and how it's suitable for a high availability, small-scale production environment of SAP BW/4HANA on Azure.",
-    "pubDate": "2026-06-22T15:47:29.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare AWS and Azure Accounts",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/accounts",
-    "description": "Learn the differences between Azure and AWS accounts and subscriptions. Understand the types of administrator accounts in Azure.",
-    "pubDate": "2026-06-22T15:39:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect Azure Databricks to the Reference Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-databricks-to-solution",
-    "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data in Azure Databricks using Delta Lake and Structured Streaming.",
-    "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect Microsoft Fabric to the Reference Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-fabric-to-solution",
-    "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data using Microsoft Fabric and KQL databases.",
-    "pubDate": "2026-06-19T22:00:39.000Z",
-    "source": "Azure Architecture"
   }
 ]
