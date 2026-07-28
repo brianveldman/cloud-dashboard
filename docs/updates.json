@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Enclave",
+    "link": "https://azure.microsoft.com/updates?id=568377",
+    "description": "Announcing the public preview of Azure Enclave for Microsoft Azure, Azure Government, Azure Government Secret, and Azure Government\r\nTop Secret.\r\nAzure Enclave helps streamline the deployment and management of isolated cloud\r\nenvironments for sensitive workl",
+    "pubDate": "2026-07-28T18:51:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: NAT64 on StandardV2 NAT Gateway",
+    "link": "https://azure.microsoft.com/updates?id=568409",
+    "description": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\noutbound IPv6 traffic into IPv4 traffic. NAT64 relies on a DNS64-capable\r\nresolver to synthesize IPv6 addresse",
+    "pubDate": "2026-07-28T18:50:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Application Routing with Gateway API",
     "link": "https://azure.microsoft.com/updates?id=567944",
     "description": "Managing ingress routing while adopting newer Kubernetes standards can require balancing modernization efforts with existing deployments. Application Routing with Gateway API is now generally available on AKS, bringing the Kubernetes Gateway API to ingres",
@@ -68,6 +82,13 @@
     "description": "<p>Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilience of frontier AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/\">Enhancing AI security through global AI red teaming</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-27T16:25:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+    "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "description": "<p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/\">What customers value most in Microsoft Databases—from reliability to AI readiness</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-27T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "DevSecOps for infrastructure as code (IaC)",
@@ -672,31 +693,10 @@
     "source": "Azure Blog"
   },
   {
-    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-    "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
     "link": "https://azure.microsoft.com/updates?id=564806",
     "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
     "pubDate": "2026-06-25T16:00:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Copilot in Excel: Built for the era of Frontier Finance",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-06-25T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "[In preview] Public Preview: Application Gateway for Containers – Inference gateway",
-    "link": "https://azure.microsoft.com/updates?id=566516",
-    "description": "Application Gateway for Containers is extending its ingress gateway feature set with new AI gateway capabilities. The new inference gateway capability brings the Kubernetes Gateway API Inference Extension to Application Gateway for Containers, enabling lo",
-    "pubDate": "2026-06-24T19:00:43.000Z",
     "source": "Azure Updates"
   }
 ]
