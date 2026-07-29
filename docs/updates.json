@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
+    "link": "https://azure.microsoft.com/updates?id=568322",
+    "description": "This capability shares telemetry from Azure Monitor Log Analytics workspaces into Microsoft Fabric, making observability data available in OneLake as Delta Parquet, the open format, without duplication and with near real-time availability. All Azure Monit",
+    "pubDate": "2026-07-29T18:52:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available for evaluation",
+    "link": "https://azure.microsoft.com/updates?id=568466",
+    "description": "Azure Sphere OS version 26.09 RC1 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents a major bump in Azure Sphere's underlying Linux kernel version as part of our long-term su",
+    "pubDate": "2026-07-29T18:50:00.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "​​Better security starts with better questions",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
     "description": "<p>Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/\">​​Better security starts with better questions</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -9,7 +23,7 @@
   {
     "title": "[In preview] Public Preview: Azure Enclave",
     "link": "https://azure.microsoft.com/updates?id=568377",
-    "description": "Announcing the public preview of Azure Enclave for Microsoft Azure, Azure Government, Azure Government Secret, and Azure Government\r\nTop Secret.\r\nAzure Enclave helps streamline the deployment and management of isolated cloud\r\nenvironments for sensitive workl",
+    "description": "Announcing the public preview of Azure Enclave for Microsoft\r\nAzure, Azure Government, Azure Government Secret, and Azure Government Top Secret.\r\nAzure Enclave helps streamline the deployment and management of isolated cloud\r\nenvironments for sensitive workl",
     "pubDate": "2026-07-28T18:51:02.000Z",
     "source": "Azure Updates"
   },
@@ -238,13 +252,6 @@
     "source": "Security"
   },
   {
-    "title": "Announcing: GitHub Copilot and Claude Code connectors in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563701",
-    "description": "Microsoft Agent Framework now ships generally available connectors for GitHub Copilot and Claude Code, so developers can build .NET and Python agents that delegate coding tasks to either system without writing custom adapter code. The connectors plug into",
-    "pubDate": "2026-07-15T18:58:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
     "link": "https://azure.microsoft.com/updates?id=563571",
     "description": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 38 percent on GAIA and competitive results on AssistantBench and WebArena in published benchmarks. The GA ",
@@ -284,13 +291,6 @@
     "link": "https://azure.microsoft.com/updates?id=563561",
     "description": "Microsoft Agent Framework adds episodic procedural memory in public preview, a built-in store that lets agents remember successful task patterns and replay them on similar future requests. The framework records action sequences, tool selections, and inter",
     "pubDate": "2026-07-15T18:48:54.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Agent Channel for Microsoft Agent Framework multi-agent communication",
-    "link": "https://azure.microsoft.com/updates?id=563556",
-    "description": "Microsoft Agent Framework introduces Agent Channel in public preview, a built-in primitive that lets agents send structured messages to each other without bespoke routing code. Channels carry typed messages, support request and response or fire-and-forget",
-    "pubDate": "2026-07-15T18:47:41.000Z",
     "source": "Azure Updates"
   },
   {
