@@ -84,6 +84,13 @@
     "source": "Security"
   },
   {
+    "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+    "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "description": "<p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/\">What customers value most in Microsoft Databases—from reliability to AI readiness</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-27T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "DevSecOps for infrastructure as code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
@@ -683,13 +690,6 @@
     "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
     "description": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-06-29T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-    "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:15:00.000Z",
     "source": "Azure Blog"
   },
   {
