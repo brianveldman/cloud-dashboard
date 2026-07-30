@@ -105,11 +105,25 @@
     "source": "Security"
   },
   {
+    "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+    "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "description": "<p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/\">What customers value most in Microsoft Databases—from reliability to AI readiness</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-27T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "DevSecOps for infrastructure as code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
     "pubDate": "2026-07-24T14:48:12.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+    "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "description": "<p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/\">AT&amp;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-07-23T18:30:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure DDoS Protection custom policy",
@@ -168,46 +182,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[Launched] Generally Available: IPv6 support for Azure VPN Gateway",
-    "link": "https://azure.microsoft.com/updates?id=567847",
-    "description": "IPv6 support for Azure VPN Gateway enables customers to run IPv6 inner traffic through VPN tunnels in a dual‑stack configuration. IPv6 is supported on all production SKU gateways that use standard public IPs.IPv6 inner traffic can be configured for both n",
-    "pubDate": "2026-07-20T14:59:26.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
-    "link": "https://azure.microsoft.com/updates?id=567646",
-    "description": "You can now develop functions using Python 3.14 locally and\r\ndeploy them to Azure Functions plans on Linux. Upgrade your apps to Python 3.14 to take advantage\r\nof enhanced security, a longer support window, and continued compatibility with\r\nthe Azure Functio",
-    "pubDate": "2026-07-17T17:47:00.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure Functions Support for PowerShell 7.6 ",
-    "link": "https://azure.microsoft.com/updates?id=567651",
-    "description": "Azure Functions support for PowerShell 7.6 is now available in preview. You can now develop apps using PowerShell 7.6 locally and deploy them to Azure Functions plans. Learn more:  What's\r\nnew in PowerShell 7.6 Azure Functions PowerShell versions and their",
-    "pubDate": "2026-07-17T17:44:00.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
     "description": "<p>Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/\">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-17T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=567527",
-    "description": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available. You can use assessments to continuously evaluate the security posture of your Azure PostgreSQL flexible ",
-    "pubDate": "2026-07-17T14:55:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Encryption in Transit for Azure Files NFS Shares in Azure Kubernetes Service (AKS)",
-    "link": "https://azure.microsoft.com/updates?id=567787",
-    "description": "Azure Kubernetes Service (AKS) now generally supports Encryption in Transit (EiT) for Azure Files NFS v4.1 volumes through the Azure File CSI driver. With EiT enabled, data transferred between AKS workloads and Azure Files NFS shares is encrypted using TL",
-    "pubDate": "2026-07-17T14:54:09.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
@@ -238,81 +217,11 @@
     "source": "Security"
   },
   {
-    "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563571",
-    "description": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 38 percent on GAIA and competitive results on AssistantBench and WebArena in published benchmarks. The GA ",
-    "pubDate": "2026-07-15T18:57:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Agent Harness in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563546",
-    "description": "Microsoft Agent Framework reaches general availability for Agent Harness, the production runtime for agents built with the framework. Customers running pilots on the preview harness can now move the same agent code into production with backwards compatibi",
-    "pubDate": "2026-07-15T18:55:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Multi-agent orchestration SDK with the Microsoft Foundry Agent Framework in C# and Python",
-    "link": "https://azure.microsoft.com/updates?id=564312",
-    "description": "Microsoft Foundry is now introducing Agent Framework, a unified multi-agent orchestration SDK for C# and Python. This release consolidates patterns previously spread across AutoGen and Semantic Kernel, giving developers a consistent set of abstractions fo",
-    "pubDate": "2026-07-15T18:53:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Tracing for Microsoft Agent Framework (Python and .NET)",
-    "link": "https://azure.microsoft.com/updates?id=564071",
-    "description": "In public preview, Microsoft Foundry now offers tracing for the Microsoft Agent Framework in both Python and .NET, helping developers observe how agents reason, call tools, and interact with models during execution. This release is part of the broader hos",
-    "pubDate": "2026-07-15T18:51:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: CodeAct pattern and Hyperlight containers in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563566",
-    "description": "Microsoft Agent Framework adds the CodeAct pattern in public preview, which lets agents collapse a multi-step plan into a single executable code block rather than chaining one tool call at a time. In representative workloads, CodeAct cut end-to-end latenc",
-    "pubDate": "2026-07-15T18:50:14.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Episodic procedural memory in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563561",
-    "description": "Microsoft Agent Framework adds episodic procedural memory in public preview, a built-in store that lets agents remember successful task patterns and replay them on similar future requests. The framework records action sequences, tool selections, and inter",
-    "pubDate": "2026-07-15T18:48:54.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for mid-July 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=567426",
-    "description": "In mid-July 2026, the following updates and enhancements\r\nwere made to Azure SQL: \r\n Shortcut\r\n     Configuration lets you customize keyboard shortcuts for Quick Queries, the\r\n     Results Grid, and the Query Editor directly within Visual Studio\r\n     Code—wit",
-    "pubDate": "2026-07-15T17:50:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Expanding Azure Arc SQL Migration with SQL Server on Azure Virtual Machines ",
-    "link": "https://azure.microsoft.com/updates?id=567362",
-    "description": "The Azure Arc migration solution now supports SQL Server on Azure Virtual Machines as a migration target. Arc-enabled SQL Server instances can now be migrated to both Azure SQL Managed Instance and SQL Server on Azure infrastructure using the same unified",
-    "pubDate": "2026-07-15T17:35:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Turning threat intelligence into decisive action with Defender Experts",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
     "description": "<p>Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/\">Turning threat intelligence into decisive action with Defender Experts</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-15T16:00:35.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[In preview] Public Preview: Advanced platform metrics in Azure Monitor",
-    "link": "https://azure.microsoft.com/updates?id=567726",
-    "description": "Starting July 15, 2026, advanced platform metrics are available in Public Preview. This update provides enhanced visibility into platform performance, resource health, and operational trends across supported Azure services. With advanced platform metrics,",
-    "pubDate": "2026-07-15T15:30:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: DevUI Agent Inspector for Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563551",
-    "description": "Microsoft Agent Framework adds DevUI Agent Inspector in public preview, a local debugging surface that shows agent runs as a navigable tree of model calls, tool invocations, and intermediate state. Developers can pause, replay, and edit prompts mid-run, s",
-    "pubDate": "2026-07-15T15:15:25.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Azure Databricks delivers proven business value",
@@ -322,25 +231,11 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[In preview] Public Preview: Azure Front Door edge actions",
-    "link": "https://azure.microsoft.com/updates?id=567402",
-    "description": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user",
-    "pubDate": "2026-07-14T20:03:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Baseline Highly Available Zone-Redundant App Services Web Application",
     "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant",
     "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
     "pubDate": "2026-07-14T12:48:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
-    "link": "https://azure.microsoft.com/updates?id=567444",
-    "description": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting from instant compute, automated scaling, and reduced infrastructure management.  Eligible UK West workspaces",
-    "pubDate": "2026-07-13T17:04:04.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Refactor mainframe computer systems that run Adabas & Natural",
@@ -355,13 +250,6 @@
     "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2026-07-13T14:02:24.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
-    "link": "https://azure.microsoft.com/updates?id=567556",
-    "description": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 & 7.2. will\r\nno longer be supported by Automation.  Runbooks\r\nusing these versions may continue to run but will not receive security updates,\r\nbug fixes, or o",
-    "pubDate": "2026-07-10T21:33:34.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Siemens Teamcenter baseline architecture on Azure",
@@ -392,20 +280,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "[In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI",
-    "link": "https://azure.microsoft.com/updates?id=567225",
-    "description": "You can now create and run Azure Chaos Studio resilience Scenarios directly from the Azure CLI with the new az chaos extension — no more hand-assembling REST calls and JSON files. Get started in one step: az chaos setup stands up a workspace, wires up per",
-    "pubDate": "2026-07-09T22:57:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Open AI GPT-5.6 on Azure Databricks ",
-    "link": "https://azure.microsoft.com/updates?id=567431",
-    "description": "Open AI GPT-5.6 is now available on Azure Databricks. You can use GPT 5.6 (purchased on Microsoft Foundry) via Model Serving Endpoint in Azure Databricks. Through integrations across Foundry and Azure Databricks, you can securely build, deploy, and manage",
-    "pubDate": "2026-07-09T20:21:12.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Health modeling for mission-critical workloads on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-health-modeling",
     "description": "Reference architecture for a workload that is accessed over a public endpoint without extra dependencies to other company resources - Health modeling.",
@@ -427,25 +301,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Operations for mission-critical workloads on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-operations",
-    "description": "Guidance for operations for the architecture of a mission-critical workload on Azure.",
-    "pubDate": "2026-07-09T17:12:11.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
-    "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
-    "description": "<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/\">Frontier models and production agents: Advancing Microsoft Foundry for the agentic era</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "title": "GPT-5.6 now available in Microsoft Foundry ",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+    "description": "<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/\">GPT-5.6 now available in Microsoft Foundry </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-09T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
-    "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
-    "pubDate": "2026-07-08T21:03:40.000Z",
-    "source": "Azure Architecture"
   },
   {
     "title": "Built to bounce back: How Azure resiliency evolved",
@@ -455,151 +315,11 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Secure Azure Functions with Event Hubs",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/security",
-    "description": "Learn how to securely develop and deploy efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
-    "pubDate": "2026-07-07T19:02:48.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Performance and Scale Guidance for Event Hubs with Azure Functions",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/performance-scale",
-    "description": "Learn how to plan for and deploy more efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
-    "pubDate": "2026-07-07T18:59:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a Ransomware-Resilient Backup Architecture by Using Azure Backup",
-    "link": "https://learn.microsoft.com/azure/architecture/security/ransomware-resilient-backup-architecture",
-    "description": "Design ransomware-resilient backup architectures by using immutable vaults, multiple-subscription isolation, dual-region copies, and recovery testing.",
-    "pubDate": "2026-07-07T18:49:12.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
-    "link": "https://azure.microsoft.com/updates?id=567218",
-    "description": "Azure Web Application Firewall (WAF) helps protect your web applications from common threats and attacks. In some cases, WAF may block requests that are safe and expected for your application. Existing exclusions help reduce false positives by omitting sp",
-    "pubDate": "2026-07-07T17:42:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Chaos Studio Workspaces and Scenarios",
-    "link": "https://azure.microsoft.com/updates?id=567184",
-    "description": "Azure Chaos Studio now supports Workspaces and Scenarios, a faster, application-centric way to validate how your workloads hold up during real outages.Point a Workspace at your application's scope—a subscription, resource group, or service group—and Chaos",
-    "pubDate": "2026-07-07T17:40:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Export historical data from Log Analytics workspace with Export jobs ",
-    "link": "https://azure.microsoft.com/updates?id=566591",
-    "description": "The Log Analytics Export job enables you to export historical data from a Log Analytics workspace to an Azure Storage account based on a specified query and time range. This allows you to extract only the data you need and move it to external systems for ",
-    "pubDate": "2026-07-07T17:37:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Network Security Perimeter support for Azure Event Hubs",
-    "link": "https://azure.microsoft.com/updates?id=567203",
-    "description": "Azure Event Hubs now supports Network Security Perimeter (NSP), enabling organizations to define a logical network isolation boundary for PaaS resources and control public network access through perimeter-based access rules.With Network Security Perimeter",
-    "pubDate": "2026-07-07T17:35:19.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Confidential Computing support for Azure Event Hubs Dedicated",
-    "link": "https://azure.microsoft.com/updates?id=567212",
-    "description": "Azure Event Hubs Dedicated now supports Confidential Computing, enabling organizations to protect streaming data while it is being processed in memory. By leveraging hardware-based trusted execution environments (TEEs), customers can help safeguard sensit",
-    "pubDate": "2026-07-07T17:33:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Chile Central",
-    "link": "https://azure.microsoft.com/updates?id=566732",
-    "description": "Azure Red Hat OpenShift (ARO) is now generally available in Azure\r\nChile Central, expanding regional availability for OpenShift deployments\r\nacross South America. With the launch of Microsoft’s first Azure region in\r\nChile, customers can now run fully manage",
-    "pubDate": "2026-07-07T17:31:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Image Classification on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/intelligent-apps-image-processing",
-    "description": "Learn how to build image classification into your applications by using Azure services such as Azure Content Understanding and Azure Functions.",
-    "pubDate": "2026-07-07T16:31:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
     "title": "External key management for Azure Managed HSM is now in public preview",
     "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
     "description": "<p>Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/\">External key management for Azure Managed HSM is now in public preview</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-07T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Resilient Design Guidance for Event Hubs and Functions",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/resilient-design",
-    "description": "Learn how to develop resilient and scalable code that runs on Azure Functions and responds to Azure Event Hubs events.",
-    "pubDate": "2026-07-07T15:37:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
-    "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
-    "pubDate": "2026-07-07T13:28:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build the Second Layer of Defense by Using Microsoft Defender XDR",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-defender-xdr-build-second-layer-defense",
-    "description": "Enhance security in your IT environment by implementing Microsoft Defender XDR across applications and infrastructure to detect and respond to ransomware.",
-    "pubDate": "2026-07-07T13:16:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Event Hubs",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/event-hubs",
-    "description": "Learn about Azure Event Hubs features and isolation models that you can use to implement an event-driven architecture for a multitenant system.",
-    "pubDate": "2026-07-07T13:03:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/storage",
-    "description": "This article describes the features of Azure Storage that benefit multitenant systems. It includes links to guidance and examples.",
-    "pubDate": "2026-07-07T13:00:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
-    "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
-    "pubDate": "2026-07-07T12:58:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP",
-    "link": "https://azure.microsoft.com/updates?id=567085",
-    "description": "Microsoft Entra ID-based access for Azure Blob Storage SFTP is now generally available in all regions. You can now use Entra ID identities including guest users via Entra External Identities to securely connect to Azure Blob Storage over SFTP, without pro",
-    "pubDate": "2026-07-06T15:54:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Support 5x churn in Azure Site Recovery",
-    "link": "https://azure.microsoft.com/updates?id=566966",
-    "description": "Azure Site Recovery now supports up to 5x churn (500 MB/s per VM). This major enhancement empowers customers to confidently run high IOPS workloads with Azure Site Recovery, ensuring robust disaster recovery for even the most demanding applications like d",
-    "pubDate": "2026-07-06T15:00:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Implement a secure hybrid network",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz",
-    "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
-    "pubDate": "2026-07-03T02:15:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=567194",
-    "description": "Azure Databricks now supports Anthropic Claude Sonnet 5 through Azure Databricks AI Model Serving. Claude Sonnet 5 is Anthropic's most agentic Sonnet model to date, delivering near-Opus-level intelligence with Sonnet's cost efficiency and speed. Designed ",
-    "pubDate": "2026-07-02T22:21:51.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Meet Brain: The AI system behind Azure reliability",
@@ -609,60 +329,11 @@
     "source": "Azure Blog"
   },
   {
-    "title": "[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer  ",
-    "link": "https://azure.microsoft.com/updates?id=566209",
-    "description": "We’re excited to introduce the newly renamed Az.PostgreSQLFlexibleServer PowerShell module, delivering a more streamlined experience for you to manage Azure Database for PostgreSQL with PowerShell. Building on the capabilities of the previous Az.PostgreSq",
-    "pubDate": "2026-07-01T17:19:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen",
-    "link": "https://azure.microsoft.com/updates?id=563331",
-    "description": "Document-based PII detection in Azure AI Language now ships an initial playground experience in the Microsoft Foundry NextGen portal. The playground loads a prepared sample document, runs it through the document-based PII feature, and shows the redacted o",
-    "pubDate": "2026-07-01T17:04:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language",
-    "link": "https://azure.microsoft.com/updates?id=564382",
-    "description": "Azure AI Language now offers a refreshed Document PII playground in general availability, giving customers a faster way to evaluate personally identifiable information detection on documents. The playground ships with curated sample inputs and outputs, so",
-    "pubDate": "2026-07-01T17:01:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Instant Access via application consistent restore points",
-    "link": "https://azure.microsoft.com/updates?id=565758",
-    "description": "Azure introduces Instant Access for VM Restore Points, enabling you to restore disks immediately after a restore point is created—without waiting for background data replication.Key benefits:Faster recovery (lower RTO): Restore disks instantly—no wait for",
-    "pubDate": "2026-07-01T16:59:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure Storage Mover now supports migration from Google Cloud Storage (GCS)",
-    "link": "https://azure.microsoft.com/updates?id=566948",
-    "description": "Azure Storage Mover now supports cloud-to-cloud migration of data from Google Cloud Storage (GCS) to Azure Blob Storage, helping organizations simplify multi-cloud consolidation onto Azure.Using the S3-compatible interface, customers can migrate data from",
-    "pubDate": "2026-07-01T16:56:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "Proving application resilience on Azure with Chaos Studio",
     "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
     "description": "<p>Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/\">Proving application resilience on Azure with Chaos Studio</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-01T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Client-side data integrity protections in Azure Blob Storage",
-    "link": "https://azure.microsoft.com/updates?id=566895",
-    "description": "Azure Blob Storage has long supported data integrity validation, starting with MD5 as part of the original HTTP standards and adding CRC64-NVME support in 2019. Today, CRC64-NVME is now integrated into the latest Azure Blob SDKs for .NET, C++, and JavaScr",
-    "pubDate": "2026-06-30T20:45:26.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Toolboxes in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=563481",
-    "description": "Microsoft Foundry brings Toolboxes to GA, providing a unified endpoint to invoke the most-used tools in prompt agents and callable outside of prompt agents. Today every agent team hand-assembles its own tool list to solve the same tasks, with no shared ar",
-    "pubDate": "2026-06-30T19:00:51.000Z",
-    "source": "Azure Updates"
   },
   {
     "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
@@ -679,24 +350,73 @@
     "source": "Azure Blog"
   },
   {
-    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-    "description": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:15:00.000Z",
-    "source": "Azure Blog"
+    "title": "Copilot in Excel: Built for the era of Frontier Finance",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+    "description": "<p>Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/\">Copilot in Excel: Built for the era of Frontier Finance</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-25T13:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
-    "title": "Accelerate modern Linux workloads with Azure Files",
-    "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-    "description": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-06-29T15:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Copilot Cowork is now generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
+    "description": "<p>Cowork is the fastest growing feature in the history of our Frontier program, and Cowork has among the highest user satisfaction of any Copilot or agent experience we have shipped.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/\">Copilot Cowork is now generally available</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-16T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
-    "title": "Retirement: Migrate from Azure Blueprints by January 31, 2027",
-    "link": "https://azure.microsoft.com/updates?id=564806",
-    "description": "In September 2023, we announced Azure Blueprints would retire on July 11, 2026. We're extending that timeline to January 31, 2027, with phased retirement beginning July 31, 2026.What's changing?July 31, 2026, you won't be able to create new blueprint defi",
-    "pubDate": "2026-06-25T16:00:03.000Z",
-    "source": "Azure Updates"
+    "title": "Introducing Microsoft Scout: Your always-on personal agent",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
+    "description": "<p>Microsoft Scout is integrated across the Microsoft 365 apps you use every day, keeping it grounded in your flow of work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/\">Introducing Microsoft Scout: Your always-on personal agent</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T18:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Announcing the new Work IQ APIs",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/",
+    "description": "<p>Work IQ is a new intelligence layer for Microsoft 365, designed to understand how work gets done across your organizations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/\">Announcing the new Work IQ APIs</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-06-02T17:00:15.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
+    "description": "<p>On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/\">Introducing Microsoft 365 Business with Copilot: The new standard for small business</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-28T19:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Introducing a new design for Microsoft 365 Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
+    "description": "<p>We’ve redesigned the Copilot app and how Copilot shows up across Microsoft 365 apps to better move with it: cleaner, faster, and in the flow of your work.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/\">Introducing a new design for Microsoft 365 Copilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-28T15:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+    "description": "<p>Learn what’s new in Copilot Studio, May 2026: computer-using agents are now generally available, plus redesigned workflows and Work IQ extensibility.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/\">New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-26T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "New and improved: Agent governance, intelligent workflows, and connected app experiences",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/",
+    "description": "<p>See what's new in Copilot Studio, April 2026: updates to workflows, increased control over agent operations, and an expanded agent usage estimator.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-agent-governance-intelligent-workflows-and-connected-app-experiences/\">New and improved: Agent governance, intelligent workflows, and connected app experiences</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-11T17:25:12.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
+    "description": "<p>Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/\">Copilot Cowork: From conversation to action across skills, integrations, and devices</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
+    "title": "Microsoft 365 Copilot, human agency, and the opportunity for every organization",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/",
+    "description": "<p>As AI and agents take on more of the execution, people have more agency than ever to unlock their ambition, direct what gets done, and own the outcomes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/microsoft-365-copilot-human-agency-and-the-opportunity-for-every-organization/\">Microsoft 365 Copilot, human agency, and the opportunity for every organization</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "Microsoft 365"
   }
 ]
