@@ -1093,10 +1093,10 @@ body.light-mode .github-link {
     }
 
     .update-summary-cell {
-        width: 80vw;
-        max-width: 80vw;
-        overflow-wrap: normal;
-        word-break: normal;
+        width: 100%;
+        max-width: 100%;
+        overflow-wrap: anywhere;
+        word-break: break-word;
         hyphens: auto;
         line-height: 1.45;
     }
