@@ -1005,3 +1005,110 @@ body.light-mode .github-link {
         font-size: 0.86rem;
     }
 }
+
+/* ========================================= */
+/* RESPONSIVE TABLE FOR MOBILE               */
+/* ========================================= */
+
+@media (max-width: 768px) {
+    .updates-table {
+        display: block;
+        overflow-x: hidden;
+        white-space: normal;
+    }
+
+    .updates-table thead {
+        display: none;
+    }
+
+    .updates-table tbody,
+    .updates-table tr {
+        display: block;
+    }
+
+    .updates-table tr {
+        margin-bottom: 1rem;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+        border-radius: 0.5rem;
+        padding: 0.75rem;
+        background: rgba(37, 22, 80, 0.5);
+    }
+
+    .updates-table tr:hover {
+        background: rgba(124, 58, 237, 0.2);
+    }
+
+    .updates-table td {
+        display: block;
+        position: relative;
+        text-align: left;
+        padding: 0.5rem 0.75rem;
+        border-bottom: 1px solid rgba(139, 92, 246, 0.1);
+        white-space: normal;
+        width: auto;
+    }
+
+    .updates-table td:last-child {
+        border-bottom: 0;
+    }
+
+    .updates-table td::before {
+        content: attr(data-label);
+        display: block;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.75rem;
+        color: #a8a6c1;
+        margin-bottom: 0.35rem;
+        line-height: 1.35;
+    }
+
+    .update-date-cell,
+    .update-source-cell,
+    .update-title-cell,
+    .update-summary-cell {
+        width: auto;
+        white-space: normal;
+    }
+
+    .update-date-cell > *,
+    .update-source-cell > *,
+    .update-title-cell > *,
+    .update-summary-cell > * {
+        min-width: 0;
+    }
+
+    .update-title-cell .update-link,
+    .update-summary-cell,
+    .update-source-cell .source-badge {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+    }
+
+    .update-title-cell .update-link {
+        display: block;
+        text-align: left;
+        white-space: normal;
+        width: 100%;
+        max-width: 100%;
+        line-height: 1.45;
+    }
+
+    .update-source-cell .source-badge {
+        margin-bottom: 0;
+        display: inline-block;
+    }
+
+    body.light-mode .updates-table tr {
+        background: rgba(248, 250, 252, 0.8);
+        border-color: #e2e8f0;
+    }
+
+    body.light-mode .updates-table tr:hover {
+        background: #f1f5f9;
+    }
+
+    body.light-mode .updates-table td::before {
+        color: #64748b;
+    }
+}
