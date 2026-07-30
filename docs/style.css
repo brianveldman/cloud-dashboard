@@ -1017,6 +1017,10 @@ body.light-mode .github-link {
         white-space: normal;
     }
 
+    .updates-table-wrap {
+        overflow-x: hidden;
+    }
+
     .updates-table thead {
         display: none;
     }
@@ -1032,6 +1036,7 @@ body.light-mode .github-link {
         border-radius: 0.5rem;
         padding: 0.75rem;
         background: rgba(37, 22, 80, 0.5);
+        max-width: 100%;
     }
 
     .updates-table tr:hover {
@@ -1046,6 +1051,7 @@ body.light-mode .github-link {
         border-bottom: 1px solid rgba(139, 92, 246, 0.1);
         white-space: normal;
         width: auto;
+        max-width: 100%;
     }
 
     .updates-table td:last-child {
@@ -1069,6 +1075,7 @@ body.light-mode .github-link {
     .update-summary-cell {
         width: auto;
         white-space: normal;
+        max-width: 100%;
     }
 
     .update-date-cell > *,
@@ -1079,21 +1086,34 @@ body.light-mode .github-link {
     }
 
     .update-title-cell .update-link,
-    .update-summary-cell,
     .update-source-cell .source-badge {
         overflow-wrap: anywhere;
-        word-break: break-word;
+        word-break: normal;
+        hyphens: auto;
+    }
+
+    .update-summary-cell {
+        width: 80vw;
+        max-width: 80vw;
+        overflow-wrap: normal;
+        word-break: normal;
+        hyphens: auto;
+        line-height: 1.45;
     }
 
     .update-title-cell .update-link {
         display: block;
         text-align: left;
         white-space: normal;
-        width: 100%;
-        max-width: 100%;
+        width: 85vw;
+        max-width: 85vw;
         line-height: 1.45;
     }
 
+    .update-summary-cell {
+        max-width: 20ch;
+        width: 90vw;
+        max-width: 90vw;
     .update-source-cell .source-badge {
         margin-bottom: 0;
         display: inline-block;
