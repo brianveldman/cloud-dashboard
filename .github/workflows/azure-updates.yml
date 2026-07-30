@@ -18,19 +18,19 @@ concurrency:
 jobs:
   collect-updates:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
-        
+
     - name: Install dependencies
       run: npm install axios xml2js moment
-        
+
     - name: Create data fetcher
       run: |
         cat > fetch.js << 'EOF'
@@ -40,7 +40,7 @@ jobs:
 
         async function main() {
           console.log('Fetching Azure Updates...');
-          
+
           const sources = [
             { name: 'Azure Updates', url: 'https://www.microsoft.com/releasecommunications/api/v2/azure/rss', type: 'rss' },
             { name: 'Azure Architecture', url: 'https://learn.microsoft.com/en-us/azure/architecture/feed.atom', type: 'atom' },
@@ -50,26 +50,33 @@ jobs:
             { name: 'Security', url: 'https://www.microsoft.com/en-us/security/blog/feed/', type: 'rss' }
           ];
 
+          // Max aantal items dat per bron behouden blijft, zodat feeds met
+          // weinig of minder recente posts (zoals Microsoft 365) niet volledig
+          // wegvallen tegen high-volume feeds.
+          const PER_SOURCE = 15;
+          // Totale cap op de gecombineerde lijst.
+          const MAX_TOTAL = 120;
+
           let allUpdates = [];
-          
+
           for (const source of sources) {
             try {
               console.log(`Fetching from ${source.name}...`);
               const response = await axios.get(source.url, { timeout: 30000, headers: { 'User-Agent': 'Azure Updates Collector' } });
-              
+
               const parser = new xml2js.Parser();
               const result = await parser.parseStringPromise(response.data);
-              
+
               let items = [];
               if (source.type === 'rss' && result.rss && result.rss.channel && result.rss.channel[0].item) {
                 items = result.rss.channel[0].item;
               } else if (source.type === 'atom' && result.feed && result.feed.entry) {
                 items = result.feed.entry;
               }
-              
+
               const updates = items.map(item => {
                 let title, link, description, pubDate;
-                
+
                 if (source.type === 'rss') {
                   title = item.title && item.title[0] ? item.title[0] : 'No title';
                   link = item.link && item.link[0] ? item.link[0] : '';
@@ -81,32 +88,37 @@ jobs:
                   description = item.summary && item.summary[0] && item.summary[0]._ ? item.summary[0]._ : (item.summary && item.summary[0] ? item.summary[0] : '');
                   pubDate = item.updated && item.updated[0] ? new Date(item.updated[0]) : new Date();
                 }
-                
+
                 return { title, link, description, pubDate, source: source.name };
               });
-              
-              allUpdates = allUpdates.concat(updates);
-              console.log(`Found ${updates.length} updates from ${source.name}`);
-              
+
+              // Per bron sorteren op datum en beperken tot PER_SOURCE items.
+              updates.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+              const limited = updates.slice(0, PER_SOURCE);
+
+              allUpdates = allUpdates.concat(limited);
+              console.log(`Found ${updates.length} updates from ${source.name}, keeping ${limited.length}`);
+
             } catch (error) {
               console.error(`Error fetching from ${source.name}:`, error.message);
             }
           }
-          
+
+          // Gecombineerde lijst sorteren op datum en cappen.
           allUpdates.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-          allUpdates = allUpdates.slice(0, 100);
-          
+          allUpdates = allUpdates.slice(0, MAX_TOTAL);
+
           console.log(`Total updates: ${allUpdates.length}`);
-          
+
           if (!fs.existsSync('docs')) fs.mkdirSync('docs');
           fs.writeFileSync('docs/updates.json', JSON.stringify(allUpdates, null, 2));
-          
+
           console.log('Data saved successfully!');
         }
 
         main().catch(console.error);
         EOF
-    
+
     - name: Create HTML builder
       run: |
         cat > build.js << 'BUILDEOF'
@@ -116,7 +128,7 @@ jobs:
         // Read the updates and template
         const updates = JSON.parse(fs.readFileSync('docs/updates.json', 'utf8'));
         let template = fs.readFileSync('docs/template.html', 'utf8');
-        
+
         const lastUpdated = moment().format('YYYY-MM-DD HH:mm:ss UTC');
 
         // Replace placeholders
@@ -127,21 +139,22 @@ jobs:
         const updatesHTML = updates.map(update => {
           const badgeClass = update.source.toLowerCase().replace(/\s+/g, '-');
           const formattedDate = moment(update.pubDate).format('MMM DD, YYYY');
-          const plainDesc = String(update.description || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
-          const shortDesc = plainDesc.substring(0, 140) + (plainDesc.length > 140 ? '...' : '');
-          
-          return '<tr class="update-row" data-source="' + update.source + '">' +
-                 '<td class="update-date-cell">' +
+          const shortDesc = update.description.substring(0, 200) + (update.description.length > 200 ? '...' : '');
+
+          return '<div class="update-card mb-3" data-source="' + update.source + '">' +
+                 '<div class="card-body">' +
+                 '<div class="row">' +
+                 '<div class="col-md-9">' +
+                 '<h5><a href="' + update.link + '" target="_blank" class="text-decoration-none">' + update.title + '</a></h5>' +
+                 '<p class="text-muted">' + shortDesc + '</p>' +
+                 '</div>' +
+                 '<div class="col-md-3 text-md-end">' +
+                 '<span class="source-badge ' + badgeClass + ' mb-2">' + update.source + '</span><br>' +
                  '<small class="date-text"><i class="far fa-calendar"></i> ' + formattedDate + '</small>' +
-                 '</td>' +
-                 '<td class="update-source-cell">' +
-                 '<span class="source-badge ' + badgeClass + '">' + update.source + '</span>' +
-                 '</td>' +
-                 '<td class="update-title-cell">' +
-                 '<a href="' + update.link + '" target="_blank" class="update-link update-title">' + update.title + '</a>' +
-                 '</td>' +
-                 '<td class="update-summary-cell update-description">' + shortDesc + '</td>' +
-                 '</tr>';
+                 '</div>' +
+                 '</div>' +
+                 '</div>' +
+                 '</div>';
         }).join('');
 
         // Replace updates placeholder
@@ -151,12 +164,12 @@ jobs:
         fs.writeFileSync('docs/index.html', template);
         console.log('HTML generated from template successfully!');
         BUILDEOF
-        
+
     - name: Run build process
       run: |
         node fetch.js
         node build.js
-        
+
     - name: Commit and push
       run: |
         git config --local user.email "${{ github.actor }}@users.noreply.github.com"
@@ -168,19 +181,19 @@ jobs:
   deploy:
     needs: collect-updates
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      
+
     - name: Setup Pages
       uses: actions/configure-pages@v4
-      
+
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
         path: './docs'
-        
+
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
