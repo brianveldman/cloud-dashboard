@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure SQL updates for late-July ",
+    "link": "https://azure.microsoft.com/updates?id=568139",
+    "description": "In late-July 2026, the following update and enhancement was made to Azure SQL: Regex-based dynamic data masking (DDM) extends the built-in DDM feature with pattern‑based masking to hide sensitive data like emails, phone numbers, and identifiers—centrally ",
+    "pubDate": "2026-07-31T18:16:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central ",
     "link": "https://azure.microsoft.com/updates?id=568334",
     "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the India South Central Azure region.   Learn more.  ",
@@ -691,12 +698,5 @@
     "description": "Azure Storage Mover now supports cloud-to-cloud migration of data from Google Cloud Storage (GCS) to Azure Blob Storage, helping organizations simplify multi-cloud consolidation onto Azure.Using the S3-compatible interface, customers can migrate data from",
     "pubDate": "2026-07-01T16:56:50.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Proving application resilience on Azure with Chaos Studio",
-    "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-    "description": "<p>Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/\">Proving application resilience on Azure with Chaos Studio</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-01T16:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
