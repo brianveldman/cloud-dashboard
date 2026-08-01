@@ -38,6 +38,52 @@ jobs:
         const xml2js = require('xml2js');
         const fs = require('fs');
 
+        function parsePartnerCenterAnnouncements(markdown, source) {
+          const lines = markdown.split('\n');
+          const updates = [];
+          let currentYear = new Date().getFullYear();
+          const baseUrl = 'https://learn.microsoft.com/en-us/partner-center/announcements/';
+
+          for (const rawLine of lines) {
+            const line = rawLine.trim();
+            if (!line.startsWith('|')) continue;
+
+            const columns = line.split('|').map(col => col.trim()).filter(Boolean);
+            if (columns.length < 3) continue;
+            if (columns[0] === '---' || columns[1] === '---' || columns[2] === '---') continue;
+
+            const sectionMatch = columns[1].match(/\*\*([A-Za-z]+)\s+(\d{4}) announcements\*\*/i);
+            if (sectionMatch) {
+              currentYear = Number(sectionMatch[2]);
+              continue;
+            }
+
+            const linkMatch = columns[1].match(/\[([^\]]+)\]\(([^)]+)\)/);
+            if (!linkMatch) continue;
+
+            const title = linkMatch[1].trim();
+            const rawLink = linkMatch[2].trim();
+            const announcedText = columns[2].replace(/\*\*/g, '').trim();
+            const dateMatch = announcedText.match(/([A-Za-z]+)\s+(\d{1,2})/);
+            const pubDate = (() => {
+              if (!dateMatch) return new Date();
+              const monthIndex = new Date(`${dateMatch[1]} 1, ${currentYear}`).getMonth();
+              if (Number.isNaN(monthIndex)) return new Date();
+              return new Date(Date.UTC(currentYear, monthIndex, Number(dateMatch[2]), 12, 0, 0));
+            })();
+
+            updates.push({
+              title,
+              link: rawLink.startsWith('http') ? rawLink : new URL(rawLink, baseUrl).href,
+              description: `Workspace: ${columns[0].replace(/\*\*/g, '').trim()} • Announced: ${announcedText}`,
+              pubDate,
+              source: source.name
+            });
+          }
+
+          return updates;
+        }
+
         async function main() {
           console.log('Fetching Azure Updates...');
           
@@ -47,7 +93,8 @@ jobs:
             { name: 'Azure Status', url: 'https://azure.status.microsoft/status/feed/', type: 'rss' },
             { name: 'Azure Blog', url: 'https://azure.microsoft.com/en-us/blog/feed/', type: 'rss' },
             { name: 'Microsoft 365', url: 'https://www.microsoft.com/en-us/microsoft-365/blog/feed/', type: 'rss' },
-            { name: 'Security', url: 'https://www.microsoft.com/en-us/security/blog/feed/', type: 'rss' }
+            { name: 'Security', url: 'https://www.microsoft.com/en-us/security/blog/feed/', type: 'rss' },
+            { name: 'Partner Center Announcements', url: 'https://learn.microsoft.com/en-us/partner-center/announcements/?accept=text/markdown', type: 'markdown-table' }
           ];
 
           let allUpdates = [];
@@ -56,34 +103,39 @@ jobs:
             try {
               console.log(`Fetching from ${source.name}...`);
               const response = await axios.get(source.url, { timeout: 30000, headers: { 'User-Agent': 'Azure Updates Collector' } });
-              
-              const parser = new xml2js.Parser();
-              const result = await parser.parseStringPromise(response.data);
-              
-              let items = [];
-              if (source.type === 'rss' && result.rss && result.rss.channel && result.rss.channel[0].item) {
-                items = result.rss.channel[0].item;
-              } else if (source.type === 'atom' && result.feed && result.feed.entry) {
-                items = result.feed.entry;
-              }
-              
-              const updates = items.map(item => {
-                let title, link, description, pubDate;
-                
-                if (source.type === 'rss') {
-                  title = item.title && item.title[0] ? item.title[0] : 'No title';
-                  link = item.link && item.link[0] ? item.link[0] : '';
-                  description = item.description && item.description[0] ? item.description[0] : '';
-                  pubDate = item.pubDate && item.pubDate[0] ? new Date(item.pubDate[0]) : new Date();
-                } else {
-                  title = item.title && item.title[0] && item.title[0]._ ? item.title[0]._ : (item.title && item.title[0] ? item.title[0] : 'No title');
-                  link = item.link && item.link[0] && item.link[0].$ && item.link[0].$.href ? item.link[0].$.href : '';
-                  description = item.summary && item.summary[0] && item.summary[0]._ ? item.summary[0]._ : (item.summary && item.summary[0] ? item.summary[0] : '');
-                  pubDate = item.updated && item.updated[0] ? new Date(item.updated[0]) : new Date();
+              let updates = [];
+
+              if (source.type === 'markdown-table') {
+                updates = parsePartnerCenterAnnouncements(response.data, source);
+              } else {
+                const parser = new xml2js.Parser();
+                const result = await parser.parseStringPromise(response.data);
+                let items = [];
+
+                if (source.type === 'rss' && result.rss && result.rss.channel && result.rss.channel[0].item) {
+                  items = result.rss.channel[0].item;
+                } else if (source.type === 'atom' && result.feed && result.feed.entry) {
+                  items = result.feed.entry;
                 }
-                
-                return { title, link, description, pubDate, source: source.name };
-              });
+
+                updates = items.map(item => {
+                  let title, link, description, pubDate;
+
+                  if (source.type === 'rss') {
+                    title = item.title && item.title[0] ? item.title[0] : 'No title';
+                    link = item.link && item.link[0] ? item.link[0] : '';
+                    description = item.description && item.description[0] ? item.description[0] : '';
+                    pubDate = item.pubDate && item.pubDate[0] ? new Date(item.pubDate[0]) : new Date();
+                  } else {
+                    title = item.title && item.title[0] && item.title[0]._ ? item.title[0]._ : (item.title && item.title[0] ? item.title[0] : 'No title');
+                    link = item.link && item.link[0] && item.link[0].$ && item.link[0].$.href ? item.link[0].$.href : '';
+                    description = item.summary && item.summary[0] && item.summary[0]._ ? item.summary[0]._ : (item.summary && item.summary[0] ? item.summary[0] : '');
+                    pubDate = item.updated && item.updated[0] ? new Date(item.updated[0]) : new Date();
+                  }
+
+                  return { title, link, description, pubDate, source: source.name };
+                });
+              }
               
               allUpdates = allUpdates.concat(updates);
               console.log(`Found ${updates.length} updates from ${source.name}`);
