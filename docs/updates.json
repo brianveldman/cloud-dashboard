@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Single-click purchase for public SaaS offers",
+    "link": "https://azure.microsoft.com/updates?id=568591",
+    "description": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, resource group, contact details, and terms information on a single page for completing the purchase. This exp",
+    "pubDate": "2026-07-31T22:32:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+    "description": "<p>Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/\">CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-31T21:01:37.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[In preview] Public Preview: Route-Maps for Azure Route Server",
+    "link": "https://azure.microsoft.com/updates?id=568631",
+    "description": "Route maps for Azure Route Server are now available in\r\npublic preview, providing fine-grained control over inbound and outbound routing\r\nacross hybrid connections. Customers can manage routes advertised to and from\r\nAzure Route Server BGP peerings with Netw",
+    "pubDate": "2026-07-31T20:48:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure SQL updates for late-July ",
     "link": "https://azure.microsoft.com/updates?id=568139",
     "description": "In late-July 2026, the following update and enhancement was made to Azure SQL: Regex-based dynamic data masking (DDM) extends the built-in DDM feature with pattern‑based masking to hide sensitive data like emails, phone numbers, and identifiers—centrally ",
@@ -292,13 +313,6 @@
     "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
     "pubDate": "2026-07-16T14:56:17.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
-    "description": "<p>Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/\">Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-16T01:36:21.000Z",
-    "source": "Security"
   },
   {
     "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=564382",
     "description": "Azure AI Language now offers a refreshed Document PII playground in general availability, giving customers a faster way to evaluate personally identifiable information detection on documents. The playground ships with curated sample inputs and outputs, so",
     "pubDate": "2026-07-01T17:01:07.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Instant Access via application consistent restore points",
-    "link": "https://azure.microsoft.com/updates?id=565758",
-    "description": "Azure introduces Instant Access for VM Restore Points, enabling you to restore disks immediately after a restore point is created—without waiting for background data replication.Key benefits:Faster recovery (lower RTO): Restore disks instantly—no wait for",
-    "pubDate": "2026-07-01T16:59:39.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Azure Storage Mover now supports migration from Google Cloud Storage (GCS)",
-    "link": "https://azure.microsoft.com/updates?id=566948",
-    "description": "Azure Storage Mover now supports cloud-to-cloud migration of data from Google Cloud Storage (GCS) to Azure Blob Storage, helping organizations simplify multi-cloud consolidation onto Azure.Using the S3-compatible interface, customers can migrate data from",
-    "pubDate": "2026-07-01T16:56:50.000Z",
     "source": "Azure Updates"
   }
 ]
