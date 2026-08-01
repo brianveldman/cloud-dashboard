@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Expanded SMB track eligibility",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#38",
+    "description": "Workspace: General • Announced: July 31",
+    "pubDate": "2026-07-31T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central ",
     "link": "https://azure.microsoft.com/updates?id=568334",
     "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the India South Central Azure region.   Learn more.  ",
@@ -77,6 +84,20 @@
     "source": "Microsoft 365"
   },
   {
+    "title": "Azure reservation exchange policy update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#37",
+    "description": "Workspace: General • Announced: July 30",
+    "pubDate": "2026-07-30T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Specialization skilling updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#36",
+    "description": "Workspace: General • Announced: July 30",
+    "pubDate": "2026-07-30T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
     "link": "https://azure.microsoft.com/updates?id=568322",
     "description": "This capability shares telemetry from Azure Monitor Log Analytics workspaces into Microsoft Fabric, making observability data available in OneLake as Delta Parquet, the open format, without duplication and with near real-time availability. All Azure Monit",
@@ -96,6 +117,20 @@
     "description": "<p>Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/\">​​Better security starts with better questions</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-29T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "August price list won't include a September preview for NCE license-based services",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#35",
+    "description": "Workspace: Pricing • Announced: July 29",
+    "pubDate": "2026-07-29T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Important updates to partner benefits",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#34",
+    "description": "Workspace: General • Announced: July 29",
+    "pubDate": "2026-07-29T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[In preview] Public Preview: Azure Enclave",
@@ -147,6 +182,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Integrate with Partner Center agent",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#33",
+    "description": "Workspace: General • Announced: July 28",
+    "pubDate": "2026-07-28T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Coming soon: Updated Partner Center vetting experience for the Microsoft AI Cloud Partner Program and Cloud Solution Providers",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#32",
+    "description": "Workspace: General • Announced: July 28",
+    "pubDate": "2026-07-28T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Claude Opus 5 on Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=568316",
     "description": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic's latest model for advanced reasoning, coding, agentic workflows, and professional knowledge work. Claude Opus 5 is designed for complex tasks requi",
@@ -189,11 +238,32 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Microsoft 365 Copilot nonprofit offer: partner margin update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#31",
+    "description": "Workspace: General • Announced: July 27",
+    "pubDate": "2026-07-27T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "DevSecOps for infrastructure as code (IaC)",
     "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
     "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
     "pubDate": "2026-07-24T14:48:12.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Windows 365 GPU Frontline Select 256 GB SKU available on Aug 1",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#30",
+    "description": "Workspace: General • Announced: July 24",
+    "pubDate": "2026-07-24T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Convert more trials into revenue on Microsoft Marketplace",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#29",
+    "description": "Workspace: General • Announced: July 24",
+    "pubDate": "2026-07-24T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
@@ -215,6 +285,20 @@
     "description": "<p>In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/\">Email threat landscape: Q2 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-23T15:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "MDTI reaches end of life August 1, 2026",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#28",
+    "description": "Workspace: General • Announced: July 23",
+    "pubDate": "2026-07-23T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "WSA validation updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#27",
+    "description": "Workspace: General • Announced: July 23",
+    "pubDate": "2026-07-23T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[In preview] Public Preview: Standard service endpoint ",
@@ -245,6 +329,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "FY27 Cloud & AI GTM launch",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#26",
+    "description": "Workspace: General • Announced: July 21",
+    "pubDate": "2026-07-21T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "AKS Triage—Node and Pod Health",
     "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-triage-node-health",
     "description": "Learn about the triage step, in which you examine the health of Azure Kubernetes Service (AKS) worker nodes and pods and resolve problems.",
@@ -264,6 +355,13 @@
     "description": "IPv6 support for Azure VPN Gateway enables customers to run IPv6 inner traffic through VPN tunnels in a dual‑stack configuration. IPv6 is supported on all production SKU gateways that use standard public IPs.IPv6 inner traffic can be configured for both n",
     "pubDate": "2026-07-20T14:59:26.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "\"Request private offer\" now available",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#25",
+    "description": "Workspace: General • Announced: July 20",
+    "pubDate": "2026-07-20T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
@@ -320,6 +418,13 @@
     "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
     "pubDate": "2026-07-16T14:56:17.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Multiparty private offers expand to more markets",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#24",
+    "description": "Workspace: General • Announced: July 16",
+    "pubDate": "2026-07-16T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
@@ -399,6 +504,27 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Monthly Microsoft AI Cloud Partner Program update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#23",
+    "description": "Workspace: Membership • Announced: July 15",
+    "pubDate": "2026-07-15T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Meet the MCAPS Start for Partners speakers",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#22",
+    "description": "Workspace: General • Announced: July 15",
+    "pubDate": "2026-07-15T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "2026 France and French territories Tax ID update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#21",
+    "description": "Workspace: Account settings • Announced: July 15",
+    "pubDate": "2026-07-15T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Front Door edge actions",
     "link": "https://azure.microsoft.com/updates?id=567402",
     "description": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user",
@@ -411,6 +537,20 @@
     "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
     "pubDate": "2026-07-14T12:48:02.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Update to benefits renewal window coming",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#20",
+    "description": "Workspace: General • Announced: July 14",
+    "pubDate": "2026-07-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Introducing Copilot in 30",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#19",
+    "description": "Workspace: General • Announced: July 14",
+    "pubDate": "2026-07-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
@@ -469,6 +609,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Azure IP co-sell updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#18",
+    "description": "Workspace: General • Announced: July 10",
+    "pubDate": "2026-07-10T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI",
     "link": "https://azure.microsoft.com/updates?id=567225",
     "description": "You can now create and run Azure Chaos Studio resilience Scenarios directly from the Azure CLI with the new az chaos extension — no more hand-assembling REST calls and JSON files. Get started in one step: az chaos setup stands up a workspace, wires up per",
@@ -518,6 +665,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Microsoft 365 Copilot specialization updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#17",
+    "description": "Workspace: General • Announced: July 9",
+    "pubDate": "2026-07-09T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
     "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
@@ -532,171 +686,17 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Secure Azure Functions with Event Hubs",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/security",
-    "description": "Learn how to securely develop and deploy efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
-    "pubDate": "2026-07-07T19:02:48.000Z",
-    "source": "Azure Architecture"
+    "title": "Azure promotions now available in sandbox",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#16",
+    "description": "Workspace: General • Announced: July 8",
+    "pubDate": "2026-07-08T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
-    "title": "Performance and Scale Guidance for Event Hubs with Azure Functions",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/performance-scale",
-    "description": "Learn how to plan for and deploy more efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
-    "pubDate": "2026-07-07T18:59:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a Ransomware-Resilient Backup Architecture by Using Azure Backup",
-    "link": "https://learn.microsoft.com/azure/architecture/security/ransomware-resilient-backup-architecture",
-    "description": "Design ransomware-resilient backup architectures by using immutable vaults, multiple-subscription isolation, dual-region copies, and recovery testing.",
-    "pubDate": "2026-07-07T18:49:12.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
-    "link": "https://azure.microsoft.com/updates?id=567218",
-    "description": "Azure Web Application Firewall (WAF) helps protect your web applications from common threats and attacks. In some cases, WAF may block requests that are safe and expected for your application. Existing exclusions help reduce false positives by omitting sp",
-    "pubDate": "2026-07-07T17:42:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Chaos Studio Workspaces and Scenarios",
-    "link": "https://azure.microsoft.com/updates?id=567184",
-    "description": "Azure Chaos Studio now supports Workspaces and Scenarios, a faster, application-centric way to validate how your workloads hold up during real outages.Point a Workspace at your application's scope—a subscription, resource group, or service group—and Chaos",
-    "pubDate": "2026-07-07T17:40:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Export historical data from Log Analytics workspace with Export jobs ",
-    "link": "https://azure.microsoft.com/updates?id=566591",
-    "description": "The Log Analytics Export job enables you to export historical data from a Log Analytics workspace to an Azure Storage account based on a specified query and time range. This allows you to extract only the data you need and move it to external systems for ",
-    "pubDate": "2026-07-07T17:37:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Network Security Perimeter support for Azure Event Hubs",
-    "link": "https://azure.microsoft.com/updates?id=567203",
-    "description": "Azure Event Hubs now supports Network Security Perimeter (NSP), enabling organizations to define a logical network isolation boundary for PaaS resources and control public network access through perimeter-based access rules.With Network Security Perimeter",
-    "pubDate": "2026-07-07T17:35:19.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Confidential Computing support for Azure Event Hubs Dedicated",
-    "link": "https://azure.microsoft.com/updates?id=567212",
-    "description": "Azure Event Hubs Dedicated now supports Confidential Computing, enabling organizations to protect streaming data while it is being processed in memory. By leveraging hardware-based trusted execution environments (TEEs), customers can help safeguard sensit",
-    "pubDate": "2026-07-07T17:33:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Chile Central",
-    "link": "https://azure.microsoft.com/updates?id=566732",
-    "description": "Azure Red Hat OpenShift (ARO) is now generally available in Azure\r\nChile Central, expanding regional availability for OpenShift deployments\r\nacross South America. With the launch of Microsoft’s first Azure region in\r\nChile, customers can now run fully manage",
-    "pubDate": "2026-07-07T17:31:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Image Classification on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/idea/intelligent-apps-image-processing",
-    "description": "Learn how to build image classification into your applications by using Azure services such as Azure Content Understanding and Azure Functions.",
-    "pubDate": "2026-07-07T16:31:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "External key management for Azure Managed HSM is now in public preview",
-    "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
-    "description": "<p>Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/\">External key management for Azure Managed HSM is now in public preview</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-07T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Resilient Design Guidance for Event Hubs and Functions",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/resilient-design",
-    "description": "Learn how to develop resilient and scalable code that runs on Azure Functions and responds to Azure Event Hubs events.",
-    "pubDate": "2026-07-07T15:37:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
-    "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
-    "pubDate": "2026-07-07T13:28:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build the Second Layer of Defense by Using Microsoft Defender XDR",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/microsoft-defender-xdr-build-second-layer-defense",
-    "description": "Enhance security in your IT environment by implementing Microsoft Defender XDR across applications and infrastructure to detect and respond to ransomware.",
-    "pubDate": "2026-07-07T13:16:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Event Hubs",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/event-hubs",
-    "description": "Learn about Azure Event Hubs features and isolation models that you can use to implement an event-driven architecture for a multitenant system.",
-    "pubDate": "2026-07-07T13:03:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/storage",
-    "description": "This article describes the features of Azure Storage that benefit multitenant systems. It includes links to guidance and examples.",
-    "pubDate": "2026-07-07T13:00:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Guidance for Using Azure Database for PostgreSQL in a Multitenant Solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/postgresql",
-    "description": "Learn about the Azure Database for PostgreSQL features that are useful when you work with multitenant systems. Explore guidance and examples.",
-    "pubDate": "2026-07-07T12:58:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP",
-    "link": "https://azure.microsoft.com/updates?id=567085",
-    "description": "Microsoft Entra ID-based access for Azure Blob Storage SFTP is now generally available in all regions. You can now use Entra ID identities including guest users via Entra External Identities to securely connect to Azure Blob Storage over SFTP, without pro",
-    "pubDate": "2026-07-06T15:54:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Support 5x churn in Azure Site Recovery",
-    "link": "https://azure.microsoft.com/updates?id=566966",
-    "description": "Azure Site Recovery now supports up to 5x churn (500 MB/s per VM). This major enhancement empowers customers to confidently run high IOPS workloads with Azure Site Recovery, ensuring robust disaster recovery for even the most demanding applications like d",
-    "pubDate": "2026-07-06T15:00:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Implement a secure hybrid network",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz",
-    "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
-    "pubDate": "2026-07-03T02:15:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=567194",
-    "description": "Azure Databricks now supports Anthropic Claude Sonnet 5 through Azure Databricks AI Model Serving. Claude Sonnet 5 is Anthropic's most agentic Sonnet model to date, delivering near-Opus-level intelligence with Sonnet's cost efficiency and speed. Designed ",
-    "pubDate": "2026-07-02T22:21:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Meet Brain: The AI system behind Azure reliability",
-    "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-    "description": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-02T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer  ",
-    "link": "https://azure.microsoft.com/updates?id=566209",
-    "description": "We’re excited to introduce the newly renamed Az.PostgreSQLFlexibleServer PowerShell module, delivering a more streamlined experience for you to manage Azure Database for PostgreSQL with PowerShell. Building on the capabilities of the previous Az.PostgreSq",
-    "pubDate": "2026-07-01T17:19:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen",
-    "link": "https://azure.microsoft.com/updates?id=563331",
-    "description": "Document-based PII detection in Azure AI Language now ships an initial playground experience in the Microsoft Foundry NextGen portal. The playground loads a prepared sample document, runs it through the document-based PII feature, and shows the redacted o",
-    "pubDate": "2026-07-01T17:04:40.000Z",
-    "source": "Azure Updates"
+    "title": "Cloud Accelerate Factory expands",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#15",
+    "description": "Workspace: General • Announced: July 8",
+    "pubDate": "2026-07-08T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   }
 ]
