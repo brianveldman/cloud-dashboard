@@ -1022,7 +1022,12 @@ body.light-mode .github-link {
     }
 
     .updates-table thead {
-        display: none;
+        position: absolute;
+        left: -9999px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
     }
 
     .updates-table tbody,
