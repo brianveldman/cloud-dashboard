@@ -5,7 +5,7 @@ Website is available via: [https://cloud-dashboard.com](https://cloud-dashboard.
 ## Features
 
 - 🔄 **Automatic updates**: Daily every 3 hours via GitHub Actions
-- 📰 **Multiple sources**: Azure Updates, Azure Architecture Center, Azure Status
+- 📰 **Multiple sources**: Azure Updates, Azure Architecture Center, Azure Status, Partner Center Announcements
 - 🔍 **Search functionality**: Filter updates by text and source
 - 📱 **Responsive design**: Works on desktop and mobile
 - 📊 **JSON API**: Updates available as JSON
@@ -25,3 +25,6 @@ The dashboard collects updates from:
      
 4. **Azure Status** - Service status and incident updates - (Currently working on)
    - URL: `https://azure.status.microsoft/status/feed/`
+
+5. **Partner Center announcements** - Program and Partner Center changes - (Available)
+   - URL: `https://learn.microsoft.com/en-us/partner-center/announcements/`
