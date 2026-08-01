@@ -130,17 +130,17 @@ jobs:
           const plainDesc = String(update.description || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
           const shortDesc = plainDesc.substring(0, 140) + (plainDesc.length > 140 ? '...' : '');
           
-          return '<tr class="update-row" data-source="' + update.source + '">' +
-                 '<td class="update-date-cell">' +
+             return '<tr class="update-row" data-source="' + update.source + '">' +
+               '<td class="update-date-cell" data-label="Date">' +
                  '<small class="date-text"><i class="far fa-calendar"></i> ' + formattedDate + '</small>' +
                  '</td>' +
-                 '<td class="update-source-cell">' +
+               '<td class="update-source-cell" data-label="Source">' +
                  '<span class="source-badge ' + badgeClass + '">' + update.source + '</span>' +
                  '</td>' +
-                 '<td class="update-title-cell">' +
+               '<td class="update-title-cell" data-label="Update">' +
                  '<a href="' + update.link + '" target="_blank" class="update-link update-title">' + update.title + '</a>' +
                  '</td>' +
-                 '<td class="update-summary-cell update-description">' + shortDesc + '</td>' +
+               '<td class="update-summary-cell update-description" data-label="Summary">' + shortDesc + '</td>' +
                  '</tr>';
         }).join('');
 

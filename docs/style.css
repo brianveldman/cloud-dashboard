@@ -1,7 +1,9 @@
 /* Azure Updates Dashboard Styles - Dark Purple Theme with Light Mode Toggle */
 
 /* Font Awesome Icons - Using Unicode characters */
-.fas::before, .far::before, .fab::before {
+.fas::before,
+.far::before,
+.fab::before {
     display: inline-block;
     font-style: normal;
     font-variant: normal;
@@ -9,15 +11,41 @@
     line-height: 1;
 }
 
-.fa-microsoft::before { content: "☁️"; }
-.fa-newspaper::before { content: "🎉"; }
-.fa-rss::before { content: "✅"; }
-.fa-clock::before { content: "🕐"; }
-.fa-sync-alt::before { content: "🔄"; }
-.fa-calendar::before { content: "📅"; }
-.fa-github::before { content: "⭐️"; }
-.fa-sun::before { content: "☀️"; }
-.fa-moon::before { content: "🌙"; }
+.fa-microsoft::before {
+    content: "☁️";
+}
+
+.fa-newspaper::before {
+    content: "🎉";
+}
+
+.fa-rss::before {
+    content: "✅";
+}
+
+.fa-clock::before {
+    content: "🕐";
+}
+
+.fa-sync-alt::before {
+    content: "🔄";
+}
+
+.fa-calendar::before {
+    content: "📅";
+}
+
+.fa-github::before {
+    content: "⭐️";
+}
+
+.fa-sun::before {
+    content: "☀️";
+}
+
+.fa-moon::before {
+    content: "🌙";
+}
 
 /* Basic Reset */
 * {
@@ -122,7 +150,12 @@ body.light-mode .header {
     margin-left: -15px;
 }
 
-.col-md-3, .col-md-4, .col-md-6, .col-md-8, .col-md-9, .col-12 {
+.col-md-3,
+.col-md-4,
+.col-md-6,
+.col-md-8,
+.col-md-9,
+.col-12 {
     position: relative;
     width: 100%;
     padding-right: 15px;
@@ -131,15 +164,40 @@ body.light-mode .header {
 
 /* Responsive columns */
 @media (min-width: 768px) {
-    .col-md-3 { flex: 0 0 25%; max-width: 25%; }
-    .col-md-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
-    .col-md-6 { flex: 0 0 50%; max-width: 50%; }
-    .col-md-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
-    .col-md-9 { flex: 0 0 75%; max-width: 75%; }
-    .text-md-end { text-align: right; }
+    .col-md-3 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+
+    .col-md-4 {
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+
+    .col-md-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .col-md-8 {
+        flex: 0 0 66.666667%;
+        max-width: 66.666667%;
+    }
+
+    .col-md-9 {
+        flex: 0 0 75%;
+        max-width: 75%;
+    }
+
+    .text-md-end {
+        text-align: right;
+    }
 }
 
-.col-12 { flex: 0 0 100%; max-width: 100%; }
+.col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
 
 /* Update Cards - Dark Theme */
 .update-card {
@@ -387,7 +445,8 @@ body.light-mode .stats-card:hover {
 }
 
 /* Form Controls - Dark Theme */
-.form-control, .form-select {
+.form-control,
+.form-select {
     display: block;
     width: 100%;
     padding: 0.5rem 0.8rem;
@@ -401,7 +460,8 @@ body.light-mode .stats-card:hover {
     transition: all 0.3s ease;
 }
 
-.form-control:focus, .form-select:focus {
+.form-control:focus,
+.form-select:focus {
     color: #e8e6ff;
     background: rgba(45, 27, 105, 0.8);
     border-color: #8b5cf6;
@@ -410,14 +470,14 @@ body.light-mode .stats-card:hover {
 }
 
 /* Form Controls - Light Theme */
-body.light-mode .form-control, 
+body.light-mode .form-control,
 body.light-mode .form-select {
     color: #1e293b;
     background: rgba(255, 255, 255, 0.8);
     border: 2px solid #e2e8f0;
 }
 
-body.light-mode .form-control:focus, 
+body.light-mode .form-control:focus,
 body.light-mode .form-select:focus {
     color: #1e293b;
     background: rgba(255, 255, 255, 1);
@@ -445,16 +505,41 @@ body.light-mode .form-select {
 }
 
 /* Utility Classes */
-.mb-0 { margin-bottom: 0; }
-.mb-2 { margin-bottom: 0.5rem; }
-.mb-3 { margin-bottom: 1rem; }
-.mb-4 { margin-bottom: 1.5rem; }
-.mt-4 { margin-top: 1.5rem; }
-.mt-5 { margin-top: 3rem; }
+.mb-0 {
+    margin-bottom: 0;
+}
 
-.text-center { text-align: center; }
-.text-decoration-none { text-decoration: none; }
-.align-items-center { align-items: center; }
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.mb-3 {
+    margin-bottom: 1rem;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+}
+
+.mt-5 {
+    margin-top: 3rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.align-items-center {
+    align-items: center;
+}
 
 /* Text Colors */
 .text-muted {
@@ -508,65 +593,71 @@ body.light-mode .date-text {
     body {
         background: linear-gradient(180deg, #1a0d2e, #16213e);
     }
-    
+
     body.light-mode {
         background: linear-gradient(180deg, #f8fafc, #e2e8f0);
     }
-    
+
     .header {
         padding: 1rem 0;
     }
-    
+
     .header h1 {
         font-size: 1.75rem;
         flex-direction: column;
         align-items: flex-start;
     }
-    
+
     .azure-logo {
         height: 1.25rem;
         margin-bottom: 0.5rem;
         margin-right: 0;
     }
-    
+
     .theme-toggle {
         position: static;
         margin-top: 1rem;
         align-self: flex-start;
     }
-    
+
     .stats-card {
         margin-bottom: 0.5rem;
         padding: 1rem;
     }
-    
-    .stats-card h3, .stats-card h4 {
+
+    .stats-card h3,
+    .stats-card h4 {
         font-size: 1.5rem;
     }
-    
+
     .filter-section {
         padding: 1rem;
     }
-    
+
     .card-body {
         padding: 1rem;
     }
-    
+
     .update-card .col-md-3 {
         margin-top: 1rem;
         text-align: left;
     }
-    
+
     .row {
         margin-right: -10px;
         margin-left: -10px;
     }
-    
-    .col-md-3, .col-md-4, .col-md-6, .col-md-8, .col-md-9, .col-12 {
+
+    .col-md-3,
+    .col-md-4,
+    .col-md-6,
+    .col-md-8,
+    .col-md-9,
+    .col-12 {
         padding-right: 10px;
         padding-left: 10px;
     }
-    
+
     .search-box {
         margin-bottom: 1rem;
     }
@@ -609,11 +700,13 @@ body.light-mode ::-webkit-scrollbar-thumb:hover {
         background: white;
         color: black;
     }
-    
-    .filter-section, .stats-card, .theme-toggle {
+
+    .filter-section,
+    .stats-card,
+    .theme-toggle {
         display: none;
     }
-    
+
     .update-card {
         break-inside: avoid;
         margin-bottom: 1rem;
@@ -628,8 +721,10 @@ body.light-mode ::-webkit-scrollbar-thumb:hover {
 
 /* Fix dropdown options visibility in light mode */
 body.light-mode .form-select option {
-    color: #1e293b !important;  /* Ensure text is dark */
-    background: white !important;  /* Ensure background is white */
+    color: #1e293b !important;
+    /* Ensure text is dark */
+    background: white !important;
+    /* Ensure background is white */
 }
 
 /* Ensure the selected item text is visible */
@@ -664,8 +759,10 @@ body.light-mode .form-select option::after {
 
 /* Zorg dat tekst en cursor zichtbaar zijn */
 body.light-mode .search-box {
-    color: #0f172a;       /* donkere tekst */
-    caret-color: #0f172a; /* cursor goed zichtbaar */
+    color: #0f172a;
+    /* donkere tekst */
+    caret-color: #0f172a;
+    /* cursor goed zichtbaar */
 }
 
 /* Forceer één enkele dropdown-arrow en achtergrond */
@@ -676,7 +773,8 @@ body.light-mode .form-select {
     background-repeat: no-repeat, no-repeat;
     background-position: right 0.75rem center, 0 0;
     background-size: 16px 12px, 100% 100%;
-    padding-right: 2.25rem; /* ruimte voor arrow */
+    padding-right: 2.25rem;
+    /* ruimte voor arrow */
 }
 
 /* Verwijder ongewenste FA pseudo-content in select */
@@ -702,112 +800,117 @@ body.light-mode .form-select {
     appearance: none;
     border-color: #e2e8f0;
 }
+
 /* Floating Particles Link Effect - Add this to your style.css */
 
 /* Basic link styling with white colors */
 a:link {
-  color: #ffffff;
-  background-color: transparent;
-  text-decoration: none;
-  position: relative;
-  display: inline-block;
-  transition: all 0.3s ease;
-  padding: 2px 8px;
-  border-radius: 15px;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    transition: all 0.3s ease;
+    padding: 2px 8px;
+    border-radius: 15px;
 }
 
 a:visited {
-  color: #e2e8f0;
-  background-color: transparent;
-  text-decoration: none;
+    color: #e2e8f0;
+    background-color: transparent;
+    text-decoration: none;
 }
 
 a:hover {
-  color: #06d6a0;
-  background-color: rgba(6, 214, 160, 0.05);
-  text-decoration: none;
-  border: 1px solid rgba(6, 214, 160, 0.3);
-  text-shadow: 0 0 10px rgba(6, 214, 160, 0.6);
-  transform: translateY(-1px);
+    color: #06d6a0;
+    background-color: rgba(6, 214, 160, 0.05);
+    text-decoration: none;
+    border: 1px solid rgba(6, 214, 160, 0.3);
+    text-shadow: 0 0 10px rgba(6, 214, 160, 0.6);
+    transform: translateY(-1px);
 }
 
 a:active {
-  color: #059669;
-  background-color: transparent;
-  text-decoration: none;
-  transform: translateY(0);
+    color: #059669;
+    background-color: transparent;
+    text-decoration: none;
+    transform: translateY(0);
 }
 
 /* Floating particles effect */
 a:hover::before,
 a:hover::after {
-  content: "";
-  position: absolute;
-  width: 4px;
-  height: 4px;
-  background: #06d6a0;
-  border-radius: 50%;
-  pointer-events: none;
-  animation: float-particle 1.2s ease-out infinite;
-  box-shadow: 0 0 8px rgba(6, 214, 160, 0.8);
+    content: "";
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background: #06d6a0;
+    border-radius: 50%;
+    pointer-events: none;
+    animation: float-particle 1.2s ease-out infinite;
+    box-shadow: 0 0 8px rgba(6, 214, 160, 0.8);
 }
 
 /* First particle - left side */
 a:hover::before {
-  left: 20%;
-  top: 0;
-  animation-delay: 0s;
+    left: 20%;
+    top: 0;
+    animation-delay: 0s;
 }
 
 /* Second particle - right side */
 a:hover::after {
-  right: 20%;
-  top: 0;
-  animation-delay: 0.4s;
+    right: 20%;
+    top: 0;
+    animation-delay: 0.4s;
 }
 
 /* Particle floating animation */
 @keyframes float-particle {
-  0% {
-    transform: translateY(0) scale(0);
-    opacity: 0;
-  }
-  20% {
-    transform: translateY(-5px) scale(1);
-    opacity: 1;
-  }
-  100% {
-    transform: translateY(-25px) scale(0.5);
-    opacity: 0;
-  }
+    0% {
+        transform: translateY(0) scale(0);
+        opacity: 0;
+    }
+
+    20% {
+        transform: translateY(-5px) scale(1);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-25px) scale(0.5);
+        opacity: 0;
+    }
 }
 
 /* Extra particle for more effect (using a CSS trick with box-shadow) */
 a:hover {
-  position: relative;
+    position: relative;
 }
 
 a:hover::before {
-  box-shadow: 
-    0 0 8px rgba(6, 214, 160, 0.8),
-    15px -10px 0 -2px rgba(6, 214, 160, 0.6),
-    -15px -15px 0 -2px rgba(6, 214, 160, 0.4);
-  animation: float-particle-multi 1.5s ease-out infinite;
+    box-shadow:
+        0 0 8px rgba(6, 214, 160, 0.8),
+        15px -10px 0 -2px rgba(6, 214, 160, 0.6),
+        -15px -15px 0 -2px rgba(6, 214, 160, 0.4);
+    animation: float-particle-multi 1.5s ease-out infinite;
 }
 
 @keyframes float-particle-multi {
-  0% {
-    transform: translateY(0) scale(0);
-    opacity: 0;
-  }
-  30% {
-    transform: translateY(-8px) scale(1);
-    opacity: 1;
-  }
-  100% {
-    transform: translateY(-30px) scale(0);
-    opacity: 0;
-  }
+    0% {
+        transform: translateY(0) scale(0);
+        opacity: 0;
+    }
+
+    30% {
+        transform: translateY(-8px) scale(1);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-30px) scale(0);
+        opacity: 0;
+    }
 }
 
 /* ========================================= */
@@ -1003,5 +1106,139 @@ body.light-mode .github-link {
     .updates-table td {
         padding: 0.6rem;
         font-size: 0.86rem;
+    }
+}
+
+/* ========================================= */
+/* RESPONSIVE TABLE FOR MOBILE               */
+/* ========================================= */
+
+@media (max-width: 768px) {
+    .updates-table {
+        display: block;
+        overflow-x: hidden;
+        white-space: normal;
+    }
+
+    .updates-table-wrap {
+        overflow-x: hidden;
+    }
+
+    .updates-table thead {
+        position: absolute;
+        left: -9999px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+    }
+
+    .updates-table tbody,
+    .updates-table tr {
+        display: block;
+    }
+
+    .updates-table tr {
+        margin-bottom: 1rem;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+        border-radius: 0.5rem;
+        padding: 0.75rem;
+        background: rgba(37, 22, 80, 0.5);
+        max-width: 100%;
+    }
+
+    .updates-table tr:hover {
+        background: rgba(124, 58, 237, 0.2);
+    }
+
+    .updates-table td {
+        display: block;
+        position: relative;
+        text-align: left;
+        padding: 0.5rem 0.75rem;
+        border-bottom: 1px solid rgba(139, 92, 246, 0.1);
+        white-space: normal;
+        width: auto;
+        max-width: 100%;
+    }
+
+    .updates-table td:last-child {
+        border-bottom: 0;
+    }
+
+    .updates-table td::before {
+        content: attr(data-label);
+        display: block;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.75rem;
+        color: #a8a6c1;
+        margin-bottom: 0.35rem;
+        line-height: 1.35;
+    }
+
+    .update-date-cell,
+    .update-source-cell,
+    .update-title-cell,
+    .update-summary-cell {
+        width: auto;
+        white-space: normal;
+        max-width: 100%;
+    }
+
+    .update-date-cell>*,
+    .update-source-cell>*,
+    .update-title-cell>*,
+    .update-summary-cell>* {
+        min-width: 0;
+    }
+
+    .update-title-cell .update-link,
+    .update-source-cell .source-badge {
+        overflow-wrap: anywhere;
+        word-break: normal;
+        hyphens: auto;
+    }
+
+    .update-summary-cell {
+        width: 100%;
+        max-width: 100%;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+        hyphens: auto;
+        line-height: 1.45;
+    }
+
+    .update-title-cell .update-link {
+        display: block;
+        text-align: left;
+        white-space: normal;
+        width: 85vw;
+        max-width: 85vw;
+        line-height: 1.45;
+    }
+
+    .update-summary-cell {
+        max-width: 20ch;
+        width: 90vw;
+        max-width: 90vw;
+
+        .update-source-cell .source-badge {
+            margin-bottom: 0;
+            display: inline-block;
+        }
+
+        body.light-mode .updates-table tr {
+            background: rgba(248, 250, 252, 0.8);
+            border-color: #e2e8f0;
+        }
+
+        body.light-mode .updates-table tr:hover {
+            background: #f1f5f9;
+        }
+
+        body.light-mode .updates-table td::before {
+            color: #64748b;
+        }
     }
 }
