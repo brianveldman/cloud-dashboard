@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Trusted Launch as Default",
+    "link": "https://azure.microsoft.com/updates?id=568600",
+    "description": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically enables Secure Boot and vTPM for supported deployments, helping customers establish a stronger security base",
+    "pubDate": "2026-08-03T19:56:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Immutability to the most recent seven days of backups on Azure SQL Database and Azure SQL Managed Instance ",
     "link": "https://azure.microsoft.com/updates?id=568339",
     "description": "To enhance backup protection, Azure SQL Database and Azure SQL Managed Instance now automatically apply immutability to the most recent seven days of backups. This capability is enabled by default for all databases, regardless of the configured point-in-t",
@@ -691,12 +698,5 @@
     "description": "<p>Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/\">Built to bounce back: How Azure resiliency evolved</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-08T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Azure promotions now available in sandbox",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#16",
-    "description": "Workspace: General • Announced: July 8",
-    "pubDate": "2026-07-08T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
