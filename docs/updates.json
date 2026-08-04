@@ -112,6 +112,13 @@
     "source": "Security"
   },
   {
+    "title": "The next measure of AI momentum is work transformed",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+    "description": "<p>In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/\">The next measure of AI momentum is work transformed</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-07-30T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Azure reservation exchange policy update",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#37",
     "description": "Workspace: General • Announced: July 30",
@@ -691,12 +698,5 @@
     "description": "<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/\">GPT-5.6 now available in Microsoft Foundry </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-09T17:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft 365 Copilot specialization updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#17",
-    "description": "Workspace: General • Announced: July 9",
-    "pubDate": "2026-07-09T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
