@@ -14,6 +14,27 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft 365 promotion updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#3",
+    "description": "Workspace: General • Announced: August 03",
+    "pubDate": "2026-08-03T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Copilot in 30 now generally available",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#2",
+    "description": "Workspace: General • Announced: August 03",
+    "pubDate": "2026-08-03T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Updated benefits redemption process",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#1",
+    "description": "Workspace: General • Announced: August 03",
+    "pubDate": "2026-08-03T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Single-click purchase for public SaaS offers",
     "link": "https://azure.microsoft.com/updates?id=568591",
     "description": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, resource group, contact details, and terms information on a single page for completing the purchase. This exp",
@@ -89,13 +110,6 @@
     "description": "<p>This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/\">​​​​What’s new in Microsoft Security: July 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-07-30T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "The next measure of AI momentum is work transformed",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-    "description": "<p>In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/\">The next measure of AI momentum is work transformed</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-07-30T13:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Azure reservation exchange policy update",
@@ -684,19 +698,5 @@
     "description": "Workspace: General • Announced: July 9",
     "pubDate": "2026-07-09T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Use Azure Kubernetes Service to Host GPU-Based Workloads",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks",
-    "description": "Learn how to use Azure Kubernetes Service to host GPU-based workloads, including machine learning, deep learning, and high-performance computing (HPC) workloads.",
-    "pubDate": "2026-07-08T21:03:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Built to bounce back: How Azure resiliency evolved",
-    "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-    "description": "<p>Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/\">Built to bounce back: How Azure resiliency evolved</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-08T16:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
