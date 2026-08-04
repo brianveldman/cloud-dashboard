@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
+    "link": "https://azure.microsoft.com/updates?id=568837",
+    "description": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network security perimeters to securely communicate\r\nwith each other using Managed Identity (MSI), without requiring add",
+    "pubDate": "2026-08-04T18:30:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
+    "description": "<p>Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/\">Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-04T18:30:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Private Link support over IPv6 ",
+    "link": "https://azure.microsoft.com/updates?id=568842",
+    "description": "Azure Private Link over IPv6\r\nenables you to privately access Azure PaaS services, such as Azure Storage and\r\nAzure SQL Database, over IPv6-based connectivity. You can now use IPv6 private\r\nendpoints to connect from IPv6 clients in an Azure virtual network o",
+    "pubDate": "2026-08-04T18:29:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
+    "description": "<p>Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/\">128 Seconds to disruption: Microsoft Defender stops ransomware at QNET </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-04T17:54:04.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure DNS enables DNS-based load balancing through Traffic Manager integration",
     "link": "https://azure.microsoft.com/updates?id=565214",
     "description": "Azure DNS now offers a seamless way to integrate with Azure Traffic Manager for DNS-based traffic routing. Customers can now directly associate Azure DNS record set with Traffic Manager profiles without creating CNAME record for trafficmanager.net domain.",
@@ -532,20 +560,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
-    "description": "<p>From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/\">ACR Stealer: Two observed intrusion chains amid increased threat activity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-16T23:12:02.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Least privilege for AI agents: Identity, access, and tool binding",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
-    "description": "<p>As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/\">Least privilege for AI agents: Identity, access, and tool binding</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-16T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Implement a Zero Trust Network for Web Applications by Using Azure Firewall and Azure Application Gateway",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall",
     "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
@@ -684,19 +698,5 @@
     "description": "Workspace: General • Announced: July 14",
     "pubDate": "2026-07-14T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
-    "link": "https://azure.microsoft.com/updates?id=567444",
-    "description": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting from instant compute, automated scaling, and reduced infrastructure management.  Eligible UK West workspaces",
-    "pubDate": "2026-07-13T17:04:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Refactor mainframe computer systems that run Adabas & Natural",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/refactor-adabas-aks",
-    "description": "Learn how to modernize mainframe computer systems that run Adabas & Natural and move them to the cloud.",
-    "pubDate": "2026-07-13T15:04:30.000Z",
-    "source": "Azure Architecture"
   }
 ]
