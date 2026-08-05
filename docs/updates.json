@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Explicit proxy in Azure Firewall ",
+    "link": "https://azure.microsoft.com/updates?id=568825",
+    "description": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and HTTPS traffic directly to Azure Firewall using\r\nproxy settings, providing an alternative to route-based traff",
+    "pubDate": "2026-08-05T14:54:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
     "link": "https://azure.microsoft.com/updates?id=568661",
     "description": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has not been resized before\r\nthat date will deallocated. The impacted VM sizes that will be retired are: DCas_c",
@@ -691,12 +698,5 @@
     "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
     "pubDate": "2026-07-14T12:48:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Update to benefits renewal window coming",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#20",
-    "description": "Workspace: General • Announced: July 14",
-    "pubDate": "2026-07-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
