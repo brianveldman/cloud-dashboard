@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=568661",
+    "description": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has not been resized before\r\nthat date will deallocated. The impacted VM sizes that will be retired are: DCas_c",
+    "pubDate": "2026-08-05T00:22:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
+    "description": "<p>A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/\">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-04T23:46:41.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
     "link": "https://azure.microsoft.com/updates?id=568837",
     "description": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network security perimeters to securely communicate\r\nwith each other using Managed Identity (MSI), without requiring add",
@@ -539,13 +553,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
-    "description": "<p>Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/\">Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-17T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server ",
     "link": "https://azure.microsoft.com/updates?id=567527",
     "description": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available. You can use assessments to continuously evaluate the security posture of your Azure PostgreSQL flexible ",
@@ -688,13 +695,6 @@
   {
     "title": "Update to benefits renewal window coming",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#20",
-    "description": "Workspace: General • Announced: July 14",
-    "pubDate": "2026-07-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Introducing Copilot in 30",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#19",
     "description": "Workspace: General • Announced: July 14",
     "pubDate": "2026-07-14T12:00:00.000Z",
     "source": "Partner Center Announcements"
