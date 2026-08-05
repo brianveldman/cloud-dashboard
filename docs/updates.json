@@ -1,5 +1,12 @@
 [
   {
+    "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+    "description": "<p>A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/\">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-05T15:48:39.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Explicit proxy in Azure Firewall ",
     "link": "https://azure.microsoft.com/updates?id=568825",
     "description": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and HTTPS traffic directly to Azure Firewall using\r\nproxy settings, providing an alternative to route-based traff",
@@ -61,6 +68,13 @@
     "description": "Azure Virtual Network routing appliance is now generally\r\navailable. It delivers private connectivity across virtual networks, using\r\nspecialized hardware for low latency, high throughput, and better performance\r\nthan virtual machines. Key benefits and funct",
     "pubDate": "2026-08-04T17:03:38.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Windows 365: Service plan name update from Windows 365 Frontline to Windows 365 Flex",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#4",
+    "description": "Workspace: General • Announced: August 04",
+    "pubDate": "2026-08-04T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[Launched] Generally Available: Trusted Launch as Default",
@@ -490,13 +504,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
-    "description": "<p>Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/\">Real world incident response: Microsoft and AXA XL strengthen cyber resilience</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-22T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "SAP deployment on Azure by using an Oracle database",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
     "description": "Learn how to deploy SAP NetWeaver with Oracle Database on Azure in a high-availability (HA) architecture by using availability zones and Data Guard.",
@@ -691,12 +698,5 @@
     "description": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user",
     "pubDate": "2026-07-14T20:03:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline Highly Available Zone-Redundant App Services Web Application",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant",
-    "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
-    "pubDate": "2026-07-14T12:48:02.000Z",
-    "source": "Azure Architecture"
   }
 ]
