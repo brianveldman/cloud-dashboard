@@ -1,5 +1,12 @@
 [
   {
+    "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+    "description": "<p>Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/\">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-05T16:30:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
     "description": "<p>A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/\">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -474,13 +481,6 @@
     "description": "Azure DDoS Protection custom policy\r\nis now in public preview. This capability provides per-resource control over\r\nDDoS mitigation thresholds for protected Standard Load Balancer frontend IP\r\nconfigurations. Customers can configure fixed\r\ninbound detection th",
     "pubDate": "2026-07-23T16:47:24.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Email threat landscape: Q2 2026 trends and insights",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/",
-    "description": "<p>In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/\">Email threat landscape: Q2 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-23T15:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "MDTI reaches end of life August 1, 2026",
