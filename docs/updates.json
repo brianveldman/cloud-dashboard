@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: SharePoint Connector for Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=568905",
+    "description": "The SharePoint connector for Azure Databricks is now generally\r\navailable. Organizations can use Lakeflow Connect to ingest files from\r\nSharePoint into Azure Databricks, helping unify enterprise content with data\r\nand AI workflows on Azure. The connector sup",
+    "pubDate": "2026-08-05T22:34:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Unity AI Gateway on Azure Databricks",
+    "link": "https://azure.microsoft.com/updates?id=568910",
+    "description": "Unity AI Gateway is now generally available on Azure Databricks.\r\nUnity AI Gateway provides centralized governance for AI models, agents, tools,\r\nand MCP services, helping organizations monitor usage, manage costs, apply\r\nguardrails, and enforce access contr",
+    "pubDate": "2026-08-05T22:32:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
     "description": "<p>Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/\">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -19,6 +33,13 @@
     "description": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and HTTPS traffic directly to Azure Firewall using\r\nproxy settings, providing an alternative to route-based traff",
     "pubDate": "2026-08-05T14:54:08.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Updated Solutions Partner badge names",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#5",
+    "description": "Workspace: General • Announced: August 05",
+    "pubDate": "2026-08-05T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
@@ -677,26 +698,5 @@
     "description": "Workspace: Membership • Announced: July 15",
     "pubDate": "2026-07-15T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Meet the MCAPS Start for Partners speakers",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#22",
-    "description": "Workspace: General • Announced: July 15",
-    "pubDate": "2026-07-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "2026 France and French territories Tax ID update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#21",
-    "description": "Workspace: Account settings • Announced: July 15",
-    "pubDate": "2026-07-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Front Door edge actions",
-    "link": "https://azure.microsoft.com/updates?id=567402",
-    "description": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight JavaScript functions during Azure Front Door request processing to make real-time decisions closer to user",
-    "pubDate": "2026-07-14T20:03:32.000Z",
-    "source": "Azure Updates"
   }
 ]
