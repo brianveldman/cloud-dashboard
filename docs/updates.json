@@ -1,5 +1,26 @@
 [
   {
+    "title": "Announcing:  Azure Databricks Genie One and Genie Agents Free Usage Extended Through January 31, 2027 ",
+    "link": "https://azure.microsoft.com/updates?id=568964",
+    "description": "Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Budget controls do not apply to these products during the promotional period. The promotion covers usage by",
+    "pubDate": "2026-08-06T19:41:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Migrate from AWS FSx for Windows File Server to Azure Files with Azure Storage Mover",
+    "link": "https://azure.microsoft.com/updates?id=567979",
+    "description": "Azure Storage Mover now supports agentless, cloud-to-cloud migration from AWS FSx for Windows File Server (SMB) to Azure Files (SMB), in preview. You can move your Windows file shares off FSx and into Azure Files without deploying or managing a migration ",
+    "pubDate": "2026-08-06T16:40:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Security and compliance offers for partners",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#6",
+    "description": "Workspace: General • Announced: August 06",
+    "pubDate": "2026-08-06T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: SharePoint Connector for Azure Databricks",
     "link": "https://azure.microsoft.com/updates?id=568905",
     "description": "The SharePoint connector for Azure Databricks is now generally\r\navailable. Organizations can use Lakeflow Connect to ingest files from\r\nSharePoint into Azure Databricks, helping unify enterprise content with data\r\nand AI workflows on Azure. The connector sup",
@@ -677,26 +698,5 @@
     "description": "Starting July 15, 2026, advanced platform metrics are available in Public Preview. This update provides enhanced visibility into platform performance, resource health, and operational trends across supported Azure services. With advanced platform metrics,",
     "pubDate": "2026-07-15T15:30:11.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: DevUI Agent Inspector for Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563551",
-    "description": "Microsoft Agent Framework adds DevUI Agent Inspector in public preview, a local debugging surface that shows agent runs as a navigable tree of model calls, tool invocations, and intermediate state. Developers can pause, replay, and edit prompts mid-run, s",
-    "pubDate": "2026-07-15T15:15:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Databricks delivers proven business value",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
-    "description": "<p>Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your teams already know, co-engineered with Microsoft and delivered as a native Azure service, so it fits naturally into the Microsoft tools, identity, and governance your organization already runs.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/\">Azure Databricks delivers proven business value</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-15T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Monthly Microsoft AI Cloud Partner Program update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#23",
-    "description": "Workspace: Membership • Announced: July 15",
-    "pubDate": "2026-07-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
