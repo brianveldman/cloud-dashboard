@@ -14,13 +14,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-    "description": "<p>GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-06T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Security and compliance offers for partners",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#6",
     "description": "Workspace: General • Announced: August 06",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=567362",
     "description": "The Azure Arc migration solution now supports SQL Server on Azure Virtual Machines as a migration target. Arc-enabled SQL Server instances can now be migrated to both Azure SQL Managed Instance and SQL Server on Azure infrastructure using the same unified",
     "pubDate": "2026-07-15T17:35:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Advanced platform metrics in Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=567726",
+    "description": "Starting July 15, 2026, advanced platform metrics are available in Public Preview. This update provides enhanced visibility into platform performance, resource health, and operational trends across supported Azure services. With advanced platform metrics,",
+    "pubDate": "2026-07-15T15:30:11.000Z",
     "source": "Azure Updates"
   }
 ]
