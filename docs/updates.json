@@ -28,13 +28,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-    "description": "<p>GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-06T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Security and compliance offers for partners",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#6",
     "description": "Workspace: General • Announced: August 06",
@@ -54,6 +47,13 @@
     "description": "Unity AI Gateway is now generally available on Azure Databricks.\r\nUnity AI Gateway provides centralized governance for AI models, agents, tools,\r\nand MCP services, helping organizations monitor usage, manage costs, apply\r\nguardrails, and enforce access contr",
     "pubDate": "2026-08-05T22:32:45.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Build a CI/CD pipeline for microservices on Kubernetes by using Azure DevOps and Helm",
+    "link": "https://learn.microsoft.com/azure/architecture/microservices/ci-cd-kubernetes",
+    "description": "Learn about building a continuous integration and continuous delivery (CI/CD) pipeline for deploying microservices to Azure Kubernetes Service (AKS) by using Azure DevOps and Helm.",
+    "pubDate": "2026-08-05T21:38:36.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
@@ -98,6 +98,13 @@
     "source": "Security"
   },
   {
+    "title": "Kubernetes cluster governance",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/governance",
+    "description": "Understand governance options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) governance options.",
+    "pubDate": "2026-08-04T19:35:20.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
     "link": "https://azure.microsoft.com/updates?id=568837",
     "description": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network security perimeters to securely communicate\r\nwith each other using Managed Identity (MSI), without requiring add",
@@ -140,6 +147,34 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Build portable applications with adaptive apps",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/adaptive-apps",
+    "description": "The adaptive apps solution enables applications to adapt across diverse environments and operational conditions, including disconnected environments, sovereign cloud deployments, on-premises infrastructure, and hybrid topologies.",
+    "pubDate": "2026-08-04T16:02:25.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry chat reference architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
+    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
+    "pubDate": "2026-08-04T14:59:36.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline Microsoft Foundry chat reference architecture in an Azure landing zone",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
+    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
+    "pubDate": "2026-08-04T14:59:36.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "High availability enterprise deployment that uses App Service Environment",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-high-availability-deployment",
+    "description": "Learn about the recommended architecture to deploy an enterprise application by using App Service Environment in multiple availability zones.",
+    "pubDate": "2026-08-04T14:21:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Windows 365: Service plan name update from Windows 365 Frontline to Windows 365 Flex",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#4",
     "description": "Workspace: General • Announced: August 04",
@@ -152,6 +187,27 @@
     "description": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically enables Secure Boot and vTPM for supported deployments, helping customers establish a stronger security base",
     "pubDate": "2026-08-03T19:56:26.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Manage Microsoft 365 tenant configuration by using Microsoft365DSC and Azure DevOps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/devops/manage-microsoft-365-tenant-configuration-microsoft365dsc-devops",
+    "description": "Manage Microsoft 365 tenant configuration by using Microsoft365DSC and Azure DevOps.",
+    "pubDate": "2026-08-03T19:49:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Reference architecture for a baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-08-03T19:37:50.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build and deploy custom document processing models on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
+    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
+    "pubDate": "2026-08-03T19:10:59.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Immutability to the most recent seven days of backups on Azure SQL Database and Azure SQL Managed Instance ",
@@ -497,6 +553,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Baseline Microsoft Foundry chat reference architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
+    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
+    "pubDate": "2026-07-27T15:44:53.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
     "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
     "description": "<p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/\">What customers value most in Microsoft Databases—from reliability to AI readiness</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -634,69 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=567527",
     "description": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available. You can use assessments to continuously evaluate the security posture of your Azure PostgreSQL flexible ",
     "pubDate": "2026-07-17T14:55:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Encryption in Transit for Azure Files NFS Shares in Azure Kubernetes Service (AKS)",
-    "link": "https://azure.microsoft.com/updates?id=567787",
-    "description": "Azure Kubernetes Service (AKS) now generally supports Encryption in Transit (EiT) for Azure Files NFS v4.1 volumes through the Azure File CSI driver. With EiT enabled, data transferred between AKS workloads and Azure Files NFS shares is encrypted using TL",
-    "pubDate": "2026-07-17T14:54:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Implement a Zero Trust Network for Web Applications by Using Azure Firewall and Azure Application Gateway",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall",
-    "description": "Protect web apps by implementing Zero Trust security in virtual networks. Use Azure Firewall and Azure Application Gateway in networks to maximize protection.",
-    "pubDate": "2026-07-16T14:56:17.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multiparty private offers expand to more markets",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#24",
-    "description": "Workspace: General • Announced: July 16",
-    "pubDate": "2026-07-16T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563571",
-    "description": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 38 percent on GAIA and competitive results on AssistantBench and WebArena in published benchmarks. The GA ",
-    "pubDate": "2026-07-15T18:57:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Agent Harness in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563546",
-    "description": "Microsoft Agent Framework reaches general availability for Agent Harness, the production runtime for agents built with the framework. Customers running pilots on the preview harness can now move the same agent code into production with backwards compatibi",
-    "pubDate": "2026-07-15T18:55:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Multi-agent orchestration SDK with the Microsoft Foundry Agent Framework in C# and Python",
-    "link": "https://azure.microsoft.com/updates?id=564312",
-    "description": "Microsoft Foundry is now introducing Agent Framework, a unified multi-agent orchestration SDK for C# and Python. This release consolidates patterns previously spread across AutoGen and Semantic Kernel, giving developers a consistent set of abstractions fo",
-    "pubDate": "2026-07-15T18:53:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Tracing for Microsoft Agent Framework (Python and .NET)",
-    "link": "https://azure.microsoft.com/updates?id=564071",
-    "description": "In public preview, Microsoft Foundry now offers tracing for the Microsoft Agent Framework in both Python and .NET, helping developers observe how agents reason, call tools, and interact with models during execution. This release is part of the broader hos",
-    "pubDate": "2026-07-15T18:51:45.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: CodeAct pattern and Hyperlight containers in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563566",
-    "description": "Microsoft Agent Framework adds the CodeAct pattern in public preview, which lets agents collapse a multi-step plan into a single executable code block rather than chaining one tool call at a time. In representative workloads, CodeAct cut end-to-end latenc",
-    "pubDate": "2026-07-15T18:50:14.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Episodic procedural memory in Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=563561",
-    "description": "Microsoft Agent Framework adds episodic procedural memory in public preview, a built-in store that lets agents remember successful task patterns and replay them on similar future requests. The framework records action sequences, tool selections, and inter",
-    "pubDate": "2026-07-15T18:48:54.000Z",
     "source": "Azure Updates"
   }
 ]
