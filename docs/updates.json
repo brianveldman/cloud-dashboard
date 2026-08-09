@@ -329,6 +329,13 @@
     "source": "Security"
   },
   {
+    "title": "The next measure of AI momentum is work transformed",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+    "description": "<p>In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/\">The next measure of AI momentum is work transformed</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-07-30T13:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Azure reservation exchange policy update",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#37",
     "description": "Workspace: General • Announced: July 30",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=567651",
     "description": "Azure Functions support for PowerShell 7.6 is now available in preview. You can now develop apps using PowerShell 7.6 locally and deploy them to Azure Functions plans. Learn more:  What's\r\nnew in PowerShell 7.6 Azure Functions PowerShell versions and their",
     "pubDate": "2026-07-17T17:44:00.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=567527",
-    "description": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available. You can use assessments to continuously evaluate the security posture of your Azure PostgreSQL flexible ",
-    "pubDate": "2026-07-17T14:55:28.000Z",
     "source": "Azure Updates"
   }
 ]
