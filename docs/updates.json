@@ -1,5 +1,12 @@
 [
   {
+    "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
+    "link": "https://azure.microsoft.com/updates?id=569140",
+    "description": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the",
+    "pubDate": "2026-08-10T17:50:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
     "description": "<p>Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/\">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Learn about the triage step, in which you examine the health of Azure Kubernetes Service (AKS) worker nodes and pods and resolve problems.",
     "pubDate": "2026-07-20T16:48:10.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=567594",
-    "description": "Azure Monitor Application Insights now stores generative AI\r\ncontent in a dedicated GenAIContent table (AppGenAIContent in Log\r\nAnalytics), making it possible to apply newly\r\navailable access controls to sensitive AI telemetry. Because Application\r\nInsights p",
-    "pubDate": "2026-07-20T15:09:43.000Z",
-    "source": "Azure Updates"
   }
 ]
