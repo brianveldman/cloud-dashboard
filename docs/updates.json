@@ -21,6 +21,20 @@
     "source": "Security"
   },
   {
+    "title": "Enter the CSP Copilot Partner Council Contest",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#9",
+    "description": "Workspace: General • Announced: August 10",
+    "pubDate": "2026-08-10T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Manage agents across multiple tenants",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#8",
+    "description": "Workspace: General • Announced: August 10",
+    "pubDate": "2026-08-10T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "SAP HANA for Linux VMs in scale-up systems",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/sap/run-sap-hana-for-linux-virtual-machines",
     "description": "Learn about proven practices for running SAP HANA in a high-availability scale-up environment that supports disaster recovery on Azure.",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-analytical-data-stores",
     "description": "Evaluate analytical data store options in Microsoft Fabric based on data volumes, types, compute engine, ingestion, transformation, and query patterns.",
     "pubDate": "2026-07-21T20:42:36.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "FY27 Cloud & AI GTM launch",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#26",
-    "description": "Workspace: General • Announced: July 21",
-    "pubDate": "2026-07-21T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "AKS Triage—Node and Pod Health",
-    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-triage-node-health",
-    "description": "Learn about the triage step, in which you examine the health of Azure Kubernetes Service (AKS) worker nodes and pods and resolve problems.",
-    "pubDate": "2026-07-20T16:48:10.000Z",
     "source": "Azure Architecture"
   }
 ]
