@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: 2.2X IDPS performance optimization in Azure Firewall",
+    "link": "https://azure.microsoft.com/updates?id=569256",
+    "description": "Azure Firewall Premium now delivers up to 22 Gbps\r\nthroughput with TLS inspection and IDPS in Deny mode, a 120% increase from 10\r\nGbps, and up to 600 Mbps per TCP connection with IDPS enabled in either Alert\r\nor Deny mode (doubled from 300 Mbps). Learn\r\nmore.",
+    "pubDate": "2026-08-11T17:26:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
     "link": "https://azure.microsoft.com/updates?id=569140",
     "description": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
     "description": "Learn how to deploy SAP NetWeaver with Oracle Database on Azure in a high-availability (HA) architecture by using availability zones and Data Guard.",
     "pubDate": "2026-07-22T08:29:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Analytical Data Store in Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-analytical-data-stores",
-    "description": "Evaluate analytical data store options in Microsoft Fabric based on data volumes, types, compute engine, ingestion, transformation, and query patterns.",
-    "pubDate": "2026-07-21T20:42:36.000Z",
     "source": "Azure Architecture"
   }
 ]
