@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Batch rule updates for Azure Front Door ",
+    "link": "https://azure.microsoft.com/updates?id=569246",
+    "description": "Batch rule updates are now generally\r\navailable for Azure Front Door Standard and Premium. This capability enables\r\ncustomers to add, update, delete, or reorder multiple rules in a rule set as a\r\ncoordinated operation, ensuring that all changes are applied t",
+    "pubDate": "2026-08-12T17:03:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Front Door mutual TLS ",
+    "link": "https://azure.microsoft.com/updates?id=569251",
+    "description": "Mutual TLS, also known as client\r\ncertificate authentication, enables Azure Front Door to authenticate clients\r\nusing X.509 certificates before requests reach an application. It helps protect\r\nsensitive applications and APIs across business-to-business, Inte",
+    "pubDate": "2026-08-12T17:01:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Markdown for Agents in Azure App Service",
+    "link": "https://azure.microsoft.com/updates?id=568979",
+    "description": "Today, we are announcing the public preview of Markdown for Agents in Azure App Service. This feature gives AI agents and other tools a cleaner way to consume content from an App Service app. When a client requests Markdown, App Service can automatically ",
+    "pubDate": "2026-08-12T16:38:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: 2.2X IDPS performance optimization in Azure Firewall",
     "link": "https://azure.microsoft.com/updates?id=569256",
     "description": "Azure Firewall Premium now delivers up to 22 Gbps\r\nthroughput with TLS inspection and IDPS in Deny mode, a 120% increase from 10\r\nGbps, and up to 600 Mbps per TCP connection with IDPS enabled in either Alert\r\nor Deny mode (doubled from 300 Mbps). Learn\r\nmore.",
@@ -677,26 +698,5 @@
     "description": "Workspace: General • Announced: July 23",
     "pubDate": "2026-07-23T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "WSA validation updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#27",
-    "description": "Workspace: General • Announced: July 23",
-    "pubDate": "2026-07-23T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: Standard service endpoint ",
-    "link": "https://azure.microsoft.com/updates?id=561475",
-    "description": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services under the Private Link family. This enhanced capability overcomes the scale and management limitations of ",
-    "pubDate": "2026-07-22T16:57:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "SAP deployment on Azure by using an Oracle database",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
-    "description": "Learn how to deploy SAP NetWeaver with Oracle Database on Azure in a high-availability (HA) architecture by using availability zones and Data Guard.",
-    "pubDate": "2026-07-22T08:29:44.000Z",
-    "source": "Azure Architecture"
   }
 ]
