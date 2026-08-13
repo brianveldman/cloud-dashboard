@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus",
+    "link": "https://azure.microsoft.com/updates?id=568830",
+    "description": "Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally available.This capability gives AKS customers native observability into key managed control plane components, in",
+    "pubDate": "2026-08-13T16:19:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks",
+    "link": "https://azure.microsoft.com/updates?id=569281",
+    "description": "We’re excited to announce the GA\r\nof Live Resize for shared Premium\r\nSSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically\r\nexpand the storage capacity of your disks without any disruption to your\r\napplications. To optimize costs, you can ",
+    "pubDate": "2026-08-13T16:17:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Pre-upgrade validation checks for Azure Database for PostgreSQL Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=568419",
+    "description": "Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major version upgrade (MVU) readiness before initiating the actual upgrade process. With the general availability",
+    "pubDate": "2026-08-13T16:13:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications",
     "link": "https://azure.microsoft.com/updates?id=568457",
     "description": "On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date the agent will be permanently disabled and will stop sending SAP logs to Microsoft Sentinel.The SAP agent",
@@ -677,26 +698,5 @@
     "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
     "pubDate": "2026-07-24T14:48:12.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Windows 365 GPU Frontline Select 256 GB SKU available on Aug 1",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#30",
-    "description": "Workspace: General • Announced: July 24",
-    "pubDate": "2026-07-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Convert more trials into revenue on Microsoft Marketplace",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#29",
-    "description": "Workspace: General • Announced: July 24",
-    "pubDate": "2026-07-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
-    "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-    "description": "<p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/\">AT&amp;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-23T18:30:00.000Z",
-    "source": "Azure Blog"
   }
 ]
