@@ -1,5 +1,26 @@
 [
   {
+    "title": "Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=569353",
+    "description": "Azure Databricks Runtime\r\n10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached\r\nend of support on March 18, 2025 and will reach end of life on November 1, 2026. After this date,\r\nDatabricks Runtime 10.4 LTS will no longer be availabl",
+    "pubDate": "2026-08-14T17:43:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Grow your security practice at IT Nation",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#14",
+    "description": "Workspace: General • Announced: August 14",
+    "pubDate": "2026-08-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Microsoft Copilot app update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#13",
+    "description": "Workspace: General • Announced: August 14",
+    "pubDate": "2026-08-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus",
     "link": "https://azure.microsoft.com/updates?id=568830",
     "description": "Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally available.This capability gives AKS customers native observability into key managed control plane components, in",
@@ -30,7 +51,7 @@
   {
     "title": "Windows Server 2016 Extended Security Updates: CSP price list republish",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#11",
-    "description": "Workspace: General • Announced: August 13",
+    "description": "Workspace: Pricing • Announced: August 13",
     "pubDate": "2026-08-13T12:00:00.000Z",
     "source": "Partner Center Announcements"
   },
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/patterns/choreography",
     "description": "Learn how to set up services to decide when and how to process a business operation, instead of depending on a central orchestrator.",
     "pubDate": "2026-07-27T16:45:36.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: AI Gateway in Azure API Management ",
-    "link": "https://azure.microsoft.com/updates?id=568184",
-    "description": "The AI Gateway tier for Azure API Management is now available in public preview. Building on the AI gateway capabilities already available across API Management tiers, the new AI Gateway tier provides a dedicated experience optimized for AI workloads.As o",
-    "pubDate": "2026-07-27T16:44:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline Microsoft Foundry Chat Reference Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-07-27T16:16:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry chat reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-07-27T15:44:53.000Z",
     "source": "Azure Architecture"
   }
 ]
