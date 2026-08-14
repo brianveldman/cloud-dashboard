@@ -21,6 +21,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Monthly Microsoft AI Cloud Partner Program update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#12",
+    "description": "Workspace: Membership • Announced: August 13",
+    "pubDate": "2026-08-13T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Windows Server 2016 Extended Security Updates: CSP price list republish",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#11",
+    "description": "Workspace: General • Announced: August 13",
+    "pubDate": "2026-08-13T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications",
     "link": "https://azure.microsoft.com/updates?id=568457",
     "description": "On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date the agent will be permanently disabled and will stop sending SAP logs to Microsoft Sentinel.The SAP agent",
@@ -684,19 +698,5 @@
     "description": "<p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/\">What customers value most in Microsoft Databases—from reliability to AI readiness</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-07-27T15:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft 365 Copilot nonprofit offer: partner margin update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#31",
-    "description": "Workspace: General • Announced: July 27",
-    "pubDate": "2026-07-27T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "DevSecOps for infrastructure as code (IaC)",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
-    "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
-    "pubDate": "2026-07-24T14:48:12.000Z",
-    "source": "Azure Architecture"
   }
 ]
