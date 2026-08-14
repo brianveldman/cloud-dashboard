@@ -63,6 +63,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The Economics of Agent Optimization: From pilots to measurable returns",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+    "description": "<p>Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/\">The Economics of Agent Optimization: From pilots to measurable returns</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-08-12T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "CSP software pricing update effective October 1, 2026",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#10",
     "description": "Workspace: General • Announced: August 12",
@@ -82,6 +89,20 @@
     "description": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the",
     "pubDate": "2026-08-10T17:50:54.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
+    "description": "<p>Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/\">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-10T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
+    "description": "<p>Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/\">DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-10T15:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Enter the CSP Copilot Partner Council Contest",
@@ -182,6 +203,20 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+    "description": "<p>Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/\">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-05T16:30:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+    "description": "<p>A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/\">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-05T15:48:39.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Explicit proxy in Azure Firewall ",
     "link": "https://azure.microsoft.com/updates?id=568825",
     "description": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and HTTPS traffic directly to Azure Firewall using\r\nproxy settings, providing an alternative to route-based traff",
@@ -203,6 +238,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
+    "description": "<p>A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/\">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-04T23:46:41.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Kubernetes cluster governance",
     "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/governance",
     "description": "Understand governance options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) governance options.",
@@ -217,6 +259,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
+    "description": "<p>Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/\">Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-04T18:30:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Private Link support over IPv6 ",
     "link": "https://azure.microsoft.com/updates?id=568842",
     "description": "Azure Private Link over IPv6\r\nenables you to privately access Azure PaaS services, such as Azure Storage and\r\nAzure SQL Database, over IPv6-based connectivity. You can now use IPv6 private\r\nendpoints to connect from IPv6 clients in an Azure virtual network o",
@@ -229,6 +278,13 @@
     "description": "Compare capabilities, indexing methods, and integration options to determine which Azure vector search service best fits your application.",
     "pubDate": "2026-08-04T17:56:22.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
+    "description": "<p>Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/\">128 Seconds to disruption: Microsoft Defender stops ransomware at QNET </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-04T17:54:04.000Z",
+    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: Azure DNS enables DNS-based load balancing through Traffic Manager integration",
@@ -343,6 +399,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+    "description": "<p>Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/\">CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-31T21:01:37.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Route-Maps for Azure Route Server",
     "link": "https://azure.microsoft.com/updates?id=568631",
     "description": "Route maps for Azure Route Server are now available in\r\npublic preview, providing fine-grained control over inbound and outbound routing\r\nacross hybrid connections. Customers can manage routes advertised to and from\r\nAzure Route Server BGP peerings with Netw",
@@ -404,6 +467,13 @@
     "description": "Azure NetApp Files now supports configuration of SMB opportunistic locking (oplocks) for SMB and dual-protocol volumes. Opportunistic locks (Oplocks) improve SMB client caching and are enabled by default. You can configure oplocks on new volumes or update",
     "pubDate": "2026-07-30T16:38:15.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "​​​​What’s new in Microsoft Security: July 2026",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
+    "description": "<p>This month’s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/\">​​​​What’s new in Microsoft Security: July 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-30T16:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "The next measure of AI momentum is work transformed",
@@ -488,6 +558,13 @@
     "description": "Azure Sphere OS version 26.09 RC1 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents a major bump in Azure Sphere's underlying Linux kernel version as part of our long-term su",
     "pubDate": "2026-07-29T18:50:00.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "​​Better security starts with better questions",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
+    "description": "<p>Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/\">​​Better security starts with better questions</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-07-29T16:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "August price list won't include a September preview for NCE license-based services",
@@ -620,83 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
     "pubDate": "2026-07-27T15:44:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
-    "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-    "description": "<p>Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/\">What customers value most in Microsoft Databases—from reliability to AI readiness</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-27T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Microsoft 365 Copilot nonprofit offer: partner margin update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#31",
-    "description": "Workspace: General • Announced: July 27",
-    "pubDate": "2026-07-27T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "DevSecOps for infrastructure as code (IaC)",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code",
-    "description": "See how to implement a GitHub-based DevSecOps pipeline that can validate and deploy infrastructure as code (IaC) to Azure.",
-    "pubDate": "2026-07-24T14:48:12.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Windows 365 GPU Frontline Select 256 GB SKU available on Aug 1",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#30",
-    "description": "Workspace: General • Announced: July 24",
-    "pubDate": "2026-07-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Convert more trials into revenue on Microsoft Marketplace",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#29",
-    "description": "Workspace: General • Announced: July 24",
-    "pubDate": "2026-07-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
-    "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-    "description": "<p>AT&#38;T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-scale telecom AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/\">AT&amp;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-07-23T18:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure DDoS Protection custom policy",
-    "link": "https://azure.microsoft.com/updates?id=568063",
-    "description": "Azure DDoS Protection custom policy\r\nis now in public preview. This capability provides per-resource control over\r\nDDoS mitigation thresholds for protected Standard Load Balancer frontend IP\r\nconfigurations. Customers can configure fixed\r\ninbound detection th",
-    "pubDate": "2026-07-23T16:47:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "MDTI reaches end of life August 1, 2026",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#28",
-    "description": "Workspace: General • Announced: July 23",
-    "pubDate": "2026-07-23T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "WSA validation updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#27",
-    "description": "Workspace: General • Announced: July 23",
-    "pubDate": "2026-07-23T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: Standard service endpoint ",
-    "link": "https://azure.microsoft.com/updates?id=561475",
-    "description": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services under the Private Link family. This enhanced capability overcomes the scale and management limitations of ",
-    "pubDate": "2026-07-22T16:57:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "SAP deployment on Azure by using an Oracle database",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/sap-production",
-    "description": "Learn how to deploy SAP NetWeaver with Oracle Database on Azure in a high-availability (HA) architecture by using availability zones and Data Guard.",
-    "pubDate": "2026-07-22T08:29:44.000Z",
     "source": "Azure Architecture"
   }
 ]
