@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Linux on WSL",
+    "link": "https://azure.microsoft.com/updates?id=569376",
+    "description": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate behavior using production-aligned configurationsReproduce issues more reliablyReduce time spent debugging c",
+    "pubDate": "2026-08-17T17:08:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026",
     "link": "https://azure.microsoft.com/updates?id=569353",
     "description": "Azure Databricks Runtime\r\n10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached\r\nend of support on March 18, 2025 and will reach end of life on November 1, 2026. After this date,\r\nDatabricks Runtime 10.4 LTS will no longer be availabl",
@@ -691,12 +698,5 @@
     "description": "Azure Firewall now supports HTTP header insertion, enabling\r\norganizations to add or overwrite HTTP/HTTPS request\r\nheaders directly from Azure Firewall application rules. This capability helps\r\ncustomers enforce security controls, support tenant restriction ",
     "pubDate": "2026-07-27T16:54:36.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Choreography Pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/choreography",
-    "description": "Learn how to set up services to decide when and how to process a business operation, instead of depending on a central orchestrator.",
-    "pubDate": "2026-07-27T16:45:36.000Z",
-    "source": "Azure Architecture"
   }
 ]
