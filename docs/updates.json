@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose",
+    "link": "https://azure.microsoft.com/updates?id=568344",
+    "description": "You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This update helps you improve business continuity by automatically distributing your compute and data across a",
+    "pubDate": "2026-08-17T19:54:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace ",
+    "link": "https://azure.microsoft.com/updates?id=557775",
+    "description": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in the United States can now discover, evaluate and purchase Dragon Copilot Physician Apps and Agents throug",
+    "pubDate": "2026-08-17T19:37:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Linux on WSL",
     "link": "https://azure.microsoft.com/updates?id=569376",
     "description": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate behavior using production-aligned configurationsReproduce issues more reliablyReduce time spent debugging c",
@@ -684,19 +698,5 @@
     "description": "Workspace: General • Announced: July 28",
     "pubDate": "2026-07-28T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[Launched] Generally Available: Claude Opus 5 on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=568316",
-    "description": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic's latest model for advanced reasoning, coding, agentic workflows, and professional knowledge work. Claude Opus 5 is designed for complex tasks requi",
-    "pubDate": "2026-07-27T19:41:46.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: HTTP header insertion in Azure Firewall ",
-    "link": "https://azure.microsoft.com/updates?id=568115",
-    "description": "Azure Firewall now supports HTTP header insertion, enabling\r\norganizations to add or overwrite HTTP/HTTPS request\r\nheaders directly from Azure Firewall application rules. This capability helps\r\ncustomers enforce security controls, support tenant restriction ",
-    "pubDate": "2026-07-27T16:54:36.000Z",
-    "source": "Azure Updates"
   }
 ]
