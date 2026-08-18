@@ -21,11 +21,25 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Idempotent consumer pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/idempotent-consumer",
+    "description": "Use the Idempotent Consumer pattern to safely process duplicate messages from at-least-once delivery so that repeated processing has the same effect as processing once.",
+    "pubDate": "2026-08-14T17:46:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026",
     "link": "https://azure.microsoft.com/updates?id=569353",
     "description": "Azure Databricks Runtime\r\n10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached\r\nend of support on March 18, 2025 and will reach end of life on November 1, 2026. After this date,\r\nDatabricks Runtime 10.4 LTS will no longer be availabl",
     "pubDate": "2026-08-14T17:43:51.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Comparing AWS and Azure regions and zones",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/regions-zones",
+    "description": "Review a comparison of the regions and zones between Azure and AWS. Explore Virtual Machine Scale Sets, availability zones, and multi-region options in Azure.",
+    "pubDate": "2026-08-14T16:32:58.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Grow your security practice at IT Nation",
@@ -40,6 +54,13 @@
     "description": "Workspace: General • Announced: August 14",
     "pubDate": "2026-08-14T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Hub-spoke network topology using Azure Virtual WAN",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke-virtual-wan-architecture",
+    "description": "Implement a hub-spoke topology that uses Azure Virtual WAN as the Microsoft-managed hub and has spoke virtual networks, branches, and remote users.",
+    "pubDate": "2026-08-14T04:08:24.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus",
@@ -84,6 +105,34 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Connect an on-premises network to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-connectivity-options",
+    "description": "Learn about the options for connecting an on-premises network to an Azure virtual network by comparing reference architectures for each option.",
+    "pubDate": "2026-08-12T17:03:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use site-to-site VPN as failover for Azure ExpressRoute",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover",
+    "description": "Learn how to connect an on-premises network to an Azure virtual network by using ExpressRoute with a virtual private network (VPN) gateway failover.",
+    "pubDate": "2026-08-12T17:03:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure VPN Gateway site-to-site connectivity for hybrid networks",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-vpn-connectivity",
+    "description": "This architecture shows how to establish encrypted layer-3 connectivity between your on-premises network and Azure virtual networks by using Azure VPN Gateway.",
+    "pubDate": "2026-08-12T17:03:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect an on-premises network to Azure by using ExpressRoute",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-private-peering-connectivity",
+    "description": "This architecture shows how to connect an on-premises network to an Azure virtual network by using Azure ExpressRoute.",
+    "pubDate": "2026-08-12T17:03:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Batch rule updates for Azure Front Door ",
     "link": "https://azure.microsoft.com/updates?id=569246",
     "description": "Batch rule updates are now generally\r\navailable for Azure Front Door Standard and Premium. This capability enables\r\ncustomers to add, update, delete, or reorder multiple rules in a rule set as a\r\ncoordinated operation, ensuring that all changes are applied t",
@@ -112,11 +161,25 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Priority queue pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/priority-queue",
+    "description": "Prioritize requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.",
+    "pubDate": "2026-08-12T14:47:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "CSP software pricing update effective October 1, 2026",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#10",
     "description": "Workspace: General • Announced: August 12",
     "pubDate": "2026-08-12T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Architectural approaches for governance and compliance in multitenant solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/governance-compliance",
+    "description": "Learn about governance and compliance approaches for multitenant solutions, including data sovereignty, access control, and regulatory standards.",
+    "pubDate": "2026-08-12T07:13:44.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: 2.2X IDPS performance optimization in Azure Firewall",
@@ -126,11 +189,32 @@
     "source": "Azure Updates"
   },
   {
+    "title": "AI and machine learning products",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/data-science-and-machine-learning",
+    "description": "Compare Microsoft AI and machine learning products for building, deploying, and managing AI applications, agents, and machine learning models.",
+    "pubDate": "2026-08-10T21:19:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Cross-region resiliency for SQL TDE with Azure Key Vault Managed HSM",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/secure-sql-managed-instance-managed-hardware-security-module",
+    "description": "Learn about a resilient deployment pattern for SQL Managed Instance. This solution highlights how Key Vault Managed HSM stores customer-managed TDE protector keys.",
+    "pubDate": "2026-08-10T20:47:51.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
     "link": "https://azure.microsoft.com/updates?id=569140",
     "description": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the",
     "pubDate": "2026-08-10T17:50:54.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Deploy IBM Maximo Application Suite (MAS) on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite",
+    "description": "Learn how to run IBM Maximo Application Suite (MAS) on Azure by using Azure Red Hat OpenShift or self-managed Red Hat OpenShift.",
+    "pubDate": "2026-08-10T17:14:45.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise ",
@@ -613,90 +697,6 @@
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#35",
     "description": "Workspace: Pricing • Announced: July 29",
     "pubDate": "2026-07-29T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Important updates to partner benefits",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#34",
-    "description": "Workspace: General • Announced: July 29",
-    "pubDate": "2026-07-29T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Enclave",
-    "link": "https://azure.microsoft.com/updates?id=568377",
-    "description": "Announcing the public preview of Azure Enclave for Microsoft\r\nAzure, Azure Government, Azure Government Secret, and Azure Government Top Secret.\r\nAzure Enclave helps streamline the deployment and management of isolated cloud\r\nenvironments for sensitive workl",
-    "pubDate": "2026-07-28T18:51:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: NAT64 on StandardV2 NAT Gateway",
-    "link": "https://azure.microsoft.com/updates?id=568409",
-    "description": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\noutbound IPv6 traffic into IPv4 traffic. NAT64 relies on a DNS64-capable\r\nresolver to synthesize IPv6 addresse",
-    "pubDate": "2026-07-28T18:50:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Scalable Windows Virtual Machine Patch Management",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/patch-management",
-    "description": "Implement a patch management strategy for your workload's Windows virtual machines.",
-    "pubDate": "2026-07-28T17:27:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Application Routing with Gateway API",
-    "link": "https://azure.microsoft.com/updates?id=567944",
-    "description": "Managing ingress routing while adopting newer Kubernetes standards can require balancing modernization efforts with existing deployments. Application Routing with Gateway API is now generally available on AKS, bringing the Kubernetes Gateway API to ingres",
-    "pubDate": "2026-07-28T16:54:22.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Resource placement in Azure Kubernetes Fleet Manager",
-    "link": "https://azure.microsoft.com/updates?id=567931",
-    "description": "Managing Kubernetes resources across multiple clusters can require significant manual effort to apply updates and maintain consistency. Resource placement in Azure Kubernetes Fleet Manager is now generally available and enables platform and application te",
-    "pubDate": "2026-07-28T16:52:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Maximum allowed failures for update runs in Azure Kubernetes Fleet Manager ",
-    "link": "https://azure.microsoft.com/updates?id=567939",
-    "description": "In fail-fast update rollouts, a small number of member cluster update failures can halt progress across a broader update deployment. Maximum Allowed Failures for update runs in Azure Kubernetes Fleet Manager, now available in preview, introduces an option",
-    "pubDate": "2026-07-28T16:51:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Prepared Image Specification",
-    "link": "https://azure.microsoft.com/updates?id=567949",
-    "description": "Organizations running large-scale, AI, GPU, Windows, and other performance-sensitive workloads on AKS often experience longer node startup times because new nodes must repeatedly download container images and perform initialization tasks before workloads ",
-    "pubDate": "2026-07-28T16:45:37.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in India (India South Central)",
-    "link": "https://azure.microsoft.com/updates?id=568013",
-    "description": "Microsoft announces the opening of its fourth datacenter region in India, India South Central, with campuses in Hyderabad, Telangana. The region will provide customers with local, secure, state-of-the-art cloud infrastructure designed with AI readiness as",
-    "pubDate": "2026-07-28T15:40:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Siemens Teamcenter Baseline Architecture on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/manufacturing/teamcenter-baseline",
-    "description": "Learn about the Siemens Teamcenter product lifecycle management (PLM) baseline architecture on Azure for manufacturing and engineering enterprises.",
-    "pubDate": "2026-07-28T15:16:31.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Integrate with Partner Center agent",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#33",
-    "description": "Workspace: General • Announced: July 28",
-    "pubDate": "2026-07-28T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Coming soon: Updated Partner Center vetting experience for the Microsoft AI Cloud Partner Program and Cloud Solution Providers",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#32",
-    "description": "Workspace: General • Announced: July 28",
-    "pubDate": "2026-07-28T12:00:00.000Z",
     "source": "Partner Center Announcements"
   }
 ]
