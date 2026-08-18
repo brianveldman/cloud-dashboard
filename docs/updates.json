@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Managed Instance on Azure App Service",
+    "link": "https://azure.microsoft.com/updates?id=568952",
+    "description": "Managed Instance on Azure App Service is now generally available. Managed Instance helps organizations migrate web applications to Azure App Service with minimal configuration and no code changes. Applications running on-premises or in virtual machines ca",
+    "pubDate": "2026-08-18T17:26:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Ipv6 support in Azure Firewall",
+    "link": "https://azure.microsoft.com/updates?id=569520",
+    "description": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both IPv4 and IPv6 traffic. This preview allows native IPv6\r\nnetwork-rule filtering and DNS Proxy support, helping",
+    "pubDate": "2026-08-18T17:25:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+    "description": "<p>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/\">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-18T17:08:28.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose",
     "link": "https://azure.microsoft.com/updates?id=568344",
     "description": "You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This update helps you improve business continuity by automatically distributing your compute and data across a",
@@ -677,26 +698,5 @@
     "description": "This capability shares telemetry from Azure Monitor Log Analytics workspaces into Microsoft Fabric, making observability data available in OneLake as Delta Parquet, the open format, without duplication and with near real-time availability. All Azure Monit",
     "pubDate": "2026-07-29T18:52:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available for evaluation",
-    "link": "https://azure.microsoft.com/updates?id=568466",
-    "description": "Azure Sphere OS version 26.09 RC1 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents a major bump in Azure Sphere's underlying Linux kernel version as part of our long-term su",
-    "pubDate": "2026-07-29T18:50:00.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "​​Better security starts with better questions",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
-    "description": "<p>Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/\">​​Better security starts with better questions</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-07-29T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "August price list won't include a September preview for NCE license-based services",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#35",
-    "description": "Workspace: Pricing • Announced: July 29",
-    "pubDate": "2026-07-29T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
