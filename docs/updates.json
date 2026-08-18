@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
+    "link": "https://azure.microsoft.com/updates?id=569535",
+    "description": "In November last year Broadcom changed its VMware licensing policies across all hyperscaler platforms to require customers to “bring your own” portable license for VMware Cloud Foundation (VCF).What’s changing?On August 30, 2027, as a result of the latest",
+    "pubDate": "2026-08-18T19:52:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Managed Instance on Azure App Service",
     "link": "https://azure.microsoft.com/updates?id=568952",
     "description": "Managed Instance on Azure App Service is now generally available. Managed Instance helps organizations migrate web applications to Azure App Service with minimal configuration and no code changes. Applications running on-premises or in virtual machines ca",
@@ -691,12 +698,5 @@
     "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data using Microsoft Fabric and KQL databases.",
     "pubDate": "2026-07-30T07:20:43.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
-    "link": "https://azure.microsoft.com/updates?id=568322",
-    "description": "This capability shares telemetry from Azure Monitor Log Analytics workspaces into Microsoft Fabric, making observability data available in OneLake as Delta Parquet, the open format, without duplication and with near real-time availability. All Azure Monit",
-    "pubDate": "2026-07-29T18:52:32.000Z",
-    "source": "Azure Updates"
   }
 ]
