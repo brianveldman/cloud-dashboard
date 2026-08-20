@@ -28,6 +28,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/iot-industrial-solution-architecture",
+    "description": "Learn how to build a standards-based industrial IoT reference solution that uses OPC UA to connect shop-floor telemetry to Azure analytics services.",
+    "pubDate": "2026-08-19T17:39:29.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
     "description": "<p>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/\">Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -49,11 +56,39 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Connect Azure Data Explorer to the reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-azure-data-explorer-to-solution",
+    "description": "Learn how to ingest and analyze OPC UA industrial IoT data in Azure Data Explorer by using Azure Event Hubs and KQL.",
+    "pubDate": "2026-08-19T14:30:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect Power BI to the OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-power-bi-to-the-solution",
+    "description": "Learn how to connect Power BI to the Open Platform Communications Unified Architecture (OPC UA) reference solution to provide visualization for your data.",
+    "pubDate": "2026-08-18T22:16:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect Azure Databricks to the reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-databricks-to-solution",
+    "description": "Learn how to ingest and analyze OPC UA industrial IoT data in Azure Databricks by using Delta Lake and Structured Streaming.",
+    "pubDate": "2026-08-18T20:24:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
     "link": "https://azure.microsoft.com/updates?id=569535",
     "description": "In November last year, Broadcom changed its VMware licensing policies across all hyperscaler platforms to require customers to “bring your own” portable license for VMware Cloud Foundation (VCF).What’s changing?On August 30, 2027, as a result of the lates",
     "pubDate": "2026-08-18T19:52:06.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Connect Microsoft Fabric to the OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-fabric-to-solution",
+    "description": "Learn how to ingest and analyze OPC UA industrial IoT data by using Microsoft Fabric and KQL databases.",
+    "pubDate": "2026-08-18T18:51:50.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Managed Instance on Azure App Service",
@@ -75,6 +110,34 @@
     "description": "<p>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/\">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-08-18T17:08:28.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Multilayered protection for Azure virtual machine access",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm",
+    "description": "Protect access to Azure VMs through a multilayer approach, using Azure and Entra ID security services. These recommendations align with security principles and best practices, such as defense in depth, least privilege, and zero trust.",
+    "pubDate": "2026-08-18T17:02:32.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "CDN guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
+    "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
+    "pubDate": "2026-08-18T15:26:23.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Improper instantiation antipattern",
+    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/improper-instantiation",
+    "description": "Avoid continually creating new instances of an object that is meant to be created once and then shared.",
+    "pubDate": "2026-08-17T21:09:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Best practices for monitoring and diagnostics",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/monitoring",
+    "description": "Learn how to track how customers use your distributed applications and services, trace resource utilization, and monitor health and performance.",
+    "pubDate": "2026-08-17T20:25:39.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose",
@@ -634,69 +697,6 @@
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#38",
     "description": "Workspace: General • Announced: July 31",
     "pubDate": "2026-07-31T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central ",
-    "link": "https://azure.microsoft.com/updates?id=568334",
-    "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the India South Central Azure region.   Learn more.  ",
-    "pubDate": "2026-07-30T19:14:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Automation supports PowerShell 7.6 runbooks and Runtime environment",
-    "link": "https://azure.microsoft.com/updates?id=568102",
-    "description": "Azure Automation is pleased to announce: General Availability of in-support PowerShell 7.6  runbooksRuntime Environment GA, enabling customers to seamlessly upgrade their outdated scripts to supported runtime versions.  Support for Azure CLI commands in P",
-    "pubDate": "2026-07-30T19:10:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Reservation exchanges for Azure services supported by savings plans will no longer be available starting February 1, 2027  ",
-    "link": "https://azure.microsoft.com/updates?id=568514",
-    "description": "Starting February 1, 2027, Azure reservations exchanges will no longer be available for services covered by savings plans.  At the time of this announcement, this includes reservations for the following services:    Compute services: Azure Virtual Machine",
-    "pubDate": "2026-07-30T19:03:21.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Symmetric keys on Azure Key Vault Premium",
-    "link": "https://azure.microsoft.com/updates?id=566746",
-    "description": "We’re announcing symmetric\r\nkeys on Azure Key Vault Premium are now available in public preview. This preview enables\r\ncustomers and partners to evaluate symmetric encryption capabilities using the oct-HSM\r\nkey type and the Advanced Encryption Standard (AES)",
-    "pubDate": "2026-07-30T18:57:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Connect Azure Data Explorer to the reference solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-azure-data-explorer-to-solution",
-    "description": "Learn how to ingest and analyze OPC UA PubSub industrial IoT data in Azure Data Explorer by using Event Hubs and KQL.",
-    "pubDate": "2026-07-30T16:57:04.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Support for SMB Opportunistic Locking (Oplocks) configuration ",
-    "link": "https://azure.microsoft.com/updates?id=568396",
-    "description": "Azure NetApp Files now supports configuration of SMB opportunistic locking (oplocks) for SMB and dual-protocol volumes. Opportunistic locks (Oplocks) improve SMB client caching and are enabled by default. You can configure oplocks on new volumes or update",
-    "pubDate": "2026-07-30T16:38:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "The next measure of AI momentum is work transformed",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-    "description": "<p>In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter over quarter.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/\">The next measure of AI momentum is work transformed</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-07-30T13:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Azure reservation exchange policy update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#37",
-    "description": "Workspace: General • Announced: July 30",
-    "pubDate": "2026-07-30T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Specialization skilling updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#36",
-    "description": "Workspace: General • Announced: July 30",
-    "pubDate": "2026-07-30T12:00:00.000Z",
     "source": "Partner Center Announcements"
   }
 ]
