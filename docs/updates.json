@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement",
+    "link": "https://azure.microsoft.com/updates?id=569743",
+    "description": "Summarized advertised gateway\r\nprefixes for route advertisement is now generally available. You can specify\r\naggregated (summarized) prefixes for an Azure gateway to advertise to your\r\non-premises networks, rather than having every individual virtual network",
+    "pubDate": "2026-08-20T17:02:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Azure Copilot introduces direct access to agents",
+    "link": "https://azure.microsoft.com/updates?id=569685",
+    "description": "Starting in August 2026, customers can engage directly with Azure Copilot agents to move more quickly from questions to action.With this update:Choose the right agent for your goal. Customers can select the specific agent best suited to their needs and ge",
+    "pubDate": "2026-08-20T16:08:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
     "link": "https://azure.microsoft.com/updates?id=569684",
     "description": "Lakebase is now generally available in four additional Azure regions: North Central US, France Central, Germany West Central, and East Asia. This expansion provides customers with additional deployment options and broader regional availability for Lakebas",
@@ -684,19 +698,5 @@
     "description": "Route maps for Azure Route Server are now available in\r\npublic preview, providing fine-grained control over inbound and outbound routing\r\nacross hybrid connections. Customers can manage routes advertised to and from\r\nAzure Route Server BGP peerings with Netw",
     "pubDate": "2026-07-31T20:48:35.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for late-July ",
-    "link": "https://azure.microsoft.com/updates?id=568139",
-    "description": "In late-July 2026, the following update and enhancement was made to Azure SQL: Regex-based dynamic data masking (DDM) extends the built-in DDM feature with pattern‑based masking to hide sensitive data like emails, phone numbers, and identifiers—centrally ",
-    "pubDate": "2026-07-31T18:16:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Expanded SMB track eligibility",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-july#38",
-    "description": "Workspace: General • Announced: July 31",
-    "pubDate": "2026-07-31T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
