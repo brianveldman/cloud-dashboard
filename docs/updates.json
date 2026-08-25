@@ -1,5 +1,12 @@
 [
   {
+    "title": "The patch window is collapsing: Why security needs a new control plane",
+    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-25T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
     "link": "https://azure.microsoft.com/updates?id=569526",
     "description": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer PostgreSQL versions. With access to critical security updates, critical bug fixes, and technical support for eli",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
     "description": "Reference architecture for a baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2026-08-03T19:37:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build and deploy custom document processing models on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
-    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
-    "pubDate": "2026-08-03T19:10:59.000Z",
     "source": "Azure Architecture"
   }
 ]
