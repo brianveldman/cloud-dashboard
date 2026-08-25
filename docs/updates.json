@@ -1,5 +1,12 @@
 [
   {
+    "title": "Investigating- Issues in Southeast Asia",
+    "link": "https://azure.status.microsoft/en-us/status/",
+    "description": "We have observed recovery for a portion of the infrastructure affected by this issue within the Southeast Asia region. While many impacted services and resources have recovered, a subset of customers may continue to experience connectivity issues or service degradation for dependent Azure services. Engineers are actively working to restore the remaining impacted infrastructure and validate full service recovery.More information will be provided as it becomes available.",
+    "pubDate": "2026-08-25T04:36:14.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
     "link": "https://azure.microsoft.com/updates?id=569526",
     "description": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer PostgreSQL versions. With access to critical security updates, critical bug fixes, and technical support for eli",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
     "description": "Reference architecture for a baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2026-08-03T19:37:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build and deploy custom document processing models on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
-    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
-    "pubDate": "2026-08-03T19:10:59.000Z",
     "source": "Azure Architecture"
   }
 ]
