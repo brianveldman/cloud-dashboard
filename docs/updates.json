@@ -1,5 +1,19 @@
 [
   {
+    "title": "Announcing: Aspire 13.5 has shipped",
+    "link": "https://azure.microsoft.com/updates?id=569910",
+    "description": "Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volumes, and brings live terminals into the apphost.Learn more. ",
+    "pubDate": "2026-08-25T19:55:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs ",
+    "link": "https://azure.microsoft.com/updates?id=569546",
+    "description": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memory-optimized VMs deliver up to 20% better compute performance than prior-generation Intel-based v6 VMs, wi",
+    "pubDate": "2026-08-25T18:05:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "The patch window is collapsing: Why security needs a new control plane",
     "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
     "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -684,19 +698,5 @@
     "description": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically enables Secure Boot and vTPM for supported deployments, helping customers establish a stronger security base",
     "pubDate": "2026-08-03T19:56:26.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Manage Microsoft 365 tenant configuration by using Microsoft365DSC and Azure DevOps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/devops/manage-microsoft-365-tenant-configuration-microsoft365dsc-devops",
-    "description": "Manage Microsoft 365 tenant configuration by using Microsoft365DSC and Azure DevOps.",
-    "pubDate": "2026-08-03T19:49:58.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Reference architecture for a baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-08-03T19:37:50.000Z",
-    "source": "Azure Architecture"
   }
 ]
