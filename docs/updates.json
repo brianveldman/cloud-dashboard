@@ -16,6 +16,13 @@
   {
     "title": "The patch window is collapsing: Why security needs a new control plane",
     "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-08-25T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "The patch window is collapsing: Why security needs a new control plane",
+    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
     "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-08-25T16:00:00.000Z",
     "source": "Security"
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=565214",
     "description": "Azure DNS now offers a seamless way to integrate with Azure Traffic Manager for DNS-based traffic routing. Customers can now directly associate Azure DNS record set with Traffic Manager profiles without creating CNAME record for trafficmanager.net domain.",
     "pubDate": "2026-08-04T17:04:55.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Virtual Network routing appliance",
-    "link": "https://azure.microsoft.com/updates?id=568605",
-    "description": "Azure Virtual Network routing appliance is now generally\r\navailable. It delivers private connectivity across virtual networks, using\r\nspecialized hardware for low latency, high throughput, and better performance\r\nthan virtual machines. Key benefits and funct",
-    "pubDate": "2026-08-04T17:03:38.000Z",
     "source": "Azure Updates"
   }
 ]
