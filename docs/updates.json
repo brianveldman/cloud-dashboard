@@ -1,5 +1,61 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Bastion shareable link expiration ",
+    "link": "https://azure.microsoft.com/updates?id=570020",
+    "description": "Azure Bastion shareable link expiration is now generally\r\navailable. When creating a shareable link, administrators can specify the date\r\nand time when the link should expire. After the configured expiration time, the link can no longer\r\nbe used to connect t",
+    "pubDate": "2026-08-26T16:57:56.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: IPv6 dual-stack support for Azure Bastion",
+    "link": "https://azure.microsoft.com/updates?id=570025",
+    "description": "Azure Bastion support for IPv4 and IPv6 dual-stack\r\nconfigurations is now available in public preview. Customers can configure a\r\nnewly created Bastion deployment with both IPv4 and IPv6 public IP addresses. IPv6 is supported for connections between the use",
+    "pubDate": "2026-08-26T16:56:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Connect to AKS clusters using Azure Bastion",
+    "link": "https://azure.microsoft.com/updates?id=570030",
+    "description": "Azure Bastion integration with Azure Kubernetes Service is\r\nnow generally available. Customers can establish a secure tunnel from their\r\nlocal machine through Azure Bastion to an AKS cluster API server. The integration enables customers to use\r\nstandard Kube",
+    "pubDate": "2026-08-26T16:55:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Introducing Live Reports for Azure SRE Agent",
+    "link": "https://azure.microsoft.com/updates?id=569690",
+    "description": "We're excited to announce Live Reports, now in Public Preview for Azure SRE Agent. Live Reports help operations teams create dynamic operational views directly from SRE Agent conversations and keep them continuously up to date with the latest data from co",
+    "pubDate": "2026-08-26T16:52:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SRE Agent VNet Integration ",
+    "link": "https://azure.microsoft.com/updates?id=569695",
+    "description": "Azure SRE Agent VNet Integration is now generally available. VNet integration enables Azure SRE Agent to operate within your existing network controls, including Network Security Groups (NSGs), private DNS, and firewall policies, etc. With VNet support, t",
+    "pubDate": "2026-08-26T16:51:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SRE Agent 30-Day Trial",
+    "link": "https://azure.microsoft.com/updates?id=569760",
+    "description": "New customers can now get started with Azure SRE Agent through a 30-day trial experience. During the trial, customers can create SRE Agents and connect them to your operational tools and data sources, and explore capabilities at their own pace without bas",
+    "pubDate": "2026-08-26T16:50:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "When AI infrastructure becomes the target: Securing gateways and control points",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
+    "description": "<p>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/\">When AI infrastructure becomes the target: Securing gateways and control points</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-26T16:43:53.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Microsoft Partner Compliance Readiness training now available in the Partner Skilling hub",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#19",
+    "description": "Workspace: General • Announced: August 26",
+    "pubDate": "2026-08-26T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Announcing: Aspire 13.5 has shipped",
     "link": "https://azure.microsoft.com/updates?id=569910",
     "description": "Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volumes, and brings live terminals into the apphost.Learn more. ",
@@ -16,16 +72,16 @@
   {
     "title": "The patch window is collapsing: Why security needs a new control plane",
     "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-25T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "The patch window is collapsing: Why security needs a new control plane",
-    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
     "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-08-25T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Growth margins and API readiness updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#18",
+    "description": "Workspace: General • Announced: August 25",
+    "pubDate": "2026-08-25T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
@@ -329,7 +385,7 @@
     "source": "Partner Center Announcements"
   },
   {
-    "title": "Microsoft Copilot app update",
+    "title": "Prepare customers for a simpler, unified Microsoft Copilot app experience",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#13",
     "description": "Workspace: General • Announced: August 14",
     "pubDate": "2026-08-14T12:00:00.000Z",
@@ -641,62 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=568661",
     "description": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has not been resized before\r\nthat date will deallocated. The impacted VM sizes that will be retired are: DCas_c",
     "pubDate": "2026-08-05T00:22:49.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-    "description": "<p>A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/\">ChainDrop supply chain compromise: Anatomy of a self-propagating worm</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-04T23:46:41.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Kubernetes cluster governance",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/governance",
-    "description": "Understand governance options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) governance options.",
-    "pubDate": "2026-08-04T19:35:20.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
-    "link": "https://azure.microsoft.com/updates?id=568837",
-    "description": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network security perimeters to securely communicate\r\nwith each other using Managed Identity (MSI), without requiring add",
-    "pubDate": "2026-08-04T18:30:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
-    "description": "<p>Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/\">Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-04T18:30:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Private Link support over IPv6 ",
-    "link": "https://azure.microsoft.com/updates?id=568842",
-    "description": "Azure Private Link over IPv6\r\nenables you to privately access Azure PaaS services, such as Azure Storage and\r\nAzure SQL Database, over IPv6-based connectivity. You can now use IPv6 private\r\nendpoints to connect from IPv6 clients in an Azure virtual network o",
-    "pubDate": "2026-08-04T18:29:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose an Azure service for vector search",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
-    "description": "Compare capabilities, indexing methods, and integration options to determine which Azure vector search service best fits your application.",
-    "pubDate": "2026-08-04T17:56:22.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
-    "description": "<p>Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/\">128 Seconds to disruption: Microsoft Defender stops ransomware at QNET </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-04T17:54:04.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure DNS enables DNS-based load balancing through Traffic Manager integration",
-    "link": "https://azure.microsoft.com/updates?id=565214",
-    "description": "Azure DNS now offers a seamless way to integrate with Azure Traffic Manager for DNS-based traffic routing. Customers can now directly associate Azure DNS record set with Traffic Manager profiles without creating CNAME record for trafficmanager.net domain.",
-    "pubDate": "2026-08-04T17:04:55.000Z",
     "source": "Azure Updates"
   }
 ]
