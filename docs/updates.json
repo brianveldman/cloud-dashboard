@@ -63,6 +63,34 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "DevSecOps on Azure Kubernetes Service (AKS)",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
+    "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
+    "pubDate": "2026-08-21T20:49:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Design a secure multitenant RAG inferencing solution",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/secure-multitenant-rag",
+    "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
+    "pubDate": "2026-08-21T07:47:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural approaches for cost management and allocation in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/cost-management-allocation",
+    "description": "Learn about cost management and allocation approaches for multitenant solutions, including Azure resource tagging, consumption tracking, and optimization.",
+    "pubDate": "2026-08-21T03:27:05.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural approaches for storage and data in multitenant solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/storage-data",
+    "description": "Learn about approaches, including common patterns and antipatterns, to support multitenancy for the storage and data components of your solution.",
+    "pubDate": "2026-08-21T01:09:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement",
     "link": "https://azure.microsoft.com/updates?id=569743",
     "description": "Summarized advertised gateway\r\nprefixes for route advertisement is now generally available. You can specify\r\naggregated (summarized) prefixes for an Azure gateway to advertise to your\r\non-premises networks, rather than having every individual virtual network",
@@ -82,6 +110,13 @@
     "description": "Workspace: General • Announced: August 20",
     "pubDate": "2026-08-20T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Quantum computing integration with classical apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/quantum/quantum-computing-integration-with-classical-apps",
+    "description": "Learn how to integrate quantum work with classical applications by using direct quantum integration or workflow-orchestrated quantum integration patterns.",
+    "pubDate": "2026-08-20T02:22:35.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
@@ -151,6 +186,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-power-bi-to-the-solution",
     "description": "Learn how to connect Power BI to the Open Platform Communications Unified Architecture (OPC UA) reference solution to provide visualization for your data.",
     "pubDate": "2026-08-18T22:16:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect Azure Databricks to the reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-databricks-to-solution",
+    "description": "Learn how to ingest and analyze OPC UA industrial IoT data in Azure Databricks by using Delta Lake and Structured Streaming.",
+    "pubDate": "2026-08-18T20:24:41.000Z",
     "source": "Azure Architecture"
   },
   {
@@ -655,48 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=568605",
     "description": "Azure Virtual Network routing appliance is now generally\r\navailable. It delivers private connectivity across virtual networks, using\r\nspecialized hardware for low latency, high throughput, and better performance\r\nthan virtual machines. Key benefits and funct",
     "pubDate": "2026-08-04T17:03:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Build portable applications with adaptive apps",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/adaptive-apps",
-    "description": "The adaptive apps solution enables applications to adapt across diverse environments and operational conditions, including disconnected environments, sovereign cloud deployments, on-premises infrastructure, and hybrid topologies.",
-    "pubDate": "2026-08-04T16:02:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry chat reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-08-04T14:59:36.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline Microsoft Foundry chat reference architecture in an Azure landing zone",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone",
-    "description": "Learn about deploying the baseline Microsoft Foundry, Foundry Agent Service, Azure OpenAI in Foundry Models, and Azure App Service chat architecture in an Azure landing zone.",
-    "pubDate": "2026-08-04T14:59:36.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "High availability enterprise deployment that uses App Service Environment",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service-environment/architectures/app-service-environment-high-availability-deployment",
-    "description": "Learn about the recommended architecture to deploy an enterprise application by using App Service Environment in multiple availability zones.",
-    "pubDate": "2026-08-04T14:21:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Windows 365: Service plan name update from Windows 365 Frontline to Windows 365 Flex",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#4",
-    "description": "Workspace: General • Announced: August 04",
-    "pubDate": "2026-08-04T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[Launched] Generally Available: Trusted Launch as Default",
-    "link": "https://azure.microsoft.com/updates?id=568600",
-    "description": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically enables Secure Boot and vTPM for supported deployments, helping customers establish a stronger security base",
-    "pubDate": "2026-08-03T19:56:26.000Z",
     "source": "Azure Updates"
   }
 ]
