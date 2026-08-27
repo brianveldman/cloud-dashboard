@@ -72,13 +72,6 @@
   {
     "title": "The patch window is collapsing: Why security needs a new control plane",
     "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-25T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "The patch window is collapsing: Why security needs a new control plane",
-    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
     "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-08-25T16:00:00.000Z",
     "source": "Security"
@@ -698,5 +691,12 @@
     "description": "Workspace: General • Announced: August 05",
     "pubDate": "2026-08-05T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=568661",
+    "description": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has not been resized before\r\nthat date will deallocated. The impacted VM sizes that will be retired are: DCas_c",
+    "pubDate": "2026-08-05T00:22:49.000Z",
+    "source": "Azure Updates"
   }
 ]
