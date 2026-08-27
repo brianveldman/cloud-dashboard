@@ -42,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "When AI infrastructure becomes the target: Securing gateways and control points",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
-    "description": "<p>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/\">When AI infrastructure becomes the target: Securing gateways and control points</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-26T16:43:53.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Microsoft Partner Compliance Readiness training now available in the Partner Skilling hub",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#19",
     "description": "Workspace: General • Announced: August 26",
@@ -75,13 +68,6 @@
     "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-08-25T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "The patch window is collapsing: Why security needs a new control plane",
-    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-25T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Growth margins and API readiness updates",
@@ -224,13 +210,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-    "description": "<p>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/\">Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-19T17:30:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: vCore Customization: Disable Multithreading and Configurable Constrained Cores  ",
     "link": "https://azure.microsoft.com/updates?id=569051",
     "description": "Today, we are announcing the General Availability of VM vCore Customization for Azure Virtual Machines, introducing two new capabilities: Disable Simultaneous Multi-Threading/Hyper-Threading (SMT/HT) and Configurable Constrained Cores. These features prov",
@@ -299,13 +278,6 @@
     "description": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both IPv4 and IPv6 traffic. This preview allows native IPv6\r\nnetwork-rule filtering and DNS Proxy support, helping",
     "pubDate": "2026-08-18T17:25:30.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-    "description": "<p>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/\">Hunting MacSync Stealer infrastructure through behavioral pivots</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-18T17:08:28.000Z",
-    "source": "Security"
   },
   {
     "title": "Multilayered protection for Azure virtual machine access",
@@ -560,20 +532,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-    "description": "<p>Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/\">Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-10T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
-    "description": "<p>Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/\">DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-10T15:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Enter the CSP Copilot Partner Council Contest",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#9",
     "description": "Workspace: General • Announced: August 10",
@@ -672,20 +630,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
-    "description": "<p>Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/\">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-05T16:30:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
-    "description": "<p>A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/\">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-05T15:48:39.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Explicit proxy in Azure Firewall ",
     "link": "https://azure.microsoft.com/updates?id=568825",
     "description": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and HTTPS traffic directly to Azure Firewall using\r\nproxy settings, providing an alternative to route-based traff",
@@ -698,5 +642,61 @@
     "description": "Workspace: General • Announced: August 05",
     "pubDate": "2026-08-05T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
+    "link": "https://azure.microsoft.com/updates?id=568661",
+    "description": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has not been resized before\r\nthat date will deallocated. The impacted VM sizes that will be retired are: DCas_c",
+    "pubDate": "2026-08-05T00:22:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Kubernetes cluster governance",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/governance",
+    "description": "Understand governance options for a Kubernetes cluster, and compare Amazon EKS and Azure Kubernetes Service (AKS) governance options.",
+    "pubDate": "2026-08-04T19:35:20.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
+    "link": "https://azure.microsoft.com/updates?id=568837",
+    "description": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network security perimeters to securely communicate\r\nwith each other using Managed Identity (MSI), without requiring add",
+    "pubDate": "2026-08-04T18:30:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Private Link support over IPv6 ",
+    "link": "https://azure.microsoft.com/updates?id=568842",
+    "description": "Azure Private Link over IPv6\r\nenables you to privately access Azure PaaS services, such as Azure Storage and\r\nAzure SQL Database, over IPv6-based connectivity. You can now use IPv6 private\r\nendpoints to connect from IPv6 clients in an Azure virtual network o",
+    "pubDate": "2026-08-04T18:29:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Choose an Azure service for vector search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Compare capabilities, indexing methods, and integration options to determine which Azure vector search service best fits your application.",
+    "pubDate": "2026-08-04T17:56:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure DNS enables DNS-based load balancing through Traffic Manager integration",
+    "link": "https://azure.microsoft.com/updates?id=565214",
+    "description": "Azure DNS now offers a seamless way to integrate with Azure Traffic Manager for DNS-based traffic routing. Customers can now directly associate Azure DNS record set with Traffic Manager profiles without creating CNAME record for trafficmanager.net domain.",
+    "pubDate": "2026-08-04T17:04:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Virtual Network routing appliance",
+    "link": "https://azure.microsoft.com/updates?id=568605",
+    "description": "Azure Virtual Network routing appliance is now generally\r\navailable. It delivers private connectivity across virtual networks, using\r\nspecialized hardware for low latency, high throughput, and better performance\r\nthan virtual machines. Key benefits and funct",
+    "pubDate": "2026-08-04T17:03:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Build portable applications with adaptive apps",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/adaptive-apps",
+    "description": "The adaptive apps solution enables applications to adapt across diverse environments and operational conditions, including disconnected environments, sovereign cloud deployments, on-premises infrastructure, and hybrid topologies.",
+    "pubDate": "2026-08-04T16:02:25.000Z",
+    "source": "Azure Architecture"
   }
 ]
