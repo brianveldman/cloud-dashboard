@@ -1,12 +1,5 @@
 [
   {
-    "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
-    "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
-    "description": "<p>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/\">Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-27T17:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "​​​​​​What’s new in Microsoft Security: August 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
     "description": "<p>This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/\">​​​​​​What’s new in Microsoft Security: August 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -68,13 +61,6 @@
     "description": "<p>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/\">When AI infrastructure becomes the target: Securing gateways and control points</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-08-26T16:43:53.000Z",
     "source": "Security"
-  },
-  {
-    "title": "The Economics of Agent Optimization: Four ways to lower the cost",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
-    "description": "<p>Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/\">The Economics of Agent Optimization: Four ways to lower the cost</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-26T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Microsoft Partner Compliance Readiness training now available in the Partner Skilling hub",
@@ -698,5 +684,19 @@
     "description": "Learn how to architect, develop, and deploy efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
     "pubDate": "2026-08-05T21:22:33.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+    "description": "<p>Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/\">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-05T16:30:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+    "description": "<p>A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/\">From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-05T15:48:39.000Z",
+    "source": "Security"
   }
 ]
