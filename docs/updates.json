@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure",
+    "link": "https://azure.microsoft.com/updates?id=570120",
+    "description": "The Azure Files Container Storage Interface (CSI) driver in Azure\r\nKubernetes Service (AKS) now supports workload identity for pod-level\r\nauthentication to SMB file shares. Previously, managed identity support in AKS enabled\r\nworkloads to mount Azure Files w",
+    "pubDate": "2026-08-28T20:25:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure VM Image Builder in sovereign and air-gapped clouds",
+    "link": "https://azure.microsoft.com/updates?id=570105",
+    "description": "Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secret.You can now use the same managed image-building service across your sovereign and air-gapped environmen",
+    "pubDate": "2026-08-28T15:45:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
+    "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+    "description": "<p>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/\">Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-08-27T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "​​​​​​What’s new in Microsoft Security: August 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
     "description": "<p>This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/\">​​​​​​What’s new in Microsoft Security: August 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -677,26 +698,5 @@
     "description": "Unity AI Gateway is now generally available on Azure Databricks.\r\nUnity AI Gateway provides centralized governance for AI models, agents, tools,\r\nand MCP services, helping organizations monitor usage, manage costs, apply\r\nguardrails, and enforce access contr",
     "pubDate": "2026-08-05T22:32:45.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Build a CI/CD pipeline for microservices on Kubernetes by using Azure DevOps and Helm",
-    "link": "https://learn.microsoft.com/azure/architecture/microservices/ci-cd-kubernetes",
-    "description": "Learn about building a continuous integration and continuous delivery (CI/CD) pipeline for deploying microservices to Azure Kubernetes Service (AKS) by using Azure DevOps and Helm.",
-    "pubDate": "2026-08-05T21:38:36.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Integrate Event Hubs with serverless functions on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/serverless/event-hubs-functions/event-hubs-functions",
-    "description": "Learn how to architect, develop, and deploy efficient and scalable code that runs on Azure Functions and responds to Event Hubs events.",
-    "pubDate": "2026-08-05T21:22:33.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
-    "description": "<p>Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/\">​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-05T16:30:00.000Z",
-    "source": "Security"
   }
 ]
