@@ -1,5 +1,12 @@
 [
   {
+    "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+    "description": "<p>Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/\">TerminalFix campaign deploys a reverse tunnel through multistage intrusion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-08-29T03:43:27.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure",
     "link": "https://azure.microsoft.com/updates?id=570120",
     "description": "The Azure Files Container Storage Interface (CSI) driver in Azure\r\nKubernetes Service (AKS) now supports workload identity for pod-level\r\nauthentication to SMB file shares. Previously, managed identity support in AKS enabled\r\nworkloads to mount Azure Files w",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=568905",
     "description": "The SharePoint connector for Azure Databricks is now generally\r\navailable. Organizations can use Lakeflow Connect to ingest files from\r\nSharePoint into Azure Databricks, helping unify enterprise content with data\r\nand AI workflows on Azure. The connector sup",
     "pubDate": "2026-08-05T22:34:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Unity AI Gateway on Azure Databricks",
-    "link": "https://azure.microsoft.com/updates?id=568910",
-    "description": "Unity AI Gateway is now generally available on Azure Databricks.\r\nUnity AI Gateway provides centralized governance for AI models, agents, tools,\r\nand MCP services, helping organizations monitor usage, manage costs, apply\r\nguardrails, and enforce access contr",
-    "pubDate": "2026-08-05T22:32:45.000Z",
     "source": "Azure Updates"
   }
 ]
