@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Multicloud Interconnect",
+    "link": "https://azure.microsoft.com/updates?id=570364",
+    "description": "Announcing the public preview of Azure Multicloud Interconnect, a managed service that provides private connectivity between Azure and supported cloud providers, with Amazon Web Services (AWS) available as the first supported provider in preview. As organ",
+    "pubDate": "2026-08-31T18:36:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
     "description": "<p>Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/\">TerminalFix campaign deploys a reverse tunnel through multistage intrusion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Workspace: General • Announced: August 12",
     "pubDate": "2026-08-12T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Architectural approaches for governance and compliance in multitenant solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/governance-compliance",
-    "description": "Learn about governance and compliance approaches for multitenant solutions, including data sovereignty, access control, and regulatory standards.",
-    "pubDate": "2026-08-12T07:13:44.000Z",
-    "source": "Azure Architecture"
   }
 ]
