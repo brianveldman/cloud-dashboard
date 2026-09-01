@@ -14,20 +14,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing Azure Multicloud Interconnect for AWS",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
-    "description": "<p>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/\">Introducing Azure Multicloud Interconnect for AWS</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-31T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
-    "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-    "description": "<p>AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/\">Inside Microsoft&#8217;s marketing team: Scaling expertise with AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-31T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "FY27 August skilling updates",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#22",
     "description": "Workspace: General • Announced: August 31",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=569246",
     "description": "Batch rule updates are now generally\r\navailable for Azure Front Door Standard and Premium. This capability enables\r\ncustomers to add, update, delete, or reorder multiple rules in a rule set as a\r\ncoordinated operation, ensuring that all changes are applied t",
     "pubDate": "2026-08-12T17:03:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Front Door mutual TLS ",
+    "link": "https://azure.microsoft.com/updates?id=569251",
+    "description": "Mutual TLS, also known as client\r\ncertificate authentication, enables Azure Front Door to authenticate clients\r\nusing X.509 certificates before requests reach an application. It helps protect\r\nsensitive applications and APIs across business-to-business, Inte",
+    "pubDate": "2026-08-12T17:01:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Markdown for Agents in Azure App Service",
+    "link": "https://azure.microsoft.com/updates?id=568979",
+    "description": "Today, we are announcing the public preview of Markdown for Agents in Azure App Service. This feature gives AI agents and other tools a cleaner way to consume content from an App Service app. When a client requests Markdown, App Service can automatically ",
+    "pubDate": "2026-08-12T16:38:31.000Z",
     "source": "Azure Updates"
   }
 ]
