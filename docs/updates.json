@@ -1,10 +1,31 @@
 [
   {
+    "title": "[In preview] Public Preview: Per-disk resiliency for Azure VMs",
+    "link": "https://azure.microsoft.com/updates?id=569711",
+    "description": "Azure automatically recovers a VM when it loses access to an attached managed disk for an extended period. The VM is shut down and powered back on after disk connectivity is restored, with no customer action required. This remains the default behavior.Now",
+    "pubDate": "2026-08-31T23:11:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Multicloud Interconnect",
     "link": "https://azure.microsoft.com/updates?id=570364",
     "description": "Announcing the public preview of Azure Multicloud Interconnect, a managed service that provides private connectivity between Azure and supported cloud providers, with Amazon Web Services (AWS) available as the first supported provider in preview. As organ",
     "pubDate": "2026-08-31T18:36:12.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "FY27 August skilling updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#22",
+    "description": "Workspace: General • Announced: August 31",
+    "pubDate": "2026-08-31T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Showcase your Frontier AI expertise",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#21",
+    "description": "Workspace: General • Announced: August 31",
+    "pubDate": "2026-08-31T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
@@ -84,7 +105,7 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "ntroducing the Eligibility Dashboard",
+    "title": "Introducing the Eligibility Dashboard",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#20",
     "description": "Workspace: General • Announced: August 27",
     "pubDate": "2026-08-27T12:00:00.000Z",
@@ -677,26 +698,5 @@
     "description": "Today, we are announcing the public preview of Markdown for Agents in Azure App Service. This feature gives AI agents and other tools a cleaner way to consume content from an App Service app. When a client requests Markdown, App Service can automatically ",
     "pubDate": "2026-08-12T16:38:31.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The Economics of Agent Optimization: From pilots to measurable returns",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
-    "description": "<p>Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/\">The Economics of Agent Optimization: From pilots to measurable returns</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-12T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Priority queue pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/priority-queue",
-    "description": "Prioritize requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.",
-    "pubDate": "2026-08-12T14:47:21.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "CSP software pricing update effective October 1, 2026",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#10",
-    "description": "Workspace: General • Announced: August 12",
-    "pubDate": "2026-08-12T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
