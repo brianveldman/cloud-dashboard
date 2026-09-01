@@ -1,5 +1,19 @@
 [
   {
+    "title": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
+    "description": "<p>Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/\">Cybersecurity IR Workshop: The workshop you shouldn’t miss</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-01T18:55:35.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Purchase order mapping available in Microsoft Marketplace ",
+    "link": "https://azure.microsoft.com/updates?id=569700",
+    "description": "Align Microsoft Marketplace purchases to your business's accounting needs. Purchase order mapping helps allocate your Microsoft invoice, including Marketplace purchases, making it easier to reconcile your organization's cloud and AI spend. Get supplementa",
+    "pubDate": "2026-09-01T18:40:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Firewall auto-learn SNAT routes ",
     "link": "https://azure.microsoft.com/updates?id=570474",
     "description": "Azure Firewall’s auto-learn SNAT routes is now\r\ngenerally available, automatically learning registered and private destination\r\nprefixes periodically and applying them as No-SNAT ranges to preserve original\r\nsource IPs and simplify SNAT management.Learn more",
@@ -684,19 +698,5 @@
     "description": "Workspace: Membership • Announced: August 13",
     "pubDate": "2026-08-13T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Windows Server 2016 Extended Security Updates: CSP price list republish",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#11",
-    "description": "Workspace: Pricing • Announced: August 13",
-    "pubDate": "2026-08-13T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications",
-    "link": "https://azure.microsoft.com/updates?id=568457",
-    "description": "On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date the agent will be permanently disabled and will stop sending SAP logs to Microsoft Sentinel.The SAP agent",
-    "pubDate": "2026-08-12T19:41:20.000Z",
-    "source": "Azure Updates"
   }
 ]
