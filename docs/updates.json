@@ -1,5 +1,40 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Firewall auto-learn SNAT routes ",
+    "link": "https://azure.microsoft.com/updates?id=570474",
+    "description": "Azure Firewall’s auto-learn SNAT routes is now\r\ngenerally available, automatically learning registered and private destination\r\nprefixes periodically and applying them as No-SNAT ranges to preserve original\r\nsource IPs and simplify SNAT management.Learn more",
+    "pubDate": "2026-09-01T17:10:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Copilot Observability Agent supports Basic and Auxiliary table plans",
+    "link": "https://azure.microsoft.com/updates?id=570250",
+    "description": "Azure Copilot Observability Agent, an\r\nAI-powered operational companion in Azure Monitor, is now covering Log Analytics data\r\nin Basic and Auxiliary table plans during interactive analysis\r\nand deep investigations. Teams can move high-volume telemetry - incl",
+    "pubDate": "2026-09-01T16:31:14.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan in Azure Government and China regions",
+    "link": "https://azure.microsoft.com/updates?id=569899",
+    "description": "The Auxiliary table plan in Azure Monitor Logs is a cost-effective option for ingesting and retaining high-volume, verbose logs used for compliance and auditing. Auxiliary Logs is now generally available in the sovereign clouds: Azure Government (Fairfax)",
+    "pubDate": "2026-09-01T16:29:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan support for Azure tables and plan switching",
+    "link": "https://azure.microsoft.com/updates?id=569904",
+    "description": "The Auxiliary table plan in Azure Monitor Logs gives you a cost-effective way to ingest and retain high-volume, verbose logs that you keep for compliance and auditing but rarely query. Two highly requested capabilities are now generally available.Auxiliar",
+    "pubDate": "2026-09-01T16:25:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Purchase order mapping in Marketplace",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#1",
+    "description": "Workspace: General • Announced: September 1",
+    "pubDate": "2026-09-01T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[In preview] Public Preview: Per-disk resiliency for Azure VMs",
     "link": "https://azure.microsoft.com/updates?id=569711",
     "description": "Azure automatically recovers a VM when it loses access to an attached managed disk for an extended period. The VM is shut down and powered back on after disk connectivity is restored, with no customer action required. This remains the default behavior.Now",
@@ -662,41 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=568457",
     "description": "On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date the agent will be permanently disabled and will stop sending SAP logs to Microsoft Sentinel.The SAP agent",
     "pubDate": "2026-08-12T19:41:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Connect an on-premises network to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-connectivity-options",
-    "description": "Learn about the options for connecting an on-premises network to an Azure virtual network by comparing reference architectures for each option.",
-    "pubDate": "2026-08-12T17:03:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use site-to-site VPN as failover for Azure ExpressRoute",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover",
-    "description": "Learn how to connect an on-premises network to an Azure virtual network by using ExpressRoute with a virtual private network (VPN) gateway failover.",
-    "pubDate": "2026-08-12T17:03:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure VPN Gateway site-to-site connectivity for hybrid networks",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-vpn-connectivity",
-    "description": "This architecture shows how to establish encrypted layer-3 connectivity between your on-premises network and Azure virtual networks by using Azure VPN Gateway.",
-    "pubDate": "2026-08-12T17:03:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises network to Azure by using ExpressRoute",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-private-peering-connectivity",
-    "description": "This architecture shows how to connect an on-premises network to an Azure virtual network by using Azure ExpressRoute.",
-    "pubDate": "2026-08-12T17:03:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Batch rule updates for Azure Front Door ",
-    "link": "https://azure.microsoft.com/updates?id=569246",
-    "description": "Batch rule updates are now generally\r\navailable for Azure Front Door Standard and Premium. This capability enables\r\ncustomers to add, update, delete, or reorder multiple rules in a rule set as a\r\ncoordinated operation, ensuring that all changes are applied t",
-    "pubDate": "2026-08-12T17:03:08.000Z",
     "source": "Azure Updates"
   }
 ]
