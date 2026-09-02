@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Front Door profile and route level WAF policies",
+    "link": "https://azure.microsoft.com/updates?id=569804",
+    "description": "Azure Front\r\nDoor’s Web Application Firewall (WAF) now supports profile and route level WAF\r\npolicy associations in public preview. This gives you more flexibility to apply\r\nbroad baseline protection across an Azure Front Door profile while using\r\ntargeted po",
+    "pubDate": "2026-09-02T17:00:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL ",
+    "link": "https://azure.microsoft.com/updates?id=569653",
+    "description": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection ",
+    "pubDate": "2026-09-02T16:59:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "New CSP sandbox offer construct preview",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#2",
+    "description": "Workspace: General • Announced: September 2",
+    "pubDate": "2026-09-02T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
     "description": "<p>An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/\">Counterfeit installers to system compromise: Tracking a deceptive software download campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -677,26 +698,5 @@
     "description": "Azure Databricks Runtime\r\n10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached\r\nend of support on March 18, 2025 and will reach end of life on November 1, 2026. After this date,\r\nDatabricks Runtime 10.4 LTS will no longer be availabl",
     "pubDate": "2026-08-14T17:43:51.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Comparing AWS and Azure regions and zones",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/regions-zones",
-    "description": "Review a comparison of the regions and zones between Azure and AWS. Explore Virtual Machine Scale Sets, availability zones, and multi-region options in Azure.",
-    "pubDate": "2026-08-14T16:32:58.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Grow your security practice at IT Nation",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#14",
-    "description": "Workspace: General • Announced: August 14",
-    "pubDate": "2026-08-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Prepare customers for a simpler, unified Microsoft Copilot app experience",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#13",
-    "description": "Workspace: General • Announced: August 14",
-    "pubDate": "2026-08-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
