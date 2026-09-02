@@ -1,5 +1,40 @@
 [
   {
+    "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
+    "description": "<p>An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/\">Counterfeit installers to system compromise: Tracking a deceptive software download campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-01T22:48:28.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Microsoft Defender for Cloud support for Azure Container Apps (Serverless Containers Posture)",
+    "link": "https://azure.microsoft.com/updates?id=570282",
+    "description": "Customers can now bring Azure Container Apps environments into Microsoft Defender for Cloud’s Serverless Containers Posture experience, helping security teams extend posture management across more of their container estate from a single workflow. This mak",
+    "pubDate": "2026-09-01T22:34:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Windows Server 2025 on AKS",
+    "link": "https://azure.microsoft.com/updates?id=570090",
+    "description": "Organizations running Windows-based workloads on Azure Kubernetes Service (AKS) face increasing pressure to modernize as support timelines for older Windows Server versions approach retirement. To help customers prepare, AKS now offers GA support for Wind",
+    "pubDate": "2026-09-01T22:31:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Artifact Streaming on AKS",
+    "link": "https://azure.microsoft.com/updates?id=570095",
+    "description": "You can now accelerate your containerized workloads on Azure Kubernetes Service (AKS) using Azure Container Registry (ACR) with Artifact streaming. Artifact streaming will allow you to scale your workloads without having to fully wait for images to be pul",
+    "pubDate": "2026-09-01T22:30:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Confidential VMs for Azure Linux",
+    "link": "https://azure.microsoft.com/updates?id=570100",
+    "description": "Confidential Virtual Machines (CVM) offer strong security and confidentiality for tenants. CVM for Azure Linux in AKS is now generally available and enables node pools with CVM to target the migration of highly sensitive container workloads to AKS without",
+    "pubDate": "2026-09-01T22:30:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
     "description": "<p>Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/\">Cybersecurity IR Workshop: The workshop you shouldn’t miss</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -662,41 +697,6 @@
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#13",
     "description": "Workspace: General • Announced: August 14",
     "pubDate": "2026-08-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Hub-spoke network topology using Azure Virtual WAN",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke-virtual-wan-architecture",
-    "description": "Implement a hub-spoke topology that uses Azure Virtual WAN as the Microsoft-managed hub and has spoke virtual networks, branches, and remote users.",
-    "pubDate": "2026-08-14T04:08:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus",
-    "link": "https://azure.microsoft.com/updates?id=568830",
-    "description": "Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally available.This capability gives AKS customers native observability into key managed control plane components, in",
-    "pubDate": "2026-08-13T16:19:56.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks",
-    "link": "https://azure.microsoft.com/updates?id=569281",
-    "description": "We’re excited to announce the GA\r\nof Live Resize for shared Premium\r\nSSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically\r\nexpand the storage capacity of your disks without any disruption to your\r\napplications. To optimize costs, you can ",
-    "pubDate": "2026-08-13T16:17:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Pre-upgrade validation checks for Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=568419",
-    "description": "Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major version upgrade (MVU) readiness before initiating the actual upgrade process. With the general availability",
-    "pubDate": "2026-08-13T16:13:22.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Monthly Microsoft AI Cloud Partner Program update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#12",
-    "description": "Workspace: Membership • Announced: August 13",
-    "pubDate": "2026-08-13T12:00:00.000Z",
     "source": "Partner Center Announcements"
   }
 ]
