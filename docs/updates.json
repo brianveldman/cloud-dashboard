@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions ",
+    "link": "https://azure.microsoft.com/updates?id=570557",
+    "description": "Azure\r\nVirtual Network Manager IP address management is now generally available in\r\nadditional regions: US Gov Virginia, US Gov Texas and US Gov Arizona, and China\r\nNorth 3 and China East 3. In complex\r\nnetwork environments, managing IP addresses effectively ",
+    "pubDate": "2026-09-03T17:17:08.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+    "description": "<p>Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/\">ASCII smuggling crosses over from AI prompt injection to phishing evasion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-03T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Join Partnering for Success Together",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#3",
+    "description": "Workspace: General • Announced: September 3",
+    "pubDate": "2026-09-03T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
     "description": "<p>Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/\">Impersonating IT support: how threat actors turn a remote session into enterprise-wide access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -19,13 +40,6 @@
     "description": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection ",
     "pubDate": "2026-09-02T16:59:15.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-    "description": "<p>AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/\">The Economics of Agent Optimization: Context engineering for enterprise AI agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-02T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "New CSP sandbox offer construct preview",
@@ -684,19 +698,5 @@
     "description": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in the United States can now discover, evaluate and purchase Dragon Copilot Physician Apps and Agents throug",
     "pubDate": "2026-08-17T19:37:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Linux on WSL",
-    "link": "https://azure.microsoft.com/updates?id=569376",
-    "description": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate behavior using production-aligned configurationsReproduce issues more reliablyReduce time spent debugging c",
-    "pubDate": "2026-08-17T17:08:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-    "description": "<p>Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-17T15:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
