@@ -42,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-    "description": "<p>AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/\">The Economics of Agent Optimization: Context engineering for enterprise AI agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-02T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "New CSP sandbox offer construct preview",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#2",
     "description": "Workspace: General • Announced: September 2",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=568344",
     "description": "You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This update helps you improve business continuity by automatically distributing your compute and data across a",
     "pubDate": "2026-08-17T19:54:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace ",
+    "link": "https://azure.microsoft.com/updates?id=557775",
+    "description": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in the United States can now discover, evaluate and purchase Dragon Copilot Physician Apps and Agents throug",
+    "pubDate": "2026-08-17T19:37:49.000Z",
     "source": "Azure Updates"
   }
 ]
