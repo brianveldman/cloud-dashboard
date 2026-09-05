@@ -7,6 +7,13 @@
     "source": "Security"
   },
   {
+    "title": "Business Applications roadmap content moving",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#4",
+    "description": "Workspace: General • Announced: September 4",
+    "pubDate": "2026-09-04T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
     "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
     "description": "<p>The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system when AI moves into production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/\">Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -40,6 +47,13 @@
     "description": "<p>Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/\">How Microsoft&#8217;s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-09-03T15:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "PPCC 2026: Bringing AI and your business processes together",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+    "description": "<p>Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/\">PPCC 2026: Bringing AI and your business processes together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-09-03T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Join Partnering for Success Together",
@@ -684,19 +698,5 @@
     "description": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both IPv4 and IPv6 traffic. This preview allows native IPv6\r\nnetwork-rule filtering and DNS Proxy support, helping",
     "pubDate": "2026-08-18T17:25:30.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Multilayered protection for Azure virtual machine access",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm",
-    "description": "Protect access to Azure VMs through a multilayer approach, using Azure and Entra ID security services. These recommendations align with security principles and best practices, such as defense in depth, least privilege, and zero trust.",
-    "pubDate": "2026-08-18T17:02:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "CDN guidance",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
-    "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
-    "pubDate": "2026-08-18T15:26:23.000Z",
-    "source": "Azure Architecture"
   }
 ]
