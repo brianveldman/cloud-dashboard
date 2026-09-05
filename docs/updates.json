@@ -14,20 +14,6 @@
     "source": "Partner Center Announcements"
   },
   {
-    "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
-    "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-    "description": "<p>The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system when AI moves into production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/\">Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-03T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-    "description": "<p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/\">GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-03T18:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions ",
     "link": "https://azure.microsoft.com/updates?id=570557",
     "description": "Azure\r\nVirtual Network Manager IP address management is now generally available in\r\nadditional regions: US Gov Virginia, US Gov Texas and US Gov Arizona, and China\r\nNorth 3 and China East 3. In complex\r\nnetwork environments, managing IP addresses effectively ",
@@ -40,13 +26,6 @@
     "description": "<p>Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/\">ASCII smuggling crosses over from AI prompt injection to phishing evasion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-03T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "How Microsoft’s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop",
-    "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
-    "description": "<p>Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/\">How Microsoft&#8217;s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-03T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "PPCC 2026: Bringing AI and your business processes together",
@@ -698,5 +677,26 @@
     "description": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both IPv4 and IPv6 traffic. This preview allows native IPv6\r\nnetwork-rule filtering and DNS Proxy support, helping",
     "pubDate": "2026-08-18T17:25:30.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Multilayered protection for Azure virtual machine access",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm",
+    "description": "Protect access to Azure VMs through a multilayer approach, using Azure and Entra ID security services. These recommendations align with security principles and best practices, such as defense in depth, least privilege, and zero trust.",
+    "pubDate": "2026-08-18T17:02:32.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "CDN guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
+    "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
+    "pubDate": "2026-08-18T15:26:23.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Improper instantiation antipattern",
+    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/improper-instantiation",
+    "description": "Avoid continually creating new instances of an object that is meant to be created once and then shared.",
+    "pubDate": "2026-08-17T21:09:24.000Z",
+    "source": "Azure Architecture"
   }
 ]
