@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
+    "link": "https://azure.microsoft.com/updates?id=570919",
+    "description": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e",
+    "pubDate": "2026-09-08T17:35:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework",
+    "link": "https://azure.microsoft.com/updates?id=570881",
+    "description": "The Azure Developer CLI (azd) Extension Framework is now generally available. The framework enables developers, teams, and partners to extend Azure Developer CLI with custom capabilities that support their preferred application development workflows.With ",
+    "pubDate": "2026-09-08T17:18:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Idempotent Consumer pattern",
     "link": "https://learn.microsoft.com/azure/architecture/patterns/idempotent-consumer",
     "description": "Use the Idempotent Consumer pattern to safely process duplicate messages from at-least-once deliveries so that repeated processing has the same effects as processing once.",
@@ -70,9 +84,9 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-    "description": "<p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/\">GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+    "description": "<p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/\">GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-09-03T18:15:00.000Z",
     "source": "Azure Blog"
   },
@@ -154,7 +168,7 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL ",
+    "title": "[In development] Private Preview: Reader Endpoint for Azure Database for MySQL ",
     "link": "https://azure.microsoft.com/updates?id=569653",
     "description": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection ",
     "pubDate": "2026-09-02T16:59:15.000Z",
@@ -684,19 +698,5 @@
     "description": "Learn about approaches, including common patterns and antipatterns, to support multitenancy for the storage and data components of your solution.",
     "pubDate": "2026-08-21T01:09:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement",
-    "link": "https://azure.microsoft.com/updates?id=569743",
-    "description": "Summarized advertised gateway\r\nprefixes for route advertisement is now generally available. You can specify\r\naggregated (summarized) prefixes for an Azure gateway to advertise to your\r\non-premises networks, rather than having every individual virtual network",
-    "pubDate": "2026-08-20T17:02:23.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Azure Copilot introduces direct access to agents",
-    "link": "https://azure.microsoft.com/updates?id=569685",
-    "description": "Starting in August 2026, customers can engage directly with Azure Copilot agents to move more quickly from questions to action.With this update:Choose the right agent for your goal. Customers can select the specific agent best suited to their needs and ge",
-    "pubDate": "2026-08-20T16:08:02.000Z",
-    "source": "Azure Updates"
   }
 ]
