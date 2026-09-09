@@ -14,6 +14,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "CSP price list republish: Windows 10 Enterprise LTSC 2021 Extended Security Updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#6",
+    "description": "Workspace: Pricing • Announced: September 8",
+    "pubDate": "2026-09-08T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "ASPX updates to uncover opportunities",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#5",
+    "description": "Workspace: General • Announced: September 8",
+    "pubDate": "2026-09-08T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Idempotent Consumer pattern",
     "link": "https://learn.microsoft.com/azure/architecture/patterns/idempotent-consumer",
     "description": "Use the Idempotent Consumer pattern to safely process duplicate messages from at-least-once deliveries so that repeated processing has the same effects as processing once.",
@@ -84,9 +98,9 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-    "description": "<p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/\">GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+    "description": "<p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/\">GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-09-03T18:15:00.000Z",
     "source": "Azure Blog"
   },
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/secure-multitenant-rag",
     "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
     "pubDate": "2026-08-21T07:47:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Architectural approaches for cost management and allocation in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/cost-management-allocation",
-    "description": "Learn about cost management and allocation approaches for multitenant solutions, including Azure resource tagging, consumption tracking, and optimization.",
-    "pubDate": "2026-08-21T03:27:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Architectural approaches for storage and data in multitenant solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/storage-data",
-    "description": "Learn about approaches, including common patterns and antipatterns, to support multitenancy for the storage and data components of your solution.",
-    "pubDate": "2026-08-21T01:09:02.000Z",
     "source": "Azure Architecture"
   }
 ]
