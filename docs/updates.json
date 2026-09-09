@@ -1,5 +1,12 @@
 [
   {
+    "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+    "description": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-09T17:41:18.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
     "link": "https://azure.microsoft.com/updates?id=570919",
     "description": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
     "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
     "pubDate": "2026-08-21T20:49:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Design a secure multitenant RAG inferencing solution",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/secure-multitenant-rag",
-    "description": "Learn about the considerations and recommendations for improved security that you should consider when you design a multitenant RAG inferencing solution.",
-    "pubDate": "2026-08-21T07:47:28.000Z",
     "source": "Azure Architecture"
   }
 ]
