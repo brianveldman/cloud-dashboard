@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption ",
+    "link": "https://azure.microsoft.com/updates?id=570940",
+    "description": "Azure\r\nFunctions Flex Consumption support for TLS/SSL certificates is now generally\r\navailable through a new site-scoped certificate model. Each function app can\r\nhold up to 3 private (.pfx) and 3 public (.cer) certificates uploaded directly,\r\nimported from A",
+    "pubDate": "2026-09-10T16:12:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+    "description": "<p>See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/\">Detect and disrupt AI-themed attacks with Microsoft Defender</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Copilot Troubleshooting Agent",
+    "link": "https://azure.microsoft.com/updates?id=570980",
+    "description": "Azure Copilot Troubleshooting Agent is now generally available. Troubleshooting Agent is a unified, built-in Azure Copilot capability that helps customers investigate and resolve operational issues faster. Available through both Azure Copilot and Support ",
+    "pubDate": "2026-09-10T15:25:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "New incentives for Microsoft Copilot Cowork adoption",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#9",
+    "description": "Workspace: General • Announced: September 10",
+    "pubDate": "2026-09-10T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: User-bound user delegation SAS for Azure Storage ",
     "link": "https://azure.microsoft.com/updates?id=569241",
     "description": "Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (SAS) with the user-bound access of Entra ID. User-bound user delegation SAS is now generally available for",
@@ -47,13 +75,6 @@
     "description": "Workspace: General • Announced: September 9",
     "pubDate": "2026-09-09T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-    "description": "<p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/\">Beyond the benchmark: How an adaptive approach drives scientific discovery</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-08T20:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
@@ -560,13 +581,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "When AI infrastructure becomes the target: Securing gateways and control points",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
-    "description": "<p>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/\">When AI infrastructure becomes the target: Securing gateways and control points</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-26T16:43:53.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Azure Virtual Machines baseline architecture",
     "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline",
     "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
@@ -682,20 +696,6 @@
     "title": "Deploy Microservices to Azure Container Apps",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
     "description": "Learn how to replatform and deploy existing Kubernetes microservice application workloads to run in Azure Container Apps.",
-    "pubDate": "2026-08-24T18:27:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy Microservices with Azure Container Apps and Dapr",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr",
-    "description": "Build a serverless microservices solution on Azure Container Apps by using Distributed Application Runtime (Dapr) and Kubernetes event-driven autoscaling (KEDA).",
-    "pubDate": "2026-08-24T18:27:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Advanced Azure Kubernetes Service (AKS) Microservices Architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
-    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
     "pubDate": "2026-08-24T18:27:41.000Z",
     "source": "Azure Architecture"
   }
