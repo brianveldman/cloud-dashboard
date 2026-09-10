@@ -1,10 +1,52 @@
 [
   {
+    "title": "[Launched] Generally Available: User-bound user delegation SAS for Azure Storage ",
+    "link": "https://azure.microsoft.com/updates?id=569241",
+    "description": "Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (SAS) with the user-bound access of Entra ID. User-bound user delegation SAS is now generally available for",
+    "pubDate": "2026-09-09T22:30:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Threat matrix: Mapping threats across cloud web applications",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+    "description": "<p>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/\">Threat matrix: Mapping threats across cloud web applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-09T21:30:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS ",
+    "link": "https://azure.microsoft.com/updates?id=570551",
+    "description": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches the complete OS image on a VM’s local storage, eliminating remote-storage reads after caching finishes. Thi",
+    "pubDate": "2026-09-09T21:24:37.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Passkey-themed social engineering leads to identity and cloud compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
     "description": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-09T17:41:18.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Join Partnering for Success Together",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#3",
+    "description": "Workspace: General • Announced: September 9",
+    "pubDate": "2026-09-09T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Automatic onboarding for Microsoft Sentinel",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#8",
+    "description": "Workspace: General • Announced: September 9",
+    "pubDate": "2026-09-09T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Dynamics 365 Activate now in limited public preview",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#7",
+    "description": "Workspace: General • Announced: September 9",
+    "pubDate": "2026-09-09T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
@@ -145,13 +187,6 @@
     "description": "<p>Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/\">PPCC 2026: Bringing AI and your business processes together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-03T15:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Join Partnering for Success Together",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#3",
-    "description": "Workspace: General • Announced: September 3",
-    "pubDate": "2026-09-03T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   },
   {
     "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -595,13 +630,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "The patch window is collapsing: Why security needs a new control plane",
-    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-25T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Growth margins and API readiness updates",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#18",
     "description": "Workspace: General • Announced: August 25",
@@ -670,33 +698,5 @@
     "description": "On April 30 2027, support for Node 22 LTS will end. Your apps that are hosted on App\r\nService will continue to run, but security updates will no longer be available,\r\nand we’ll no longer provide customer service for Node 22 LTS. Required action: To\r\navoid po",
     "pubDate": "2026-08-24T17:30:43.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Custom block response code and body for Application Gateway WAF ",
-    "link": "https://azure.microsoft.com/updates?id=569504",
-    "description": "Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Application Gateway now supports customizable response status codes and bodies for blocked requests, enabling ",
-    "pubDate": "2026-08-24T17:25:03.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Drive more marketing ROI in FY27",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#17",
-    "description": "Workspace: General • Announced: August 24",
-    "pubDate": "2026-08-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Guide every Copilot-in-30 trial with a personalized 30-day success plan",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#16",
-    "description": "Workspace: General • Announced: August 24",
-    "pubDate": "2026-08-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "DevSecOps on Azure Kubernetes Service (AKS)",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/devsecops/devsecops-on-aks",
-    "description": "Learn how DevSecOps helps you incorporate security best practices from the start of software development and throughout the software deployment life cycle (SDLC).",
-    "pubDate": "2026-08-21T20:49:57.000Z",
-    "source": "Azure Architecture"
   }
 ]
