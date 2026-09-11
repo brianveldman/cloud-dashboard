@@ -84,6 +84,13 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+    "description": "<p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/\">Beyond the benchmark: How an adaptive approach drives scientific discovery</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-08T20:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
     "link": "https://azure.microsoft.com/updates?id=570919",
     "description": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e",
@@ -689,13 +696,6 @@
     "title": "Use a Message Broker and Events to Integrate Enterprise Systems",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/integration/queues-events",
     "description": "Learn how to integrate enterprise back-end systems by using a message broker and events to decouple services for greater scalability and reliability.",
-    "pubDate": "2026-08-24T18:27:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy Microservices to Azure Container Apps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
-    "description": "Learn how to replatform and deploy existing Kubernetes microservice application workloads to run in Azure Container Apps.",
     "pubDate": "2026-08-24T18:27:41.000Z",
     "source": "Azure Architecture"
   }
