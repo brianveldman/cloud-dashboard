@@ -14,6 +14,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+    "description": "<p>Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T21:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
     "description": "<p>Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/\">Protecting organizations from AI-assisted executive impersonation and invoice fraud</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -21,11 +28,25 @@
     "source": "Security"
   },
   {
+    "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+    "description": "<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/\">The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption ",
     "link": "https://azure.microsoft.com/updates?id=570940",
     "description": "Azure\r\nFunctions Flex Consumption support for TLS/SSL certificates is now generally\r\navailable through a new site-scoped certificate model. Each function app can\r\nhold up to 3 private (.pfx) and 3 public (.cer) certificates uploaded directly,\r\nimported from A",
     "pubDate": "2026-09-10T16:12:49.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "The future of infrastructure resiliency starts with modernization",
+    "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+    "description": "<p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/\">The future of infrastructure resiliency starts with modernization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
@@ -70,6 +91,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+    "description": "<p>Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve three-zone designs for the components that genuinely require a third failure domain.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/\">Two zones or three? A design framework for zone-resilient Azure workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-09T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Passkey-themed social engineering leads to identity and cloud compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
     "description": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -96,6 +124,13 @@
     "description": "Workspace: General • Announced: September 9",
     "pubDate": "2026-09-09T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+    "description": "<p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/\">Beyond the benchmark: How an adaptive approach drives scientific discovery</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-08T20:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
@@ -441,13 +476,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
-    "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-    "description": "<p>AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/\">Inside Microsoft&#8217;s marketing team: Scaling expertise with AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-31T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "FY27 August skilling updates",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#22",
     "description": "Workspace: General • Announced: August 31",
@@ -495,13 +523,6 @@
     "description": "Use AI Builder and Azure Document Intelligence in Foundry Tools in a Power Automate workflow to extract text from images for indexing and retrieval.",
     "pubDate": "2026-08-27T23:00:34.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
-    "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
-    "description": "<p>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/\">Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-27T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Azure Virtual Machines baseline architecture in an Azure landing zone",
@@ -602,13 +623,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "The Economics of Agent Optimization: Four ways to lower the cost",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
-    "description": "<p>Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/\">The Economics of Agent Optimization: Four ways to lower the cost</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-26T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Basic Enterprise Integration on Azure",
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/enterprise-integration/basic-enterprise-integration",
     "description": "Learn how to implement a basic enterprise integration architecture on Azure by using Azure Logic Apps and Azure API Management.",
@@ -658,13 +672,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "The patch window is collapsing: Why security needs a new control plane",
-    "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-    "description": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-25T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Growth margins and API readiness updates",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#18",
     "description": "Workspace: General • Announced: August 25",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=569526",
     "description": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer PostgreSQL versions. With access to critical security updates, critical bug fixes, and technical support for eli",
     "pubDate": "2026-08-24T19:15:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: eBPF host routing in Advanced Container Networking Services for AKS",
-    "link": "https://azure.microsoft.com/updates?id=569873",
-    "description": "eBPF Host Routing in Advanced\r\nContainer Networking Services for Azure Kubernetes Service (AKS) is now\r\ngenerally available. eBPF Host Routing improves\r\nKubernetes networking performance by moving packet forwarding and routing\r\ndecisions directly into the Lin",
-    "pubDate": "2026-08-24T18:36:01.000Z",
     "source": "Azure Updates"
   }
 ]
