@@ -49,6 +49,13 @@
     "source": "Azure Blog"
   },
   {
+    "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
+    "description": "<p>Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/\">ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
     "description": "<p>See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/\">Detect and disrupt AI-themed attacks with Microsoft Defender</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -61,6 +68,13 @@
     "description": "Azure Copilot Troubleshooting Agent is now generally available. Troubleshooting Agent is a unified, built-in Azure Copilot capability that helps customers investigate and resolve operational issues faster. Available through both Azure Copilot and Support ",
     "pubDate": "2026-09-10T15:25:52.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Build apps in Copilot Cowork and Copilot Studio",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
+    "description": "<p>Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/\">Build apps in Copilot Cowork and Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "New incentives for Microsoft Copilot Cowork adoption",
@@ -684,19 +698,5 @@
     "description": "Learn how to secure AKS workloads by using end-to-end TLS encryption, Azure Front Door Premium, an Azure Private Link service, and a Gateway API ingress implementation.",
     "pubDate": "2026-08-24T20:01:40.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Big Data Architectures",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/big-data-architectures",
-    "description": "Learn how big data architectures manage the ingestion, processing, and analysis of data that's too large or complex for traditional database systems.",
-    "pubDate": "2026-08-24T19:36:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=569526",
-    "description": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer PostgreSQL versions. With access to critical security updates, critical bug fixes, and technical support for eli",
-    "pubDate": "2026-08-24T19:15:05.000Z",
-    "source": "Azure Updates"
   }
 ]
