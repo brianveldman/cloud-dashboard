@@ -1,5 +1,19 @@
 [
   {
+    "title": "Modern data warehouse medallion architecture in Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/dataops-mdw",
+    "description": "Learn how to implement a SQL-first modern data warehouse medallion architecture by using Fabric Data Warehouse, OneLake, Fabric Data Factory, and Power BI.",
+    "pubDate": "2026-09-11T20:15:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Agentic AI for the OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/agentic-ai-for-the-solution",
+    "description": "Learn how to use agentic AI to augment a solution that uses OPC Unified Architecture (OPC UA) to connect shop-floor telemetry to Azure analytics services.",
+    "pubDate": "2026-09-11T20:12:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: Azure Linux with OS Guard in Azure Kubernetes Service",
     "link": "https://azure.microsoft.com/updates?id=571257",
     "description": "Support for Azure Linux with OS Guard in Azure Kubernetes Service will end on December 10, 2026. Azure Container Linux is the replacement for Azure Linux with OS Guard (preview). Starting on December 10, 2026:Users won’t be able to create new Azure Linux ",
@@ -14,11 +28,46 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure hybrid options",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/hybrid-considerations",
+    "description": "Learn how Azure hybrid options address workload placement, operations, sovereignty, connectivity, and AI requirements.",
+    "pubDate": "2026-09-10T21:53:17.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Get started with Azure hybrid and adaptive cloud architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/hybrid-start-here",
+    "description": "Learn how to plan an Azure hybrid and adaptive cloud architecture across Azure, datacenters, edge locations, and other clouds.",
+    "pubDate": "2026-09-10T21:53:17.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Technology choices for Azure solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/technology-choices-overview",
+    "description": "Learn where to find Azure technology guidance across compute, data, analytics, networking, and AI by using curated comparison and choice resources.",
+    "pubDate": "2026-09-10T21:53:17.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
     "description": "<p>Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-09-10T21:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/iot-industrial-solution-architecture",
+    "description": "Learn how to build a standards-based industrial IoT reference solution that uses OPC UA to connect shop-floor telemetry to Azure analytics services.",
+    "pubDate": "2026-09-10T18:34:54.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Workload identity and access in EKS and AKS",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/workload-identity",
+    "description": "Understand how Kubernetes clusters, nodes, and pods handle identity and access, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
+    "pubDate": "2026-09-10T17:48:02.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
@@ -70,6 +119,20 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Azure Data Factory baseline architecture in an Azure landing zone",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/azure-data-factory-on-azure-landing-zones-baseline",
+    "description": "Learn how to design and implement the medallion lakehouse architecture in an Azure landing zone by using Azure Data Factory, Azure Databricks, SQL Server, and Power BI.",
+    "pubDate": "2026-09-10T03:11:27.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Azure App Configuration",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
+    "description": "Learn about the features of Azure App Configuration that are useful when you work with multitenant systems, and use the provided links for guidance and examples.",
+    "pubDate": "2026-09-10T02:54:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: User-bound user delegation SAS for Azure Storage ",
     "link": "https://azure.microsoft.com/updates?id=569241",
     "description": "Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (SAS) with the user-bound access of Entra ID. User-bound user delegation SAS is now generally available for",
@@ -89,6 +152,13 @@
     "description": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches the complete OS image on a VM’s local storage, eliminating remote-storage reads after caching finishes. Thi",
     "pubDate": "2026-09-09T21:24:37.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Enable an industrial dataspace on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-enable-industrial-dataspaces",
+    "description": "Learn how to enable an industrial dataspace on Azure. A dataspace provides a secure point-to-point channel for data between the manufacturer and the customer.",
+    "pubDate": "2026-09-09T18:30:27.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
@@ -469,6 +539,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Choose an Azure AI image and video processing and generation technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
+    "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
+    "pubDate": "2026-08-31T18:33:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Introducing Azure Multicloud Interconnect for AWS",
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
     "description": "<p>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/\">Introducing Azure Multicloud Interconnect for AWS</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -536,6 +613,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/ibm-zos-online-transaction-processing-azure",
     "description": "Migrate a z/OS online transaction processing (OLTP) workload to an Azure application that is cost effective, responsive, scalable, and adaptable.",
     "pubDate": "2026-08-27T15:08:01.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Modern data warehouse medallion architecture in Microsoft Fabric",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/dataops-mdw",
+    "description": "Learn how to implement a SQL-first modern data warehouse medallion architecture by using Fabric Data Warehouse, OneLake, Fabric Data Factory, and Power BI.",
+    "pubDate": "2026-08-27T14:03:33.000Z",
     "source": "Azure Architecture"
   },
   {
@@ -614,89 +698,5 @@
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
     "pubDate": "2026-08-26T16:47:02.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Virtual Machines baseline architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline",
-    "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
-    "pubDate": "2026-08-26T16:42:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Basic Enterprise Integration on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/enterprise-integration/basic-enterprise-integration",
-    "description": "Learn how to implement a basic enterprise integration architecture on Azure by using Azure Logic Apps and Azure API Management.",
-    "pubDate": "2026-08-26T14:30:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Microsoft Partner Compliance Readiness training now available in the Partner Skilling hub",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#19",
-    "description": "Workspace: General • Announced: August 26",
-    "pubDate": "2026-08-26T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Announcing: Aspire 13.5 has shipped",
-    "link": "https://azure.microsoft.com/updates?id=569910",
-    "description": "Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volumes, and brings live terminals into the apphost.Learn more. ",
-    "pubDate": "2026-08-25T19:55:34.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs ",
-    "link": "https://azure.microsoft.com/updates?id=569546",
-    "description": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memory-optimized VMs deliver up to 20% better compute performance than prior-generation Intel-based v6 VMs, wi",
-    "pubDate": "2026-08-25T18:05:54.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Microservices Architecture on Azure Kubernetes Service",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices",
-    "description": "Learn about the infrastructure and DevOps considerations to deploy and run a microservices architecture on Azure Kubernetes Service (AKS).",
-    "pubDate": "2026-08-25T16:24:16.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Stream Processing with Databricks",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
-    "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
-    "pubDate": "2026-08-25T16:24:16.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Stream processing with Stream Analytics",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-stream-analytics",
-    "description": "This reference architecture shows an end-to-end stream processing pipeline, which ingests data, correlates records, and calculates a rolling average.",
-    "pubDate": "2026-08-25T16:24:16.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Growth margins and API readiness updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#18",
-    "description": "Workspace: General • Announced: August 25",
-    "pubDate": "2026-08-25T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Use Azure Front Door to Secure AKS Workloads",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/aks-front-door/aks-front-door",
-    "description": "Learn how to secure AKS workloads by using end-to-end TLS encryption, Azure Front Door Premium, an Azure Private Link service, and a Gateway API ingress implementation.",
-    "pubDate": "2026-08-24T20:01:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Big Data Architectures",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/big-data-architectures",
-    "description": "Learn how big data architectures manage the ingestion, processing, and analysis of data that's too large or complex for traditional database systems.",
-    "pubDate": "2026-08-24T19:36:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=569526",
-    "description": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer PostgreSQL versions. With access to critical security updates, critical bug fixes, and technical support for eli",
-    "pubDate": "2026-08-24T19:15:05.000Z",
-    "source": "Azure Updates"
   }
 ]
