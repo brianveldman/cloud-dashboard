@@ -63,6 +63,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+    "description": "<p>Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T21:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "OPC UA reference solution",
     "link": "https://learn.microsoft.com/azure/architecture/guide/iot/iot-industrial-solution-architecture",
     "description": "Learn how to build a standards-based industrial IoT reference solution that uses OPC UA to connect shop-floor telemetry to Azure analytics services.",
@@ -84,11 +91,25 @@
     "source": "Security"
   },
   {
+    "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
+    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+    "description": "<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/\">The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption ",
     "link": "https://azure.microsoft.com/updates?id=570940",
     "description": "Azure\r\nFunctions Flex Consumption support for TLS/SSL certificates is now generally\r\navailable through a new site-scoped certificate model. Each function app can\r\nhold up to 3 private (.pfx) and 3 public (.cer) certificates uploaded directly,\r\nimported from A",
     "pubDate": "2026-09-10T16:12:49.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "The future of infrastructure resiliency starts with modernization",
+    "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+    "description": "<p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/\">The future of infrastructure resiliency starts with modernization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-10T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
@@ -546,13 +567,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
-    "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-    "description": "<p>AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/\">Inside Microsoft&#8217;s marketing team: Scaling expertise with AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-31T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "FY27 August skilling updates",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#22",
     "description": "Workspace: General • Announced: August 31",
@@ -600,13 +614,6 @@
     "description": "Use AI Builder and Azure Document Intelligence in Foundry Tools in a Power Automate workflow to extract text from images for indexing and retrieval.",
     "pubDate": "2026-08-27T23:00:34.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
-    "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
-    "description": "<p>Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/\">Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-27T17:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Azure Virtual Machines baseline architecture in an Azure landing zone",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=569695",
     "description": "Azure SRE Agent VNet Integration is now generally available. VNet integration enables Azure SRE Agent to operate within your existing network controls, including Network Security Groups (NSGs), private DNS, and firewall policies, etc. With VNet support, t",
     "pubDate": "2026-08-26T16:51:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SRE Agent 30-Day Trial",
-    "link": "https://azure.microsoft.com/updates?id=569760",
-    "description": "New customers can now get started with Azure SRE Agent through a 30-day trial experience. During the trial, customers can create SRE Agents and connect them to your operational tools and data sources, and explore capabilities at their own pace without bas",
-    "pubDate": "2026-08-26T16:50:22.000Z",
     "source": "Azure Updates"
   }
 ]
