@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement Update: SAP container images removed October 14, 2026",
+    "link": "https://azure.microsoft.com/updates?id=571342",
+    "description": "The containerized SAP data connector retired on September 14, 2026 and is unsupported and unmaintained. Existing TLS-compliant agents may continue sending logs through the retired HTTP Data Collector API. Container images will be removed on October 14, 20",
+    "pubDate": "2026-09-16T17:19:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL updates for mid-September 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=571056",
+    "description": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the logical server is deleted, it goes into a soft deleted state and is self-restorable during the configured",
+    "pubDate": "2026-09-16T17:15:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
     "link": "https://azure.microsoft.com/updates?id=571621",
     "description": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli",
@@ -12,6 +26,20 @@
     "description": "The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act on a connected database. The bundled plugin combines expert-curated skills for PostgreSQL and Azure Data",
     "pubDate": "2026-09-16T14:07:14.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting November 2, 2026",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#11",
+    "description": "Workspace: General • Announced: September 16",
+    "pubDate": "2026-09-16T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
+    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
+    "description": "<p>Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/\">Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "pubDate": "2026-09-15T15:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Office LTSC 2021 end of support",
@@ -33,6 +61,13 @@
     "description": "Announcing public preview\r\nsupport for HTTP/3 over QUIC on Azure Application Gateway. HTTP/3 is the next\r\nevolution of HTTP and uses QUIC to improve connection setup time, reduce\r\nlatency, and provide better resiliency for modern web applications and APIs. W",
     "pubDate": "2026-09-14T17:55:00.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Windows Server 2016 Extended Security Updates: CSP price list republish",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#12",
+    "description": "Workspace: Pricing • Announced: September 14",
+    "pubDate": "2026-09-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Modern data warehouse medallion architecture in Microsoft Fabric",
@@ -134,8 +169,8 @@
   },
   {
     "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
-    "description": "<p>Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/\">ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
+    "description": "<p>Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/\">ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-10T16:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -156,7 +191,7 @@
   {
     "title": "Build apps in Copilot Cowork and Copilot Studio",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
-    "description": "<p>Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/\">Build apps in Copilot Cowork and Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "description": "<p>Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/\">Build apps in Copilot Cowork and Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-10T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -386,8 +421,8 @@
   },
   {
     "title": "PPCC 2026: Bringing AI and your business processes together",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
-    "description": "<p>Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/\">PPCC 2026: Bringing AI and your business processes together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog\">Microsoft 365 Blog</a>.</p>\n",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+    "description": "<p>Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/\">PPCC 2026: Bringing AI and your business processes together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-03T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -663,40 +698,5 @@
     "description": "Migrate a z/OS online transaction processing (OLTP) workload to an Azure application that is cost effective, responsive, scalable, and adaptable.",
     "pubDate": "2026-08-27T15:08:01.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Modern data warehouse medallion architecture in Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/dataops-mdw",
-    "description": "Learn how to implement a SQL-first modern data warehouse medallion architecture by using Fabric Data Warehouse, OneLake, Fabric Data Factory, and Power BI.",
-    "pubDate": "2026-08-27T14:03:33.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Analytics End-to-End with Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end",
-    "description": "Learn how to use Microsoft data services to build a modern analytics platform capable of handling the most common data challenges in an organization.",
-    "pubDate": "2026-08-27T13:52:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Migrate Mainframe Data to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-data-replication-azure-rdrs",
-    "description": "Learn how to use RDRS, a mainframe data replication solution, to migrate data to and from multiple Azure data platform services.",
-    "pubDate": "2026-08-27T13:52:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "High-volume batch transaction processing",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/process-batch-transactions",
-    "description": "Use Azure Kubernetes Service (AKS) and Azure Service Bus to implement high-volume batch transaction processing.",
-    "pubDate": "2026-08-27T13:52:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing the Eligibility Dashboard",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#20",
-    "description": "Workspace: General • Announced: August 27",
-    "pubDate": "2026-08-27T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
