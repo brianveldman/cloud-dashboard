@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Payments HSM v2",
+    "link": "https://azure.microsoft.com/updates?id=570509",
+    "description": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key management, and authentication data protection. Customers\r\nretain exclusive administrative control of an isolate",
+    "pubDate": "2026-09-17T18:36:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: High-scale mesh in Azure Virtual Network Manager",
+    "link": "https://azure.microsoft.com/updates?id=571572",
+    "description": "High-scale mesh using connected\r\ngroup in Azure Virtual Network\r\nManager is now in general availability. In available regions, customers may connect\r\nup to 3,000 virtual networks in a single mesh connectivity configuration by\r\ndefault and higher scale IP conn",
+    "pubDate": "2026-09-17T17:40:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "From guidance to action: Security fundamentals that materially reduce risk ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+    "description": "<p>AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/\">From guidance to action: Security fundamentals that materially reduce risk </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-17T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Improving email security outcomes with real-world Microsoft Defender insights",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
+    "description": "<p>The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/\">Improving email security outcomes with real-world Microsoft Defender insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-17T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting November 2, 2026",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#11",
     "description": "Workspace: General • Announced: September 17",
@@ -539,13 +567,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Cybersecurity IR Workshop: The workshop you shouldn’t miss",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
-    "description": "<p>Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/\">Cybersecurity IR Workshop: The workshop you shouldn’t miss</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-01T18:55:35.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Purchase order mapping available in Microsoft Marketplace ",
     "link": "https://azure.microsoft.com/updates?id=569700",
     "description": "Align Microsoft Marketplace purchases to your business's accounting needs. Purchase order mapping helps allocate your Microsoft invoice, including Marketplace purchases, making it easier to reconcile your organization's cloud and AI spend. Get supplementa",
@@ -665,13 +686,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
-    "description": "<p>Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/\">TerminalFix campaign deploys a reverse tunnel through multistage intrusion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-08-29T03:43:27.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure",
     "link": "https://azure.microsoft.com/updates?id=570120",
     "description": "The Azure Files Container Storage Interface (CSI) driver in Azure\r\nKubernetes Service (AKS) now supports workload identity for pod-level\r\nauthentication to SMB file shares. Previously, managed identity support in AKS enabled\r\nworkloads to mount Azure Files w",
@@ -684,19 +698,5 @@
     "description": "Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secret.You can now use the same managed image-building service across your sovereign and air-gapped environmen",
     "pubDate": "2026-08-28T15:45:32.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Extract text from objects using Power Automate and AI Builder",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/ai/extract-object-text",
-    "description": "Use AI Builder and Azure Document Intelligence in Foundry Tools in a Power Automate workflow to extract text from images for indexing and retrieval.",
-    "pubDate": "2026-08-27T23:00:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Virtual Machines baseline architecture in an Azure landing zone",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline-landing-zone",
-    "description": "Learn how to build on the baseline architecture to address changes and expectations when you deploy it in an Azure landing zone.",
-    "pubDate": "2026-08-27T15:30:54.000Z",
-    "source": "Azure Architecture"
   }
 ]
