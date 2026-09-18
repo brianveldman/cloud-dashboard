@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
     "link": "https://azure.microsoft.com/updates?id=571621",
     "description": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli",
@@ -656,13 +663,6 @@
     "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
     "pubDate": "2026-08-31T18:33:01.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Azure Multicloud Interconnect for AWS",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
-    "description": "<p>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/\">Introducing Azure Multicloud Interconnect for AWS</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-31T18:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "FY27 August skilling updates",
