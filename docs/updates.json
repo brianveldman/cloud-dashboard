@@ -1,5 +1,54 @@
 [
   {
+    "title": "[In preview] Public Preview: Mdsv4 and Msv4 Series Virtual Machines for SAP",
+    "link": "https://azure.microsoft.com/updates?id=571530",
+    "description": "The Mdsv4\r\nand Msv4 Series are memory-optimized virtual machine series built on 6th\r\nGeneration Intel® Xeon® Scalable processors and enhanced with advanced security\r\ncapabilities and the latest Azure Boost technologies. Designed for\r\ndemanding memory-intensiv",
+    "pubDate": "2026-09-18T17:29:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Enable and disable controls for Microsoft Foundry agents in Agent 365",
+    "link": "https://azure.microsoft.com/updates?id=571826",
+    "description": "Microsoft Foundry now exposes enable and disable actions for Foundry agent objects within the Agent 365 governance surface in Microsoft Admin Center, generally available. Administrators can control whether a Foundry agent is available for use across their",
+    "pubDate": "2026-09-18T17:24:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Network egress controls for hosted agents in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=571821",
+    "description": "In public preview, Microsoft Foundry now lets customers govern the outbound connections a hosted agent can make. Customers author ordered rules matched on destination host, including FQDN with wildcards such as *.contoso.com, with actions to allow, deny, ",
+    "pubDate": "2026-09-18T17:23:21.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams",
+    "link": "https://azure.microsoft.com/updates?id=571816",
+    "description": "Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams is now generally available. An agent only delivers value once it reaches the people who need it, and Foundry developers previously had no native path to make their agents operational a",
+    "pubDate": "2026-09-18T17:21:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Logical replication slot sync status metric for Azure PostgreSQL Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=568414",
+    "description": "You can now monitor the synchronization status of your logical replication slots in Azure Database for PostgreSQL – Flexible Server using the new logical_replication_slot_sync_status metric. This Azure Monitor metric shows whether each logical replication",
+    "pubDate": "2026-09-18T16:44:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: New and improved troubleshooting guides for Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=571042",
+    "description": "Updated troubleshooting guidance is now available for Azure Database for PostgreSQL flexible server. You can use the expanded documentation to diagnose high CPU, memory, IOPS, temporary file usage, and autovacuum issues, helping you identify root causes a",
+    "pubDate": "2026-09-18T15:51:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: PG18 support for Azure Database for PostgreSQL elastic clusters ",
+    "link": "https://azure.microsoft.com/updates?id=571047",
+    "description": "Azure Database for PostgreSQL elastic clusters now support PostgreSQL 18, bringing the latest PostgreSQL capabilities to distributed, cloud-scale workloads. You can build new applications or modernize existing ones with the performance, reliability, and d",
+    "pubDate": "2026-09-18T15:49:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Payments HSM v2",
     "link": "https://azure.microsoft.com/updates?id=570509",
     "description": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key management, and authentication data protection. Customers\r\nretain exclusive administrative control of an isolate",
@@ -648,55 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=570364",
     "description": "Announcing the public preview of Azure Multicloud Interconnect, a managed service that provides private connectivity between Azure and supported cloud providers, with Amazon Web Services (AWS) available as the first supported provider in preview. As organ",
     "pubDate": "2026-08-31T18:36:12.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose an Azure AI image and video processing and generation technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/ai-services/image-video-processing",
-    "description": "Learn about Foundry Tools for video processing and video generation. Understand and compare each service's capabilities and use cases.",
-    "pubDate": "2026-08-31T18:33:01.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Azure Multicloud Interconnect for AWS",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
-    "description": "<p>Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/\">Introducing Azure Multicloud Interconnect for AWS</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-08-31T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "FY27 August skilling updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#22",
-    "description": "Workspace: General • Announced: August 31",
-    "pubDate": "2026-08-31T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Showcase your Frontier AI expertise",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-august#21",
-    "description": "Workspace: General • Announced: August 31",
-    "pubDate": "2026-08-31T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Move archive data from mainframe systems to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/move-archive-data-mainframes",
-    "description": "Learn how to move archive data from mainframe systems to Azure by using an IBM Db2 connector.",
-    "pubDate": "2026-08-30T21:21:25.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure",
-    "link": "https://azure.microsoft.com/updates?id=570120",
-    "description": "The Azure Files Container Storage Interface (CSI) driver in Azure\r\nKubernetes Service (AKS) now supports workload identity for pod-level\r\nauthentication to SMB file shares. Previously, managed identity support in AKS enabled\r\nworkloads to mount Azure Files w",
-    "pubDate": "2026-08-28T20:25:22.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure VM Image Builder in sovereign and air-gapped clouds",
-    "link": "https://azure.microsoft.com/updates?id=570105",
-    "description": "Overview:Azure VM Image Builder is now generally available in Azure Government, China North 3, Azure Government Secret, and Azure Government Top Secret.You can now use the same managed image-building service across your sovereign and air-gapped environmen",
-    "pubDate": "2026-08-28T15:45:32.000Z",
     "source": "Azure Updates"
   }
 ]
