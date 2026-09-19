@@ -56,6 +56,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Reminder: Check Inventory API retiring September 25, 2026",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#14",
+    "description": "Workspace: APIs • Announced: September 18",
+    "pubDate": "2026-09-18T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Payments HSM v2",
     "link": "https://azure.microsoft.com/updates?id=570509",
     "description": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key management, and authentication data protection. Customers\r\nretain exclusive administrative control of an isolate",
@@ -110,13 +117,6 @@
     "description": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the logical server is deleted, it goes into a soft deleted state and is self-restorable during the configured",
     "pubDate": "2026-09-16T17:15:10.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
