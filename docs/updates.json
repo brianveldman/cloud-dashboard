@@ -119,6 +119,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-16T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
     "link": "https://azure.microsoft.com/updates?id=571621",
     "description": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli",
@@ -691,12 +698,5 @@
     "description": "Workspace: General • Announced: September 1",
     "pubDate": "2026-09-01T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: Per-disk resiliency for Azure VMs",
-    "link": "https://azure.microsoft.com/updates?id=569711",
-    "description": "Azure automatically recovers a VM when it loses access to an attached managed disk for an extended period. The VM is shut down and powered back on after disk connectivity is restored, with no customer action required. This remains the default behavior.Now",
-    "pubDate": "2026-08-31T23:11:39.000Z",
-    "source": "Azure Updates"
   }
 ]
