@@ -1,5 +1,26 @@
 [
   {
+    "title": "[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
+    "link": "https://azure.microsoft.com/updates?id=572214",
+    "description": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or ma",
+    "pubDate": "2026-09-21T16:58:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions support for PowerShell 7.6",
+    "link": "https://azure.microsoft.com/updates?id=572219",
+    "description": "Azure Functions support for PowerShell 7.6 is\r\nnow generally available.  You can now develop apps using PowerShell 7.6 locally and\r\ndeploy them to Azure Functions plans.   Learn more: Updating\r\nyour app to PowerShell 7.6  What's\r\nnew in PowerShell 7.6?  Azure",
+    "pubDate": "2026-09-21T16:55:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "IPv6 hub-and-spoke network topology",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/ipv6-architecture",
+    "description": "Learn how to transition a hub-and-spoke network topology in Azure so it supports IPv6, which creates a dual-stack network.",
+    "pubDate": "2026-09-18T20:11:02.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Foundry Routines in Foundry Agent Service",
     "link": "https://azure.microsoft.com/updates?id=563536",
     "description": "In public preview, Foundry Agent Service adds Foundry Routines, a native trigger primitive for running published agents automatically. Production agents often need to run on a schedule or when a business event occurs, and today that means assembling exter",
@@ -63,6 +84,13 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Implement advanced monitoring for Foundry Models through a gateway",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-monitoring",
+    "description": "Learn how to implement advanced monitoring scenarios for Foundry Models, like chargeback and auditing, through a gateway.",
+    "pubDate": "2026-09-17T20:32:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Payments HSM v2",
     "link": "https://azure.microsoft.com/updates?id=570509",
     "description": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key management, and authentication data protection. Customers\r\nretain exclusive administrative control of an isolate",
@@ -105,6 +133,34 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Compare AWS and Azure analytics services",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/analytics",
+    "description": "Compare analytics services on Azure and AWS for data integration, data lakes, data engineering, data warehouses, real-time analytics, governance, and business intelligence.",
+    "pubDate": "2026-09-16T22:24:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure AI and machine learning services",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/data-ai",
+    "description": "Compare machine learning, generative AI, vision, speech, language, document intelligence, and AI search services on Azure and AWS.",
+    "pubDate": "2026-09-16T22:24:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure database services",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/databases",
+    "description": "Compare relational and non-relational database services on Azure and AWS, including document, key-value, wide-column, graph, and in-memory data stores.",
+    "pubDate": "2026-09-16T22:24:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure messaging services",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/messaging",
+    "description": "Compare messaging service differences between Azure and AWS. Know Azure equivalents for Simple Email Service, Simple Queue Service, and messaging components.",
+    "pubDate": "2026-09-16T21:44:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement Update: SAP container images removed October 14, 2026",
     "link": "https://azure.microsoft.com/updates?id=571342",
     "description": "The containerized SAP data connector retired on September 14, 2026 and is unsupported and unmaintained. Existing TLS-compliant agents may continue sending logs through the retired HTTP Data Collector API. Container images will be removed on October 14, 20",
@@ -117,13 +173,6 @@
     "description": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the logical server is deleted, it goes into a soft deleted state and is self-restorable during the configured",
     "pubDate": "2026-09-16T17:15:10.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
@@ -140,6 +189,34 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Network secure ingress pattern implementation with Azure Front Door Premium tier",
+    "link": "https://learn.microsoft.com/azure/architecture/pattern-implementations/network-secure-ingress",
+    "description": "The pattern implementation for network secure ingress illustrates global routing, health-based origin failover, and attack mitigation at the edge.",
+    "pubDate": "2026-09-15T22:50:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Automate API Management configuration deployments by using APIOps CLI",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/devops/automated-api-deployments-apiops",
+    "description": "Use the APIOps CLI and Azure API Management to extract, review, and deploy API Management configuration as version-controlled artifacts.",
+    "pubDate": "2026-09-15T19:17:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect an on-premises SAP system to the OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-on-premises-sap-to-the-solution",
+    "description": "Learn how to connect an on-premises SAP ERP system to the OPC UA reference solution by using Azure Logic Apps and Azure Data Explorer.",
+    "pubDate": "2026-09-15T17:45:08.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect Dynamics 365 Field Service to the OPC UA reference solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-dynamics-field-service-to-the-solution",
+    "description": "Learn how to use Logic Apps and Azure Data Explorer to create customer assets and IoT alerts in Dynamics 365 Field Service from industrial OPC UA telemetry.",
+    "pubDate": "2026-09-15T17:33:50.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
     "description": "<p>Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/\">Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
@@ -147,11 +224,25 @@
     "source": "Microsoft 365"
   },
   {
+    "title": "Administer SQL Server with Azure Arc",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-arc-sql-server",
+    "description": "Learn how to use Azure Arc for management, maintenance, and monitoring of SQL Server instances in on-premises and multicloud environments.",
+    "pubDate": "2026-09-15T13:47:50.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Office LTSC 2021 end of support",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#10",
     "description": "Workspace: General • Announced: September 15",
     "pubDate": "2026-09-15T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-09-14T21:01:09.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Announcing: New Windows App client-side endpoints for Azure Virtual Desktop",
@@ -173,6 +264,13 @@
     "description": "Workspace: Pricing • Announced: September 14",
     "pubDate": "2026-09-14T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Use Azure Key Vault in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
+    "description": "Learn how to use Azure Key Vault in multitenant solutions, including isolation models, tenant-specific vaults, shared vaults, and multitenancy features.",
+    "pubDate": "2026-09-13T21:53:35.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Modern data warehouse medallion architecture in Microsoft Fabric",
@@ -600,103 +698,5 @@
     "description": "<p>An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/\">Counterfeit installers to system compromise: Tracking a deceptive software download campaign</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-01T22:48:28.000Z",
     "source": "Security"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Defender for Cloud support for Azure Container Apps (Serverless Containers Posture)",
-    "link": "https://azure.microsoft.com/updates?id=570282",
-    "description": "Customers can now bring Azure Container Apps environments into Microsoft Defender for Cloud’s Serverless Containers Posture experience, helping security teams extend posture management across more of their container estate from a single workflow. This mak",
-    "pubDate": "2026-09-01T22:34:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Windows Server 2025 on AKS",
-    "link": "https://azure.microsoft.com/updates?id=570090",
-    "description": "Organizations running Windows-based workloads on Azure Kubernetes Service (AKS) face increasing pressure to modernize as support timelines for older Windows Server versions approach retirement. To help customers prepare, AKS now offers GA support for Wind",
-    "pubDate": "2026-09-01T22:31:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Artifact Streaming on AKS",
-    "link": "https://azure.microsoft.com/updates?id=570095",
-    "description": "You can now accelerate your containerized workloads on Azure Kubernetes Service (AKS) using Azure Container Registry (ACR) with Artifact streaming. Artifact streaming will allow you to scale your workloads without having to fully wait for images to be pul",
-    "pubDate": "2026-09-01T22:30:59.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Confidential VMs for Azure Linux",
-    "link": "https://azure.microsoft.com/updates?id=570100",
-    "description": "Confidential Virtual Machines (CVM) offer strong security and confidentiality for tenants. CVM for Azure Linux in AKS is now generally available and enables node pools with CVM to target the migration of highly sensitive container workloads to AKS without",
-    "pubDate": "2026-09-01T22:30:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Import OPC UA information models from the UA Cloud Library",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/import-opc-ua-information-models-from-ua-cloud-library",
-    "description": "Learn how to import OPC UA information models from the UA Cloud Library into Azure Data Explorer, Microsoft Fabric, and Azure Databricks.",
-    "pubDate": "2026-09-01T22:10:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Purchase order mapping available in Microsoft Marketplace ",
-    "link": "https://azure.microsoft.com/updates?id=569700",
-    "description": "Align Microsoft Marketplace purchases to your business's accounting needs. Purchase order mapping helps allocate your Microsoft invoice, including Marketplace purchases, making it easier to reconcile your organization's cloud and AI spend. Get supplementa",
-    "pubDate": "2026-09-01T18:40:59.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Baseline Microsoft Foundry chat reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-09-01T17:16:39.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Firewall auto-learn SNAT routes ",
-    "link": "https://azure.microsoft.com/updates?id=570474",
-    "description": "Azure Firewall’s auto-learn SNAT routes is now\r\ngenerally available, automatically learning registered and private destination\r\nprefixes periodically and applying them as No-SNAT ranges to preserve original\r\nsource IPs and simplify SNAT management.Learn more",
-    "pubDate": "2026-09-01T17:10:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Connect Azure Managed Grafana to the OPC UA reference solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-grafana-to-solution",
-    "description": "Learn how to connect Azure Managed Grafana to the Open Platform Communications Unified Architecture (OPC UA) reference solution to get visualization for your data.",
-    "pubDate": "2026-09-01T16:47:48.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Copilot Observability Agent supports Basic and Auxiliary table plans",
-    "link": "https://azure.microsoft.com/updates?id=570250",
-    "description": "Azure Copilot Observability Agent, an\r\nAI-powered operational companion in Azure Monitor, is now covering Log Analytics data\r\nin Basic and Auxiliary table plans during interactive analysis\r\nand deep investigations. Teams can move high-volume telemetry - incl",
-    "pubDate": "2026-09-01T16:31:14.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan in Azure Government and China regions",
-    "link": "https://azure.microsoft.com/updates?id=569899",
-    "description": "The Auxiliary table plan in Azure Monitor Logs is a cost-effective option for ingesting and retaining high-volume, verbose logs used for compliance and auditing. Auxiliary Logs is now generally available in the sovereign clouds: Azure Government (Fairfax)",
-    "pubDate": "2026-09-01T16:29:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan support for Azure tables and plan switching",
-    "link": "https://azure.microsoft.com/updates?id=569904",
-    "description": "The Auxiliary table plan in Azure Monitor Logs gives you a cost-effective way to ingest and retain high-volume, verbose logs that you keep for compliance and auditing but rarely query. Two highly requested capabilities are now generally available.Auxiliar",
-    "pubDate": "2026-09-01T16:25:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Manage Kubernetes nodes and node pools",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/node-pools",
-    "description": "Understand Kubernetes nodes and node pools, how to handle Azure Kubernetes Service (AKS) nodes and node pools, and node pool options for Amazon EKS and AKS.",
-    "pubDate": "2026-09-01T12:06:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Purchase order mapping in Marketplace",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#1",
-    "description": "Workspace: General • Announced: September 1",
-    "pubDate": "2026-09-01T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
