@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: Support for Node.js 22 ends on April 30, 2027",
+    "link": "https://azure.microsoft.com/updates?id=572771",
+    "description": "Support for Node.js 22 will end on April 30, 2027, please transition to Node.js 24 by that date. Your Azure Function apps will continue to run, but security patches and updates will no longer be provided and customer support for Node.js 22 will be discont",
+    "pubDate": "2026-09-22T19:22:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Flex Nodes for AKS",
+    "link": "https://azure.microsoft.com/updates?id=571919",
+    "description": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS control plane in Azure. Flex Nodes provide a consistent Kubernetes control plane while enabling teams to",
+    "pubDate": "2026-09-22T18:51:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
     "description": "<p>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/\">Unmasking EvilTokens: Getting to the root of device code phishing</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -201,6 +215,13 @@
     "description": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the logical server is deleted, it goes into a soft deleted state and is self-restorable during the configured",
     "pubDate": "2026-09-16T17:15:10.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-16T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
@@ -677,26 +698,5 @@
     "description": "Build a serverless microservices solution on Azure Container Apps by using Distributed Application Runtime (Dapr) and Kubernetes event-driven autoscaling (KEDA).",
     "pubDate": "2026-09-02T17:50:31.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "AI inferencing with Silk virtual SAN",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/ai-inferencing-on-azure-iaas",
-    "description": "Run real-time AI inferencing on live data without compromising stability or performance by using a Silk Cloud Data Platform virtual SAN deployed on Azure IaaS.",
-    "pubDate": "2026-09-02T17:35:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Front Door profile and route level WAF policies",
-    "link": "https://azure.microsoft.com/updates?id=569804",
-    "description": "Azure Front\r\nDoor’s Web Application Firewall (WAF) now supports profile and route level WAF\r\npolicy associations in public preview. This gives you more flexibility to apply\r\nbroad baseline protection across an Azure Front Door profile while using\r\ntargeted po",
-    "pubDate": "2026-09-02T17:00:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: Reader Endpoint for Azure Database for MySQL ",
-    "link": "https://azure.microsoft.com/updates?id=569653",
-    "description": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection ",
-    "pubDate": "2026-09-02T16:59:15.000Z",
-    "source": "Azure Updates"
   }
 ]
