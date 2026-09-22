@@ -1,5 +1,26 @@
 [
   {
+    "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+    "description": "<p>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/\">Unmasking EvilTokens: Getting to the root of device code phishing</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-22T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Clinical Applications specialization",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#16",
+    "description": "Workspace: General • Announced: September 22",
+    "pubDate": "2026-09-22T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Now live: Microsoft Ignite session catalog",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#15",
+    "description": "Workspace: General • Announced: September 22",
+    "pubDate": "2026-09-22T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available",
     "link": "https://azure.microsoft.com/updates?id=572579",
     "description": "Azure Sphere OS version 26.09 is now available in the Retail feed. This release includes updates to the Azure Sphere OS only, with no update to the SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.The 26.",
@@ -180,13 +201,6 @@
     "description": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the logical server is deleted, it goes into a soft deleted state and is self-restorable during the configured",
     "pubDate": "2026-09-16T17:15:10.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
@@ -684,19 +698,5 @@
     "description": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database for MySQL - Flexible Server. A reader endpoint enables automatic load balancing of read-only connection ",
     "pubDate": "2026-09-02T16:59:15.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
-    "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-    "description": "<p>AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/\">The Economics of Agent Optimization: Context engineering for enterprise AI agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-02T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Scale out an Azure IoT Hub solution to support millions of devices",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/scale-iot-solution-azure",
-    "description": "Learn how to scale out your Azure IoT Hub-based solution by using a scale-out pattern model, such as low-touch or zero-touch, to support millions of devices.",
-    "pubDate": "2026-09-02T15:57:01.000Z",
-    "source": "Azure Architecture"
   }
 ]
