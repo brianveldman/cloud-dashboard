@@ -217,13 +217,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
     "link": "https://azure.microsoft.com/updates?id=571621",
     "description": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr",
     "description": "Build a serverless microservices solution on Azure Container Apps by using Distributed Application Runtime (Dapr) and Kubernetes event-driven autoscaling (KEDA).",
     "pubDate": "2026-09-02T17:50:31.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "AI inferencing with Silk virtual SAN",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/ai-inferencing-on-azure-iaas",
+    "description": "Run real-time AI inferencing on live data without compromising stability or performance by using a Silk Cloud Data Platform virtual SAN deployed on Azure IaaS.",
+    "pubDate": "2026-09-02T17:35:27.000Z",
     "source": "Azure Architecture"
   }
 ]
