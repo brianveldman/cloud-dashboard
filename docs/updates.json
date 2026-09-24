@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: Instant Access for VM restore points",
+    "link": "https://azure.microsoft.com/updates?id=572573",
+    "description": "Instant Access for application-consistent restore points on virtual machines (that have Premium v2 or Ultra disks as data disks) is now generally available. With Instant Access, you can begin restoring a disk from a restore point as soon as the snapshot i",
+    "pubDate": "2026-09-24T16:04:16.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+    "description": "<p>Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/\">Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-24T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
+    "description": "<p>This month's updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/\">​​​​​​​​What’s new in Microsoft Security: September 2026​​</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-24T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Nonprofit promos to drive Copilot growth",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#18",
+    "description": "Workspace: General • Announced: September 24",
+    "pubDate": "2026-09-24T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
     "link": "https://azure.microsoft.com/updates?id=572770",
     "description": "Support for PowerShell 7.4 will\r\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but security patches and updates will no\r\nlonger be provided and customer support for\r\nPowerShell 7.4 will be disco",
@@ -21,13 +49,6 @@
     "source": "Security"
   },
   {
-    "title": "Building the system for AI at work",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
-    "description": "<p>There's no shortage of sound and fury in AI right now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/\">Building the system for AI at work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Validate eligibility for CSP growth margins through APIs",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#17",
     "description": "Workspace: APIs • Announced: September 23",
@@ -47,6 +68,20 @@
     "description": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS control plane in Azure. Flex Nodes provide a consistent Kubernetes control plane while enabling teams to",
     "pubDate": "2026-09-22T18:51:48.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+    "description": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/\">GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-22T18:30:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
+    "description": "<p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information, or working through a multi-step business process.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051\">Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-22T17:00:25.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
@@ -609,13 +644,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "How to secure edge AI in customer-owned environments",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-    "description": "<p>As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/\">How to secure edge AI in customer-owned environments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-04T19:10:10.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Extract and analyze call center data",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Foundry Models.",
@@ -669,34 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant",
     "description": "Learn about a baseline reference architecture for a network secured, highly available, and zone-redundant Azure App Service web application.",
     "pubDate": "2026-09-03T18:28:13.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-    "description": "<p>GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/\">GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-03T18:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions ",
-    "link": "https://azure.microsoft.com/updates?id=570557",
-    "description": "Azure\r\nVirtual Network Manager IP address management is now generally available in\r\nadditional regions: US Gov Virginia, US Gov Texas and US Gov Arizona, and China\r\nNorth 3 and China East 3. In complex\r\nnetwork environments, managing IP addresses effectively ",
-    "pubDate": "2026-09-03T17:17:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
-    "description": "<p>Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/\">ASCII smuggling crosses over from AI prompt injection to phishing evasion</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-03T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Minimize coordination",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/design-principles/minimize-coordination",
-    "description": "Follow these recommendations to improve scalability by minimizing coordination between application services.",
-    "pubDate": "2026-09-03T15:36:32.000Z",
     "source": "Azure Architecture"
   }
 ]
