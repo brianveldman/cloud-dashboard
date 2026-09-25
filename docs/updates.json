@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
+    "link": "https://azure.microsoft.com/updates?id=573048",
+    "description": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure HorizonDB, now in public preview, includes PostgreSQL 18 support.Learn more. ",
+    "pubDate": "2026-09-25T18:07:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+    "description": "<p>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/\">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T15:35:08.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -56,6 +70,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Your architecture diagram is not your resilience",
+    "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+    "description": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/\">Your architecture diagram is not your resilience</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-23T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
     "description": "<p>We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/\">Reimagining the SOC for the agentic era in Microsoft Defender</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -63,9 +84,16 @@
     "source": "Security"
   },
   {
+    "title": "Designing agent-first platforms: What changes when agents do the work",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+    "description": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/\">Designing agent-first platforms: What changes when agents do the work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-23T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Building the system for AI at work",
     "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
-    "description": "<p>There's no shortage of sound and fury in AI right now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/\">Building the system for AI at work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "description": "<p>There's no shortage of sound and fury in AI right now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/\">Building the system for AI at work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-23T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -89,6 +117,20 @@
     "description": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS control plane in Azure. Flex Nodes provide a consistent Kubernetes control plane while enabling teams to",
     "pubDate": "2026-09-22T18:51:48.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+    "description": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/\">GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-22T18:30:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
+    "description": "<p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information, or working through a multi-step business process.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051\">Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-22T17:00:25.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
@@ -345,7 +387,7 @@
   {
     "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
-    "description": "<p>Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/\">Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "description": "<p>Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/\">Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-15T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -499,7 +541,7 @@
   {
     "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
     "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
-    "description": "<p>Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/\">ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "description": "<p>Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/\">ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-10T16:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -520,7 +562,7 @@
   {
     "title": "Build apps in Copilot Cowork and Copilot Studio",
     "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
-    "description": "<p>Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/\">Build apps in Copilot Cowork and Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "description": "<p>Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/\">Build apps in Copilot Cowork and Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
     "pubDate": "2026-09-10T15:00:00.000Z",
     "source": "Microsoft 365"
   },
@@ -579,13 +621,6 @@
     "description": "<p>Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve three-zone designs for the components that genuinely require a third failure domain.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/\">Two zones or three? A design framework for zone-resilient Azure workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-09-09T18:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Passkey-themed social engineering leads to identity and cloud compromise",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
-    "description": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">Passkey-themed social engineering leads to identity and cloud compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-09T17:41:18.000Z",
-    "source": "Security"
   },
   {
     "title": "Join Partnering for Success Together",
@@ -662,41 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/infrastructure/wordpress-overview",
     "description": "Learn about multiple options for hosting WordPress on Azure. See guidance and tips for deploying a secure, scalable, and cost-effective WordPress installation.",
     "pubDate": "2026-09-04T14:13:53.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Business Applications roadmap content moving",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#4",
-    "description": "Workspace: General • Announced: September 4",
-    "pubDate": "2026-09-04T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
-    "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-    "description": "<p>The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system when AI moves into production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/\">Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-03T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Baseline Microsoft Foundry chat reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
-    "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
-    "pubDate": "2026-09-03T18:28:13.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy Microservices to Azure Container Apps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
-    "description": "Learn how to replatform and deploy existing Kubernetes microservice application workloads to run in Azure Container Apps.",
-    "pubDate": "2026-09-03T18:28:13.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Virtual Machines baseline architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline",
-    "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
-    "pubDate": "2026-09-03T18:28:13.000Z",
     "source": "Azure Architecture"
   }
 ]
