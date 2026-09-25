@@ -1,10 +1,10 @@
 [
   {
-    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-    "description": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/\">Ship agents faster with expanded model choice, voice agents, and continuous optimization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-24T18:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
+    "description": "Workspace: General • Announced: September 25",
+    "pubDate": "2026-09-25T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
@@ -56,25 +56,11 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Your architecture diagram is not your resilience",
-    "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-    "description": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/\">Your architecture diagram is not your resilience</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
     "description": "<p>We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/\">Reimagining the SOC for the agentic era in Microsoft Defender</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-23T16:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Designing agent-first platforms: What changes when agents do the work",
-    "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-    "description": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/\">Designing agent-first platforms: What changes when agents do the work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Building the system for AI at work",
@@ -103,20 +89,6 @@
     "description": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS control plane in Azure. Flex Nodes provide a consistent Kubernetes control plane while enabling teams to",
     "pubDate": "2026-09-22T18:51:48.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
-    "description": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/\">GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-22T18:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
-    "description": "<p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information, or working through a multi-step business process.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051\">Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-22T17:00:25.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
@@ -637,6 +609,13 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+    "description": "<p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/\">Beyond the benchmark: How an adaptive approach drives scientific discovery</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-08T20:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
     "link": "https://azure.microsoft.com/updates?id=570919",
     "description": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e",
@@ -693,9 +672,30 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
+    "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
+    "description": "<p>The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system when AI moves into production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/\">Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-03T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Baseline Microsoft Foundry chat reference architecture",
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-chat",
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
+    "pubDate": "2026-09-03T18:28:13.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy Microservices to Azure Container Apps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps",
+    "description": "Learn how to replatform and deploy existing Kubernetes microservice application workloads to run in Azure Container Apps.",
+    "pubDate": "2026-09-03T18:28:13.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Virtual Machines baseline architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline",
+    "description": "Learn how to set up an environment that's configured to run a workload on Azure Virtual Machines.",
     "pubDate": "2026-09-03T18:28:13.000Z",
     "source": "Azure Architecture"
   }
