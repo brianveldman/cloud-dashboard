@@ -14,11 +14,25 @@
     "source": "Security"
   },
   {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
     "pubDate": "2026-09-25T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+    "description": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/\">Ship agents faster with expanded model choice, voice agents, and continuous optimization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-24T18:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
@@ -644,13 +658,6 @@
     "source": "Partner Center Announcements"
   },
   {
-    "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-    "description": "<p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/\">Beyond the benchmark: How an adaptive approach drives scientific discovery</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-08T20:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
     "link": "https://azure.microsoft.com/updates?id=570919",
     "description": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Foundry Models.",
     "pubDate": "2026-09-04T15:13:21.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "WordPress on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/infrastructure/wordpress-overview",
-    "description": "Learn about multiple options for hosting WordPress on Azure. See guidance and tips for deploying a secure, scalable, and cost-effective WordPress installation.",
-    "pubDate": "2026-09-04T14:13:53.000Z",
     "source": "Azure Architecture"
   }
 ]
