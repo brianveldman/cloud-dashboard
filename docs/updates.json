@@ -91,13 +91,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Building the system for AI at work",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
-    "description": "<p>There's no shortage of sound and fury in AI right now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/\">Building the system for AI at work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft 365 Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Validate eligibility for CSP growth margins through APIs",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#17",
     "description": "Workspace: APIs • Announced: September 23",
@@ -698,5 +691,12 @@
     "description": "Learn about multiple options for hosting WordPress on Azure. See guidance and tips for deploying a secure, scalable, and cost-effective WordPress installation.",
     "pubDate": "2026-09-04T14:13:53.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Business Applications roadmap content moving",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#4",
+    "description": "Workspace: General • Announced: September 4",
+    "pubDate": "2026-09-04T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   }
 ]
