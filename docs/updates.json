@@ -21,6 +21,13 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+    "description": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/\">Ship agents faster with expanded model choice, voice agents, and continuous optimization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-24T18:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
     "link": "https://azure.microsoft.com/updates?id=557117",
     "description": "Microsoft will retire several standalone Azure Communication\r\nServices (ACS) offerings on September 30, 2028. After this date, the affected\r\nservices will no longer be available.  Details\r\nBeginning September 30, 2028, the following ACS services will be reti",
@@ -635,13 +642,6 @@
     "description": "Workspace: General • Announced: September 9",
     "pubDate": "2026-09-09T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-    "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-    "description": "<p>For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting their approach as new information becomes available.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/\">Beyond the benchmark: How an adaptive approach drives scientific discovery</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-08T20:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
