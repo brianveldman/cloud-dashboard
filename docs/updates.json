@@ -14,13 +14,6 @@
     "source": "Security"
   },
   {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T12:07:25.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
     "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Foundry Models.",
     "pubDate": "2026-09-04T15:13:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "WordPress on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/infrastructure/wordpress-overview",
+    "description": "Learn about multiple options for hosting WordPress on Azure. See guidance and tips for deploying a secure, scalable, and cost-effective WordPress installation.",
+    "pubDate": "2026-09-04T14:13:53.000Z",
     "source": "Azure Architecture"
   }
 ]
