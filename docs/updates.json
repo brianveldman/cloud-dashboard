@@ -1,10 +1,38 @@
 [
   {
+    "title": "[Launched] Generally Available: Luxembourg - Azure Extended Zones",
+    "link": "https://azure.microsoft.com/updates?id=572968",
+    "description": "We are announcing the general availability of the Luxembourg Azure Extended Zone. Azure Extended Zones are small-footprint extensions of Azure placed in metro areas, industry centers, or specific jurisdictions, to serve low latency and data residency work",
+    "pubDate": "2026-09-28T17:08:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+    "description": "<p>Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/\">NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-28T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Health Endpoint Monitoring pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/health-endpoint-monitoring",
+    "description": "Implement functional checks in an application that external tools can access at regular intervals through exposed endpoints.",
+    "pubDate": "2026-09-25T19:33:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
     "link": "https://azure.microsoft.com/updates?id=573048",
     "description": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure HorizonDB, now in public preview, includes PostgreSQL 18 support.Learn more. ",
     "pubDate": "2026-09-25T18:07:26.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Baseline Azure Machine Learning inference reference architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/baseline-azure-machine-learning-inference",
+    "description": "Learn how to build a private, production-ready Azure Machine Learning inference platform with AKS, environment isolation, and controlled model promotion.",
+    "pubDate": "2026-09-25T16:30:28.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
@@ -28,11 +56,53 @@
     "source": "Partner Center Announcements"
   },
   {
-    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-    "description": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/\">Ship agents faster with expanded model choice, voice agents, and continuous optimization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-24T18:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Azure Kubernetes Service (AKS) baseline architecture for Azure Local",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-baseline",
+    "description": "Design a baseline architecture for Microsoft Azure Kubernetes Service (AKS) that runs on Azure Local or uses AKS on bare metal as an alternative deployment option.",
+    "pubDate": "2026-09-24T21:53:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Deploy containerized apps with AKS Hybrid and Edge by using GitOps",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-hybrid-azure-local",
+    "description": "Build containerized app deployment pipelines for AKS Hybrid and Edge by using Azure Arc and GitOps, and use Flux automation for on-premises Kubernetes clusters.",
+    "pubDate": "2026-09-24T21:53:52.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Index Table pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/index-table",
+    "description": "Find out how to use the Index Table pattern to improve query performance by creating indexes over data store fields that queries frequently reference.",
+    "pubDate": "2026-09-24T21:49:32.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Claim Check pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/claim-check",
+    "description": "Store a large message payload in an external data store and send a reference called a claim check through a messaging system.",
+    "pubDate": "2026-09-24T21:23:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Gateway Offloading pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-offloading",
+    "description": "Centralize shared capabilities, such as TLS termination and authentication, in a gateway to simplify backend services.",
+    "pubDate": "2026-09-24T19:14:22.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Sandbox",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/azure-sandbox/azure-sandbox",
+    "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
+    "pubDate": "2026-09-24T19:07:38.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Materialized View pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/materialized-view",
+    "description": "Generate prepopulated views over the data in one or more data stores when the data isn't ideally formatted for required query operations. This can help support efficient querying and data extraction, and improve application performance.",
+    "pubDate": "2026-09-24T18:47:43.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
@@ -63,11 +133,25 @@
     "source": "Security"
   },
   {
+    "title": "Compare AWS and Azure messaging services",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/messaging",
+    "description": "Compare messaging service differences between Azure and AWS. Know Azure equivalents for Simple Email Service, Simple Queue Service, and messaging components.",
+    "pubDate": "2026-09-24T13:50:17.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Nonprofit promos to drive Copilot growth",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#18",
     "description": "Workspace: General • Announced: September 24",
     "pubDate": "2026-09-24T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Troubleshoot network problems in AKS clusters",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/troubleshoot-network-aks",
+    "description": "Learn about steps to take to troubleshoot network problems in Azure Kubernetes Service (AKS) clusters.",
+    "pubDate": "2026-09-23T21:38:59.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
@@ -175,6 +259,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Multilayered protection for Azure virtual machine access",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm",
+    "description": "Use multilayered security to control access to Azure VMs. See a solution that uses Azure and Microsoft Entra security services and aligns with security principles.",
+    "pubDate": "2026-09-21T17:00:37.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
     "link": "https://azure.microsoft.com/updates?id=572214",
     "description": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or ma",
@@ -187,6 +278,13 @@
     "description": "Azure Functions support for PowerShell 7.6 is\r\nnow generally available.  You can now develop apps using PowerShell 7.6 locally and\r\ndeploy them to Azure Functions plans.   Learn more: Updating\r\nyour app to PowerShell 7.6  What's\r\nnew in PowerShell 7.6?  Azure",
     "pubDate": "2026-09-21T16:55:34.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Choose an Azure service for vector search",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
+    "description": "Compare capabilities, indexing methods, and integration options to determine which Azure vector search service best fits your application.",
+    "pubDate": "2026-09-21T15:39:33.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "IPv6 hub-and-spoke network topology",
@@ -599,104 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
     "description": "Learn about the features of Azure App Configuration that are useful when you work with multitenant systems, and use the provided links for guidance and examples.",
     "pubDate": "2026-09-10T02:54:24.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: User-bound user delegation SAS for Azure Storage ",
-    "link": "https://azure.microsoft.com/updates?id=569241",
-    "description": "Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (SAS) with the user-bound access of Entra ID. User-bound user delegation SAS is now generally available for",
-    "pubDate": "2026-09-09T22:30:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Threat matrix: Mapping threats across cloud web applications",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
-    "description": "<p>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/\">Threat matrix: Mapping threats across cloud web applications</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-09T21:30:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS ",
-    "link": "https://azure.microsoft.com/updates?id=570551",
-    "description": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches the complete OS image on a VM’s local storage, eliminating remote-storage reads after caching finishes. Thi",
-    "pubDate": "2026-09-09T21:24:37.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Enable an industrial dataspace on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-enable-industrial-dataspaces",
-    "description": "Learn how to enable an industrial dataspace on Azure. A dataspace provides a secure point-to-point channel for data between the manufacturer and the customer.",
-    "pubDate": "2026-09-09T18:30:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
-    "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
-    "description": "<p>Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve three-zone designs for the components that genuinely require a third failure domain.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/\">Two zones or three? A design framework for zone-resilient Azure workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-09T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Join Partnering for Success Together",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#3",
-    "description": "Workspace: General • Announced: September 9",
-    "pubDate": "2026-09-09T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Automatic onboarding for Microsoft Sentinel",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#8",
-    "description": "Workspace: General • Announced: September 9",
-    "pubDate": "2026-09-09T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Dynamics 365 Activate now in limited public preview",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#7",
-    "description": "Workspace: General • Announced: September 9",
-    "pubDate": "2026-09-09T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
-    "link": "https://azure.microsoft.com/updates?id=570919",
-    "description": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provides fully managed cloud-hosted browsers for running end-to-end Playwright tests at scale, with parallel e",
-    "pubDate": "2026-09-08T17:35:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework",
-    "link": "https://azure.microsoft.com/updates?id=570881",
-    "description": "The Azure Developer CLI (azd) Extension Framework is now generally available. The framework enables developers, teams, and partners to extend Azure Developer CLI with custom capabilities that support their preferred application development workflows.With ",
-    "pubDate": "2026-09-08T17:18:38.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "CSP price list republish: Windows 10 Enterprise LTSC 2021 Extended Security Updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#6",
-    "description": "Workspace: Pricing • Announced: September 8",
-    "pubDate": "2026-09-08T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "ASPX updates to uncover opportunities",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#5",
-    "description": "Workspace: General • Announced: September 8",
-    "pubDate": "2026-09-08T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Idempotent Consumer pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/idempotent-consumer",
-    "description": "Use the Idempotent Consumer pattern to safely process duplicate messages from at-least-once deliveries so that repeated processing has the same effects as processing once.",
-    "pubDate": "2026-09-04T20:43:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Extract and analyze call center data",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics",
-    "description": "Learn how to extract insights from customer conversations at a call center by using Foundry Tools and Foundry Models.",
-    "pubDate": "2026-09-04T15:13:21.000Z",
     "source": "Azure Architecture"
   }
 ]
