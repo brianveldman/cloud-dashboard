@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure SQL Managed Instance updates for late-September 2026",
+    "link": "https://azure.microsoft.com/updates?id=571632",
+    "description": "In\r\nlate September 2026, the following updates and\r\nenhancements were made to Azure SQL Managed Instance:  \r\n Use\r\n     the flexible memory feature in Azure SQL Managed Instance to change the\r\n     amount of memory allocated to your SQL managed instance withou",
+    "pubDate": "2026-09-28T18:52:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Luxembourg - Azure Extended Zones",
     "link": "https://azure.microsoft.com/updates?id=572968",
     "description": "We are announcing the general availability of the Luxembourg Azure Extended Zone. Azure Extended Zones are small-footprint extensions of Azure placed in metro areas, industry centers, or specific jurisdictions, to serve low latency and data residency work",
@@ -103,6 +110,13 @@
     "description": "Generate prepopulated views over the data in one or more data stores when the data isn't ideally formatted for required query operations. This can help support efficient querying and data extraction, and improve application performance.",
     "pubDate": "2026-09-24T18:47:43.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+    "description": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/\">Ship agents faster with expanded model choice, voice agents, and continuous optimization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-24T18:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
@@ -684,19 +698,5 @@
     "description": "Workspace: General • Announced: September 10",
     "pubDate": "2026-09-10T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Azure Data Factory baseline architecture in an Azure landing zone",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/azure-data-factory-on-azure-landing-zones-baseline",
-    "description": "Learn how to design and implement the medallion lakehouse architecture in an Azure landing zone by using Azure Data Factory, Azure Databricks, SQL Server, and Power BI.",
-    "pubDate": "2026-09-10T03:11:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure App Configuration",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
-    "description": "Learn about the features of Azure App Configuration that are useful when you work with multitenant systems, and use the provided links for guidance and examples.",
-    "pubDate": "2026-09-10T02:54:24.000Z",
-    "source": "Azure Architecture"
   }
 ]
