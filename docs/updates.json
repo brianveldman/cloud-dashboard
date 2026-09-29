@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
+    "link": "https://azure.microsoft.com/updates?id=571800",
+    "description": "Vector search and vector indexes are now generally available in Azure SQL Database. Using the CREATE VECTOR INDEX and VECTOR_SEARCH T-SQL capabilities, you can perform efficient approximate nearest neighbor (ANN) searches for AI scenarios such as semantic",
+    "pubDate": "2026-09-28T22:07:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL Dev Hub",
+    "link": "https://azure.microsoft.com/updates?id=572998",
+    "description": "Azure SQL Dev Hub gives you a central starting point for building applications with Azure SQL, whether you’re developing directly or using AI agents. You can find guidance for connecting to Azure SQL from .NET, Python, Node.js, and Java, along with resour",
+    "pubDate": "2026-09-28T22:06:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Azure SQL Managed Instance updates for late-September 2026",
     "link": "https://azure.microsoft.com/updates?id=571632",
     "description": "In\r\nlate September 2026, the following updates and\r\nenhancements were made to Azure SQL Managed Instance:  \r\n Use\r\n     the flexible memory feature in Azure SQL Managed Instance to change the\r\n     amount of memory allocated to your SQL managed instance withou",
@@ -19,6 +33,13 @@
     "description": "<p>Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/\">NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-28T15:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Frontier Accelerate for Marketplace now available",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#20",
+    "description": "Workspace: General • Announced: September 28",
+    "pubDate": "2026-09-28T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Health Endpoint Monitoring pattern",
@@ -47,13 +68,6 @@
     "description": "<p>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/\">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-25T15:35:08.000Z",
     "source": "Security"
-  },
-  {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T12:07:25.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
@@ -684,19 +698,5 @@
     "description": "Azure Copilot Troubleshooting Agent is now generally available. Troubleshooting Agent is a unified, built-in Azure Copilot capability that helps customers investigate and resolve operational issues faster. Available through both Azure Copilot and Support ",
     "pubDate": "2026-09-10T15:25:52.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Build apps in Copilot Cowork and Copilot Studio",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
-    "description": "<p>Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/\">Build apps in Copilot Cowork and Copilot Studio</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-10T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "New incentives for Microsoft Copilot Cowork adoption",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#9",
-    "description": "Workspace: General • Announced: September 10",
-    "pubDate": "2026-09-10T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
