@@ -1,5 +1,124 @@
 [
   {
+    "title": "Retirement: Azure Functions v1 hosting model on Azure Container Apps",
+    "link": "https://azure.microsoft.com/updates?id=570800",
+    "description": "The Azure Functions v1 hosting model on Azure Container Apps\r\nwill be retired on September 29, 2027. After this date, existing Functions v1\r\napps on Azure Container Apps will stop running and will no longer process\r\nrequests or event-driven triggers. This re",
+    "pubDate": "2026-09-29T19:41:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series ",
+    "link": "https://azure.microsoft.com/updates?id=572630",
+    "description": "The Laosv5 series and Lasv5 storage optimized VMs, based on the 5th Gen AMD EPYC™ processor (Turin), are now generally available.Lasv5 and Laosv5 VMs have sizes ranging from 2-160 vCPUs, with 8GiB of memory and 720GB of local NVMe disk capacity per vCPU. ",
+    "pubDate": "2026-09-29T19:27:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets",
+    "link": "https://azure.microsoft.com/updates?id=571075",
+    "description": "Automatic Zone Placement for VM Scale Sets (Public Preview) enables Azure to automatically select the best availability zones for your scale set based on SKU availability, capacity, and placement requirements. Instead of manually maintaining zone lists fo",
+    "pubDate": "2026-09-29T19:17:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central",
+    "link": "https://azure.microsoft.com/updates?id=570696",
+    "description": "Azure Arc-enabled SQL Server is now\r\navailable in Germany West Central, enabling you to connect SQL Server\r\ninstances to Azure Arc and take advantage of Azure-based inventory, governance,\r\nsecurity, assessment, and license management capabilities. Learn more",
+    "pubDate": "2026-09-29T19:07:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North",
+    "link": "https://azure.microsoft.com/updates?id=570763",
+    "description": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-based inventory, governance, security, assessment, and\r\nlicense management capabilities.Learn more.",
+    "pubDate": "2026-09-29T19:06:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk ",
+    "link": "https://azure.microsoft.com/updates?id=571909",
+    "description": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance managed disk option for I/O-intensive and transaction-heavy PostgreSQL workloads that require consistently low",
+    "pubDate": "2026-09-29T18:14:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
+    "link": "https://azure.microsoft.com/updates?id=571867",
+    "description": "The public preview of Microsoft-managed performance monitoring for Azure SQL Database is now available.  You can now monitor Azure SQL Database without building custom collection scripts or correlating telemetry across disconnected tools. Built-in data co",
+    "pubDate": "2026-09-29T18:13:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server ",
+    "link": "https://azure.microsoft.com/updates?id=571904",
+    "description": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performance data. You can query Microsoft-managed monitoring data directly through a telemetry endpoint. The built",
+    "pubDate": "2026-09-29T18:11:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL updates for late-September 2026",
+    "link": "https://azure.microsoft.com/updates?id=571643",
+    "description": "The following updates and enhancements were made to Azure\r\nSQL:   \r\n Scale\r\n     larger workloads on Azure SQL Database Hyperscale Premium series with new\r\n     160-vCore and 192-vCore options, delivering up to 50% greater compute\r\n     capacity than the previ",
+    "pubDate": "2026-09-29T18:05:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK) ",
+    "link": "https://azure.microsoft.com/updates?id=571783",
+    "description": "Azure Database for PostgreSQL Flexible Server now supports cross-tenant customer-managed keys (CMK). You can encrypt your data using keys stored in an Azure Key Vault or Azure Managed HSM that resides in a different Microsoft Entra tenant than your Postgr",
+    "pubDate": "2026-09-29T17:57:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public preview: Script-based deployment for SQL Server on Linux Azure VM ",
+    "link": "https://azure.microsoft.com/updates?id=571810",
+    "description": "A new deployment experience for SQL Server on Linux Azure Virtual Machines (VMs) replaces legacy marketplace images with automated script-based provisioning. This release provides greater flexibility, simplified management, and improved customization. You",
+    "pubDate": "2026-09-29T17:52:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO) ",
+    "link": "https://azure.microsoft.com/updates?id=571836",
+    "description": "Now you can use ALDO to extend SQL Server support to environments that can’t maintain continuous connectivity to Azure. ALDO is designed for operations in highly regulated, secure, remote, or air-gapped environments, where internet connectivity is restric",
+    "pubDate": "2026-09-29T17:51:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: SQL Server support on Azure Local connected mode ",
+    "link": "https://azure.microsoft.com/updates?id=571841",
+    "description": "With SQL Server on Azure Local, you can run SQL Server workloads on Azure Local infrastructure while leveraging Azure services for centralized management, governance, monitoring, security, and licensing experiences. By connecting to Azure through Azure Ar",
+    "pubDate": "2026-09-29T17:50:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL updates for late-September 2026 ",
+    "link": "https://azure.microsoft.com/updates?id=571846",
+    "description": "In late September 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Database\r\n     Hub in Microsoft Fabric is a unified experience for discovering, managing,\r\n     monitoring, and optimizing databases across SQL Server, Azure SQL,\r\n    ",
+    "pubDate": "2026-09-29T17:49:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Database DevOps in SSMS powered by SQL projects ",
+    "link": "https://azure.microsoft.com/updates?id=571852",
+    "description": "In SSMS, you can now use Microsoft.Build.Sql projects to help you implement, manage, and collaborate on database changes, by providing a local definition of the database objects. A SQL database project is a local representation of SQL objects that compris",
+    "pubDate": "2026-09-29T17:42:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL Database Hyperscale Serverless auto-pause and auto-resume ",
+    "link": "https://azure.microsoft.com/updates?id=571857",
+    "description": "Auto-pause and auto-resume are now available in public preview for Azure SQL Hyperscale databases using the Serverless compute tier. You can configure databases to automatically pause during periods of inactivity and automatically resume when activity ret",
+    "pubDate": "2026-09-29T17:40:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: SQL Formatter ",
+    "link": "https://azure.microsoft.com/updates?id=571872",
+    "description": "You can now format SQL scripts directly in Visual Studio Code using SQL Formatter for more consistent, readable code. Customizable formatting options help you match your preferred coding style, so you can keep queries tidy without manual reformatting.   N",
+    "pubDate": "2026-09-29T17:39:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: SQL Migration Agent Skills for assessment, migration, and validation ",
     "link": "https://azure.microsoft.com/updates?id=571899",
     "description": "SQL Migration Agent Skills help you automate and streamline the end-to-end migration journey from SQL Server to Azure. These reusable AI-powered skills help guide you through assessment, target selection, migration execution, and post-migration validation",
@@ -84,13 +203,6 @@
     "source": "Security"
   },
   {
-    "title": "Observing improvements - Intermittent request failures and increased latency across Azure OpenAI, Azure AI Foundry, and Cognitive Services",
-    "link": "https://azure.status.microsoft/en-us/status/",
-    "description": "<p><strong>Impact Statement:</strong> Starting at 10:00 UTC on 29 September 2026, a subset of customers using OpenAI Service, Foundry Agent Service, Foundry Models, and Cognitive Services, in Sweden Central may experience intermittent request failures, increased latency, and HTTP 5XX error codes when submitting requests to affected models and APIs hosted in this region.</p><p><strong>Current Status:</strong></p><p>Currently we are monitoring improvements in the overall experience. Initial findings indicate that a backend service which is relied on to retrieve metadata information when managing requests for this region, was experiencing timeouts when reading from dependent database and caching layers. Additionally, some instances for this backend service became unhealthy and experienced restarts. As a result, requests that depend on these processes were delayed or failed intermittently.&nbsp;</p><p>We have taken steps to further scale instances for the backend service, and reconfigured system processes as mitigation steps. Queued requests have been processed for a period of time to confirm improvements to overall service health. We are continuing to investigate the health of supporting platform infrastructure and system processes that may have impacted these requests and the backend service.</p><p>The next update will be provided within 60 minutes, or as events warrant.</p><p><br></p>",
-    "pubDate": "2026-09-29T10:00:00.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
     "link": "https://azure.microsoft.com/updates?id=571800",
     "description": "Vector search and vector indexes are now generally available in Azure SQL Database. Using the CREATE VECTOR INDEX and VECTOR_SEARCH T-SQL capabilities, you can perform efficient approximate nearest neighbor (ANN) searches for AI scenarios such as semantic",
@@ -159,6 +271,13 @@
     "description": "<p>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/\">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-25T15:35:08.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
@@ -578,125 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=571621",
     "description": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli",
     "pubDate": "2026-09-16T14:13:08.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL ",
-    "link": "https://azure.microsoft.com/updates?id=569664",
-    "description": "The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act on a connected database. The bundled plugin combines expert-curated skills for PostgreSQL and Azure Data",
-    "pubDate": "2026-09-16T14:07:14.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Network secure ingress pattern implementation with Azure Front Door Premium tier",
-    "link": "https://learn.microsoft.com/azure/architecture/pattern-implementations/network-secure-ingress",
-    "description": "The pattern implementation for network secure ingress illustrates global routing, health-based origin failover, and attack mitigation at the edge.",
-    "pubDate": "2026-09-15T22:50:21.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Automate API Management configuration deployments by using APIOps CLI",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/devops/automated-api-deployments-apiops",
-    "description": "Use the APIOps CLI and Azure API Management to extract, review, and deploy API Management configuration as version-controlled artifacts.",
-    "pubDate": "2026-09-15T19:17:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises SAP system to the OPC UA reference solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-on-premises-sap-to-the-solution",
-    "description": "Learn how to connect an on-premises SAP ERP system to the OPC UA reference solution by using Azure Logic Apps and Azure Data Explorer.",
-    "pubDate": "2026-09-15T17:45:08.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect Dynamics 365 Field Service to the OPC UA reference solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/how-to-connect-dynamics-field-service-to-the-solution",
-    "description": "Learn how to use Logic Apps and Azure Data Explorer to create customer assets and IoT alerts in Dynamics 365 Field Service from industrial OPC UA telemetry.",
-    "pubDate": "2026-09-15T17:33:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
-    "description": "<p>Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/\">Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-15T15:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
-    "title": "Administer SQL Server with Azure Arc",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-arc-sql-server",
-    "description": "Learn how to use Azure Arc for management, maintenance, and monitoring of SQL Server instances in on-premises and multicloud environments.",
-    "pubDate": "2026-09-15T13:47:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Office LTSC 2021 end of support",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#10",
-    "description": "Workspace: General • Announced: September 15",
-    "pubDate": "2026-09-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-09-14T21:01:09.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Announcing: New Windows App client-side endpoints for Azure Virtual Desktop",
-    "link": "https://azure.microsoft.com/updates?id=571360",
-    "description": "Beginning in early October 2026, Windows App will begin using three new wildcard fully qualified domain names (FQDNs) for client-side service traffic to Azure Virtual Desktop. These domains are already included in the cloud-side connectivity requirements.",
-    "pubDate": "2026-09-14T18:24:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: HTTP/3 over QUIC support in Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=571123",
-    "description": "Announcing public preview\r\nsupport for HTTP/3 over QUIC on Azure Application Gateway. HTTP/3 is the next\r\nevolution of HTTP and uses QUIC to improve connection setup time, reduce\r\nlatency, and provide better resiliency for modern web applications and APIs. W",
-    "pubDate": "2026-09-14T17:55:00.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Windows Server 2016 Extended Security Updates: CSP price list republish",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#12",
-    "description": "Workspace: Pricing • Announced: September 14",
-    "pubDate": "2026-09-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Use Azure Key Vault in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
-    "description": "Learn how to use Azure Key Vault in multitenant solutions, including isolation models, tenant-specific vaults, shared vaults, and multitenancy features.",
-    "pubDate": "2026-09-13T21:53:35.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Modern data warehouse medallion architecture in Microsoft Fabric",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/dataops-mdw",
-    "description": "Learn how to implement a SQL-first modern data warehouse medallion architecture by using Fabric Data Warehouse, OneLake, Fabric Data Factory, and Power BI.",
-    "pubDate": "2026-09-11T20:15:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Agentic AI for the OPC UA reference solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/agentic-ai-for-the-solution",
-    "description": "Learn how to use agentic AI to augment a solution that uses OPC Unified Architecture (OPC UA) to connect shop-floor telemetry to Azure analytics services.",
-    "pubDate": "2026-09-11T20:12:41.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Azure Linux with OS Guard in Azure Kubernetes Service",
-    "link": "https://azure.microsoft.com/updates?id=571257",
-    "description": "Support for Azure Linux with OS Guard in Azure Kubernetes Service will end on December 10, 2026. Azure Container Linux is the replacement for Azure Linux with OS Guard (preview). Starting on December 10, 2026:Users won’t be able to create new Azure Linux ",
-    "pubDate": "2026-09-11T18:08:28.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB)",
-    "link": "https://azure.microsoft.com/updates?id=570910",
-    "description": "Azure Storage Mover now supports agentless migration of on-premises SMB file shares to Azure Files (SMB), in public preview. You can move file data from Windows Server or NAS shares into Azure without deploying, registering, or maintaining a migration age",
-    "pubDate": "2026-09-11T15:58:56.000Z",
     "source": "Azure Updates"
   }
 ]
