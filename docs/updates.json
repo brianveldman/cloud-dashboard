@@ -1,5 +1,12 @@
 [
   {
+    "title": "Phishing Abuses RMM Tools for Persistent Access",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
+    "description": "<p>Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/\">Phishing Abuses RMM Tools for Persistent Access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-29T21:39:27.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Azure Functions v1 hosting model on Azure Container Apps",
     "link": "https://azure.microsoft.com/updates?id=570800",
     "description": "The Azure Functions v1 hosting model on Azure Container Apps\r\nwill be retired on September 29, 2027. After this date, existing Functions v1\r\napps on Azure Container Apps will stop running and will no longer process\r\nrequests or event-driven triggers. This re",
@@ -229,6 +236,13 @@
     "description": "We are announcing the general availability of the Luxembourg Azure Extended Zone. Azure Extended Zones are small-footprint extensions of Azure placed in metro areas, industry centers, or specific jurisdictions, to serve low latency and data residency work",
     "pubDate": "2026-09-28T17:08:48.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+    "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+    "description": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/\">Enhancing Microsoft Azure Virtual Machine lifecycle</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-28T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
@@ -623,13 +637,6 @@
     "source": "Security"
   },
   {
-    "title": "Improving email security outcomes with real-world Microsoft Defender insights",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
-    "description": "<p>The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/\">Improving email security outcomes with real-world Microsoft Defender insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-17T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting November 2, 2026",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#11",
     "description": "Workspace: General • Announced: September 17",
@@ -691,12 +698,5 @@
     "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-09-16T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
-    "link": "https://azure.microsoft.com/updates?id=571621",
-    "description": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the OpenShift control plane as a fully managed service, separate from the worker nodes that run customer appli",
-    "pubDate": "2026-09-16T14:13:08.000Z",
-    "source": "Azure Updates"
   }
 ]
