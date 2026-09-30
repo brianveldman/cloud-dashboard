@@ -1,5 +1,40 @@
 [
   {
+    "title": "[In preview] Public Preview: Ubuntu 26.04 support in AKS",
+    "link": "https://azure.microsoft.com/updates?id=573214",
+    "description": "Teams running Ubuntu node pools on AKS need to stay current with Ubuntu LTS releases, but each OS transition can introduce package footprint, security, and compatibility concerns. Ubuntu 26.04 support introduces the Ubuntu2604 OS SKU using Ubuntu Minimal ",
+    "pubDate": "2026-09-30T17:11:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Azure canvases for GitHub Copilot",
+    "link": "https://azure.microsoft.com/updates?id=573385",
+    "description": "Discover Azure canvases for GitHub Copilot, interactive shared workspaces that bring Azure tools, dashboards, and guided workflows directly alongside your Copilot conversations. Explore Azure resources, analyze costs, and build hosted skills while keeping",
+    "pubDate": "2026-09-30T17:09:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs ",
+    "link": "https://azure.microsoft.com/updates?id=572346",
+    "description": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3,\r\nand Esv3 Azure VM series in public cloud Azure regions. These VMs will\r\nenter the End-of-Life lifecycle stage and retire on November 15, 2029.",
+    "pubDate": "2026-09-30T17:07:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+    "description": "<p>Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/\">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-30T14:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Frontier Partner specialization now live",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#21",
+    "description": "Workspace: General • Announced: September 30",
+    "pubDate": "2026-09-30T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Phishing Abuses RMM Tools for Persistent Access",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
     "description": "<p>Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/\">Phishing Abuses RMM Tools for Persistent Access</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -630,13 +665,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "From guidance to action: Security fundamentals that materially reduce risk ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
-    "description": "<p>AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/\">From guidance to action: Security fundamentals that materially reduce risk </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-17T17:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting November 2, 2026",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#11",
     "description": "Workspace: General • Announced: September 17",
@@ -670,33 +698,5 @@
     "description": "Compare relational and non-relational database services on Azure and AWS, including document, key-value, wide-column, graph, and in-memory data stores.",
     "pubDate": "2026-09-16T22:24:06.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare AWS and Azure messaging services",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/messaging",
-    "description": "Compare messaging service differences between Azure and AWS. Know Azure equivalents for Simple Email Service, Simple Queue Service, and messaging components.",
-    "pubDate": "2026-09-16T21:44:16.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement Update: SAP container images removed October 14, 2026",
-    "link": "https://azure.microsoft.com/updates?id=571342",
-    "description": "The containerized SAP data connector retired on September 14, 2026 and is unsupported and unmaintained. Existing TLS-compliant agents may continue sending logs through the retired HTTP Data Collector API. Container images will be removed on October 14, 20",
-    "pubDate": "2026-09-16T17:19:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for mid-September 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=571056",
-    "description": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the logical server is deleted, it goes into a soft deleted state and is self-restorable during the configured",
-    "pubDate": "2026-09-16T17:15:10.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-    "description": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/\">Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-16T16:00:00.000Z",
-    "source": "Azure Blog"
   }
 ]
