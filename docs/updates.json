@@ -1,5 +1,26 @@
 [
   {
+    "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+    "description": "<p>This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/\">​​Secure what&#8217;s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-09-30T19:31:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Retirement: NVv3-series Azure Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=573414",
+    "description": "On September 30, 2026, Microsoft Azure retired the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series VMs.Any remaining NVv3-series VMs will be ",
+    "pubDate": "2026-09-30T18:26:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: NVv4-series Azure Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=573415",
+    "description": "On September 30, 2026, Microsoft Azure retired the Standard_NV4as_v4, Standard_NV4ahs_v4, Standard_NV8as_v4, Standard_NV8ahs_v4, Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-series",
+    "pubDate": "2026-09-30T18:24:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Ubuntu 26.04 support in AKS",
     "link": "https://azure.microsoft.com/updates?id=573214",
     "description": "Teams running Ubuntu node pools on AKS need to stay current with Ubuntu LTS releases, but each OS transition can introduce package footprint, security, and compatibility concerns. Ubuntu 26.04 support introduces the Ubuntu2604 OS SKU using Ubuntu Minimal ",
@@ -518,13 +539,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
-    "description": "<p>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/\">Unmasking EvilTokens: Getting to the root of device code phishing</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-22T15:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Clinical Applications specialization",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#16",
     "description": "Workspace: General • Announced: September 22",
@@ -682,20 +696,6 @@
     "title": "Compare AWS and Azure analytics services",
     "link": "https://learn.microsoft.com/azure/architecture/aws-professional/analytics",
     "description": "Compare analytics services on Azure and AWS for data integration, data lakes, data engineering, data warehouses, real-time analytics, governance, and business intelligence.",
-    "pubDate": "2026-09-16T22:24:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare AWS and Azure AI and machine learning services",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/data-ai",
-    "description": "Compare machine learning, generative AI, vision, speech, language, document intelligence, and AI search services on Azure and AWS.",
-    "pubDate": "2026-09-16T22:24:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare AWS and Azure database services",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/databases",
-    "description": "Compare relational and non-relational database services on Azure and AWS, including document, key-value, wide-column, graph, and in-memory data stores.",
     "pubDate": "2026-09-16T22:24:06.000Z",
     "source": "Azure Architecture"
   }
