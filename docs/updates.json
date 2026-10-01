@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines ",
+    "link": "https://azure.microsoft.com/updates?id=571894",
+    "description": "The public preview of Microsoft-managed performance monitoring for SQL Server on Azure Virtual Machines is now available. You can now monitor SQL Server on Azure Virtual Machines without building custom collection scripts or correlating telemetry across d",
+    "pubDate": "2026-09-30T21:13:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Active - Multiple services experiencing connectivity issues in multiple regions",
+    "link": "https://azure.status.microsoft/en-us/status/",
+    "description": "<p>Starting at 20:30 UTC on 30 September 2026, customers using ExpressRoute and VPN Gateway may have experienced degraded or interrupted network connectivity. Customers may also experience failures or delays with some network management operations.</p><p><strong>Current status: </strong>ExpressRoute gateways are showing significant recovery as of 22:35 UTC, and we continue to monitor service health to validate that recovery is sustained. We have paused infrastructure servicing activity associated with the onset of this event, preventing additional resources from entering the affected workflow.</p><p>For VPN Gateway, some affected gateways experienced reduced redundancy or loss of connectivity, and recovery continues to be monitored. Some supporting network management components have not recovered automatically and continue to contribute to management operation failures in affected regions. Engineering teams are actively restoring these components using healthy instances where available.</p><p>Our investigation has identified a correlation between the timing of this event and infrastructure operating system servicing activity. The underlying failure mechanism has not yet been confirmed, and we continue to investigate why some network service instances became unhealthy and why recovery behavior differed across services.</p><p>We will provide additional information within the next 30 minutes, or sooner if events warrant.</p>",
+    "pubDate": "2026-09-30T20:30:00.000Z",
+    "source": "Azure Status"
+  },
+  {
     "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
     "description": "<p>This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/\">​​Secure what&#8217;s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -252,6 +266,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "SQL Server on Azure Local is now generally available",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
+    "description": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/\">SQL Server on Azure Local is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-29T16:40:06.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "​​Beyond source code: A path to the keys to the kingdom",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
     "description": "<p>Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/\">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -264,6 +285,13 @@
     "description": "<p>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/\">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-29T15:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+    "description": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-29T06:30:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
@@ -670,33 +698,5 @@
     "description": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key management, and authentication data protection. Customers\r\nretain exclusive administrative control of an isolate",
     "pubDate": "2026-09-17T18:36:44.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: High-scale mesh in Azure Virtual Network Manager",
-    "link": "https://azure.microsoft.com/updates?id=571572",
-    "description": "High-scale mesh using connected\r\ngroup in Azure Virtual Network\r\nManager is now in general availability. In available regions, customers may connect\r\nup to 3,000 virtual networks in a single mesh connectivity configuration by\r\ndefault and higher scale IP conn",
-    "pubDate": "2026-09-17T17:40:33.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting November 2, 2026",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#11",
-    "description": "Workspace: General • Announced: September 17",
-    "pubDate": "2026-09-17T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Unified for Partners: Future of support",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#13",
-    "description": "Workspace: General • Announced: September 17",
-    "pubDate": "2026-09-17T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Compare AWS and Azure analytics services",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/analytics",
-    "description": "Compare analytics services on Azure and AWS for data integration, data lakes, data engineering, data warehouses, real-time analytics, governance, and business intelligence.",
-    "pubDate": "2026-09-16T22:24:06.000Z",
-    "source": "Azure Architecture"
   }
 ]
