@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029",
+    "link": "https://azure.microsoft.com/updates?id=569592",
+    "description": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no longer be\r\navailable for use or purchase.  Before October 31, 2029, migrate your workloads to one of\r\nthe fo",
+    "pubDate": "2026-10-01T17:02:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Preparing governments for an era of interconnected cyber risk",
     "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
     "description": "<p>According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/\">Preparing governments for an era of interconnected cyber risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -12,6 +19,34 @@
     "description": "<p>Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/\">Insights from the 2026 Microsoft Digital Defense Report </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-10-01T14:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Update: Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting December 1, 2026",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#4",
+    "description": "Workspace: General • Announced: October 1",
+    "pubDate": "2026-10-01T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Enhance Business Premium security deals with a new CSP partner promotion",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#3",
+    "description": "Workspace: General • Announced: October 1",
+    "pubDate": "2026-10-01T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Growth margin is live",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#2",
+    "description": "Workspace: General • Announced: October 1",
+    "pubDate": "2026-10-01T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Dynamics 365 Business Central license key version update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#1",
+    "description": "Workspace: General • Announced: October 1",
+    "pubDate": "2026-10-01T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines ",
@@ -58,16 +93,9 @@
   {
     "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs ",
     "link": "https://azure.microsoft.com/updates?id=572346",
-    "description": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3,\r\nand Esv3 Azure VM series in public cloud Azure regions. These VMs will\r\nenter the End-of-Life lifecycle stage and retire on November 15, 2029.",
+    "description": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3, and\r\nEsv3 Azure VM series in public cloud Azure regions. These VMs will enter the\r\nEnd-of-Life lifecycle stage and retire on November 15, 2029.",
     "pubDate": "2026-09-30T17:07:30.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-    "description": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/\">Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
@@ -280,13 +308,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "SQL Server on Azure Local is now generally available",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-    "description": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/\">SQL Server on Azure Local is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T16:40:06.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "​​Beyond source code: A path to the keys to the kingdom",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
     "description": "<p>Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/\">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -299,13 +320,6 @@
     "description": "<p>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/\">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-29T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-    "description": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T06:30:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
@@ -684,19 +698,5 @@
     "description": "Workspace: APIs • Announced: September 18",
     "pubDate": "2026-09-18T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Implement advanced monitoring for Foundry Models through a gateway",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/azure-openai-gateway-monitoring",
-    "description": "Learn how to implement advanced monitoring scenarios for Foundry Models, like chargeback and auditing, through a gateway.",
-    "pubDate": "2026-09-17T20:32:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Payments HSM v2",
-    "link": "https://azure.microsoft.com/updates?id=570509",
-    "description": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key management, and authentication data protection. Customers\r\nretain exclusive administrative control of an isolate",
-    "pubDate": "2026-09-17T18:36:44.000Z",
-    "source": "Azure Updates"
   }
 ]
