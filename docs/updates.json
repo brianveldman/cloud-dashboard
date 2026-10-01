@@ -7,13 +7,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Active - Multiple services experiencing connectivity issues in multiple regions",
-    "link": "https://azure.status.microsoft/en-us/status/",
-    "description": "<p>Starting at 20:30 UTC on 30 September 2026, customers using ExpressRoute and VPN Gateway may have experienced degraded or interrupted network connectivity. Customers may also experience failures or delays with some network management operations.</p><p><strong>Current status: </strong>ExpressRoute gateways are showing significant recovery as of 22:35 UTC, and we continue to monitor service health to validate that recovery is sustained. We have paused infrastructure servicing activity associated with the onset of this event, preventing additional resources from entering the affected workflow.</p><p>For VPN Gateway, some affected gateways experienced reduced redundancy or loss of connectivity, and recovery continues to be monitored. Some supporting network management components have not recovered automatically and continue to contribute to management operation failures in affected regions. Engineering teams are actively restoring these components using healthy instances where available.</p><p>Our investigation has identified a correlation between the timing of this event and infrastructure operating system servicing activity. The underlying failure mechanism has not yet been confirmed, and we continue to investigate why some network service instances became unhealthy and why recovery behavior differed across services.</p><p>We will provide additional information within the next 30 minutes, or sooner if events warrant.</p>",
-    "pubDate": "2026-09-30T20:30:00.000Z",
-    "source": "Azure Status"
-  },
-  {
     "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
     "description": "<p>This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/\">​​Secure what&#8217;s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -54,6 +47,13 @@
     "description": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3,\r\nand Esv3 Azure VM series in public cloud Azure regions. These VMs will\r\nenter the End-of-Life lifecycle stage and retire on November 15, 2029.",
     "pubDate": "2026-09-30T17:07:30.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+    "description": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/\">Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-30T15:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
