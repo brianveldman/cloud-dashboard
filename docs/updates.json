@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters ",
+    "link": "https://azure.microsoft.com/updates?id=571504",
+    "description": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer PostgreSQL version in place without provisioning a replacement cluster, migrating distributed data, or changing ",
+    "pubDate": "2026-10-02T17:35:21.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029",
     "link": "https://azure.microsoft.com/updates?id=569592",
     "description": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no longer be\r\navailable for use or purchase.  Before October 31, 2029, migrate your workloads to one of\r\nthe fo",
@@ -96,13 +103,6 @@
     "description": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3, and\r\nEsv3 Azure VM series in public cloud Azure regions. These VMs will enter the\r\nEnd-of-Life lifecycle stage and retire on November 15, 2029.",
     "pubDate": "2026-09-30T17:07:30.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-    "description": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/\">Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T15:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
@@ -315,13 +315,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "SQL Server on Azure Local is now generally available",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-    "description": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/\">SQL Server on Azure Local is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T16:40:06.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "​​Beyond source code: A path to the keys to the kingdom",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
     "description": "<p>Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/\">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -334,13 +327,6 @@
     "description": "<p>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/\">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-29T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-    "description": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T06:30:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=568414",
     "description": "You can now monitor the synchronization status of your logical replication slots in Azure Database for PostgreSQL – Flexible Server using the new logical_replication_slot_sync_status metric. This Azure Monitor metric shows whether each logical replication",
     "pubDate": "2026-09-18T16:44:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: New and improved troubleshooting guides for Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=571042",
+    "description": "Updated troubleshooting guidance is now available for Azure Database for PostgreSQL flexible server. You can use the expanded documentation to diagnose high CPU, memory, IOPS, temporary file usage, and autovacuum issues, helping you identify root causes a",
+    "pubDate": "2026-09-18T15:51:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: PG18 support for Azure Database for PostgreSQL elastic clusters ",
+    "link": "https://azure.microsoft.com/updates?id=571047",
+    "description": "Azure Database for PostgreSQL elastic clusters now support PostgreSQL 18, bringing the latest PostgreSQL capabilities to distributed, cloud-scale workloads. You can build new applications or modernize existing ones with the performance, reliability, and d",
+    "pubDate": "2026-09-18T15:49:46.000Z",
     "source": "Azure Updates"
   }
 ]
