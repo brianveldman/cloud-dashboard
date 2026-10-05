@@ -427,13 +427,6 @@
     "source": "Security"
   },
   {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T12:07:25.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=571816",
     "description": "Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams is now generally available. An agent only delivers value once it reaches the people who need it, and Foundry developers previously had no native path to make their agents operational a",
     "pubDate": "2026-09-18T17:21:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Logical replication slot sync status metric for Azure PostgreSQL Flexible Server ",
+    "link": "https://azure.microsoft.com/updates?id=568414",
+    "description": "You can now monitor the synchronization status of your logical replication slots in Azure Database for PostgreSQL – Flexible Server using the new logical_replication_slot_sync_status metric. This Azure Monitor metric shows whether each logical replication",
+    "pubDate": "2026-09-18T16:44:11.000Z",
     "source": "Azure Updates"
   }
 ]
