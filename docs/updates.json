@@ -1,5 +1,26 @@
 [
   {
+    "title": "New Security designation workloads",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#5",
+    "description": "Workspace: General • Announced: October 5",
+    "pubDate": "2026-10-05T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Event-driven cache updates with Azure Managed Redis and Azure Cosmos DB",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/event-driven-cache-updates-azure-managed-redis-cosmos-db",
+    "description": "Find out how to update Azure Managed Redis asynchronously from committed changes in Azure Cosmos DB by using Azure Functions and the change feed.",
+    "pubDate": "2026-10-02T18:46:42.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Troubleshoot a hybrid VPN connection",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/troubleshoot-vpn",
+    "description": "Learn tips for how to troubleshoot a VPN gateway connection between an on-premises network and Azure.",
+    "pubDate": "2026-10-02T17:57:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters ",
     "link": "https://azure.microsoft.com/updates?id=571504",
     "description": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer PostgreSQL version in place without provisioning a replacement cluster, migrating distributed data, or changing ",
@@ -7,11 +28,46 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure Local hyperconverged storage switchless architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless",
+    "description": "Learn how to design a connected, hyperconverged Azure Local deployment of three to four machines that uses direct storage links and dual top-of-rack switches.",
+    "pubDate": "2026-10-02T15:13:03.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Local hyperconverged baseline reference architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
+    "description": "Learn how to design a connected, highly available Azure Local deployment that uses hyperconverged storage and storage-switched networking.",
+    "pubDate": "2026-10-02T15:13:03.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure Key Vault in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/key-vault",
+    "description": "Learn how to use Azure Key Vault in multitenant solutions, including isolation models, tenant-specific vaults, shared vaults, and multitenancy features.",
+    "pubDate": "2026-10-02T02:02:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Application Insights",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/application-insights",
+    "description": "Learn about tenancy models that you can use with Application Insights and features that are useful when you use this service in multitenant systems.",
+    "pubDate": "2026-10-01T19:55:26.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029",
     "link": "https://azure.microsoft.com/updates?id=569592",
     "description": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no longer be\r\navailable for use or purchase.  Before October 31, 2029, migrate your workloads to one of\r\nthe fo",
     "pubDate": "2026-10-01T17:02:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Replicate mainframe data by using Precisely Connect",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
+    "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
+    "pubDate": "2026-10-01T16:12:17.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Preparing governments for an era of interconnected cyber risk",
@@ -105,11 +161,18 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-    "description": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/\">Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T15:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Stream processing with Databricks",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
+    "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
+    "pubDate": "2026-09-30T15:07:49.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Advanced Azure Kubernetes Service (AKS) microservices architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
+    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
+    "pubDate": "2026-09-30T15:06:44.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
@@ -166,6 +229,13 @@
     "description": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-based inventory, governance, security, assessment, and\r\nlicense management capabilities.Learn more.",
     "pubDate": "2026-09-29T19:06:50.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Considerations for multitenant agentic systems",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/agentic-systems",
+    "description": "Review considerations for multitenant agentic systems, including tenant isolation, identity management, tool-calling governance, and state isolation.",
+    "pubDate": "2026-09-29T18:59:11.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk ",
@@ -322,13 +392,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "SQL Server on Azure Local is now generally available",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-    "description": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/\">SQL Server on Azure Local is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T16:40:06.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "​​Beyond source code: A path to the keys to the kingdom",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
     "description": "<p>Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/\">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -343,13 +406,6 @@
     "source": "Security"
   },
   {
-    "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-    "description": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T06:30:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
     "link": "https://azure.microsoft.com/updates?id=571800",
     "description": "Vector search and vector indexes are now generally available in Azure SQL Database. Using the CREATE VECTOR INDEX and VECTOR_SEARCH T-SQL capabilities, you can perform efficient approximate nearest neighbor (ANN) searches for AI scenarios such as semantic",
@@ -362,6 +418,13 @@
     "description": "Azure SQL Dev Hub gives you a central starting point for building applications with Azure SQL, whether you’re developing directly or using AI agents. You can find guidance for connecting to Azure SQL from .NET, Python, Node.js, and Java, along with resour",
     "pubDate": "2026-09-28T22:06:05.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Scheduler agent supervisor pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/scheduler-agent-supervisor",
+    "description": "See how to coordinate a set of distributed actions as a single operation so the entire operation succeeds or fails as a whole.",
+    "pubDate": "2026-09-28T19:49:47.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure SQL Managed Instance updates for late-September 2026",
@@ -425,6 +488,13 @@
     "description": "<p>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/\">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-25T15:35:08.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
@@ -628,75 +698,5 @@
     "description": "Use multilayered security to control access to Azure VMs. See a solution that uses Azure and Microsoft Entra security services and aligns with security principles.",
     "pubDate": "2026-09-21T17:00:37.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
-    "link": "https://azure.microsoft.com/updates?id=572214",
-    "description": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or ma",
-    "pubDate": "2026-09-21T16:58:19.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Functions support for PowerShell 7.6",
-    "link": "https://azure.microsoft.com/updates?id=572219",
-    "description": "Azure Functions support for PowerShell 7.6 is\r\nnow generally available.  You can now develop apps using PowerShell 7.6 locally and\r\ndeploy them to Azure Functions plans.   Learn more: Updating\r\nyour app to PowerShell 7.6  What's\r\nnew in PowerShell 7.6?  Azure",
-    "pubDate": "2026-09-21T16:55:34.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Choose an Azure service for vector search",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/vector-search",
-    "description": "Compare capabilities, indexing methods, and integration options to determine which Azure vector search service best fits your application.",
-    "pubDate": "2026-09-21T15:39:33.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "IPv6 hub-and-spoke network topology",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/ipv6-architecture",
-    "description": "Learn how to transition a hub-and-spoke network topology in Azure so it supports IPv6, which creates a dual-stack network.",
-    "pubDate": "2026-09-18T20:11:02.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Foundry Routines in Foundry Agent Service",
-    "link": "https://azure.microsoft.com/updates?id=563536",
-    "description": "In public preview, Foundry Agent Service adds Foundry Routines, a native trigger primitive for running published agents automatically. Production agents often need to run on a schedule or when a business event occurs, and today that means assembling exter",
-    "pubDate": "2026-09-18T19:10:53.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Mdsv4 and Msv4 Series Virtual Machines for SAP",
-    "link": "https://azure.microsoft.com/updates?id=571530",
-    "description": "The Mdsv4\r\nand Msv4 Series are memory-optimized virtual machine series built on 6th\r\nGeneration Intel® Xeon® Scalable processors and enhanced with advanced security\r\ncapabilities and the latest Azure Boost technologies. Designed for\r\ndemanding memory-intensiv",
-    "pubDate": "2026-09-18T17:29:29.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Enable and disable controls for Microsoft Foundry agents in Agent 365",
-    "link": "https://azure.microsoft.com/updates?id=571826",
-    "description": "Microsoft Foundry now exposes enable and disable actions for Foundry agent objects within the Agent 365 governance surface in Microsoft Admin Center, generally available. Administrators can control whether a Foundry agent is available for use across their",
-    "pubDate": "2026-09-18T17:24:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Network egress controls for hosted agents in Microsoft Foundry",
-    "link": "https://azure.microsoft.com/updates?id=571821",
-    "description": "In public preview, Microsoft Foundry now lets customers govern the outbound connections a hosted agent can make. Customers author ordered rules matched on destination host, including FQDN with wildcards such as *.contoso.com, with actions to allow, deny, ",
-    "pubDate": "2026-09-18T17:23:21.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams",
-    "link": "https://azure.microsoft.com/updates?id=571816",
-    "description": "Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams is now generally available. An agent only delivers value once it reaches the people who need it, and Foundry developers previously had no native path to make their agents operational a",
-    "pubDate": "2026-09-18T17:21:06.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Logical replication slot sync status metric for Azure PostgreSQL Flexible Server ",
-    "link": "https://azure.microsoft.com/updates?id=568414",
-    "description": "You can now monitor the synchronization status of your logical replication slots in Azure Database for PostgreSQL – Flexible Server using the new logical_replication_slot_sync_status metric. This Azure Monitor metric shows whether each logical replication",
-    "pubDate": "2026-09-18T16:44:11.000Z",
-    "source": "Azure Updates"
   }
 ]
