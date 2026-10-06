@@ -210,13 +210,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-    "description": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/\">Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
     "description": "<p>Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/\">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -434,13 +427,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "SQL Server on Azure Local is now generally available",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-    "description": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/\">SQL Server on Azure Local is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T16:40:06.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "​​Beyond source code: A path to the keys to the kingdom",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
     "description": "<p>Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/\">​​Beyond source code: A path to the keys to the kingdom</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -453,13 +439,6 @@
     "description": "<p>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as “RedFlick”.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/\">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-29T15:00:00.000Z",
     "source": "Security"
-  },
-  {
-    "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-    "description": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-29T06:30:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
@@ -544,6 +523,13 @@
     "description": "<p>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/\">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-09-25T15:35:08.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
@@ -698,5 +684,19 @@
     "description": "Support for Node.js 22 will end on April 30, 2027, please transition to Node.js 24 by that date. Your Azure Function apps will continue to run, but security patches and updates will no longer be provided and customer support for Node.js 22 will be discont",
     "pubDate": "2026-09-22T19:22:34.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Flex Nodes for AKS",
+    "link": "https://azure.microsoft.com/updates?id=571919",
+    "description": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS control plane in Azure. Flex Nodes provide a consistent Kubernetes control plane while enabling teams to",
+    "pubDate": "2026-09-22T18:51:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+    "description": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/\">GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-09-22T18:30:00.000Z",
+    "source": "Azure Blog"
   }
 ]
