@@ -1,5 +1,19 @@
 [
   {
+    "title": "Retirement: Azure App Service on Azure Stack Hub",
+    "link": "https://azure.microsoft.com/updates?id=568178",
+    "description": "Azure App Service on Azure Stack Hub will be retired on September\r\n30, 2029. Starting September 30, 2026, new installations will\r\nno longer be supported, and no new product releases, features, or enhancements\r\nwill be made available. Existing supported deplo",
+    "pubDate": "2026-10-06T18:24:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Support for Java 8, 11 and 17 will end on September 1, 2027",
+    "link": "https://azure.microsoft.com/updates?id=568585",
+    "description": "On September 1, 2027 support for Java 8, 11 and 17 will end. Your\r\napps that are hosted on App Service will continue to run, but security updates\r\nwill no longer be available, and we’ll no longer provide customer service for Java\r\n8, 11 and 17.Required actio",
+    "pubDate": "2026-10-06T18:21:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Always Encrypted with Intel SGX Enclaves",
     "link": "https://azure.microsoft.com/updates?id=569236",
     "description": "Always Encrypted with Intel SGX enclaves in Azure SQL Database will retire on October 31, 2027 as support for SGX-enabled DC-series hardware is phased out. Customers should transition to Virtualization-Based Security (VBS) enclaves, a hardware-independent",
@@ -567,6 +581,13 @@
     "source": "Security"
   },
   {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -677,26 +698,5 @@
     "description": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to operate,\r\nbut security updates will no longer be provided, and support for .NET 8 and\r\n.NET 9 on Azure Function",
     "pubDate": "2026-09-23T16:46:49.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Your architecture diagram is not your resilience",
-    "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-    "description": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/\">Your architecture diagram is not your resilience</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Designing agent-first platforms: What changes when agents do the work",
-    "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-    "description": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/\">Designing agent-first platforms: What changes when agents do the work</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Building the system for AI at work",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
-    "description": "<p>There's no shortage of sound and fury in AI right now.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/\">Building the system for AI at work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-23T15:00:00.000Z",
-    "source": "Microsoft 365"
   }
 ]
