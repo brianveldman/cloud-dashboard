@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: Anyscale on Azure",
+    "link": "https://azure.microsoft.com/updates?id=573744",
+    "description": "Anyscale on Azure is now Generally Available. Anyscale on Azure is a managed platform for running distributed Python workloads on Ray. It deploys directly onto your Azure Kubernetes Service (AKS) cluster and integrates with the Azure services your team al",
+    "pubDate": "2026-10-07T17:06:00.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Enabling the Bulk admin role for SQL Server on Linux",
+    "link": "https://azure.microsoft.com/updates?id=573443",
+    "description": "Starting with SQL Server 2025 CU9 and SQL Server 2022 CU27, SQL Server on Linux supports the bulkadmin fixed server role and the ADMINISTER BULK OPERATIONS permission for performing bulk data import operations without requiring users to be members of the ",
+    "pubDate": "2026-10-07T16:57:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "3 lessons from frontier AI vulnerability research",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+    "description": "<p>Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/\">3 lessons from frontier AI vulnerability research</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-07T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Explore what's new in PostgreSQL",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#6",
+    "description": "Workspace: General • Announced: October 7",
+    "pubDate": "2026-10-07T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Retirement: Pod name dimension in AKS pod platform metrics",
     "link": "https://azure.microsoft.com/updates?id=570232",
     "description": "Beginning September 30, 2027, support for the pod name dimension on the following Azure\r\nMonitor platform metrics is retiring, and these metrics are transitioning to aggregate pod counters:Number of pods by phase (kube_pod_status_phase)Number of pods in Re",
@@ -581,11 +609,11 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
-    "description": "<p>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/\">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T15:35:08.000Z",
-    "source": "Security"
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
@@ -670,33 +698,5 @@
     "description": "Compare messaging service differences between Azure and AWS. Know Azure equivalents for Simple Email Service, Simple Queue Service, and messaging components.",
     "pubDate": "2026-09-24T13:50:17.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Nonprofit promos to drive Copilot growth",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#18",
-    "description": "Workspace: General • Announced: September 24",
-    "pubDate": "2026-09-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Troubleshoot network problems in AKS clusters",
-    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/troubleshoot-network-aks",
-    "description": "Learn about steps to take to troubleshoot network problems in Azure Kubernetes Service (AKS) clusters.",
-    "pubDate": "2026-09-23T21:38:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
-    "link": "https://azure.microsoft.com/updates?id=572770",
-    "description": "Support for PowerShell 7.4 will\r\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but security patches and updates will no\r\nlonger be provided and customer support for\r\nPowerShell 7.4 will be disco",
-    "pubDate": "2026-09-23T16:50:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10  ",
-    "link": "https://azure.microsoft.com/updates?id=572838",
-    "description": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to operate,\r\nbut security updates will no longer be provided, and support for .NET 8 and\r\n.NET 9 on Azure Function",
-    "pubDate": "2026-09-23T16:46:49.000Z",
-    "source": "Azure Updates"
   }
 ]
