@@ -588,13 +588,6 @@
     "source": "Security"
   },
   {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T12:07:25.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=572770",
     "description": "Support for PowerShell 7.4 will\r\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but security patches and updates will no\r\nlonger be provided and customer support for\r\nPowerShell 7.4 will be disco",
     "pubDate": "2026-09-23T16:50:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10  ",
+    "link": "https://azure.microsoft.com/updates?id=572838",
+    "description": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to operate,\r\nbut security updates will no longer be provided, and support for .NET 8 and\r\n.NET 9 on Azure Function",
+    "pubDate": "2026-09-23T16:46:49.000Z",
     "source": "Azure Updates"
   }
 ]
