@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Pod name dimension in AKS pod platform metrics",
+    "link": "https://azure.microsoft.com/updates?id=570232",
+    "description": "Beginning September 30, 2027, support for the pod name dimension on the following Azure\r\nMonitor platform metrics is retiring, and these metrics are transitioning to aggregate pod counters:Number of pods by phase (kube_pod_status_phase)Number of pods in Re",
+    "pubDate": "2026-10-06T22:37:54.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Azure App Service on Azure Stack Hub",
     "link": "https://azure.microsoft.com/updates?id=568178",
     "description": "Azure App Service on Azure Stack Hub will be retired on September\r\n30, 2029. Starting September 30, 2026, new installations will\r\nno longer be supported, and no new product releases, features, or enhancements\r\nwill be made available. Existing supported deplo",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=572770",
     "description": "Support for PowerShell 7.4 will\r\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but security patches and updates will no\r\nlonger be provided and customer support for\r\nPowerShell 7.4 will be disco",
     "pubDate": "2026-09-23T16:50:05.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10  ",
-    "link": "https://azure.microsoft.com/updates?id=572838",
-    "description": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to operate,\r\nbut security updates will no longer be provided, and support for .NET 8 and\r\n.NET 9 on Azure Function",
-    "pubDate": "2026-09-23T16:46:49.000Z",
     "source": "Azure Updates"
   }
 ]
