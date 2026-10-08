@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3 ",
+    "link": "https://azure.microsoft.com/updates?id=573691",
+    "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more.  ",
+    "pubDate": "2026-10-08T19:56:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Microsoft Dev Box will be retired on September 18, 2028",
+    "link": "https://azure.microsoft.com/updates?id=567933",
+    "description": "Microsoft Dev Box will\r\nretire on September 18, 2028. Beginning on September 14, 2026,\r\nMicrosoft Dev Box will begin the closing-down process. After retirement,\r\nMicrosoft Dev Box will no longer be available. Microsoft Dev Box is currently in maintenance mod",
+    "pubDate": "2026-10-08T18:23:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
+    "link": "https://azure.microsoft.com/updates?id=567934",
+    "description": "Azure Deployment\r\nEnvironments will retire on February 22, 2027. Beginning on September\r\n14, 2026, Azure Deployment Environments will begin the closing-down\r\nprocess. After retirement, the service will no longer be available. To help avoid disruption, we rec",
+    "pubDate": "2026-10-08T18:20:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
     "link": "https://azure.microsoft.com/updates?id=574343",
     "description": "Announcing the general availability of exceptions\r\nfor Web Application Firewall on Azure Application Gateway and Azure Front Door.Azure Web\r\nApplication Firewall (WAF) helps protect your web applications from common\r\nthreats and attacks. In some cases, WAF m",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/patterns/index-table",
     "description": "Find out how to use the Index Table pattern to improve query performance by creating indexes over data store fields that queries frequently reference.",
     "pubDate": "2026-09-24T21:49:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Claim Check pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/claim-check",
-    "description": "Store a large message payload in an external data store and send a reference called a claim check through a messaging system.",
-    "pubDate": "2026-09-24T21:23:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Gateway Offloading pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-offloading",
-    "description": "Centralize shared capabilities, such as TLS termination and authentication, in a gateway to simplify backend services.",
-    "pubDate": "2026-09-24T19:14:22.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Sandbox",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/azure-sandbox/azure-sandbox",
-    "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
-    "pubDate": "2026-09-24T19:07:38.000Z",
     "source": "Azure Architecture"
   }
 ]
