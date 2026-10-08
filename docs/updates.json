@@ -21,6 +21,13 @@
     "source": "Security"
   },
   {
+    "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
+    "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
+    "description": "<p>The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/\">AI transformation across the infrastructure lifecycle: From supply chain to fleet operations</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-07T15:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Explore what's new in PostgreSQL",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#6",
     "description": "Workspace: General • Announced: October 7",
@@ -33,6 +40,13 @@
     "description": "Beginning September 30, 2027, support for the pod name dimension on the following Azure\r\nMonitor platform metrics is retiring, and these metrics are transitioning to aggregate pod counters:Number of pods by phase (kube_pod_status_phase)Number of pods in Re",
     "pubDate": "2026-10-06T22:37:54.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
+    "description": "<p>We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-06T21:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Retirement: Azure App Service on Azure Stack Hub",
@@ -609,6 +623,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -677,26 +698,5 @@
     "description": "Microsoft will retire several standalone Azure Communication\r\nServices (ACS) offerings on September 30, 2028. After this date, the affected\r\nservices will no longer be available.  Details\r\nBeginning September 30, 2028, the following ACS services will be reti",
     "pubDate": "2026-09-24T17:51:23.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Instant Access for VM restore points",
-    "link": "https://azure.microsoft.com/updates?id=572573",
-    "description": "Instant Access for application-consistent restore points on virtual machines (that have Premium v2 or Ultra disks as data disks) is now generally available. With Instant Access, you can begin restoring a disk from a restore point as soon as the snapshot i",
-    "pubDate": "2026-09-24T16:04:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Compare AWS and Azure messaging services",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/messaging",
-    "description": "Compare messaging service differences between Azure and AWS. Know Azure equivalents for Simple Email Service, Simple Queue Service, and messaging components.",
-    "pubDate": "2026-09-24T13:50:17.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Nonprofit promos to drive Copilot growth",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#18",
-    "description": "Workspace: General • Announced: September 24",
-    "pubDate": "2026-09-24T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
