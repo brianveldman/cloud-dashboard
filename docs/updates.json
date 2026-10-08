@@ -1,5 +1,26 @@
 [
   {
+    "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
+    "link": "https://azure.microsoft.com/updates?id=574343",
+    "description": "Announcing the general availability of exceptions\r\nfor Web Application Firewall on Azure Application Gateway and Azure Front Door.Azure Web\r\nApplication Firewall (WAF) helps protect your web applications from common\r\nthreats and attacks. In some cases, WAF m",
+    "pubDate": "2026-10-08T17:29:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
+    "link": "https://azure.microsoft.com/updates?id=574204",
+    "description": "The integration between Microsoft Agent 365 and Azure API Management is now available in public preview, helping organizations connect centralized governance with runtime enforcement for MCP servers and tools.With this integration, organizations can:Disco",
+    "pubDate": "2026-10-08T17:24:34.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong",
+    "link": "https://azure.microsoft.com/updates?id=571831",
+    "description": "Multiparty private offers give Microsoft partners a way to procure third-party cloud and AI solutions for customers through Marketplace. Software companies can expand into new markets by working with partners that bring established customer relationships,",
+    "pubDate": "2026-10-08T14:17:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Anyscale on Azure",
     "link": "https://azure.microsoft.com/updates?id=573744",
     "description": "Anyscale on Azure is now Generally Available. Anyscale on Azure is a managed platform for running distributed Python workloads on Ray. It deploys directly onto your Azure Kubernetes Service (AKS) cluster and integrates with the Azure services your team al",
@@ -677,26 +698,5 @@
     "description": "Accelerate your Azure project by using a fully functional sandbox environment that includes virtual networks, virtual machines, and databases.",
     "pubDate": "2026-09-24T19:07:38.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Materialized View pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/materialized-view",
-    "description": "Generate prepopulated views over the data in one or more data stores when the data isn't ideally formatted for required query operations. This can help support efficient querying and data extraction, and improve application performance.",
-    "pubDate": "2026-09-24T18:47:43.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-    "description": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/\">Ship agents faster with expanded model choice, voice agents, and continuous optimization</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-24T18:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
-    "link": "https://azure.microsoft.com/updates?id=557117",
-    "description": "Microsoft will retire several standalone Azure Communication\r\nServices (ACS) offerings on September 30, 2028. After this date, the affected\r\nservices will no longer be available.  Details\r\nBeginning September 30, 2028, the following ACS services will be reti",
-    "pubDate": "2026-09-24T17:51:23.000Z",
-    "source": "Azure Updates"
   }
 ]
