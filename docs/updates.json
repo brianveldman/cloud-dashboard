@@ -609,13 +609,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T12:07:25.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -698,5 +691,12 @@
     "description": "Compare messaging service differences between Azure and AWS. Know Azure equivalents for Simple Email Service, Simple Queue Service, and messaging components.",
     "pubDate": "2026-09-24T13:50:17.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Nonprofit promos to drive Copilot growth",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#18",
+    "description": "Workspace: General • Announced: September 24",
+    "pubDate": "2026-09-24T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   }
 ]
