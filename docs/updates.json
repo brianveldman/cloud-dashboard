@@ -679,6 +679,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
+    "pubDate": "2026-09-25T12:07:25.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -689,13 +696,6 @@
     "title": "Azure Kubernetes Service (AKS) baseline architecture for Azure Local",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-baseline",
     "description": "Design a baseline architecture for Microsoft Azure Kubernetes Service (AKS) that runs on Azure Local or uses AKS on bare metal as an alternative deployment option.",
-    "pubDate": "2026-09-24T21:53:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy containerized apps with AKS Hybrid and Edge by using GitOps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-hybrid-azure-local",
-    "description": "Build containerized app deployment pipelines for AKS Hybrid and Edge by using Azure Arc and GitOps, and use Flux automation for on-premises Kubernetes clusters.",
     "pubDate": "2026-09-24T21:53:52.000Z",
     "source": "Azure Architecture"
   }
