@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+    "link": "https://azure.microsoft.com/updates?id=574430",
+    "description": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NAT Gateway SKU for\r\nnew clusters in supported regions when using the managedNATGateway outbound\r\ntype. Standa",
+    "pubDate": "2026-10-08T22:51:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
+    "description": "<p>Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/\">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-08T20:44:28.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3 ",
     "link": "https://azure.microsoft.com/updates?id=573691",
     "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more.  ",
@@ -40,6 +54,13 @@
     "description": "Multiparty private offers give Microsoft partners a way to procure third-party cloud and AI solutions for customers through Marketplace. Software companies can expand into new markets by working with partners that bring established customer relationships,",
     "pubDate": "2026-10-08T14:17:44.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Multiparty private offers expand to Hong Kong SAR",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#7",
+    "description": "Workspace: General • Announced: October 8",
+    "pubDate": "2026-10-08T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[Launched] Generally Available: Anyscale on Azure",
@@ -630,13 +651,6 @@
     "source": "Azure Blog"
   },
   {
-    "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
-    "description": "<p>Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/\">NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-28T15:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Frontier Accelerate for Marketplace now available",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#20",
     "description": "Workspace: General • Announced: September 28",
@@ -665,13 +679,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-    "description": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/\">Introducing the new Copilot with Home, Code and Autopilot</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">AI at Work Blog</a>.</p>\n",
-    "pubDate": "2026-09-25T12:07:25.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Introducing the new Copilot: One connected experience, designed for the next phase of AI-powered work",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#19",
     "description": "Workspace: General • Announced: September 25",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-hybrid-azure-local",
     "description": "Build containerized app deployment pipelines for AKS Hybrid and Edge by using Azure Arc and GitOps, and use Flux automation for on-premises Kubernetes clusters.",
     "pubDate": "2026-09-24T21:53:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Index Table pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/index-table",
-    "description": "Find out how to use the Index Table pattern to improve query performance by creating indexes over data store fields that queries frequently reference.",
-    "pubDate": "2026-09-24T21:49:32.000Z",
     "source": "Azure Architecture"
   }
 ]
