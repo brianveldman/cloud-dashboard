@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
+    "link": "https://azure.microsoft.com/updates?id=570313",
+    "description": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the extension should plan to migrate to the Azure Key Vault Secret Store Extension before the retirement date. The",
+    "pubDate": "2026-10-09T20:27:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
     "link": "https://azure.microsoft.com/updates?id=574430",
     "description": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NAT Gateway SKU for\r\nnew clusters in supported regions when using the managedNATGateway outbound\r\ntype. Standa",
@@ -689,13 +696,6 @@
     "title": "Azure Kubernetes Service (AKS) baseline architecture for Azure Local",
     "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-baseline",
     "description": "Design a baseline architecture for Microsoft Azure Kubernetes Service (AKS) that runs on Azure Local or uses AKS on bare metal as an alternative deployment option.",
-    "pubDate": "2026-09-24T21:53:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Deploy containerized apps with AKS Hybrid and Edge by using GitOps",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/hybrid/aks-hybrid-azure-local",
-    "description": "Build containerized app deployment pipelines for AKS Hybrid and Edge by using Azure Arc and GitOps, and use Flux automation for on-premises Kubernetes clusters.",
     "pubDate": "2026-09-24T21:53:52.000Z",
     "source": "Azure Architecture"
   }
