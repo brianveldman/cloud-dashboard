@@ -1,5 +1,12 @@
 [
   {
+    "title": "Deep dive into Azure Maia 300 architecture",
+    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+    "description": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-12T13:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Azure CSP promotions: A new growth and profitability lever for partners",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#8",
     "description": "Workspace: General • Announced: October 12",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=570046",
     "description": "Microsoft is retiring all versions of HPC Pack. End of\r\nSupport is August 27, 2027. HPC Pack is now entering a one-year retirement\r\nperiod. Microsoft will provide\r\nlimited, retirement-only support during this period. The scope of this support\r\nis defined belo",
     "pubDate": "2026-09-29T17:26:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure IoT Central will be retired on September 20, 2029",
-    "link": "https://azure.microsoft.com/updates?id=569914",
-    "description": "Azure\r\nIoT Central will be retired on September 20, 2029.\r\nYou can continue using Azure IoT Central until the retirement date, but we\r\nrecommend starting your transition planning early.Why\r\nis this happening?As\r\nAzure IoT evolves, Microsoft is focusing future ",
-    "pubDate": "2026-09-29T17:25:10.000Z",
     "source": "Azure Updates"
   }
 ]
