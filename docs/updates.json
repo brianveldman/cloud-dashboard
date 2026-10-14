@@ -1,10 +1,10 @@
 [
   {
-    "title": "Deep dive into Azure Maia 300 architecture",
-    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-    "description": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-12T13:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-14T13:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Azure CSP promotions: A new growth and profitability lever for partners",
