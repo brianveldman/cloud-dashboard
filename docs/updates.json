@@ -14,13 +14,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Copilot offers and name updates",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#10",
     "description": "Workspace: General • Announced: October 14",
@@ -33,27 +26,6 @@
     "description": "Workspace: General • Announced: October 14",
     "pubDate": "2026-10-14T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Advancing hardware security with open-source Integrated HSM technology",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-    "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-    "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-    "description": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/\">Infrastructure for the frontier era: Scaling intelligence through open industry collaboration</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Deep dive into Azure Maia 300 architecture",
-    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-    "description": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-12T13:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Azure CSP promotions: A new growth and profitability lever for partners",
@@ -697,6 +669,34 @@
     "link": "https://azure.microsoft.com/updates?id=571857",
     "description": "Auto-pause and auto-resume are now available in public preview for Azure SQL Hyperscale databases using the Serverless compute tier. You can configure databases to automatically pause during periods of inactivity and automatically resume when activity ret",
     "pubDate": "2026-09-29T17:40:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: SQL Formatter ",
+    "link": "https://azure.microsoft.com/updates?id=571872",
+    "description": "You can now format SQL scripts directly in Visual Studio Code using SQL Formatter for more consistent, readable code. Customizable formatting options help you match your preferred coding style, so you can keep queries tidy without manual reformatting.   N",
+    "pubDate": "2026-09-29T17:39:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: SQL Migration Agent Skills for assessment, migration, and validation ",
+    "link": "https://azure.microsoft.com/updates?id=571899",
+    "description": "SQL Migration Agent Skills help you automate and streamline the end-to-end migration journey from SQL Server to Azure. These reusable AI-powered skills help guide you through assessment, target selection, migration execution, and post-migration validation",
+    "pubDate": "2026-09-29T17:38:16.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Arc enabled System Center Virtual Machine Manager will be retired September 30, 2029",
+    "link": "https://azure.microsoft.com/updates?id=570283",
+    "description": "Microsoft is retiring Azure Arc-enabled System Center Virtual Machine Manager (SCVMM) in September 2029. Customers must plan and transition to alternative solutions.What does this mean for you?If you are using Azure Arc-enabled SCVMM for:Azure services an",
+    "pubDate": "2026-09-29T17:36:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Migrate directly from Azure Arc to Azure SQL Database, including Hyperscale",
+    "link": "https://azure.microsoft.com/updates?id=571795",
+    "description": "You can now select Azure SQL Database, including Hyperscale, as a migration target directly from the database migration experience in Azure Arc. The workflow brings Azure Database Migration Service and Self-hosted Integration Runtime setup into the guided",
+    "pubDate": "2026-09-29T17:34:44.000Z",
     "source": "Azure Updates"
   }
 ]
