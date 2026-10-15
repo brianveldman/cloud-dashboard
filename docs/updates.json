@@ -21,6 +21,20 @@
     "source": "Security"
   },
   {
+    "title": "Copilot offers and name updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#10",
+    "description": "Workspace: General • Announced: October 14",
+    "pubDate": "2026-10-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Join SQL Modernization Day on Oct 20",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#9",
+    "description": "Workspace: General • Announced: October 14",
+    "pubDate": "2026-10-14T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Advancing hardware security with open-source Integrated HSM technology",
     "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
     "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=571857",
     "description": "Auto-pause and auto-resume are now available in public preview for Azure SQL Hyperscale databases using the Serverless compute tier. You can configure databases to automatically pause during periods of inactivity and automatically resume when activity ret",
     "pubDate": "2026-09-29T17:40:40.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL Formatter ",
-    "link": "https://azure.microsoft.com/updates?id=571872",
-    "description": "You can now format SQL scripts directly in Visual Studio Code using SQL Formatter for more consistent, readable code. Customizable formatting options help you match your preferred coding style, so you can keep queries tidy without manual reformatting.   N",
-    "pubDate": "2026-09-29T17:39:36.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL Migration Agent Skills for assessment, migration, and validation ",
-    "link": "https://azure.microsoft.com/updates?id=571899",
-    "description": "SQL Migration Agent Skills help you automate and streamline the end-to-end migration journey from SQL Server to Azure. These reusable AI-powered skills help guide you through assessment, target selection, migration execution, and post-migration validation",
-    "pubDate": "2026-09-29T17:38:16.000Z",
     "source": "Azure Updates"
   }
 ]
