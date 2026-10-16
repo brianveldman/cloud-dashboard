@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: External key management for Azure Key Vault Managed HSM",
+    "link": "https://azure.microsoft.com/updates?id=574296",
+    "description": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su",
+    "pubDate": "2026-10-16T16:50:27.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
     "link": "https://azure.microsoft.com/updates?id=576542",
     "description": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain secondary copies that can support bus",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=571904",
     "description": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performance data. You can query Microsoft-managed monitoring data directly through a telemetry endpoint. The built",
     "pubDate": "2026-09-29T18:11:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure SQL updates for late-September 2026",
-    "link": "https://azure.microsoft.com/updates?id=571643",
-    "description": "The following updates and enhancements were made to Azure\r\nSQL:   \r\n Scale\r\n     larger workloads on Azure SQL Database Hyperscale Premium series with new\r\n     160-vCore and 192-vCore options, delivering up to 50% greater compute\r\n     capacity than the previ",
-    "pubDate": "2026-09-29T18:05:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK) ",
-    "link": "https://azure.microsoft.com/updates?id=571783",
-    "description": "Azure Database for PostgreSQL Flexible Server now supports cross-tenant customer-managed keys (CMK). You can encrypt your data using keys stored in an Azure Key Vault or Azure Managed HSM that resides in a different Microsoft Entra tenant than your Postgr",
-    "pubDate": "2026-09-29T17:57:36.000Z",
     "source": "Azure Updates"
   }
 ]
