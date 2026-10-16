@@ -70,6 +70,27 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Advancing hardware security with open-source Integrated HSM technology",
+    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+    "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-13T16:15:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
+    "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+    "description": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/\">Infrastructure for the frontier era: Scaling intelligence through open industry collaboration</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-13T16:15:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Deep dive into Azure Maia 300 architecture",
+    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+    "description": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-12T13:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Azure CSP promotions: A new growth and profitability lever for partners",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#8",
     "description": "Workspace: General • Announced: October 12",
@@ -676,27 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=571810",
     "description": "A new deployment experience for SQL Server on Linux Azure Virtual Machines (VMs) replaces legacy marketplace images with automated script-based provisioning. This release provides greater flexibility, simplified management, and improved customization. You",
     "pubDate": "2026-09-29T17:52:59.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO) ",
-    "link": "https://azure.microsoft.com/updates?id=571836",
-    "description": "Now you can use ALDO to extend SQL Server support to environments that can’t maintain continuous connectivity to Azure. ALDO is designed for operations in highly regulated, secure, remote, or air-gapped environments, where internet connectivity is restric",
-    "pubDate": "2026-09-29T17:51:34.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: SQL Server support on Azure Local connected mode ",
-    "link": "https://azure.microsoft.com/updates?id=571841",
-    "description": "With SQL Server on Azure Local, you can run SQL Server workloads on Azure Local infrastructure while leveraging Azure services for centralized management, governance, monitoring, security, and licensing experiences. By connecting to Azure through Azure Ar",
-    "pubDate": "2026-09-29T17:50:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for late-September 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=571846",
-    "description": "In late September 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Database\r\n     Hub in Microsoft Fabric is a unified experience for discovering, managing,\r\n     monitoring, and optimizing databases across SQL Server, Azure SQL,\r\n    ",
-    "pubDate": "2026-09-29T17:49:15.000Z",
     "source": "Azure Updates"
   }
 ]
