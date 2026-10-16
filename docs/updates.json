@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
+    "link": "https://azure.microsoft.com/updates?id=576556",
+    "description": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (VNet) and transitively connected networks through a\r\nsingle managed gateway. Customers can use the gateway t",
+    "pubDate": "2026-10-16T16:59:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: External key management for Azure Key Vault Managed HSM",
     "link": "https://azure.microsoft.com/updates?id=574296",
     "description": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su",
@@ -33,6 +40,13 @@
     "description": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availability zones and automatically redistributes VM instances when zonal imbalances occur. This helps reduce ",
     "pubDate": "2026-10-15T16:54:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Evolving the cloud-native foundation for the next generation of AI",
+    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+    "description": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/\">Evolving the cloud-native foundation for the next generation of AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-15T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Office LTSC 2021 end of support",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=571909",
     "description": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance managed disk option for I/O-intensive and transaction-heavy PostgreSQL workloads that require consistently low",
     "pubDate": "2026-09-29T18:14:46.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
-    "link": "https://azure.microsoft.com/updates?id=571867",
-    "description": "The public preview of Microsoft-managed performance monitoring for Azure SQL Database is now available.  You can now monitor Azure SQL Database without building custom collection scripts or correlating telemetry across disconnected tools. Built-in data co",
-    "pubDate": "2026-09-29T18:13:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server ",
-    "link": "https://azure.microsoft.com/updates?id=571904",
-    "description": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performance data. You can query Microsoft-managed monitoring data directly through a telemetry endpoint. The built",
-    "pubDate": "2026-09-29T18:11:15.000Z",
     "source": "Azure Updates"
   }
 ]
