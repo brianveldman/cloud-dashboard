@@ -21,13 +21,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Evolving the cloud-native foundation for the next generation of AI",
-    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "description": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/\">Evolving the cloud-native foundation for the next generation of AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-15T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Office LTSC 2021 end of support",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#12",
     "description": "Workspace: General • Announced: October 15",
@@ -697,6 +690,13 @@
     "link": "https://azure.microsoft.com/updates?id=571643",
     "description": "The following updates and enhancements were made to Azure\r\nSQL:   \r\n Scale\r\n     larger workloads on Azure SQL Database Hyperscale Premium series with new\r\n     160-vCore and 192-vCore options, delivering up to 50% greater compute\r\n     capacity than the previ",
     "pubDate": "2026-09-29T18:05:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK) ",
+    "link": "https://azure.microsoft.com/updates?id=571783",
+    "description": "Azure Database for PostgreSQL Flexible Server now supports cross-tenant customer-managed keys (CMK). You can encrypt your data using keys stored in an Azure Key Vault or Azure Managed HSM that resides in a different Microsoft Entra tenant than your Postgr",
+    "pubDate": "2026-09-29T17:57:36.000Z",
     "source": "Azure Updates"
   }
 ]
