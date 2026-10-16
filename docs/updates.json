@@ -21,6 +21,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Office LTSC 2021 end of support",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#12",
+    "description": "Workspace: General • Announced: October 15",
+    "pubDate": "2026-10-15T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Updated October CSP Pricelist",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#11",
+    "description": "Workspace: Pricing • Announced: October 15",
+    "pubDate": "2026-10-15T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
     "link": "https://azure.microsoft.com/updates?id=576377",
     "description": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations strengthen security monitoring, compliance reporting, governance, and forensic investigations. Customers ca",
@@ -683,20 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=571846",
     "description": "In late September 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Database\r\n     Hub in Microsoft Fabric is a unified experience for discovering, managing,\r\n     monitoring, and optimizing databases across SQL Server, Azure SQL,\r\n    ",
     "pubDate": "2026-09-29T17:49:15.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Database DevOps in SSMS powered by SQL projects ",
-    "link": "https://azure.microsoft.com/updates?id=571852",
-    "description": "In SSMS, you can now use Microsoft.Build.Sql projects to help you implement, manage, and collaborate on database changes, by providing a local definition of the database objects. A SQL database project is a local representation of SQL objects that compris",
-    "pubDate": "2026-09-29T17:42:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL Database Hyperscale Serverless auto-pause and auto-resume ",
-    "link": "https://azure.microsoft.com/updates?id=571857",
-    "description": "Auto-pause and auto-resume are now available in public preview for Azure SQL Hyperscale databases using the Serverless compute tier. You can configure databases to automatically pause during periods of inactivity and automatically resume when activity ret",
-    "pubDate": "2026-09-29T17:40:40.000Z",
     "source": "Azure Updates"
   }
 ]
