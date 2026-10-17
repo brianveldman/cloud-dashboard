@@ -14,13 +14,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Managing open-weight model risk in enterprise deployments",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-16T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
     "link": "https://azure.microsoft.com/updates?id=576542",
     "description": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain secondary copies that can support bus",
@@ -40,13 +33,6 @@
     "description": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availability zones and automatically redistributes VM instances when zonal imbalances occur. This helps reduce ",
     "pubDate": "2026-10-15T16:54:20.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Evolving the cloud-native foundation for the next generation of AI",
-    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "description": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/\">Evolving the cloud-native foundation for the next generation of AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-15T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Office LTSC 2021 end of support",
@@ -82,13 +68,6 @@
     "description": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-14T19:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Copilot offers and name updates",
@@ -173,13 +152,6 @@
     "description": "Deploy static content to a cloud-based storage service that can deliver them directly to the client.",
     "pubDate": "2026-10-08T20:46:45.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-    "description": "<p>Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/\">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-08T20:44:28.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3 ",
@@ -287,13 +259,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "3 lessons from frontier AI vulnerability research",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-    "description": "<p>Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/\">3 lessons from frontier AI vulnerability research</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-07T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
     "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
     "description": "<p>The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/\">AI transformation across the infrastructure lifecycle: From supply chain to fleet operations</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -348,13 +313,6 @@
     "description": "Always Encrypted with Intel SGX enclaves in Azure SQL Database will retire on October 31, 2027 as support for SGX-enabled DC-series hardware is phased out. Customers should transition to Virtualization-Based Security (VBS) enclaves, a hardware-independent",
     "pubDate": "2026-10-06T16:42:33.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
-    "description": "<p>Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/\">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-06T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: AKS on bare metal now on Ubuntu",
@@ -697,6 +655,48 @@
     "link": "https://azure.microsoft.com/updates?id=571909",
     "description": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance managed disk option for I/O-intensive and transaction-heavy PostgreSQL workloads that require consistently low",
     "pubDate": "2026-09-29T18:14:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
+    "link": "https://azure.microsoft.com/updates?id=571867",
+    "description": "The public preview of Microsoft-managed performance monitoring for Azure SQL Database is now available.  You can now monitor Azure SQL Database without building custom collection scripts or correlating telemetry across disconnected tools. Built-in data co",
+    "pubDate": "2026-09-29T18:13:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server ",
+    "link": "https://azure.microsoft.com/updates?id=571904",
+    "description": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performance data. You can query Microsoft-managed monitoring data directly through a telemetry endpoint. The built",
+    "pubDate": "2026-09-29T18:11:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure SQL updates for late-September 2026",
+    "link": "https://azure.microsoft.com/updates?id=571643",
+    "description": "The following updates and enhancements were made to Azure\r\nSQL:   \r\n Scale\r\n     larger workloads on Azure SQL Database Hyperscale Premium series with new\r\n     160-vCore and 192-vCore options, delivering up to 50% greater compute\r\n     capacity than the previ",
+    "pubDate": "2026-09-29T18:05:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK) ",
+    "link": "https://azure.microsoft.com/updates?id=571783",
+    "description": "Azure Database for PostgreSQL Flexible Server now supports cross-tenant customer-managed keys (CMK). You can encrypt your data using keys stored in an Azure Key Vault or Azure Managed HSM that resides in a different Microsoft Entra tenant than your Postgr",
+    "pubDate": "2026-09-29T17:57:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public preview: Script-based deployment for SQL Server on Linux Azure VM ",
+    "link": "https://azure.microsoft.com/updates?id=571810",
+    "description": "A new deployment experience for SQL Server on Linux Azure Virtual Machines (VMs) replaces legacy marketplace images with automated script-based provisioning. This release provides greater flexibility, simplified management, and improved customization. You",
+    "pubDate": "2026-09-29T17:52:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO) ",
+    "link": "https://azure.microsoft.com/updates?id=571836",
+    "description": "Now you can use ALDO to extend SQL Server support to environments that can’t maintain continuous connectivity to Azure. ALDO is designed for operations in highly regulated, secure, remote, or air-gapped environments, where internet connectivity is restric",
+    "pubDate": "2026-09-29T17:51:34.000Z",
     "source": "Azure Updates"
   }
 ]
