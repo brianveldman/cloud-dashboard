@@ -15,10 +15,10 @@
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-16T16:00:00.000Z",
-    "source": "Security"
+    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:05:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
@@ -82,13 +82,6 @@
     "description": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-14T19:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Copilot offers and name updates",
@@ -173,13 +166,6 @@
     "description": "Deploy static content to a cloud-based storage service that can deliver them directly to the client.",
     "pubDate": "2026-10-08T20:46:45.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-    "description": "<p>Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/\">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-08T20:44:28.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3 ",
@@ -697,6 +683,20 @@
     "link": "https://azure.microsoft.com/updates?id=571909",
     "description": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance managed disk option for I/O-intensive and transaction-heavy PostgreSQL workloads that require consistently low",
     "pubDate": "2026-09-29T18:14:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
+    "link": "https://azure.microsoft.com/updates?id=571867",
+    "description": "The public preview of Microsoft-managed performance monitoring for Azure SQL Database is now available.  You can now monitor Azure SQL Database without building custom collection scripts or correlating telemetry across disconnected tools. Built-in data co",
+    "pubDate": "2026-09-29T18:13:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server ",
+    "link": "https://azure.microsoft.com/updates?id=571904",
+    "description": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performance data. You can query Microsoft-managed monitoring data directly through a telemetry endpoint. The built",
+    "pubDate": "2026-09-29T18:11:15.000Z",
     "source": "Azure Updates"
   }
 ]
