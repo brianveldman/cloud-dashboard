@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
+    "link": "https://azure.microsoft.com/updates?id=577165",
+    "description": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace. Monitor workspace utilization, identify unused metrics, understand usage trends, and investigate change",
+    "pubDate": "2026-10-19T20:23:15.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
+    "link": "https://azure.microsoft.com/updates?id=573917",
+    "description": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS record set with a Traffic Manager profile, eliminating the need to\r\ncreate a CNAME record pointing to the traf",
+    "pubDate": "2026-10-19T17:55:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Agents are your newest insiders. Security must move at their speed. ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
     "description": "<p>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/\">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -19,6 +33,13 @@
     "description": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su",
     "pubDate": "2026-10-16T16:50:27.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:05:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
@@ -96,6 +117,13 @@
     "description": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availability zones and automatically redistributes VM instances when zonal imbalances occur. This helps reduce ",
     "pubDate": "2026-10-15T16:54:20.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Evolving the cloud-native foundation for the next generation of AI",
+    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+    "description": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/\">Evolving the cloud-native foundation for the next generation of AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-15T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Cost management for Kubernetes",
@@ -670,33 +698,5 @@
     "description": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no longer be\r\navailable for use or purchase.  Before October 31, 2029, migrate your workloads to one of\r\nthe fo",
     "pubDate": "2026-10-01T17:02:55.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Replicate mainframe data by using Precisely Connect",
-    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
-    "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
-    "pubDate": "2026-10-01T16:12:17.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Preparing governments for an era of interconnected cyber risk",
-    "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
-    "description": "<p>According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/\">Preparing governments for an era of interconnected cyber risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-01T14:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Insights from the 2026 Microsoft Digital Defense Report ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-    "description": "<p>Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/\">Insights from the 2026 Microsoft Digital Defense Report </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-01T14:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Update: Usage-based billing will be default-on for new Microsoft 365 Copilot Business licenses starting December 1, 2026",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#4",
-    "description": "Workspace: General • Announced: October 1",
-    "pubDate": "2026-10-01T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
