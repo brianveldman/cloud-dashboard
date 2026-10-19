@@ -15,6 +15,13 @@
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
+    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:05:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
     "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:00:00.000Z",
@@ -691,12 +698,5 @@
     "description": "Review considerations for multitenant agentic systems, including tenant isolation, identity management, tool-calling governance, and state isolation.",
     "pubDate": "2026-09-29T18:59:11.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk ",
-    "link": "https://azure.microsoft.com/updates?id=571909",
-    "description": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance managed disk option for I/O-intensive and transaction-heavy PostgreSQL workloads that require consistently low",
-    "pubDate": "2026-09-29T18:14:46.000Z",
-    "source": "Azure Updates"
   }
 ]
