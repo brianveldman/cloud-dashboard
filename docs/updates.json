@@ -28,6 +28,55 @@
     "source": "Security"
   },
   {
+    "title": "Disaster recovery architecture for an Azure data platform",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
+    "description": "Learn how to structure an Azure data platform architecture with disaster recovery capabilities by using enterprise landing zones and analytics components.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Hub-spoke network topology in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke",
+    "description": "Learn about hub-spoke topology in Azure, where the spoke virtual networks connect to the hub virtual network and can connect to each other.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Hub-spoke network topology using Azure Virtual WAN",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke-virtual-wan-architecture",
+    "description": "Implement a hub-spoke topology that uses Azure Virtual WAN as the Microsoft-managed hub and has spoke virtual networks, branches, and remote users.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Massive-scale VWAN architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/massive-scale-azure-architecture",
+    "description": "Learn about the architecture for a massive-scale Azure Virtual WAN deployment that has multiple hubs per region.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect an on-premises network to Azure by using ExpressRoute",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-private-peering-connectivity",
+    "description": "This architecture shows how to connect an on-premises network to an Azure virtual network by using Azure ExpressRoute.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Connect an on-premises network to Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-connectivity-options",
+    "description": "Learn about the options for connecting an on-premises network to an Azure virtual network by comparing reference architectures for each option.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare AWS and Azure identity management solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/security-identity",
+    "description": "Learn about comparable AWS and Azure identity management solutions so that you can efficiently migrate solutions.",
+    "pubDate": "2026-10-16T13:28:40.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
     "link": "https://azure.microsoft.com/updates?id=576542",
     "description": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain secondary copies that can support bus",
@@ -49,11 +98,18 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Evolving the cloud-native foundation for the next generation of AI",
-    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "description": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/\">Evolving the cloud-native foundation for the next generation of AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-15T16:00:00.000Z",
-    "source": "Azure Blog"
+    "title": "Cost management for Kubernetes",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/cost-management",
+    "description": "Understand Kubernetes cluster and workload costs, learn how to optimize and govern costs, and compare AKS and Amazon EKS options.",
+    "pubDate": "2026-10-15T14:13:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Manage Kubernetes nodes and node pools",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/node-pools",
+    "description": "Understand Kubernetes nodes and node pools, how to handle Azure Kubernetes Service (AKS) nodes and node pools, and node pool options for Amazon EKS and AKS.",
+    "pubDate": "2026-10-15T13:29:18.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Office LTSC 2021 end of support",
@@ -68,6 +124,13 @@
     "description": "Workspace: Pricing • Announced: October 15",
     "pubDate": "2026-10-15T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-10-14T23:48:05.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
@@ -91,6 +154,20 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Synchronous I/O antipattern",
+    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/synchronous-io",
+    "description": "Blocking the calling thread while I/O completes can reduce performance and affect vertical scalability.",
+    "pubDate": "2026-10-14T15:36:34.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Basic web application",
+    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/basic-web-app",
+    "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
+    "pubDate": "2026-10-14T15:24:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
     "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -112,6 +189,13 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Busy Front End antipattern",
+    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/busy-front-end",
+    "description": "Asynchronous work on a large number of background threads can starve other foreground tasks of resources.",
+    "pubDate": "2026-10-13T16:55:32.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Advancing hardware security with open-source Integrated HSM technology",
     "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
     "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -126,6 +210,69 @@
     "source": "Azure Blog"
   },
   {
+    "title": "Choose a Kubernetes at the edge compute option",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/choose-kubernetes-edge-compute-option",
+    "description": "Learn about trade-offs and considerations for various Kubernetes options for extending compute on the edge.",
+    "pubDate": "2026-10-13T15:35:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Use Azure API Management in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/api-management",
+    "description": "Learn about Azure API Management features for multitenant solutions, including tenant isolation models, routing, authentication, caching, and rate limiting.",
+    "pubDate": "2026-10-13T07:30:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose the right AI model for your workload",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/choose-ai-model",
+    "description": "Learn strategies to help you select the best model for your AI workload, including key criteria and practical considerations for decision-making.",
+    "pubDate": "2026-10-12T21:06:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Foundry Models",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/foundry-models",
+    "description": "Learn how to design multitenant SaaS architectures that use Foundry Models, with guidance on isolation, scale, and operational trade-offs.",
+    "pubDate": "2026-10-12T20:44:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Prevent IPv4 exhaustion in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
+    "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to reduce unique IPv4 address overlap.",
+    "pubDate": "2026-10-12T18:49:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Implement a secure hybrid network",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz",
+    "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
+    "pubDate": "2026-10-12T18:33:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure VPN Gateway site-to-site connectivity for hybrid networks",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-vpn-connectivity",
+    "description": "This architecture shows how to establish encrypted layer-3 connectivity between your on-premises network and Azure virtual networks by using Azure VPN Gateway.",
+    "pubDate": "2026-10-12T18:33:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generative AI operations for organizations with MLOps investments",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
+    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
+    "pubDate": "2026-10-12T13:57:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build and deploy custom document processing models on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
+    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
+    "pubDate": "2026-10-12T13:19:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Deep dive into Azure Maia 300 architecture",
     "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
     "description": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -138,6 +285,13 @@
     "description": "Workspace: General • Announced: October 12",
     "pubDate": "2026-10-12T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Azure App Service and Azure Functions considerations for multitenancy",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-service",
+    "description": "This article describes the features of Azure App Service and Azure Functions that are useful when you work with multitenant systems.",
+    "pubDate": "2026-10-12T07:04:47.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Autoscaling guidance",
@@ -544,159 +698,5 @@
     "description": "Workspace: General • Announced: October 1",
     "pubDate": "2026-10-01T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Enhance Business Premium security deals with a new CSP partner promotion",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#3",
-    "description": "Workspace: General • Announced: October 1",
-    "pubDate": "2026-10-01T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Growth margin is live",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#2",
-    "description": "Workspace: General • Announced: October 1",
-    "pubDate": "2026-10-01T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Dynamics 365 Business Central license key version update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#1",
-    "description": "Workspace: General • Announced: October 1",
-    "pubDate": "2026-10-01T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines ",
-    "link": "https://azure.microsoft.com/updates?id=571894",
-    "description": "The public preview of Microsoft-managed performance monitoring for SQL Server on Azure Virtual Machines is now available. You can now monitor SQL Server on Azure Virtual Machines without building custom collection scripts or correlating telemetry across d",
-    "pubDate": "2026-09-30T21:13:13.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
-    "description": "<p>This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/\">​​Secure what&#8217;s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T19:31:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Retirement: NVv3-series Azure Virtual Machines",
-    "link": "https://azure.microsoft.com/updates?id=573414",
-    "description": "On September 30, 2026, Microsoft Azure retired the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series VMs.Any remaining NVv3-series VMs will be ",
-    "pubDate": "2026-09-30T18:26:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: NVv4-series Azure Virtual Machines",
-    "link": "https://azure.microsoft.com/updates?id=573415",
-    "description": "On September 30, 2026, Microsoft Azure retired the Standard_NV4as_v4, Standard_NV4ahs_v4, Standard_NV8as_v4, Standard_NV8ahs_v4, Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-series",
-    "pubDate": "2026-09-30T18:24:01.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Ubuntu 26.04 support in AKS",
-    "link": "https://azure.microsoft.com/updates?id=573214",
-    "description": "Teams running Ubuntu node pools on AKS need to stay current with Ubuntu LTS releases, but each OS transition can introduce package footprint, security, and compatibility concerns. Ubuntu 26.04 support introduces the Ubuntu2604 OS SKU using Ubuntu Minimal ",
-    "pubDate": "2026-09-30T17:11:11.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Announcing: Azure canvases for GitHub Copilot",
-    "link": "https://azure.microsoft.com/updates?id=573385",
-    "description": "Discover Azure canvases for GitHub Copilot, interactive shared workspaces that bring Azure tools, dashboards, and guided workflows directly alongside your Copilot conversations. Explore Azure resources, analyze costs, and build hosted skills while keeping",
-    "pubDate": "2026-09-30T17:09:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs ",
-    "link": "https://azure.microsoft.com/updates?id=572346",
-    "description": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3, and\r\nEsv3 Azure VM series in public cloud Azure regions. These VMs will enter the\r\nEnd-of-Life lifecycle stage and retire on November 15, 2029.",
-    "pubDate": "2026-09-30T17:07:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Stream processing with Databricks",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/data/stream-processing-databricks",
-    "description": "Learn how to create a four-stage, end-to-end stream processing pipeline in Azure by using Azure Databricks.",
-    "pubDate": "2026-09-30T15:07:49.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Advanced Azure Kubernetes Service (AKS) microservices architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced",
-    "description": "Learn about a scalable, secure AKS microservices architecture that builds on recommended AKS microservices baseline architectures and implementations.",
-    "pubDate": "2026-09-30T15:06:44.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-    "description": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/\">Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T15:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
-    "description": "<p>Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/\">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-09-30T14:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Frontier Partner specialization now live",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-september#21",
-    "description": "Workspace: General • Announced: September 30",
-    "pubDate": "2026-09-30T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Retirement: Functions on Azure Container Apps V1 ",
-    "link": "https://azure.microsoft.com/updates?id=570800",
-    "description": "The Functions on Azure Container Apps (ACA) V1 will be retired on September 29, 2027. After this date, existing Functions on ACA V1 Apps will stop running and no longer process\r\nrequests or event-driven triggers. Action required Review your Azure environme",
-    "pubDate": "2026-09-29T19:41:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series ",
-    "link": "https://azure.microsoft.com/updates?id=572630",
-    "description": "The Laosv5 series and Lasv5 storage optimized VMs, based on the 5th Gen AMD EPYC™ processor (Turin), are now generally available.Lasv5 and Laosv5 VMs have sizes ranging from 2-160 vCPUs, with 8GiB of memory and 720GB of local NVMe disk capacity per vCPU. ",
-    "pubDate": "2026-09-29T19:27:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets",
-    "link": "https://azure.microsoft.com/updates?id=571075",
-    "description": "Automatic Zone Placement for VM Scale Sets (Public Preview) enables Azure to automatically select the best availability zones for your scale set based on SKU availability, capacity, and placement requirements. Instead of manually maintaining zone lists fo",
-    "pubDate": "2026-09-29T19:17:59.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central",
-    "link": "https://azure.microsoft.com/updates?id=570696",
-    "description": "Azure Arc-enabled SQL Server is now\r\navailable in Germany West Central, enabling you to connect SQL Server\r\ninstances to Azure Arc and take advantage of Azure-based inventory, governance,\r\nsecurity, assessment, and license management capabilities. Learn more",
-    "pubDate": "2026-09-29T19:07:44.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North",
-    "link": "https://azure.microsoft.com/updates?id=570763",
-    "description": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-based inventory, governance, security, assessment, and\r\nlicense management capabilities.Learn more.",
-    "pubDate": "2026-09-29T19:06:50.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Considerations for multitenant agentic systems",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/agentic-systems",
-    "description": "Review considerations for multitenant agentic systems, including tenant isolation, identity management, tool-calling governance, and state isolation.",
-    "pubDate": "2026-09-29T18:59:11.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk ",
-    "link": "https://azure.microsoft.com/updates?id=571909",
-    "description": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance managed disk option for I/O-intensive and transaction-heavy PostgreSQL workloads that require consistently low",
-    "pubDate": "2026-09-29T18:14:46.000Z",
-    "source": "Azure Updates"
   }
 ]
