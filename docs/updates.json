@@ -36,13 +36,6 @@
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
-    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-16T16:05:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Managing open-weight model risk in enterprise deployments",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
     "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:00:00.000Z",
@@ -698,5 +691,12 @@
     "description": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no longer be\r\navailable for use or purchase.  Before October 31, 2029, migrate your workloads to one of\r\nthe fo",
     "pubDate": "2026-10-01T17:02:55.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Replicate mainframe data by using Precisely Connect",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/mainframe/mainframe-replication-precisely-connect",
+    "description": "Learn how to use Precisely Connect to replicate mainframe and midrange data to Azure in real time with change data capture.",
+    "pubDate": "2026-10-01T16:12:17.000Z",
+    "source": "Azure Architecture"
   }
 ]
