@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Disable VNet peering route",
+    "link": "https://azure.microsoft.com/updates?id=576242",
+    "description": "Announcing\r\nthe public preview of disable VNet peering route, a route-table capability that\r\ngives you more control over traffic between peered virtual networks. DPR\r\nsuppresses system-generated peering routes on subnets associated with the route\r\ntable while",
+    "pubDate": "2026-10-20T18:55:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=577156",
     "description": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Premium. Service tags represent groups of IP address prefixes used by\r\nAzure services, and Microsoft updates th",
@@ -26,6 +33,13 @@
     "description": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace. Monitor workspace utilization, identify unused metrics, understand usage trends, and investigate change",
     "pubDate": "2026-10-19T20:23:15.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+    "description": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/\">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-19T19:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
@@ -684,19 +698,5 @@
     "description": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer PostgreSQL version in place without provisioning a replacement cluster, migrating distributed data, or changing ",
     "pubDate": "2026-10-02T17:35:21.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Local hyperconverged storage switchless architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless",
-    "description": "Learn how to design a connected, hyperconverged Azure Local deployment of three to four machines that uses direct storage links and dual top-of-rack switches.",
-    "pubDate": "2026-10-02T15:13:03.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Local hyperconverged baseline reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
-    "description": "Learn how to design a connected, highly available Azure Local deployment that uses hyperconverged storage and storage-switched networking.",
-    "pubDate": "2026-10-02T15:13:03.000Z",
-    "source": "Azure Architecture"
   }
 ]
