@@ -35,6 +35,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+    "description": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/\">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-19T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
     "link": "https://azure.microsoft.com/updates?id=573917",
     "description": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS record set with a Traffic Manager profile, eliminating the need to\r\ncreate a CNAME record pointing to the traf",
@@ -61,6 +68,13 @@
     "description": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su",
     "pubDate": "2026-10-16T16:50:27.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:05:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
@@ -684,19 +698,5 @@
     "description": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer PostgreSQL version in place without provisioning a replacement cluster, migrating distributed data, or changing ",
     "pubDate": "2026-10-02T17:35:21.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Local hyperconverged storage switchless architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless",
-    "description": "Learn how to design a connected, hyperconverged Azure Local deployment of three to four machines that uses direct storage links and dual top-of-rack switches.",
-    "pubDate": "2026-10-02T15:13:03.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Local hyperconverged baseline reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
-    "description": "Learn how to design a connected, highly available Azure Local deployment that uses hyperconverged storage and storage-switched networking.",
-    "pubDate": "2026-10-02T15:13:03.000Z",
-    "source": "Azure Architecture"
   }
 ]
