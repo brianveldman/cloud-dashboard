@@ -35,13 +35,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-    "description": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/\">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-19T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
     "link": "https://azure.microsoft.com/updates?id=573917",
     "description": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS record set with a Traffic Manager profile, eliminating the need to\r\ncreate a CNAME record pointing to the traf",
@@ -698,5 +691,12 @@
     "description": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer PostgreSQL version in place without provisioning a replacement cluster, migrating distributed data, or changing ",
     "pubDate": "2026-10-02T17:35:21.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure Local hyperconverged storage switchless architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless",
+    "description": "Learn how to design a connected, hyperconverged Azure Local deployment of three to four machines that uses direct storage links and dual top-of-rack switches.",
+    "pubDate": "2026-10-02T15:13:03.000Z",
+    "source": "Azure Architecture"
   }
 ]
