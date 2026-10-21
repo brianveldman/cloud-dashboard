@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "description": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-21T18:23:55.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
     "link": "https://azure.microsoft.com/updates?id=577273",
     "description": "What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables organizations to use a supported third-party telecommunications provider for SMS and voice authentication",
@@ -691,12 +698,5 @@
     "description": "Learn how to create an infrastructure and workflow to automate the renewal process for certificates issued by a nonintegrated certification authority (CA).",
     "pubDate": "2026-10-05T12:37:55.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "New Security designation workloads",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#5",
-    "description": "Workspace: General • Announced: October 5",
-    "pubDate": "2026-10-05T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
