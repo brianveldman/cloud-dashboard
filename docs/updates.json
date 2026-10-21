@@ -1,17 +1,31 @@
 [
   {
+    "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
+    "link": "https://azure.microsoft.com/updates?id=577273",
+    "description": "What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables organizations to use a supported third-party telecommunications provider for SMS and voice authentication",
+    "pubDate": "2026-10-21T17:38:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation",
+    "link": "https://azure.microsoft.com/updates?id=576716",
+    "description": "Safe Key Rotation for Azure Cosmos DB is now generally available. You can view timestamp metadata showing when each account key was last used, helping you identify active keys before rotating or retiring credentials.This visibility helps reduce the risk o",
+    "pubDate": "2026-10-21T17:13:16.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Grow E7 deals with Copilot Credits",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#13",
+    "description": "Workspace: General • Announced: October 21",
+    "pubDate": "2026-10-21T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[In preview] Public Preview: Disable VNet peering route",
     "link": "https://azure.microsoft.com/updates?id=576242",
     "description": "Announcing\r\nthe public preview of disable VNet peering route, a route-table capability that\r\ngives you more control over traffic between peered virtual networks. DPR\r\nsuppresses system-generated peering routes on subnets associated with the route\r\ntable while",
     "pubDate": "2026-10-20T18:55:47.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Advancing digital sovereignty with greater control and choice",
-    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-    "description": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/\">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-20T17:34:47.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
@@ -684,19 +698,5 @@
     "description": "Workspace: General • Announced: October 5",
     "pubDate": "2026-10-05T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Event-driven cache updates with Azure Managed Redis and Azure Cosmos DB",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/event-driven-cache-updates-azure-managed-redis-cosmos-db",
-    "description": "Find out how to update Azure Managed Redis asynchronously from committed changes in Azure Cosmos DB by using Azure Functions and the change feed.",
-    "pubDate": "2026-10-02T18:46:42.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Troubleshoot a hybrid VPN connection",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/troubleshoot-vpn",
-    "description": "Learn tips for how to troubleshoot a VPN gateway connection between an on-premises network and Azure.",
-    "pubDate": "2026-10-02T17:57:14.000Z",
-    "source": "Azure Architecture"
   }
 ]
