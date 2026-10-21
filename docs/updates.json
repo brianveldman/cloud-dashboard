@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+    "description": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/\">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-20T17:34:47.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=577156",
     "description": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Premium. Service tags represent groups of IP address prefixes used by\r\nAzure services, and Microsoft updates th",
@@ -33,6 +40,13 @@
     "description": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace. Monitor workspace utilization, identify unused metrics, understand usage trends, and investigate change",
     "pubDate": "2026-10-19T20:23:15.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+    "description": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/\">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-19T19:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/troubleshoot-vpn",
     "description": "Learn tips for how to troubleshoot a VPN gateway connection between an on-premises network and Azure.",
     "pubDate": "2026-10-02T17:57:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters ",
-    "link": "https://azure.microsoft.com/updates?id=571504",
-    "description": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer PostgreSQL version in place without provisioning a replacement cluster, migrating distributed data, or changing ",
-    "pubDate": "2026-10-02T17:35:21.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure Local hyperconverged storage switchless architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless",
-    "description": "Learn how to design a connected, hyperconverged Azure Local deployment of three to four machines that uses direct storage links and dual top-of-rack switches.",
-    "pubDate": "2026-10-02T15:13:03.000Z",
     "source": "Azure Architecture"
   }
 ]
