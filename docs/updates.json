@@ -35,13 +35,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Advancing digital sovereignty with greater control and choice",
-    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-    "description": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/\">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-20T17:34:47.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=577156",
     "description": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Premium. Service tags represent groups of IP address prefixes used by\r\nAzure services, and Microsoft updates th",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/hybrid-considerations",
     "description": "Learn how Azure hybrid options address workload placement, operations, sovereignty, connectivity, and AI requirements.",
     "pubDate": "2026-10-05T12:48:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Certificate life cycle management on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/certificate-lifecycle/index",
+    "description": "Learn how to create an infrastructure and workflow to automate the renewal process for certificates issued by a nonintegrated certification authority (CA).",
+    "pubDate": "2026-10-05T12:37:55.000Z",
     "source": "Azure Architecture"
   }
 ]
