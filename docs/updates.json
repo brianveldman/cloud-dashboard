@@ -7,6 +7,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Monthly Microsoft AI Cloud Partner Program update",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#15",
+    "description": "Workspace: Membership • Announced: October 22",
+    "pubDate": "2026-10-22T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "AI Builder capacity add-ons retiring",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#14",
+    "description": "Workspace: General • Announced: October 22",
+    "pubDate": "2026-10-22T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
     "description": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering",
     "description": "Learn about a platform-agnostic methodology for specifying, grounding, controlling, verifying, and observing the behavior of enterprise AI agents.",
     "pubDate": "2026-10-05T16:37:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure AI technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
-    "description": "Learn about AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
-    "pubDate": "2026-10-05T16:31:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build the first layer of defense by using Azure security services",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
-    "description": "Secure your IT environment by using Azure security services and Microsoft cloud security benchmark v2. This article is part of a series.",
-    "pubDate": "2026-10-05T16:10:21.000Z",
     "source": "Azure Architecture"
   }
 ]
