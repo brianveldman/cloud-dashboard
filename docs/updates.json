@@ -1,5 +1,12 @@
 [
   {
+    "title": "New AI capabilities across business apps",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#16",
+    "description": "Workspace: General • Announced: October 23",
+    "pubDate": "2026-10-23T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage",
     "link": "https://azure.microsoft.com/updates?id=577618",
     "description": "ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file ranges into fewer storage requests and executing reads asynchronously, it can reduce network round trips",
@@ -19,13 +26,6 @@
     "description": "Workspace: General • Announced: October 22",
     "pubDate": "2026-10-22T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-    "description": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-21T18:23:55.000Z",
-    "source": "Security"
   },
   {
     "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
@@ -105,13 +105,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Agents are your newest insiders. Security must move at their speed. ",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-    "description": "<p>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/\">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-19T13:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
     "link": "https://azure.microsoft.com/updates?id=576556",
     "description": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (VNet) and transitively connected networks through a\r\nsingle managed gateway. Customers can use the gateway t",
@@ -131,13 +124,6 @@
     "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:05:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Managing open-weight model risk in enterprise deployments",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-16T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Disaster recovery architecture for an Azure data platform",
@@ -285,13 +271,6 @@
     "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
     "pubDate": "2026-10-14T15:24:57.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Copilot offers and name updates",
@@ -455,13 +434,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-    "description": "<p>Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/\">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-08T20:44:28.000Z",
-    "source": "Security"
-  },
-  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3 ",
     "link": "https://azure.microsoft.com/updates?id=573691",
     "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more.  ",
@@ -567,13 +539,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "3 lessons from frontier AI vulnerability research",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-    "description": "<p>Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/\">3 lessons from frontier AI vulnerability research</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-07T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
     "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
     "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
     "description": "<p>The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/\">AI transformation across the infrastructure lifecycle: From supply chain to fleet operations</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
@@ -628,13 +593,6 @@
     "description": "Always Encrypted with Intel SGX enclaves in Azure SQL Database will retire on October 31, 2027 as support for SGX-enabled DC-series hardware is phased out. Customers should transition to Virtualization-Based Security (VBS) enclaves, a hardware-independent",
     "pubDate": "2026-10-06T16:42:33.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
-    "description": "<p>Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/\">CISO perspectives on managing vulnerability risks in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-06T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: AKS on bare metal now on Ubuntu",
@@ -697,6 +655,48 @@
     "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering",
     "description": "Learn about a platform-agnostic methodology for specifying, grounding, controlling, verifying, and observing the behavior of enterprise AI agents.",
     "pubDate": "2026-10-05T16:37:28.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Choose an Azure AI technology",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
+    "description": "Learn about AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
+    "pubDate": "2026-10-05T16:31:06.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build the first layer of defense by using Azure security services",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
+    "description": "Secure your IT environment by using Azure security services and Microsoft cloud security benchmark v2. This article is part of a series.",
+    "pubDate": "2026-10-05T16:10:21.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure hybrid options",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/hybrid-considerations",
+    "description": "Learn how Azure hybrid options address workload placement, operations, sovereignty, connectivity, and AI requirements.",
+    "pubDate": "2026-10-05T12:48:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Certificate life cycle management on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/certificate-lifecycle/index",
+    "description": "Learn how to create an infrastructure and workflow to automate the renewal process for certificates issued by a nonintegrated certification authority (CA).",
+    "pubDate": "2026-10-05T12:37:55.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "New Security designation workloads",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#5",
+    "description": "Workspace: General • Announced: October 5",
+    "pubDate": "2026-10-05T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Event-driven cache updates with Azure Managed Redis and Azure Cosmos DB",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/event-driven-cache-updates-azure-managed-redis-cosmos-db",
+    "description": "Find out how to update Azure Managed Redis asynchronously from committed changes in Azure Cosmos DB by using Azure Functions and the change feed.",
+    "pubDate": "2026-10-02T18:46:42.000Z",
     "source": "Azure Architecture"
   }
 ]
