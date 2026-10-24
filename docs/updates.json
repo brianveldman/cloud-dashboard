@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+    "description": "<p>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/\">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-23T18:12:19.000Z",
+    "source": "Security"
+  },
+  {
     "title": "New AI capabilities across business apps",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#16",
     "description": "Workspace: General • Announced: October 23",
@@ -33,6 +40,13 @@
     "description": "Workspace: General • Announced: October 22",
     "pubDate": "2026-10-22T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "description": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-21T18:23:55.000Z",
+    "source": "Security"
   },
   {
     "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
@@ -112,6 +126,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Agents are your newest insiders. Security must move at their speed. ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
+    "description": "<p>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/\">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-19T13:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
     "link": "https://azure.microsoft.com/updates?id=576556",
     "description": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (VNet) and transitively connected networks through a\r\nsingle managed gateway. Customers can use the gateway t",
@@ -131,6 +152,13 @@
     "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:05:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Disaster recovery architecture for an Azure data platform",
@@ -278,6 +306,13 @@
     "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
     "pubDate": "2026-10-14T15:24:57.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-14T13:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Copilot offers and name updates",
@@ -663,40 +698,5 @@
     "description": "Azure Backup for PostgreSQL flexible server and elastic cluster (v2) preview brings enterprise-grade long-term retention to PostgreSQL. Backups are taken as physical backups from managed disk snapshots and vaulted in an Azure Backup vault, so protection n",
     "pubDate": "2026-10-05T17:44:31.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: IPv6 Support for Application Gateway WAF ",
-    "link": "https://azure.microsoft.com/updates?id=573861",
-    "description": "Announcing the Public Preview of IPv6 support for Application Gateway WAF.Application Gateway Web Application Firewall (WAF) now supports inspection and enforcement for IPv6 traffic in Public Preview, marking a major step forward in modernizing the platfo",
-    "pubDate": "2026-10-05T17:41:41.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Cache-aside caching using Azure Managed Redis and Azure Database for PostgreSQL",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/cache-aside-azure-managed-redis-postgresql",
-    "description": "Design a cache-aside workload for an Azure web application that uses Azure Managed Redis to reduce repeated reads from Azure Database for PostgreSQL.",
-    "pubDate": "2026-10-05T16:44:29.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Agentic behavior engineering",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering",
-    "description": "Learn about a platform-agnostic methodology for specifying, grounding, controlling, verifying, and observing the behavior of enterprise AI agents.",
-    "pubDate": "2026-10-05T16:37:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose an Azure AI technology",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/ai-services",
-    "description": "Learn about AI services that you can use in AI applications and data flows. Choose the appropriate service for your use case.",
-    "pubDate": "2026-10-05T16:31:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Build the first layer of defense by using Azure security services",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense",
-    "description": "Secure your IT environment by using Azure security services and Microsoft cloud security benchmark v2. This article is part of a series.",
-    "pubDate": "2026-10-05T16:10:21.000Z",
-    "source": "Azure Architecture"
   }
 ]
