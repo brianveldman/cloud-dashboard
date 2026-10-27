@@ -7,6 +7,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
+    "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
+    "description": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/\">Scale reservoir uncertainty analysis with agile reservoir modeling</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-26T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Introducing a 30% promotional offer on Microsoft 365 E3",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#17",
     "description": "Workspace: General • Announced: October 26",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=567933",
     "description": "Microsoft Dev Box will\r\nretire on September 18, 2028. Beginning on September 14, 2026,\r\nMicrosoft Dev Box will begin the closing-down process. After retirement,\r\nMicrosoft Dev Box will no longer be available. Microsoft Dev Box is currently in maintenance mod",
     "pubDate": "2026-10-08T18:23:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
-    "link": "https://azure.microsoft.com/updates?id=567934",
-    "description": "Azure Deployment\r\nEnvironments will retire on February 22, 2027. Beginning on September\r\n14, 2026, Azure Deployment Environments will begin the closing-down\r\nprocess. After retirement, the service will no longer be available. To help avoid disruption, we rec",
-    "pubDate": "2026-10-08T18:20:34.000Z",
     "source": "Azure Updates"
   }
 ]
