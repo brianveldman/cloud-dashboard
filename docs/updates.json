@@ -28,13 +28,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-    "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-    "description": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/\">Scale reservoir uncertainty analysis with agile reservoir modeling</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-26T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Introducing a 30% promotional offer on Microsoft 365 E3",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#17",
     "description": "Workspace: General • Announced: October 26",
@@ -696,6 +689,13 @@
     "title": "Compare AWS and Azure resource management",
     "link": "https://learn.microsoft.com/azure/architecture/aws-professional/resources",
     "description": "Compare resource management for Azure and AWS. Learn about the differences between Azure and AWS resource groups. Learn about Azure management interfaces.",
+    "pubDate": "2026-10-08T18:36:10.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Compare storage services on Azure and AWS",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/storage",
+    "description": "Review storage technology differences between Azure and AWS. Compare Azure Storage with S3, EBS, EFS, and Glacier.",
     "pubDate": "2026-10-08T18:36:10.000Z",
     "source": "Azure Architecture"
   }
