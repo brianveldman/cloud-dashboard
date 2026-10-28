@@ -49,6 +49,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+    "description": "<p>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/\">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-23T18:12:19.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Migrate an Oracle database to OD@A Exadata Database Service",
     "link": "https://learn.microsoft.com/azure/architecture/databases/idea/migrate-oracle-odaa-exadata",
     "description": "Learn how to use Oracle ZDM and Azure networking to migrate an Oracle database to Oracle Database@Azure Exadata Database Service.",
@@ -138,6 +145,13 @@
     "description": "Learn about Azure Managed Redis features, like Microsoft Entra ID authentication, active geo-replication, and Redis modules, that you can use to improve the performance of multitenant systems.",
     "pubDate": "2026-10-21T21:44:50.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "description": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-21T18:23:55.000Z",
+    "source": "Security"
   },
   {
     "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
@@ -294,6 +308,13 @@
     "source": "Azure Architecture"
   },
   {
+    "title": "Agents are your newest insiders. Security must move at their speed. ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
+    "description": "<p>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/\">Agents are your newest insiders. Security must move at their speed. </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-19T13:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
     "link": "https://azure.microsoft.com/updates?id=576556",
     "description": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (VNet) and transitively connected networks through a\r\nsingle managed gateway. Customers can use the gateway t",
@@ -313,6 +334,13 @@
     "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:05:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-16T16:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Disaster recovery architecture for an Azure data platform",
@@ -460,6 +488,13 @@
     "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
     "pubDate": "2026-10-14T15:24:57.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-14T13:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Copilot offers and name updates",
@@ -663,40 +698,5 @@
     "description": "Compare resource management for Azure and AWS. Learn about the differences between Azure and AWS resource groups. Learn about Azure management interfaces.",
     "pubDate": "2026-10-08T18:36:10.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare storage services on Azure and AWS",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/storage",
-    "description": "Review storage technology differences between Azure and AWS. Compare Azure Storage with S3, EBS, EFS, and Glacier.",
-    "pubDate": "2026-10-08T18:36:10.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-10-08T18:24:35.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Retirement: Microsoft Dev Box will be retired on September 18, 2028",
-    "link": "https://azure.microsoft.com/updates?id=567933",
-    "description": "Microsoft Dev Box will\r\nretire on September 18, 2028. Beginning on September 14, 2026,\r\nMicrosoft Dev Box will begin the closing-down process. After retirement,\r\nMicrosoft Dev Box will no longer be available. Microsoft Dev Box is currently in maintenance mod",
-    "pubDate": "2026-10-08T18:23:25.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
-    "link": "https://azure.microsoft.com/updates?id=567934",
-    "description": "Azure Deployment\r\nEnvironments will retire on February 22, 2027. Beginning on September\r\n14, 2026, Azure Deployment Environments will begin the closing-down\r\nprocess. After retirement, the service will no longer be available. To help avoid disruption, we rec",
-    "pubDate": "2026-10-08T18:20:34.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
-    "link": "https://azure.microsoft.com/updates?id=574343",
-    "description": "Announcing the general availability of exceptions\r\nfor Web Application Firewall on Azure Application Gateway and Azure Front Door.Azure Web\r\nApplication Firewall (WAF) helps protect your web applications from common\r\nthreats and attacks. In some cases, WAF m",
-    "pubDate": "2026-10-08T17:29:30.000Z",
-    "source": "Azure Updates"
   }
 ]
