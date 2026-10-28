@@ -1,5 +1,12 @@
 [
   {
+    "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription",
+    "link": "https://azure.microsoft.com/updates?id=578358",
+    "description": "Higher Azure Storage account resource quotas are now generally available, supporting up to 1,000 storage accounts with standard endpoints per region, per subscription, up from the default of 250. Manage more accounts in a single subscription, reducing the",
+    "pubDate": "2026-10-27T21:16:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry",
     "link": "https://azure.microsoft.com/updates?id=577260",
     "description": "Microsoft Foundry now brings Claude models into Azure Cost Management alongside the rest of your Foundry spend, generally available. Until now, Claude charges appeared under SaaS rather than under the Foundry resource used to deploy them, and Claude deplo",
@@ -690,13 +697,6 @@
     "link": "https://azure.microsoft.com/updates?id=574343",
     "description": "Announcing the general availability of exceptions\r\nfor Web Application Firewall on Azure Application Gateway and Azure Front Door.Azure Web\r\nApplication Firewall (WAF) helps protect your web applications from common\r\nthreats and attacks. In some cases, WAF m",
     "pubDate": "2026-10-08T17:29:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
-    "link": "https://azure.microsoft.com/updates?id=574204",
-    "description": "The integration between Microsoft Agent 365 and Azure API Management is now available in public preview, helping organizations connect centralized governance with runtime enforcement for MCP servers and tools.With this integration, organizations can:Disco",
-    "pubDate": "2026-10-08T17:24:34.000Z",
     "source": "Azure Updates"
   }
 ]
