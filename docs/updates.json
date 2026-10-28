@@ -1,5 +1,19 @@
 [
   {
+    "title": "Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor",
+    "link": "https://azure.microsoft.com/updates?id=577689",
+    "description": "The Log Analytics logging destination for Azure Container Apps is now a legacy logging option. Existing environments configured with the Log Analytics logging destination will continue to function normally. However, we recommend planning a migration to th",
+    "pubDate": "2026-10-28T17:52:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+    "description": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/\">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-28T17:40:56.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
     "link": "https://azure.microsoft.com/updates?id=577117",
     "description": "Cross-Tenant Restore (CTR) helps organizations establish an independent recovery path by enabling Azure VM backups to be restored into a separate Azure tenant. It strengthens cyber resilience while using the existing backup copy, without requiring custome",
@@ -54,6 +68,13 @@
     "description": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF policies are no longer limited to individual domains: you can now\r\napply broad baseline protection across an e",
     "pubDate": "2026-10-27T16:58:04.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "The AI advantage your company can keep",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
+    "pubDate": "2026-10-27T16:00:00.000Z",
+    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
@@ -677,26 +698,5 @@
     "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
     "pubDate": "2026-10-08T20:46:45.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Gateway Offloading pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-offloading",
-    "description": "Centralize shared capabilities, such as TLS termination and authentication, in a gateway to simplify backend services.",
-    "pubDate": "2026-10-08T20:46:45.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Static Content Hosting pattern",
-    "link": "https://learn.microsoft.com/azure/architecture/patterns/static-content-hosting",
-    "description": "Deploy static content to a cloud-based storage service that can deliver them directly to the client.",
-    "pubDate": "2026-10-08T20:46:45.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-    "description": "<p>Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/\">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-08T20:44:28.000Z",
-    "source": "Security"
   }
 ]
