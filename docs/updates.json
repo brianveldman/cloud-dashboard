@@ -7,13 +7,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-    "description": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/\">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-28T17:40:56.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
     "link": "https://azure.microsoft.com/updates?id=577117",
     "description": "Cross-Tenant Restore (CTR) helps organizations establish an independent recovery path by enabling Azure VM backups to be restored into a separate Azure tenant. It strengthens cyber resilience while using the existing backup copy, without requiring custome",
@@ -696,6 +689,13 @@
     "title": "CDN guidance",
     "link": "https://learn.microsoft.com/azure/architecture/best-practices/cdn",
     "description": "Guidance on using Content Delivery Networks (CDNs) to deliver high-bandwidth content hosted in Azure.",
+    "pubDate": "2026-10-08T20:46:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Gateway Offloading pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-offloading",
+    "description": "Centralize shared capabilities, such as TLS termination and authentication, in a gateway to simplify backend services.",
     "pubDate": "2026-10-08T20:46:45.000Z",
     "source": "Azure Architecture"
   }
