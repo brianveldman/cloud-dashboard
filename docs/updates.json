@@ -63,13 +63,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
     "link": "https://azure.microsoft.com/updates?id=577782",
     "description": "Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which\r\nnetwork traffic flows are logged based on specific criteria such as IP\r\naddresses, ports, protocols, encryption state, flow state, and traffic directio",
@@ -696,6 +689,13 @@
     "title": "Gateway Offloading pattern",
     "link": "https://learn.microsoft.com/azure/architecture/patterns/gateway-offloading",
     "description": "Centralize shared capabilities, such as TLS termination and authentication, in a gateway to simplify backend services.",
+    "pubDate": "2026-10-08T20:46:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Static Content Hosting pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/patterns/static-content-hosting",
+    "description": "Deploy static content to a cloud-based storage service that can deliver them directly to the client.",
     "pubDate": "2026-10-08T20:46:45.000Z",
     "source": "Azure Architecture"
   }
