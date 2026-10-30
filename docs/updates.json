@@ -1,5 +1,12 @@
 [
   {
+    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+    "description": "<p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/\">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-30T16:11:44.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
     "link": "https://azure.microsoft.com/updates?id=578850",
     "description": "Large OS Disk Encryption (LOSDE) is now generally available for Azure Confidential VM migration scenarios. Organizations can move larger, production-scale workloads into confidential computing with the OS disk fully protected, instead of being held back b",
@@ -19,6 +26,13 @@
     "description": "Azure MCP Server 3.0 is now generally available, expanding how AI agents and developer tools interact with Azure through the open Model Context Protocol (MCP).This release introduces new and expanded capabilities:Infrastructure as code: Azure Terraform to",
     "pubDate": "2026-10-29T17:04:58.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+    "description": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/\">Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-29T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Tracking AI adoption in North Korean threat actor tradecraft",
@@ -124,13 +138,6 @@
     "description": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF policies are no longer limited to individual domains: you can now\r\napply broad baseline protection across an e",
     "pubDate": "2026-10-27T16:58:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
@@ -690,13 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-vpn-connectivity",
     "description": "This architecture shows how to establish encrypted layer-3 connectivity between your on-premises network and Azure virtual networks by using Azure VPN Gateway.",
     "pubDate": "2026-10-12T18:33:07.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Generative AI operations for organizations with MLOps investments",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
-    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
-    "pubDate": "2026-10-12T13:57:24.000Z",
     "source": "Azure Architecture"
   }
 ]
