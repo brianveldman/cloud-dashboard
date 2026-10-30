@@ -1,6 +1,13 @@
 [
   {
-    "title": "[Launched] Generally Available: HTTP DDoS Ruleset for Azure Front Door Premium WAF",
+    "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
+    "link": "https://azure.microsoft.com/updates?id=578850",
+    "description": "Large OS Disk Encryption (LOSDE) is now generally available for Azure Confidential VM migration scenarios. Organizations can move larger, production-scale workloads into confidential computing with the OS disk fully protected, instead of being held back b",
+    "pubDate": "2026-10-29T21:19:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=578681",
     "description": "Announcing the general\r\navailability of the HTTP DDoS ruleset for Azure Web Application Firewall (WAF)\r\non Azure Front Door Premium. HTTP-layer DDoS attacks remain a leading cause of\r\napplication downtime, and static controls such as IP filters and fixed rat",
     "pubDate": "2026-10-29T17:09:49.000Z",
@@ -691,12 +698,5 @@
     "description": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-12T13:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Azure CSP promotions: A new growth and profitability lever for partners",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#8",
-    "description": "Workspace: General • Announced: October 12",
-    "pubDate": "2026-10-12T12:00:00.000Z",
-    "source": "Partner Center Announcements"
   }
 ]
