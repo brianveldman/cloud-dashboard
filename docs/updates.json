@@ -42,13 +42,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
-    "description": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/\">Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-29T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Tracking AI adoption in North Korean threat actor tradecraft",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
     "description": "<p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/\">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -89,13 +82,6 @@
     "description": "The Log Analytics logging destination for Azure Container Apps is now a legacy logging option. Existing environments configured with the Log Analytics logging destination will continue to function normally. However, we recommend planning a migration to th",
     "pubDate": "2026-10-28T17:52:51.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-    "description": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/\">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-28T17:40:56.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
@@ -166,13 +152,6 @@
     "description": "Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which\r\nnetwork traffic flows are logged based on specific criteria such as IP\r\naddresses, ports, protocols, encryption state, flow state, and traffic directio",
     "pubDate": "2026-10-26T16:02:05.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-    "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-    "description": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/\">Scale reservoir uncertainty analysis with agile reservoir modeling</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-26T16:00:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Introducing a 30% promotional offer on Microsoft 365 E3",
@@ -329,13 +308,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Advancing digital sovereignty with greater control and choice",
-    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-    "description": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/\">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-20T17:34:47.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=577156",
     "description": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Premium. Service tags represent groups of IP address prefixes used by\r\nAzure services, and Microsoft updates th",
@@ -427,13 +399,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-    "description": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/\">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-19T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
     "link": "https://azure.microsoft.com/updates?id=573917",
     "description": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS record set with a Traffic Manager profile, eliminating the need to\r\ncreate a CNAME record pointing to the traf",
@@ -467,13 +432,6 @@
     "description": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su",
     "pubDate": "2026-10-16T16:50:27.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "Managing open-weight model risk in enterprise deployments",
-    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-16T16:05:00.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
@@ -553,13 +511,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Evolving the cloud-native foundation for the next generation of AI",
-    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "description": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/\">Evolving the cloud-native foundation for the next generation of AI</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-15T16:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Cost management for Kubernetes",
     "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/cost-management",
     "description": "Understand Kubernetes cluster and workload costs, learn how to optimize and govern costs, and compare AKS and Amazon EKS options.",
@@ -609,13 +560,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-    "description": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Synchronous I/O antipattern",
     "link": "https://learn.microsoft.com/azure/architecture/antipatterns/synchronous-io",
     "description": "Blocking the calling thread while I/O completes can reduce performance and affect vertical scalability.",
@@ -658,20 +602,6 @@
     "source": "Azure Architecture"
   },
   {
-    "title": "Advancing hardware security with open-source Integrated HSM technology",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-    "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-    "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-    "description": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/\">Infrastructure for the frontier era: Scaling intelligence through open industry collaboration</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "Choose a Kubernetes at the edge compute option",
     "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/choose-kubernetes-edge-compute-option",
     "description": "Learn about trade-offs and considerations for various Kubernetes options for extending compute on the edge.",
@@ -698,5 +628,75 @@
     "description": "Learn how to design multitenant SaaS architectures that use Foundry Models, with guidance on isolation, scale, and operational trade-offs.",
     "pubDate": "2026-10-12T20:44:10.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Prevent IPv4 exhaustion in Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/internet-protocol-version-4-exhaustion",
+    "description": "Minimize private address space consumption when you build large networks in Azure. This article presents two methods to reduce unique IPv4 address overlap.",
+    "pubDate": "2026-10-12T18:49:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Implement a secure hybrid network",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz",
+    "description": "Learn how to deploy a secure hybrid network that extends an on-premises network to Azure by implementing a perimeter network called a DMZ.",
+    "pubDate": "2026-10-12T18:33:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure VPN Gateway site-to-site connectivity for hybrid networks",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-vpn-connectivity",
+    "description": "This architecture shows how to establish encrypted layer-3 connectivity between your on-premises network and Azure virtual networks by using Azure VPN Gateway.",
+    "pubDate": "2026-10-12T18:33:07.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Generative AI operations for organizations with MLOps investments",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/genaiops-for-mlops",
+    "description": "Extend existing MLOps investments to include generative AI operations. Learn where you can apply existing investments and where you need to extend those investments.",
+    "pubDate": "2026-10-12T13:57:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Build and deploy custom document processing models on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/architecture/build-deploy-custom-models",
+    "description": "Learn more about Azure options for orchestrating, storing, building, deploying, and using custom document processing models.",
+    "pubDate": "2026-10-12T13:19:12.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure CSP promotions: A new growth and profitability lever for partners",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#8",
+    "description": "Workspace: General • Announced: October 12",
+    "pubDate": "2026-10-12T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Azure App Service and Azure Functions considerations for multitenancy",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-service",
+    "description": "This article describes the features of Azure App Service and Azure Functions that are useful when you work with multitenant systems.",
+    "pubDate": "2026-10-12T07:04:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Autoscaling guidance",
+    "link": "https://learn.microsoft.com/azure/architecture/best-practices/auto-scaling",
+    "description": "Review autoscaling guidance. Autoscaling is the process of dynamically allocating resources to match performance requirements.",
+    "pubDate": "2026-10-09T20:51:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
+    "link": "https://azure.microsoft.com/updates?id=570313",
+    "description": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the extension should plan to migrate to the Azure Key Vault Secret Store Extension before the retirement date. The",
+    "pubDate": "2026-10-09T20:27:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+    "link": "https://azure.microsoft.com/updates?id=574430",
+    "description": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NAT Gateway SKU for\r\nnew clusters in supported regions when using the managedNATGateway outbound\r\ntype. Standa",
+    "pubDate": "2026-10-08T22:51:01.000Z",
+    "source": "Azure Updates"
   }
 ]
