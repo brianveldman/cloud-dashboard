@@ -1,5 +1,12 @@
 [
   {
+    "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+    "description": "<p>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/\">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-31T01:02:57.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL ",
     "link": "https://azure.microsoft.com/updates?id=577491",
     "description": "With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blob Storage and Azure Data Lake Storage Gen2 through external tables and OPENROWSET. You can authenticate t",
@@ -145,13 +152,6 @@
     "description": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF policies are no longer limited to individual domains: you can now\r\napply broad baseline protection across an e",
     "pubDate": "2026-10-27T16:58:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
