@@ -470,8 +470,8 @@
   },
   {
     "title": "Managing open-weight model risk in enterprise deployments",
-    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:05:00.000Z",
     "source": "Azure Blog"
   },
