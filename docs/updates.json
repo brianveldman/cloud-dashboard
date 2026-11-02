@@ -1,5 +1,12 @@
 [
   {
+    "title": "Azure promotions are now live in CSP",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#1",
+    "description": "Workspace: General • Announced: November 2",
+    "pubDate": "2026-11-02T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
     "description": "<p>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/\">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -84,6 +91,13 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Azure Virtual Machines baseline architecture in an Azure landing zone",
+    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline-landing-zone",
+    "description": "Learn how to build on the baseline architecture to address changes and expectations when you deploy it in an Azure landing zone.",
+    "pubDate": "2026-10-28T20:15:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor",
     "link": "https://azure.microsoft.com/updates?id=577689",
     "description": "The Log Analytics logging destination for Azure Container Apps is now a legacy logging option. Existing environments configured with the Log Analytics logging destination will continue to function normally. However, we recommend planning a migration to th",
@@ -91,11 +105,32 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Run SAP NetWeaver in Windows on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
+    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure to achieve high availability and disaster recovery.",
+    "pubDate": "2026-10-28T17:42:13.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Workload identity and access in EKS and AKS",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/workload-identity",
+    "description": "Understand how Kubernetes clusters, nodes, and pods handle identity and access, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
+    "pubDate": "2026-10-28T17:41:26.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
     "description": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/\">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-28T17:40:56.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "SAP S/4HANA in Linux on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-s4hana",
+    "description": "Learn more about proven practices for running SAP S/4HANA effectively in a Linux environment on Azure with high availability.",
+    "pubDate": "2026-10-28T17:34:30.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
@@ -159,6 +194,13 @@
     "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
     "pubDate": "2026-10-27T16:00:00.000Z",
     "source": "Microsoft 365"
+  },
+  {
+    "title": "Cross-tenant secure access to apps by using private endpoints",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
+    "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
+    "pubDate": "2026-10-27T14:12:09.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
@@ -655,48 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/antipatterns/busy-front-end",
     "description": "Asynchronous work on a large number of background threads can starve other foreground tasks of resources.",
     "pubDate": "2026-10-13T16:55:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Advancing hardware security with open-source Integrated HSM technology",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-    "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-    "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-    "description": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/\">Infrastructure for the frontier era: Scaling intelligence through open industry collaboration</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Choose a Kubernetes at the edge compute option",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/technology-choices/choose-kubernetes-edge-compute-option",
-    "description": "Learn about trade-offs and considerations for various Kubernetes options for extending compute on the edge.",
-    "pubDate": "2026-10-13T15:35:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Use Azure API Management in a multitenant solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/api-management",
-    "description": "Learn about Azure API Management features for multitenant solutions, including tenant isolation models, routing, authentication, caching, and rate limiting.",
-    "pubDate": "2026-10-13T07:30:28.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Choose the right AI model for your workload",
-    "link": "https://learn.microsoft.com/azure/architecture/ai-ml/guide/choose-ai-model",
-    "description": "Learn strategies to help you select the best model for your AI workload, including key criteria and practical considerations for decision-making.",
-    "pubDate": "2026-10-12T21:06:59.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Foundry Models",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/foundry-models",
-    "description": "Learn how to design multitenant SaaS architectures that use Foundry Models, with guidance on isolation, scale, and operational trade-offs.",
-    "pubDate": "2026-10-12T20:44:10.000Z",
     "source": "Azure Architecture"
   }
 ]
