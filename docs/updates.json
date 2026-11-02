@@ -1,5 +1,61 @@
 [
   {
+    "title": "[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate",
+    "link": "https://azure.microsoft.com/updates?id=577975",
+    "description": "Azure\r\nMigrate now supports discovery and assessment for network-attached storage,\r\nallowing customers and partners to plan migrations of Dell PowerScale (OneFS)\r\nand NetApp ONTAP storage to Azure. The Azure Migrate appliance connects\r\ndirectly to your NAS cl",
+    "pubDate": "2026-11-02T19:37:11.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: OT security in Microsoft Defender for IoT",
+    "link": "https://azure.microsoft.com/updates?id=576255",
+    "description": "This is the formal notice that Microsoft plans to deprecate the operational technology (OT) security component of Microsoft Defender for IoT. The service will be fully deprecated in October 2029, following a three-year transition period.This change applie",
+    "pubDate": "2026-11-02T19:22:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Change from virtual network integration to a private endpoint capable network configuration in Azure Database for PostgreSQL flexible server  ",
+    "link": "https://azure.microsoft.com/updates?id=574541",
+    "description": "You now have greater flexibility in network design for Azure Database for PostgreSQL Flexible Server workloads. Now you can change existing VNet-integrated servers from delegated-subnet networking to a private endpoint-capable configuration, enabling secu",
+    "pubDate": "2026-11-02T19:20:33.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure Fluid Relay",
+    "link": "https://azure.microsoft.com/updates?id=570498",
+    "description": "On February 2, 2027, we will retire Azure Fluid Relay. After this date, Azure Fluid Relay will reach end of availability, and workloads that continue to depend on the service may experience disruption.The Fluid Framework remains available as an open-sourc",
+    "pubDate": "2026-11-02T19:01:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Storage Actions adds automatic task updates, execution controls, and case-sensitive matching",
+    "link": "https://azure.microsoft.com/updates?id=578628",
+    "description": "Azure Storage Actions is introducing three enhancements to simplify task management and give you more control over automated data operations across Azure Blob and Data Lake Storage:Automatic propagation of task definition updates: When you update a storag",
+    "pubDate": "2026-11-02T18:34:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Restart databases in Azure SQL DB via the Azure portal ",
+    "link": "https://azure.microsoft.com/updates?id=577992",
+    "description": "You can now restart or fail over databases directly from the Azure portal, including single databases, Hyperscale databases, and databases in elastic pools, without writing scripts against the Rest API or contacting support.  Learn more.  ",
+    "pubDate": "2026-11-02T18:02:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Geo-Replication on partitioned namespaces for Azure Service Bus Premium",
+    "link": "https://azure.microsoft.com/updates?id=579021",
+    "description": "Geo-Replication on partitioned namespaces for\r\nAzure Service Bus Premium is now generally available. You can now combine the\r\nthroughput benefits of partitioning with the reliability of replicating your\r\nmessages and metadata to a secondary Azure region. Par",
+    "pubDate": "2026-11-02T18:00:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Site Recovery for Azure Local",
+    "link": "https://azure.microsoft.com/updates?id=579111",
+    "description": "Azure Site Recovery support for Azure Local is now generally available, making enterprise-grade disaster recovery simpler, accessible, easier to setup and secure than ever before. Customers can protect supported Windows and Linux virtual machines by repli",
+    "pubDate": "2026-11-02T17:49:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Azure promotions are now live in CSP",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#1",
     "description": "Workspace: General • Announced: November 2",
@@ -642,61 +698,5 @@
     "description": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations strengthen security monitoring, compliance reporting, governance, and forensic investigations. Customers ca",
     "pubDate": "2026-10-14T19:17:47.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers",
-    "link": "https://azure.microsoft.com/updates?id=576214",
-    "description": "Azure Site Recovery (ASR) now supports disaster recovery for Azure ARC-enabled Windows VMWare virtual machines and on-premise physical servers. Customers can protect ARC-managed machines with ASR while continuing to use Azure ARC for governance, inventory",
-    "pubDate": "2026-10-14T19:13:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-    "description": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Synchronous I/O antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/synchronous-io",
-    "description": "Blocking the calling thread while I/O completes can reduce performance and affect vertical scalability.",
-    "pubDate": "2026-10-14T15:36:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Basic web application",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/basic-web-app",
-    "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
-    "pubDate": "2026-10-14T15:24:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-    "description": "<p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/\">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T13:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "Copilot offers and name updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#10",
-    "description": "Workspace: General • Announced: October 14",
-    "pubDate": "2026-10-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Join SQL Modernization Day on Oct 20",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#9",
-    "description": "Workspace: General • Announced: October 14",
-    "pubDate": "2026-10-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Busy Front End antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/busy-front-end",
-    "description": "Asynchronous work on a large number of background threads can starve other foreground tasks of resources.",
-    "pubDate": "2026-10-13T16:55:32.000Z",
-    "source": "Azure Architecture"
   }
 ]
