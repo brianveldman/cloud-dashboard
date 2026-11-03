@@ -1,5 +1,12 @@
 [
   {
+    "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+    "description": "<p>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/\">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-02T20:20:59.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate",
     "link": "https://azure.microsoft.com/updates?id=577975",
     "description": "Azure\r\nMigrate now supports discovery and assessment for network-attached storage,\r\nallowing customers and partners to plan migrations of Dell PowerScale (OneFS)\r\nand NetApp ONTAP storage to Azure. The Azure Migrate appliance connects\r\ndirectly to your NAS cl",
@@ -243,13 +250,6 @@
     "description": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF policies are no longer limited to individual domains: you can now\r\napply broad baseline protection across an e",
     "pubDate": "2026-10-27T16:58:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Cross-tenant secure access to apps by using private endpoints",
