@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Platform Behind the Next AI Breakthrough",
+    "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+    "description": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/\">The Platform Behind the Next AI Breakthrough</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-02T20:52:22.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
     "description": "<p>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/\">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -691,12 +698,5 @@
     "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
     "pubDate": "2026-10-14T23:48:05.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
-    "link": "https://azure.microsoft.com/updates?id=576377",
-    "description": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations strengthen security monitoring, compliance reporting, governance, and forensic investigations. Customers ca",
-    "pubDate": "2026-10-14T19:17:47.000Z",
-    "source": "Azure Updates"
   }
 ]
