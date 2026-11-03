@@ -1,5 +1,47 @@
 [
   {
+    "title": "[In preview] Public Preview: Advanced capacity insights are now available in Azure Storage Discovery",
+    "link": "https://azure.microsoft.com/updates?id=578655",
+    "description": "Advanced capacity insights are now available for preview in Azure Storage Discovery. Storage Discovery now provides greater visibility into storage usage through insights such as access patterns, data age, storage tiers, object size distribution, retentio",
+    "pubDate": "2026-11-03T20:20:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Extend immutability for PITR backups for Azure SQL Database and Azure SQL Managed Instance",
+    "link": "https://azure.microsoft.com/updates?id=579305",
+    "description": "With this enhancement, you have the ability to lock your retention to the configured PITR retention, beyond the default 7 days of immutable backups that are already available. This is especially useful for financial customers who typically have 35 days of",
+    "pubDate": "2026-11-03T18:36:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Enhanced Azure Site Recovery support for VMSS Flex",
+    "link": "https://azure.microsoft.com/updates?id=578926",
+    "description": "Azure Site Recovery now offers an enhanced disaster recovery experience for virtual machines in Virtual Machine Scale Sets with flexible orchestration. The update improves target configuration and end-to-end recovery workflows, including failover, reprote",
+    "pubDate": "2026-11-03T18:32:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
+    "description": "<p>Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/\">Fake-download campaign uses trojanized installers to deliver monetization payloads</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-03T17:32:47.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms  ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+    "description": "<p>Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms  </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-03T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+    "description": "<p>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/\">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-02T20:20:59.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate",
     "link": "https://azure.microsoft.com/updates?id=577975",
     "description": "Azure\r\nMigrate now supports discovery and assessment for network-attached storage,\r\nallowing customers and partners to plan migrations of Dell PowerScale (OneFS)\r\nand NetApp ONTAP storage to Azure. The Azure Migrate appliance connects\r\ndirectly to your NAS cl",
@@ -63,11 +105,25 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+    "description": "<p>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/\">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-31T01:02:57.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL ",
     "link": "https://azure.microsoft.com/updates?id=577491",
     "description": "With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blob Storage and Azure Data Lake Storage Gen2 through external tables and OPENROWSET. You can authenticate t",
     "pubDate": "2026-10-30T17:16:27.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+    "description": "<p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/\">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-30T16:11:44.000Z",
+    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
@@ -96,6 +152,20 @@
     "description": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/\">Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-29T16:00:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+    "description": "<p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/\">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-29T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+    "description": "<p>IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/\">IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-29T16:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Keep your team compliance-ready",
@@ -175,6 +245,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+    "description": "<p>As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/\">The CISO’s evolving role: Protecting and defending in the agentic era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-28T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "View SQL Modernization Day on demand",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#19",
     "description": "Workspace: General • Announced: October 28",
@@ -250,6 +327,13 @@
     "description": "Azure Backup now supports Item-Level Recovery (ILR) for Azure virtual machines using Premium SSD v2 and Ultra disks with both 512 byte and 4KB logical sector sizes. You can now recover individual files and folders from your Azure VMs with Premium SSDv2 an",
     "pubDate": "2026-10-23T19:21:07.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+    "description": "<p>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/\">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-23T18:12:19.000Z",
+    "source": "Security"
   },
   {
     "title": "Migrate an Oracle database to OD@A Exadata Database Service",
@@ -341,6 +425,13 @@
     "description": "Learn about Azure Managed Redis features, like Microsoft Entra ID authentication, active geo-replication, and Redis modules, that you can use to improve the performance of multitenant systems.",
     "pubDate": "2026-10-21T21:44:50.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "description": "<p>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-21T18:23:55.000Z",
+    "source": "Security"
   },
   {
     "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
@@ -607,96 +698,5 @@
     "description": "Understand Kubernetes nodes and node pools, how to handle Azure Kubernetes Service (AKS) nodes and node pools, and node pool options for Amazon EKS and AKS.",
     "pubDate": "2026-10-15T13:29:18.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Office LTSC 2021 end of support",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#12",
-    "description": "Workspace: General • Announced: October 15",
-    "pubDate": "2026-10-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Updated October CSP Pricelist",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#11",
-    "description": "Workspace: Pricing • Announced: October 15",
-    "pubDate": "2026-10-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-10-14T23:48:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
-    "link": "https://azure.microsoft.com/updates?id=576377",
-    "description": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations strengthen security monitoring, compliance reporting, governance, and forensic investigations. Customers ca",
-    "pubDate": "2026-10-14T19:17:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers",
-    "link": "https://azure.microsoft.com/updates?id=576214",
-    "description": "Azure Site Recovery (ASR) now supports disaster recovery for Azure ARC-enabled Windows VMWare virtual machines and on-premise physical servers. Customers can protect ARC-managed machines with ASR while continuing to use Azure ARC for governance, inventory",
-    "pubDate": "2026-10-14T19:13:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-    "description": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-14T19:00:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Synchronous I/O antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/synchronous-io",
-    "description": "Blocking the calling thread while I/O completes can reduce performance and affect vertical scalability.",
-    "pubDate": "2026-10-14T15:36:34.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Basic web application",
-    "link": "https://learn.microsoft.com/azure/architecture/web-apps/app-service/architectures/basic-web-app",
-    "description": "Learn about proven practices for deploying web applications that use Azure App Service and Azure SQL Database.",
-    "pubDate": "2026-10-14T15:24:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Copilot offers and name updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#10",
-    "description": "Workspace: General • Announced: October 14",
-    "pubDate": "2026-10-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Join SQL Modernization Day on Oct 20",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#9",
-    "description": "Workspace: General • Announced: October 14",
-    "pubDate": "2026-10-14T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Busy Front End antipattern",
-    "link": "https://learn.microsoft.com/azure/architecture/antipatterns/busy-front-end",
-    "description": "Asynchronous work on a large number of background threads can starve other foreground tasks of resources.",
-    "pubDate": "2026-10-13T16:55:32.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Advancing hardware security with open-source Integrated HSM technology",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-    "description": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/\">Advancing hardware security with open-source Integrated HSM technology</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-    "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-    "description": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/\">Infrastructure for the frontier era: Scaling intelligence through open industry collaboration</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-13T16:15:00.000Z",
-    "source": "Azure Blog"
   }
 ]
