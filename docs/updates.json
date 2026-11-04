@@ -1,10 +1,52 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01",
+    "link": "https://azure.microsoft.com/updates?id=579300",
+    "description": "The Azure Database for PostgreSQL Flexible Server REST API version 2026-10-01 is now generally available. This stable API release introduces expanded capabilities for maintenance management, immutable backups, multi-tenant encryption (cross-tenant custome",
+    "pubDate": "2026-11-04T18:42:12.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Generally Available: Route maps for Azure Route Server",
+    "link": "https://azure.microsoft.com/updates?id=578966",
+    "description": "Route maps for Azure Route Server are now generally available in the Azure public cloud. Route maps provide fine-grained control over inbound and outbound routing across hybrid connections. Customers can manage routes advertised to and from Azure Route Se",
+    "pubDate": "2026-11-04T18:39:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Firewall IPv6 now supports application rules",
+    "link": "https://azure.microsoft.com/updates?id=579507",
+    "description": "Azure Firewall now supports application rules in IPv6\r\nPublic Preview, enabling layer 7 filtering for IPv6 HTTP and HTTPS traffic. The\r\nenhancement extends application-level controls to IPv6 and dual-stack\r\ndeployments, helping customers maintain consistent ",
+    "pubDate": "2026-11-04T18:09:43.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Multi-disk crash-consistent VM restore points for Premium SSD v2 and Ultra Disks on VMs with SCSI disk controller",
     "link": "https://azure.microsoft.com/updates?id=579162",
     "description": "Multi-disk crash-consistent restore points for Azure virtual machines with Premium SSD v2 and Ultra data disks are now available in public preview on VMs with SCSI disk controllers. You can use this to capture the agent-less crash consistent restore point",
     "pubDate": "2026-11-04T17:13:51.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Copilot Chat: limits for users without a Microsoft 365 Copilot license",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#7",
+    "description": "Workspace: General • Announced: November 4",
+    "pubDate": "2026-11-04T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Accelerate your Frontier AI readiness",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#6",
+    "description": "Workspace: General • Announced: November 4",
+    "pubDate": "2026-11-04T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "GitHub Enterprise updates",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#5",
+    "description": "Workspace: General • Announced: November 4",
+    "pubDate": "2026-11-04T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[In preview] Public Preview: JWT validation for Application Gateway for Containers",
@@ -656,47 +698,5 @@
     "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:05:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Disaster recovery architecture for an Azure data platform",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
-    "description": "Learn how to structure an Azure data platform architecture with disaster recovery capabilities by using enterprise landing zones and analytics components.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Hub-spoke network topology in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke",
-    "description": "Learn about hub-spoke topology in Azure, where the spoke virtual networks connect to the hub virtual network and can connect to each other.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Hub-spoke network topology using Azure Virtual WAN",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke-virtual-wan-architecture",
-    "description": "Implement a hub-spoke topology that uses Azure Virtual WAN as the Microsoft-managed hub and has spoke virtual networks, branches, and remote users.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Massive-scale VWAN architecture design",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/massive-scale-azure-architecture",
-    "description": "Learn about the architecture for a massive-scale Azure Virtual WAN deployment that has multiple hubs per region.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises network to Azure by using ExpressRoute",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-private-peering-connectivity",
-    "description": "This architecture shows how to connect an on-premises network to an Azure virtual network by using Azure ExpressRoute.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises network to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-connectivity-options",
-    "description": "Learn about the options for connecting an on-premises network to an Azure virtual network by comparing reference architectures for each option.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
   }
 ]
