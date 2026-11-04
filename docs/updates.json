@@ -77,13 +77,6 @@
     "source": "Partner Center Announcements"
   },
   {
-    "title": "The Platform Behind the Next AI Breakthrough",
-    "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
-    "description": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/\">The Platform Behind the Next AI Breakthrough</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-11-02T20:52:22.000Z",
-    "source": "Azure Blog"
-  },
-  {
     "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
     "description": "<p>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/\">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -698,5 +691,12 @@
     "description": "Learn about comparable AWS and Azure identity management solutions so that you can efficiently migrate solutions.",
     "pubDate": "2026-10-16T13:28:40.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
+    "link": "https://azure.microsoft.com/updates?id=576542",
+    "description": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain secondary copies that can support bus",
+    "pubDate": "2026-10-15T19:05:18.000Z",
+    "source": "Azure Updates"
   }
 ]
