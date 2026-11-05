@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=579280",
+    "description": "WAF Insights for Azure Application Gateway Web Application Firewall (WAF) is now generally available. WAF Insights is a built-in experience in the WAF policy that brings WAF logs and metrics together in interactive dashboards, so you can investigate block",
+    "pubDate": "2026-11-05T17:11:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "New investments to reduce on-premises security risk",
+    "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
+    "description": "<p>We’re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381\">New investments to reduce on-premises security risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T17:10:14.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "​​​​What’s new in Microsoft Security: November 2026",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+    "description": "<p>Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/\">​​​​What’s new in Microsoft Security: November 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Email threat landscape: Q3 2026 trends and insights",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+    "description": "<p>Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/\">Email threat landscape: Q3 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01",
     "link": "https://azure.microsoft.com/updates?id=579300",
     "description": "The Azure Database for PostgreSQL Flexible Server REST API version 2026-10-01 is now generally available. This stable API release introduces expanded capabilities for maintenance management, immutable backups, multi-tenant encryption (cross-tenant custome",
@@ -26,6 +54,13 @@
     "description": "Multi-disk crash-consistent restore points for Azure virtual machines with Premium SSD v2 and Ultra data disks are now available in public preview on VMs with SCSI disk controllers. You can use this to capture the agent-less crash consistent restore point",
     "pubDate": "2026-11-04T17:13:51.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+    "description": "<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/\">Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-04T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Copilot Chat: limits for users without a Microsoft 365 Copilot license",
@@ -91,6 +126,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
+    "description": "<p>Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/\">Fake-download campaign uses trojanized installers to deliver monetization payloads</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-03T17:32:47.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms  ",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+    "description": "<p>Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms  </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-03T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Availability update: Updates to usage-based billing for new Microsoft 365 Copilot Business licenses and Partner Center sandbox environments",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#4",
     "description": "Workspace: General • Announced: November 3",
@@ -110,6 +159,20 @@
     "description": "Workspace: General • Announced: November 3",
     "pubDate": "2026-11-03T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "The Platform Behind the Next AI Breakthrough",
+    "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+    "description": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/\">The Platform Behind the Next AI Breakthrough</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-02T20:52:22.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+    "description": "<p>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/\">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-02T20:20:59.000Z",
+    "source": "Security"
   },
   {
     "title": "[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate",
@@ -175,11 +238,25 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+    "description": "<p>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/\">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-31T01:02:57.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL ",
     "link": "https://azure.microsoft.com/updates?id=577491",
     "description": "With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blob Storage and Azure Data Lake Storage Gen2 through external tables and OPENROWSET. You can authenticate t",
     "pubDate": "2026-10-30T17:16:27.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+    "description": "<p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/\">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-30T16:11:44.000Z",
+    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
@@ -201,6 +278,27 @@
     "description": "Azure MCP Server 3.0 is now generally available, expanding how AI agents and developer tools interact with Azure through the open Model Context Protocol (MCP).This release introduces new and expanded capabilities:Infrastructure as code: Azure Terraform to",
     "pubDate": "2026-10-29T17:04:58.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+    "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+    "description": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/\">Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-29T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
+    "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+    "description": "<p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/\">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-29T16:00:00.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+    "description": "<p>IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/\">IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-10-29T16:00:00.000Z",
+    "source": "Security"
   },
   {
     "title": "Keep your team compliance-ready",
@@ -250,6 +348,13 @@
     "description": "Understand how Kubernetes clusters, nodes, and pods handle identity and access, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
     "pubDate": "2026-10-28T17:41:26.000Z",
     "source": "Azure Architecture"
+  },
+  {
+    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+    "description": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/\">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-28T17:40:56.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "SAP S/4HANA in Linux on Azure",
@@ -327,6 +432,13 @@
     "description": "Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which\r\nnetwork traffic flows are logged based on specific criteria such as IP\r\naddresses, ports, protocols, encryption state, flow state, and traffic directio",
     "pubDate": "2026-10-26T16:02:05.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
+    "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
+    "description": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/\">Scale reservoir uncertainty analysis with agile reservoir modeling</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-26T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Introducing a 30% promotional offer on Microsoft 365 E3",
@@ -469,6 +581,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+    "description": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/\">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-20T17:34:47.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=577156",
     "description": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Premium. Service tags represent groups of IP address prefixes used by\r\nAzure services, and Microsoft updates th",
@@ -560,6 +679,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+    "description": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/\">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-10-19T19:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
     "link": "https://azure.microsoft.com/updates?id=573917",
     "description": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS record set with a Traffic Manager profile, eliminating the need to\r\ncreate a CNAME record pointing to the traf",
@@ -572,131 +698,5 @@
     "description": "Learn how to build network-secured, highly available, and zone-redundant enterprise chat applications by using Microsoft Foundry tools and Azure App Service.",
     "pubDate": "2026-10-19T16:17:07.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
-    "link": "https://azure.microsoft.com/updates?id=576556",
-    "description": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (VNet) and transitively connected networks through a\r\nsingle managed gateway. Customers can use the gateway t",
-    "pubDate": "2026-10-16T16:59:02.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: External key management for Azure Key Vault Managed HSM",
-    "link": "https://azure.microsoft.com/updates?id=574296",
-    "description": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or sovereignty requirements to retain physical control of key-encryption keys, it lets Azure services that su",
-    "pubDate": "2026-10-16T16:50:27.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Disaster recovery architecture for an Azure data platform",
-    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
-    "description": "Learn how to structure an Azure data platform architecture with disaster recovery capabilities by using enterprise landing zones and analytics components.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Hub-spoke network topology in Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke",
-    "description": "Learn about hub-spoke topology in Azure, where the spoke virtual networks connect to the hub virtual network and can connect to each other.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Hub-spoke network topology using Azure Virtual WAN",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/hub-spoke-virtual-wan-architecture",
-    "description": "Implement a hub-spoke topology that uses Azure Virtual WAN as the Microsoft-managed hub and has spoke virtual networks, branches, and remote users.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Massive-scale VWAN architecture design",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/massive-scale-azure-architecture",
-    "description": "Learn about the architecture for a massive-scale Azure Virtual WAN deployment that has multiple hubs per region.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises network to Azure by using ExpressRoute",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-private-peering-connectivity",
-    "description": "This architecture shows how to connect an on-premises network to an Azure virtual network by using Azure ExpressRoute.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Connect an on-premises network to Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hybrid-connectivity-options",
-    "description": "Learn about the options for connecting an on-premises network to an Azure virtual network by comparing reference architectures for each option.",
-    "pubDate": "2026-10-16T14:28:00.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Compare AWS and Azure identity management solutions",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/security-identity",
-    "description": "Learn about comparable AWS and Azure identity management solutions so that you can efficiently migrate solutions.",
-    "pubDate": "2026-10-16T13:28:40.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
-    "link": "https://azure.microsoft.com/updates?id=576542",
-    "description": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain secondary copies that can support bus",
-    "pubDate": "2026-10-15T19:05:18.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Standard service endpoint ",
-    "link": "https://azure.microsoft.com/updates?id=571025",
-    "description": "Standard service endpoint, a\r\nnew capability in the Azure Private Link family, provides a scalable and secure\r\napproach for connecting Azure IaaS workloads to Azure PaaS services. Standard service\r\nendpoint addresses the manageability, and the scale limitati",
-    "pubDate": "2026-10-15T17:39:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets",
-    "link": "https://azure.microsoft.com/updates?id=576334",
-    "description": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availability zones and automatically redistributes VM instances when zonal imbalances occur. This helps reduce ",
-    "pubDate": "2026-10-15T16:54:20.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Cost management for Kubernetes",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/cost-management",
-    "description": "Understand Kubernetes cluster and workload costs, learn how to optimize and govern costs, and compare AKS and Amazon EKS options.",
-    "pubDate": "2026-10-15T14:13:47.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Manage Kubernetes nodes and node pools",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/node-pools",
-    "description": "Understand Kubernetes nodes and node pools, how to handle Azure Kubernetes Service (AKS) nodes and node pools, and node pool options for Amazon EKS and AKS.",
-    "pubDate": "2026-10-15T13:29:18.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Office LTSC 2021 end of support",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#12",
-    "description": "Workspace: General • Announced: October 15",
-    "pubDate": "2026-10-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Updated October CSP Pricelist",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#11",
-    "description": "Workspace: Pricing • Announced: October 15",
-    "pubDate": "2026-10-15T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
-    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
-    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
-    "pubDate": "2026-10-14T23:48:05.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
-    "link": "https://azure.microsoft.com/updates?id=576377",
-    "description": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations strengthen security monitoring, compliance reporting, governance, and forensic investigations. Customers ca",
-    "pubDate": "2026-10-14T19:17:47.000Z",
-    "source": "Azure Updates"
   }
 ]
