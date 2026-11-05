@@ -378,13 +378,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -698,5 +691,12 @@
     "description": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/\">Managing open-weight model risk in enterprise deployments</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-16T16:05:00.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Disaster recovery architecture for an Azure data platform",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/disaster-recovery/dr-for-azure-data-platform-architecture",
+    "description": "Learn how to structure an Azure data platform architecture with disaster recovery capabilities by using enterprise landing zones and analytics components.",
+    "pubDate": "2026-10-16T14:28:00.000Z",
+    "source": "Azure Architecture"
   }
 ]
