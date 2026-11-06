@@ -1,5 +1,19 @@
 [
   {
+    "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+    "description": "<p>Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/\">Threat actors use agentic AI tooling to find and abuse exposed secrets</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T23:46:50.000Z",
+    "source": "Security"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support ",
+    "link": "https://azure.microsoft.com/updates?id=577668",
+    "description": "Azure Front Door now supports configurable TLS key exchange\r\npolicies, including hybrid post-quantum key exchange, to help you prepare for\r\nevolving cryptographic threats while meeting your security and client\r\ncompatibility requirements. Choose a predefined",
+    "pubDate": "2026-11-05T23:19:48.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
     "link": "https://azure.microsoft.com/updates?id=579280",
     "description": "WAF Insights for Azure Application Gateway Web Application Firewall (WAF) is now generally available. WAF Insights is a built-in experience in the WAF policy that brings WAF logs and metrics together in interactive dashboards, so you can investigate block",
@@ -14,11 +28,25 @@
     "source": "Security"
   },
   {
+    "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+    "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+    "description": "<p>AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/\">Stop treating agents as one-off projects and start running them as a continuous discipline</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "​​​​What’s new in Microsoft Security: November 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
     "description": "<p>Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/\">​​​​What’s new in Microsoft Security: November 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-11-05T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+    "description": "<p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and development.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/\">Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Email threat landscape: Q3 2026 trends and insights",
@@ -89,6 +117,13 @@
     "description": "Multi-disk crash-consistent restore points for Azure virtual machines with Premium SSD v2 and Ultra data disks are now available in public preview on VMs with SCSI disk controllers. You can use this to capture the agent-less crash consistent restore point",
     "pubDate": "2026-11-04T17:13:51.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+    "description": "<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/\">Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-04T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Copilot Chat: limits for users without a Microsoft 365 Copilot license",
@@ -187,6 +222,13 @@
     "description": "Workspace: General • Announced: November 3",
     "pubDate": "2026-11-03T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "The Platform Behind the Next AI Breakthrough",
+    "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+    "description": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/\">The Platform Behind the Next AI Breakthrough</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-02T20:52:22.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
@@ -311,13 +353,6 @@
     "title": "Tracking AI adoption in North Korean threat actor tradecraft",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
     "description": "<p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/\">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-29T16:00:00.000Z",
-    "source": "Security"
-  },
-  {
-    "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
-    "description": "<p>IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/\">IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-10-29T16:00:00.000Z",
     "source": "Security"
   },
@@ -663,40 +698,5 @@
     "description": "Explore Azure Table Storage features and isolation models for multitenant solutions, including tenant partition keys, access control, encryption, and monitoring.",
     "pubDate": "2026-10-19T23:25:46.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Blob Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/blob-storage",
-    "description": "Explore Azure Blob Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
-    "pubDate": "2026-10-19T21:19:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Files",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/files",
-    "description": "Explore Azure Files features and isolation models for multitenant solutions, including tenant-specific file shares, access control, encryption, and monitoring.",
-    "pubDate": "2026-10-19T21:19:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Queue Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/queue-storage",
-    "description": "Explore Azure Queue Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
-    "pubDate": "2026-10-19T21:19:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Table Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/table-storage",
-    "description": "Explore Azure Table Storage features and isolation models for multitenant solutions, including tenant partition keys, access control, encryption, and monitoring.",
-    "pubDate": "2026-10-19T21:19:52.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
-    "link": "https://azure.microsoft.com/updates?id=577165",
-    "description": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace. Monitor workspace utilization, identify unused metrics, understand usage trends, and investigate change",
-    "pubDate": "2026-10-19T20:23:15.000Z",
-    "source": "Azure Updates"
   }
 ]
