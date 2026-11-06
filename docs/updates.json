@@ -105,6 +105,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+    "description": "<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/\">Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-04T16:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "Copilot Chat: limits for users without a Microsoft 365 Copilot license",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#7",
     "description": "Workspace: General • Announced: November 4",
@@ -446,13 +453,6 @@
     "description": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF policies are no longer limited to individual domains: you can now\r\napply broad baseline protection across an e",
     "pubDate": "2026-10-27T16:58:04.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
   },
   {
     "title": "Cross-tenant secure access to apps by using private endpoints",
