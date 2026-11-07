@@ -49,11 +49,25 @@
     "source": "Security"
   },
   {
+    "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+    "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+    "description": "<p>AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/\">Stop treating agents as one-off projects and start running them as a continuous discipline</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "Azure Blog"
+  },
+  {
     "title": "​​​​What’s new in Microsoft Security: November 2026",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
     "description": "<p>Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/\">​​​​What’s new in Microsoft Security: November 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-11-05T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+    "description": "<p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and development.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/\">Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
+    "pubDate": "2026-11-05T16:00:00.000Z",
+    "source": "Azure Blog"
   },
   {
     "title": "Email threat landscape: Q3 2026 trends and insights",
@@ -469,6 +483,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The AI advantage your company can keep",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
+    "pubDate": "2026-10-27T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -676,27 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/blob-storage",
     "description": "Explore Azure Blob Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
     "pubDate": "2026-10-19T23:25:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Queue Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/queue-storage",
-    "description": "Explore Azure Queue Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
-    "pubDate": "2026-10-19T23:25:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Table Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/table-storage",
-    "description": "Explore Azure Table Storage features and isolation models for multitenant solutions, including tenant partition keys, access control, encryption, and monitoring.",
-    "pubDate": "2026-10-19T23:25:46.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Multitenancy and Azure Blob Storage",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/blob-storage",
-    "description": "Explore Azure Blob Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
-    "pubDate": "2026-10-19T21:19:52.000Z",
     "source": "Azure Architecture"
   }
 ]
