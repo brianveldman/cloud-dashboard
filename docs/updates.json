@@ -1,5 +1,12 @@
 [
   {
+    "title": "ARTEX abuse expands as cybercriminals target financial sector",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+    "description": "<p>In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/\">ARTEX abuse expands as cybercriminals target financial sector</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-07T02:44:34.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Find next actions in ASPX and CloudAscent for Copilot in 30 customer opportunities",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#14",
     "description": "Workspace: General • Announced: November 6",
@@ -362,13 +369,6 @@
     "description": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/\">Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-10-29T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Tracking AI adoption in North Korean threat actor tradecraft",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
-    "description": "<p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/\">Tracking AI adoption in North Korean threat actor tradecraft</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-29T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Keep your team compliance-ready",
