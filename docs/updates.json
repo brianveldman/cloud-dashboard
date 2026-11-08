@@ -490,13 +490,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -697,6 +690,13 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/service-bus",
     "description": "Explore Azure Service Bus isolation models, authentication, and features for multitenant architectures. Learn best practices for tenant data separation.",
     "pubDate": "2026-10-20T03:23:57.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Multitenancy and Azure Blob Storage",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/blob-storage",
+    "description": "Explore Azure Blob Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
+    "pubDate": "2026-10-19T23:25:46.000Z",
     "source": "Azure Architecture"
   }
 ]
