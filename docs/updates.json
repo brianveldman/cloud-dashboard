@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Modernize Arc-enabled Windows Servers with Azure File Sync",
+    "link": "https://azure.microsoft.com/updates?id=579854",
+    "description": "Azure File Sync provides hybrid access or seamless migration of data from Windows Server to Azure Files while preserving the familiar local file server experience for users and applications. Now in preview, users have a guided Azure portal experience to s",
+    "pubDate": "2026-11-09T17:20:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Turn co-op investments into growth",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#16",
+    "description": "Workspace: General • Announced: November 9",
+    "pubDate": "2026-11-09T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "ARTEX abuse expands as cybercriminals target financial sector",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
     "description": "<p>In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/\">ARTEX abuse expands as cybercriminals target financial sector</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -12,6 +26,13 @@
     "description": "<p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032\">Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-11-06T19:08:44.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Upcoming API update: growth margin seat-expansion multiplier moves to decimal",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#15",
+    "description": "Workspace: APIs • Announced: November 6",
+    "pubDate": "2026-11-06T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Find next actions in ASPX and CloudAscent for Copilot in 30 customer opportunities",
@@ -677,26 +698,5 @@
     "description": "Azure Application Gateway now supports keyless TLS\r\ntermination using certificates whose private keys stay in Azure Key Vault\r\nManaged HSM. Each TLS handshake signature is performed inside the HSM, and the\r\nprivate key is never exported to the gateway. This ",
     "pubDate": "2026-10-20T16:55:59.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Advanced platform metrics for Azure Monitor",
-    "link": "https://azure.microsoft.com/updates?id=575329",
-    "description": "Advanced platform metrics for Azure Monitor are now generally available. Advanced platform metrics provide finer-grained signals that help customers more quickly and accurately identify changes and trends within their resources.With this release, customer",
-    "pubDate": "2026-10-20T16:54:24.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Multitenancy and Azure Event Hubs",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/event-hubs",
-    "description": "Learn about Azure Event Hubs features and isolation models that you can use to implement an event-driven architecture for a multitenant system.",
-    "pubDate": "2026-10-20T03:23:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Service Bus considerations for multitenancy",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/service-bus",
-    "description": "Explore Azure Service Bus isolation models, authentication, and features for multitenant architectures. Learn best practices for tenant data separation.",
-    "pubDate": "2026-10-20T03:23:57.000Z",
-    "source": "Azure Architecture"
   }
 ]
