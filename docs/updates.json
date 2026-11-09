@@ -1,5 +1,12 @@
 [
   {
+    "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
+    "description": "<p>Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/\">FORGE Lab uses agentic tools to identify memory safety issues in Rust</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-09T20:17:31.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: Modernize Arc-enabled Windows Servers with Azure File Sync",
     "link": "https://azure.microsoft.com/updates?id=579854",
     "description": "Azure File Sync provides hybrid access or seamless migration of data from Windows Server to Azure Files while preserving the familiar local file server experience for users and applications. Now in preview, users have a guided Azure portal experience to s",
@@ -21,11 +28,25 @@
     "source": "Security"
   },
   {
+    "title": "Use Azure IoT Hub to privately upload files to an Azure Storage account",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/iot/iot-private-file-upload",
+    "description": "Learn how to use the Azure IoT Hub file upload feature to privately upload files to an Azure Storage account exposed through a firewall and custom domain.",
+    "pubDate": "2026-11-06T20:16:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
     "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
     "description": "<p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032\">Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-11-06T19:08:44.000Z",
     "source": "Azure Blog"
+  },
+  {
+    "title": "Deploy microservices with Azure Container Apps and Dapr",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr",
+    "description": "Build a serverless microservices solution on Azure Container Apps by using Distributed Application Runtime (Dapr) and Kubernetes Event-driven Autoscaling (KEDA).",
+    "pubDate": "2026-11-06T17:02:51.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Upcoming API update: growth margin seat-expansion multiplier moves to decimal",
@@ -63,11 +84,32 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=579280",
-    "description": "WAF Insights for Azure Application Gateway Web Application Firewall (WAF) is now generally available. WAF Insights is a built-in experience in the WAF policy that brings WAF logs and metrics together in interactive dashboards, so you can investigate block",
-    "pubDate": "2026-11-05T17:11:31.000Z",
-    "source": "Azure Updates"
+    "title": "Patch and upgrade Azure Kubernetes Service worker nodes and Kubernetes versions",
+    "link": "https://learn.microsoft.com/azure/architecture/operator-guides/aks/aks-upgrade-practices",
+    "description": "Learn about day-2 patching and upgrading practices for Azure Kubernetes Service (AKS) worker nodes and Kubernetes versions.",
+    "pubDate": "2026-11-05T21:33:59.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Run SAP NetWeaver in Windows on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
+    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure to achieve high availability and disaster recovery.",
+    "pubDate": "2026-11-05T20:19:41.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "What is a data lake?",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/scenarios/data-lake",
+    "description": "Learn about the advantages of using data lake storage repositories, which can store terabytes and petabytes of data in its native, raw format.",
+    "pubDate": "2026-11-05T19:41:14.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Massive-scale VWAN architecture design",
+    "link": "https://learn.microsoft.com/azure/architecture/networking/architecture/massive-scale-azure-architecture",
+    "description": "Learn about the architecture for a massive-scale Azure Virtual WAN deployment that has multiple hubs per region.",
+    "pubDate": "2026-11-05T19:25:48.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "New investments to reduce on-premises security risk",
@@ -103,6 +145,13 @@
     "description": "<p>Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/\">Email threat landscape: Q3 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-11-05T16:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Choose a Microsoft Fabric deployment pattern",
+    "link": "https://learn.microsoft.com/azure/architecture/data-guide/technology-choices/fabric-deployment-patterns",
+    "description": "Evaluate four Microsoft Fabric deployment patterns to structure capacities, workspaces, and items based on your requirements.",
+    "pubDate": "2026-11-05T13:50:30.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "Microsoft 365 Education portfolio update",
@@ -194,6 +243,13 @@
     "description": "Workspace: General • Announced: November 4",
     "pubDate": "2026-11-04T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-11-04T00:44:50.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: JWT validation for Application Gateway for Containers",
@@ -322,6 +378,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Azure Local hyperconverged baseline reference architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
+    "description": "Learn how to design a connected, highly available Azure Local deployment that uses hyperconverged storage and storage-switched networking.",
+    "pubDate": "2026-11-02T18:08:47.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "[Launched] Generally Available: Restart databases in Azure SQL DB via the Azure portal ",
     "link": "https://azure.microsoft.com/updates?id=577992",
     "description": "You can now restart or fail over databases directly from the Azure portal, including single databases, Hyperscale databases, and databases in elastic pools, without writing scripts against the Rest API or contacting support.  Learn more.  ",
@@ -343,6 +406,20 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Workload identity and access in EKS and AKS",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/workload-identity",
+    "description": "Understand how Kubernetes clusters, nodes, and pods handle identity and access, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
+    "pubDate": "2026-11-02T14:50:46.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "SAP S/4HANA in Linux on Azure",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-s4hana",
+    "description": "Learn more about proven practices for running SAP S/4HANA effectively in a Linux environment on Azure with high availability.",
+    "pubDate": "2026-11-02T14:38:43.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Azure promotions are now live in CSP",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#1",
     "description": "Workspace: General • Announced: November 2",
@@ -362,13 +439,6 @@
     "description": "With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blob Storage and Azure Data Lake Storage Gen2 through external tables and OPENROWSET. You can authenticate t",
     "pubDate": "2026-10-30T17:16:27.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
-    "description": "<p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/\">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-10-30T16:11:44.000Z",
-    "source": "Security"
   },
   {
     "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
@@ -511,13 +581,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -635,68 +698,5 @@
     "description": "Learn how to transition a hub-and-spoke network topology in Azure so it supports IPv6, which creates a dual-stack network.",
     "pubDate": "2026-10-21T22:12:31.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Managed Redis considerations for multitenancy",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/managed-redis",
-    "description": "Learn about Azure Managed Redis features, like Microsoft Entra ID authentication, active geo-replication, and Redis modules, that you can use to improve the performance of multitenant systems.",
-    "pubDate": "2026-10-21T21:44:50.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
-    "link": "https://azure.microsoft.com/updates?id=577273",
-    "description": "What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables organizations to use a supported third-party telecommunications provider for SMS and voice authentication",
-    "pubDate": "2026-10-21T17:38:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation",
-    "link": "https://azure.microsoft.com/updates?id=576716",
-    "description": "Safe Key Rotation for Azure Cosmos DB is now generally available. You can view timestamp metadata showing when each account key was last used, helping you identify active keys before rotating or retiring credentials.This visibility helps reduce the risk o",
-    "pubDate": "2026-10-21T17:13:16.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Azure NetApp Files Object REST API for data and AI integration",
-    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/analytics-netapp-object-api",
-    "description": "Learn how to use the Azure NetApp Files Object REST API to connect enterprise file data to Microsoft Fabric and to Azure AI and analytics services.",
-    "pubDate": "2026-10-21T15:29:13.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Grow E7 deals with Copilot Credits",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#13",
-    "description": "Workspace: General • Announced: October 21",
-    "pubDate": "2026-10-21T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[In preview] Public Preview: Disable VNet peering route",
-    "link": "https://azure.microsoft.com/updates?id=576242",
-    "description": "Announcing\r\nthe public preview of disable VNet peering route, a route-table capability that\r\ngives you more control over traffic between peered virtual networks. DPR\r\nsuppresses system-generated peering routes on subnets associated with the route\r\ntable while",
-    "pubDate": "2026-10-20T18:55:47.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Advancing digital sovereignty with greater control and choice",
-    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-    "description": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/\">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-20T17:34:47.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
-    "link": "https://azure.microsoft.com/updates?id=577156",
-    "description": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Premium. Service tags represent groups of IP address prefixes used by\r\nAzure services, and Microsoft updates th",
-    "pubDate": "2026-10-20T16:57:35.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM",
-    "link": "https://azure.microsoft.com/updates?id=577130",
-    "description": "Azure Application Gateway now supports keyless TLS\r\ntermination using certificates whose private keys stay in Azure Key Vault\r\nManaged HSM. Each TLS handshake signature is performed inside the HSM, and the\r\nprivate key is never exported to the gateway. This ",
-    "pubDate": "2026-10-20T16:55:59.000Z",
-    "source": "Azure Updates"
   }
 ]
