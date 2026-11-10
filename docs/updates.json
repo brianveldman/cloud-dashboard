@@ -1,5 +1,19 @@
 [
   {
+    "title": "Update on the Microsoft Data Governance strategy",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#18",
+    "description": "Workspace: General • Announced: November 12",
+    "pubDate": "2026-11-12T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Turn agent risk into customer action",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#17",
+    "description": "Workspace: General • Announced: November 10",
+    "pubDate": "2026-11-10T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026",
     "link": "https://azure.microsoft.com/updates?id=575106",
     "description": "Support for .NET\r\n8 and .NET 9 will end on November 10, 2026. Please transition your managed Functions APIs to .NET 10 by that date. Your apps will continue to operate, but security updates\r\nwill no longer be provided and support for .NET 8 and .NET 9 on Az",
@@ -588,13 +602,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
-  },
-  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -691,12 +698,5 @@
     "description": "Workspace: General • Announced: October 22",
     "pubDate": "2026-10-22T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Multitenancy and Azure Cosmos DB",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/cosmos-db",
-    "description": "Learn about Azure Cosmos DB features that you can use for multitenant systems. See more resources that explain how to use Azure Cosmos DB in a multitenant solution.",
-    "pubDate": "2026-10-22T02:59:23.000Z",
-    "source": "Azure Architecture"
   }
 ]
