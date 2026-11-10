@@ -7,6 +7,41 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "[In preview] Public Preview: Distributed accelerator for cloud storage on AKS",
+    "link": "https://azure.microsoft.com/updates?id=578454",
+    "description": "Distributed accelerator for cloud storage (DACS) is now in public preview for AI workloads running on Azure Kubernetes Service (AKS). DACS is a distributed read-through cache that runs within your AKS cluster and uses local NVMe disks across nodes to keep",
+    "pubDate": "2026-11-10T20:08:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Functions support for .NET 11",
+    "link": "https://azure.microsoft.com/updates?id=578773",
+    "description": "Azure Functions support for .NET 11 is now generally available.You can now\r\nbuild Azure Functions apps targeting .NET 11 using the isolated worker model,\r\nwhile continuing to use the Azure Functions programming model and host\r\nintegration. Your\r\nserverless ap",
+    "pubDate": "2026-11-10T20:07:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Front Door adds native gRPC support ",
+    "link": "https://azure.microsoft.com/updates?id=579383",
+    "description": "Announcing the public preview of gRPC support in Azure Front\r\nDoor. Build and deliver gRPC applications through\r\nAzure Front Door Standard and Premium. Now in preview, gRPC support lets you\r\nroute calls to specific services and methods, distribute traffic ac",
+    "pubDate": "2026-11-10T18:55:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Front Door edge actions ",
+    "link": "https://azure.microsoft.com/updates?id=579310",
+    "description": "Announcing the general availability of Azure Front Door edge\r\nactions (serverless compute at the edge). With edge actions, customers can execute lightweight\r\nJavaScript functions during Azure Front Door client request/response processing\r\nto make real-time d",
+    "pubDate": "2026-11-10T18:55:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Public Preview: Azure Route Server dual-stack IPv4/IPv6 support",
+    "link": "https://azure.microsoft.com/updates?id=579746",
+    "description": "Azure Route Server now supports IPv4/IPv6 dual-stack mode in public preview, enabling route exchange for both address families across supported hybrid networking connections. Existing IPv4 connections remain unchanged, so organizations can adopt IPv6 rout",
+    "pubDate": "2026-11-10T18:21:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Turn agent risk into customer action",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#17",
     "description": "Workspace: General • Announced: November 10",
@@ -662,41 +697,6 @@
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#16",
     "description": "Workspace: General • Announced: October 23",
     "pubDate": "2026-10-23T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Multitenancy and Azure SQL Database",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/sql-database",
-    "description": "This article describes partitioning and tenancy strategies and Azure SQL Database features for multitenant solutions.",
-    "pubDate": "2026-10-23T02:57:18.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "RESTful web API implementation best practices",
-    "link": "https://learn.microsoft.com/azure/architecture/best-practices/api-implementation",
-    "description": "Learn about best practices for implementing a web API and publishing it to make it available to client applications.",
-    "pubDate": "2026-10-22T21:54:27.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage",
-    "link": "https://azure.microsoft.com/updates?id=577618",
-    "description": "ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file ranges into fewer storage requests and executing reads asynchronously, it can reduce network round trips",
-    "pubDate": "2026-10-22T18:01:00.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Monthly Microsoft AI Cloud Partner Program update",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#15",
-    "description": "Workspace: Membership • Announced: October 22",
-    "pubDate": "2026-10-22T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "AI Builder capacity add-ons retiring",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#14",
-    "description": "Workspace: General • Announced: October 22",
-    "pubDate": "2026-10-22T12:00:00.000Z",
     "source": "Partner Center Announcements"
   }
 ]
