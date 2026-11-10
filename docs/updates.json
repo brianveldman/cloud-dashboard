@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026",
+    "link": "https://azure.microsoft.com/updates?id=575106",
+    "description": "Support for .NET\r\n8 and .NET 9 will end on November 10, 2026. Please transition your managed Functions APIs to .NET 10 by that date. Your apps will continue to operate, but security updates\r\nwill no longer be provided and support for .NET 8 and .NET 9 on Az",
+    "pubDate": "2026-11-09T22:50:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
     "description": "<p>Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/\">FORGE Lab uses agentic tools to identify memory safety issues in Rust</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -581,6 +588,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The AI advantage your company can keep",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
+    "pubDate": "2026-10-27T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -683,20 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/cosmos-db",
     "description": "Learn about Azure Cosmos DB features that you can use for multitenant systems. See more resources that explain how to use Azure Cosmos DB in a multitenant solution.",
     "pubDate": "2026-10-22T02:59:23.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Agentic AI for the OPC UA reference solution",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/iot/agentic-ai-for-the-solution",
-    "description": "Learn how to use agentic AI to augment a solution that uses OPC Unified Architecture (OPC UA) to connect shop-floor telemetry to Azure analytics services.",
-    "pubDate": "2026-10-21T22:12:31.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "IPv6 hub-spoke network topology",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/ipv6-architecture",
-    "description": "Learn how to transition a hub-and-spoke network topology in Azure so it supports IPv6, which creates a dual-stack network.",
-    "pubDate": "2026-10-21T22:12:31.000Z",
     "source": "Azure Architecture"
   }
 ]
