@@ -1,12 +1,5 @@
 [
   {
-    "title": "Update on the Microsoft Data Governance strategy",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#18",
-    "description": "Workspace: General • Announced: November 12",
-    "pubDate": "2026-11-12T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
     "title": "[In preview] Public Preview: Distributed accelerator for cloud storage on AKS",
     "link": "https://azure.microsoft.com/updates?id=578454",
     "description": "Distributed accelerator for cloud storage (DACS) is now in public preview for AI workloads running on Azure Kubernetes Service (AKS). DACS is a distributed read-through cache that runs within your AKS cluster and uses local NVMe disks across nodes to keep",
@@ -89,13 +82,6 @@
     "description": "Learn how to use the Azure IoT Hub file upload feature to privately upload files to an Azure Storage account exposed through a firewall and custom domain.",
     "pubDate": "2026-11-06T20:16:58.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
-    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
-    "description": "<p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032\">Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-11-06T19:08:44.000Z",
-    "source": "Azure Blog"
   },
   {
     "title": "Deploy microservices with Azure Container Apps and Dapr",
@@ -364,6 +350,13 @@
     "source": "Security"
   },
   {
+    "title": "Get ready for Microsoft Ignite 2026",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#2",
+    "description": "Workspace: General • Announced: November 3",
+    "pubDate": "2026-11-03T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Availability update: Updates to usage-based billing for new Microsoft 365 Copilot Business licenses and Partner Center sandbox environments",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#4",
     "description": "Workspace: General • Announced: November 3",
@@ -374,13 +367,6 @@
     "title": "Redesigned Security workspace now live",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#3",
     "description": "Workspace: Security • Announced: November 3",
-    "pubDate": "2026-11-03T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Get ready for Microsoft Ignite 2026",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#2",
-    "description": "Workspace: General • Announced: November 3",
     "pubDate": "2026-11-03T12:00:00.000Z",
     "source": "Partner Center Announcements"
   },
@@ -637,6 +623,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The AI advantage your company can keep",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
+    "pubDate": "2026-10-27T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -698,5 +691,12 @@
     "description": "Workspace: General • Announced: October 23",
     "pubDate": "2026-10-23T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Multitenancy and Azure SQL Database",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/sql-database",
+    "description": "This article describes partitioning and tenancy strategies and Azure SQL Database features for multitenant solutions.",
+    "pubDate": "2026-10-23T02:57:18.000Z",
+    "source": "Azure Architecture"
   }
 ]
