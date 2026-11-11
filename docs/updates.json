@@ -1,5 +1,26 @@
 [
   {
+    "title": "Flex spend name change in partner center sandbox",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#19",
+    "description": "Workspace: General • Announced: November 11",
+    "pubDate": "2026-11-11T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Annual currency adjustments to Microsoft Commercial Cloud pricing",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#18",
+    "description": "Workspace: General • Announced: November 11",
+    "pubDate": "2026-11-11T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Corrected December price list preview",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#19",
+    "description": "Workspace: Pricing • Announced: November 11",
+    "pubDate": "2026-11-11T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "Detecting sleeper agents hiding in AI model neurons",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
     "description": "<p>Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/\">Detecting sleeper agents hiding in AI model neurons</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -630,6 +651,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "The AI advantage your company can keep",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
+    "pubDate": "2026-10-27T16:00:00.000Z",
+    "source": "Microsoft 365"
+  },
+  {
     "title": "Cross-tenant secure access to apps by using private endpoints",
     "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
     "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
@@ -669,34 +697,6 @@
     "link": "https://learn.microsoft.com/azure/architecture/databases/idea/migrate-oracle-odaa-exadata",
     "description": "Learn how to use Oracle ZDM and Azure networking to migrate an Oracle database to Oracle Database@Azure Exadata Database Service.",
     "pubDate": "2026-10-23T14:15:38.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Azure Local hyperconverged baseline reference architecture",
-    "link": "https://learn.microsoft.com/azure/architecture/hybrid/azure-local-baseline",
-    "description": "Learn how to design a connected, highly available Azure Local deployment that uses hyperconverged storage and storage-switched networking.",
-    "pubDate": "2026-10-23T14:04:06.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Run Apache Cassandra on Azure VMs",
-    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/cassandra",
-    "description": "Examine performance considerations for running Apache Cassandra on Azure Virtual Machines. Use these recommendations as a baseline to test against your workload.",
-    "pubDate": "2026-10-23T13:36:57.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "New AI capabilities across business apps",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#16",
-    "description": "Workspace: General • Announced: October 23",
-    "pubDate": "2026-10-23T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Multitenancy and Azure SQL Database",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/sql-database",
-    "description": "This article describes partitioning and tenancy strategies and Azure SQL Database features for multitenant solutions.",
-    "pubDate": "2026-10-23T02:57:18.000Z",
     "source": "Azure Architecture"
   }
 ]
