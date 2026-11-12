@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: Auto scaling of ingestion limits in Azure Monitor workspace",
+    "link": "https://azure.microsoft.com/updates?id=578207",
+    "description": "Auto scaling introduces a\r\nper-workspace capability in Azure Monitor Workspace (AMW) to automatically\r\nscale ingestion limits based on observed usage patterns. When enabled, the\r\nsystem dynamically adjusts ingestion limits (quota ceiling) to maintain healthy",
+    "pubDate": "2026-11-12T18:23:52.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+    "description": "<p>Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/\">Trained to betray: How post-training supply chain attacks hijack coding agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-12T17:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance",
     "link": "https://azure.microsoft.com/updates?id=574158",
     "description": "The public preview of Microsoft-managed performance\r\nmonitoring for Azure SQL Managed Instance is now available. Customers monitoring business-critical SQL Managed Instance\r\nworkloads often rely on custom scripts and disconnected monitoring tools. This\r\nrequ",
@@ -420,13 +434,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
-    "description": "<p>Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/\">Fake-download campaign uses trojanized installers to deliver monetization payloads</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-11-03T17:32:47.000Z",
-    "source": "Security"
-  },
-  {
     "title": "Get ready for Microsoft Ignite 2026",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#2",
     "description": "Workspace: General • Announced: November 3",
@@ -691,12 +698,5 @@
     "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
     "pubDate": "2026-10-27T16:00:00.000Z",
     "source": "Microsoft 365"
-  },
-  {
-    "title": "Cross-tenant secure access to apps by using private endpoints",
-    "link": "https://learn.microsoft.com/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints",
-    "description": "Restrict inbound traffic to a web app or function app. Use private endpoints in Azure to give consumer tenants secure access to provider tenant apps.",
-    "pubDate": "2026-10-27T14:12:09.000Z",
-    "source": "Azure Architecture"
   }
 ]
