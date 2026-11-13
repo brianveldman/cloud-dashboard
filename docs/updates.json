@@ -1,5 +1,12 @@
 [
   {
+    "title": "Retirement: Azure Data Share will be retired on November 12, 2029 ",
+    "link": "https://azure.microsoft.com/updates?id=578818",
+    "description": "Azure Data Share will retire on November 12, 2029. Before that date, transition your data sharing workloads to Microsoft Fabric, which offers External data sharing, Cross tenant delegated shortcuts and IQ share or an appropriate data-source-specific shari",
+    "pubDate": "2026-11-13T19:54:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Lead every SMB conversation with AI",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#24",
     "description": "Workspace: General • Announced: November 13",
@@ -691,12 +698,5 @@
     "description": "Workspace: Referrals • Announced: October 28",
     "pubDate": "2026-10-28T12:00:00.000Z",
     "source": "Partner Center Announcements"
-  },
-  {
-    "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription",
-    "link": "https://azure.microsoft.com/updates?id=578358",
-    "description": "Higher Azure Storage account resource quotas are now generally available, supporting up to 1,000 storage accounts with standard endpoints per region, per subscription, up from the default of 250. Manage more accounts in a single subscription, reducing the",
-    "pubDate": "2026-10-27T21:16:52.000Z",
-    "source": "Azure Updates"
   }
 ]
