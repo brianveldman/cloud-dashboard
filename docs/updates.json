@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: JWT validation with Azure Front Door Auth Policy ",
+    "link": "https://azure.microsoft.com/updates?id=577673",
+    "description": "JSON Web Token (JWT) validation through Azure Front Door Auth Policy is now in public preview on Azure Front Door Premium. Validate bearer tokens issued by Microsoft Entra ID at the edge before requests reach your APIs or web applications, helping you cen",
+    "pubDate": "2026-11-12T22:36:37.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Azure Front Door mutual TLS authentication",
+    "link": "https://azure.microsoft.com/updates?id=577678",
+    "description": "Mutual TLS (mTLS), also known as client certificate\r\nauthentication, is now generally available on Azure Front Door Premium. Use\r\nX.509 client certificates to help protect sensitive applications and APIs in\r\nbusiness-to-business, Internet of Things, financia",
+    "pubDate": "2026-11-12T22:27:35.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Auto scaling of ingestion limits in Azure Monitor workspace",
     "link": "https://azure.microsoft.com/updates?id=578207",
     "description": "Auto scaling introduces a\r\nper-workspace capability in Azure Monitor Workspace (AMW) to automatically\r\nscale ingestion limits based on observed usage patterns. When enabled, the\r\nsystem dynamically adjusts ingestion limits (quota ceiling) to maintain healthy",
@@ -684,19 +698,5 @@
     "description": "Microsoft Foundry now brings Claude models into Azure Cost Management alongside the rest of your Foundry spend, generally available. Until now, Claude charges appeared under SaaS rather than under the Foundry resource used to deploy them, and Claude deplo",
     "pubDate": "2026-10-27T17:19:43.000Z",
     "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies ",
-    "link": "https://azure.microsoft.com/updates?id=578153",
-    "description": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF policies are no longer limited to individual domains: you can now\r\napply broad baseline protection across an e",
-    "pubDate": "2026-10-27T16:58:04.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "The AI advantage your company can keep",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-    "description": "<p>New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their work into an operational edge.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/\">The AI advantage your company can keep</a> appeared first on <a href=\"https://www.microsoft.com/en-us/copilot/blog\">Microsoft Copilot Blog</a>.</p>\n",
-    "pubDate": "2026-10-27T16:00:00.000Z",
-    "source": "Microsoft 365"
   }
 ]
