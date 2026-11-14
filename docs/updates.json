@@ -1,5 +1,12 @@
 [
   {
+    "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+    "description": "<p>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/\">SCKit abuses ScreenConnect to deploy remote access and target technician sessions</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-13T21:31:44.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Retirement: Azure Data Share will be retired on November 12, 2029 ",
     "link": "https://azure.microsoft.com/updates?id=578818",
     "description": "Azure Data Share will retire on November 12, 2029. Before that date, transition your data sharing workloads to Microsoft Fabric, which offers External data sharing, Cross tenant delegated shortcuts and IQ share or an appropriate data-source-specific shari",
@@ -306,13 +313,6 @@
     "description": "<p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and development.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/\">Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
     "pubDate": "2026-11-05T16:00:00.000Z",
     "source": "Azure Blog"
-  },
-  {
-    "title": "Email threat landscape: Q3 2026 trends and insights",
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
-    "description": "<p>Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/\">Email threat landscape: Q3 2026 trends and insights</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-11-05T16:00:00.000Z",
-    "source": "Security"
   },
   {
     "title": "Choose a Microsoft Fabric deployment pattern",
