@@ -77,6 +77,41 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Baseline architecture for an Azure Kubernetes Service (AKS) cluster",
+    "link": "https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks",
+    "description": "Learn about the reference architecture for the recommended baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster.",
+    "pubDate": "2026-11-12T03:37:09.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Architectural approaches for governance and compliance in multitenant solutions",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/governance-compliance",
+    "description": "Learn about governance and compliance approaches for multitenant solutions, including data sovereignty, access control, and regulatory standards.",
+    "pubDate": "2026-11-12T03:25:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Considerations for multitenant control planes",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/control-planes",
+    "description": "Learn about the responsibilities of control planes in multitenant solutions and how to design a control plane that meets your needs.",
+    "pubDate": "2026-11-12T03:25:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure App Configuration considerations for multitenancy",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/app-configuration",
+    "description": "Learn about the features of Azure App Configuration that are useful when you work with multitenant systems, and use the provided links for guidance and examples.",
+    "pubDate": "2026-11-12T03:25:16.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Azure Data Factory mission-critical architecture",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/architecture/azure-data-factory-mission-critical",
+    "description": "Learn how to design a mission-critical workload for Azure Data Factory in an Azure landing zone to build robust and efficient data pipelines.",
+    "pubDate": "2026-11-11T20:14:19.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
     "description": "<p>Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/\">The global socket: how threat actors are weaponizing GSocket for stealthy C2</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -119,11 +154,25 @@
     "source": "Partner Center Announcements"
   },
   {
+    "title": "Multitenancy and Azure Queue Storage",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/queue-storage",
+    "description": "Explore Azure Queue Storage features and isolation models for multitenant solutions, including tenant-scoped access, encryption, and monitoring.",
+    "pubDate": "2026-11-10T23:43:58.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Detecting sleeper agents hiding in AI model neurons",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
     "description": "<p>Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/\">Detecting sleeper agents hiding in AI model neurons</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-11-10T23:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Use Azure Kubernetes Service (AKS) in a multitenant solution",
+    "link": "https://learn.microsoft.com/azure/architecture/guide/multitenant/service/aks",
+    "description": "Learn about the features of Azure Kubernetes Service (AKS) that you can use when you work with multitenant systems. See guidance and examples for how to use AKS in a multitenant solution.",
+    "pubDate": "2026-11-10T20:35:34.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: Distributed accelerator for cloud storage on AKS",
@@ -161,6 +210,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Run Apache Cassandra on Azure VMs",
+    "link": "https://learn.microsoft.com/azure/architecture/databases/guide/cassandra",
+    "description": "Examine performance considerations for running Apache Cassandra on Azure Virtual Machines. Use these recommendations as a baseline to test against your workload.",
+    "pubDate": "2026-11-10T12:47:24.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Turn agent risk into customer action",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#17",
     "description": "Workspace: General • Announced: November 10",
@@ -189,11 +245,32 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Use Azure Front Door to secure AKS workloads",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/aks-front-door/aks-front-door",
+    "description": "Learn how to secure AKS workloads by using end-to-end TLS encryption, Azure Front Door Premium, an Azure Private Link service, and a Gateway API ingress implementation.",
+    "pubDate": "2026-11-09T15:44:44.000Z",
+    "source": "Azure Architecture"
+  },
+  {
+    "title": "Workload identity and access in EKS and AKS",
+    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/workload-identity",
+    "description": "Understand how Kubernetes clusters, nodes, and pods handle identity and access, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
+    "pubDate": "2026-11-09T14:32:45.000Z",
+    "source": "Azure Architecture"
+  },
+  {
     "title": "Turn co-op investments into growth",
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#16",
     "description": "Workspace: General • Announced: November 9",
     "pubDate": "2026-11-09T12:00:00.000Z",
     "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Multiregion BCDR for Azure Virtual Desktop",
+    "link": "https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr",
+    "description": "Learn about the possible options and scenarios so that you can design and implement an effective multiregion BCDR strategy for Azure Virtual Desktop.",
+    "pubDate": "2026-11-08T13:57:03.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "ARTEX abuse expands as cybercriminals target financial sector",
@@ -620,83 +697,6 @@
     "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#21",
     "description": "Workspace: General • Announced: October 29",
     "pubDate": "2026-10-29T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "October designation updates",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#20",
-    "description": "Workspace: Membership • Announced: October 29",
-    "pubDate": "2026-10-29T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "Azure Virtual Machines baseline architecture in an Azure landing zone",
-    "link": "https://learn.microsoft.com/azure/architecture/virtual-machines/baseline-landing-zone",
-    "description": "Learn how to build on the baseline architecture to address changes and expectations when you deploy it in an Azure landing zone.",
-    "pubDate": "2026-10-28T20:15:14.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor",
-    "link": "https://azure.microsoft.com/updates?id=577689",
-    "description": "The Log Analytics logging destination for Azure Container Apps is now a legacy logging option. Existing environments configured with the Log Analytics logging destination will continue to function normally. However, we recommend planning a migration to th",
-    "pubDate": "2026-10-28T17:52:51.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Run SAP NetWeaver in Windows on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-netweaver",
-    "description": "Learn proven practices for running SAP NetWeaver in a Windows environment on Azure to achieve high availability and disaster recovery.",
-    "pubDate": "2026-10-28T17:42:13.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Workload identity and access in EKS and AKS",
-    "link": "https://learn.microsoft.com/azure/architecture/aws-professional/eks-to-aks/workload-identity",
-    "description": "Understand how Kubernetes clusters, nodes, and pods handle identity and access, and compare options in Amazon EKS and Azure Kubernetes Service (AKS).",
-    "pubDate": "2026-10-28T17:41:26.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-    "description": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/\">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>\n",
-    "pubDate": "2026-10-28T17:40:56.000Z",
-    "source": "Azure Blog"
-  },
-  {
-    "title": "SAP S/4HANA in Linux on Azure",
-    "link": "https://learn.microsoft.com/azure/architecture/guide/sap/sap-s4hana",
-    "description": "Learn more about proven practices for running SAP S/4HANA effectively in a Linux environment on Azure with high availability.",
-    "pubDate": "2026-10-28T17:34:30.000Z",
-    "source": "Azure Architecture"
-  },
-  {
-    "title": "[In preview] Public Preview: Cross Tenant Restore with Azure Backup",
-    "link": "https://azure.microsoft.com/updates?id=577117",
-    "description": "Cross-Tenant Restore (CTR) helps organizations establish an independent recovery path by enabling Azure VM backups to be restored into a separate Azure tenant. It strengthens cyber resilience while using the existing backup copy, without requiring custome",
-    "pubDate": "2026-10-28T17:09:30.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Marketplace private offer enhancements ",
-    "link": "https://azure.microsoft.com/updates?id=576547",
-    "description": "Private offers through Microsoft Marketplace help you optimize your spending power with pricing and terms aligned to your organization’s needs, including flexible billing, custom contract lengths, and more. For eligible private offers, we are simplifying ",
-    "pubDate": "2026-10-28T16:23:43.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "View SQL Modernization Day on demand",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#19",
-    "description": "Workspace: General • Announced: October 28",
-    "pubDate": "2026-10-28T12:00:00.000Z",
-    "source": "Partner Center Announcements"
-  },
-  {
-    "title": "SMB referrals acceptance service level agreement (SLA) change",
-    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october#18",
-    "description": "Workspace: Referrals • Announced: October 28",
-    "pubDate": "2026-10-28T12:00:00.000Z",
     "source": "Partner Center Announcements"
   }
 ]
