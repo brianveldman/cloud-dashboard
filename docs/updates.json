@@ -1,5 +1,12 @@
 [
   {
+    "title": "The risks of device code authentication for AI coding agents",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+    "description": "<p>Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/\">The risks of device code authentication for AI coding agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-17T15:00:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
     "description": "<p>Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/\">High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -369,13 +376,6 @@
     "description": "Learn about the architecture for a massive-scale Azure Virtual WAN deployment that has multiple hubs per region.",
     "pubDate": "2026-11-05T19:25:48.000Z",
     "source": "Azure Architecture"
-  },
-  {
-    "title": "New investments to reduce on-premises security risk",
-    "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
-    "description": "<p>We’re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381\">New investments to reduce on-premises security risk</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
-    "pubDate": "2026-11-05T17:10:14.000Z",
-    "source": "Security"
   },
   {
     "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
