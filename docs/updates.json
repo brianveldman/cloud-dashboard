@@ -1,5 +1,75 @@
 [
   {
+    "title": "[In preview] Public Preview: Immutable snapshots for Azure Disk Storage ",
+    "link": "https://azure.microsoft.com/updates?id=581503",
+    "description": "Immutable snapshots for Azure Disk Storage are now available in public preview. Immutable snapshots complement Azure Backup immutable vaults. Use vaults for cost-efficient long-term retention, and immutable snapshots for short-term backups that need faste",
+    "pubDate": "2026-11-18T00:00:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: Azure Boost observability for NVMe disks",
+    "link": "https://azure.microsoft.com/updates?id=581227",
+    "description": "Azure Boost observability for NVMe disks is an open-source command-line tool that you run inside compatible Azure VMs. Backed by Azure Boost, the tool provides remote disk I/O and latency metrics and maps each disk inside your VM to the corresponding disk",
+    "pubDate": "2026-11-18T00:00:09.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Generally Available: Cobalt 200 Arm-based Dplsv7, Dpsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines",
+    "link": "https://azure.microsoft.com/updates?id=581298",
+    "description": "The general purpose Dpsv7 and Dplsv7, memory-optimized Epsv7, high-memory Mpsv4, and dense storage Lpsv5 VMs are now generally available. These virtual machines deliver significant enhancements over the previous generation Cobalt 100 VMs, offering improve",
+    "pubDate": "2026-11-17T23:55:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Intel and AMD v6 with temp disk for Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=579590",
+    "description": "Azure Database for PostgreSQL Flexible Server is announcing the general availability of Intel and AMD v6 compute tiers with local temporary disk. The new v6 generation expands the Flexible Server compute portfolio with higher performance, larger scale, an",
+    "pubDate": "2026-11-17T23:52:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Intel and AMD v5 diskless tier for Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=579595",
+    "description": "Azure Database for PostgreSQL Flexible Server is announcing the general availability of Intel and AMD V5 diskless compute. These new options expand the v5 compute portfolio with General Purpose and Memory Optimized SKUs that do not include local temporary",
+    "pubDate": "2026-11-17T23:51:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Cobalt 200 compute for Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=579585",
+    "description": "Azure Database for PostgreSQL Flexible Server is announcing the general availability of Cobalt 200 ARM-based compute. Cobalt 200 expands the Flexible Server compute portfolio with Microsoft-designed ARM64-based compute, giving you an additional architectu",
+    "pubDate": "2026-11-17T23:50:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Geo-redundant backup and restore for Azure HorizonDB",
+    "link": "https://azure.microsoft.com/updates?id=574168",
+    "description": "Geo-redundant backup and restore for Azure HorizonDB is now available. You can use geo-redundant backups to strengthen data protection and restore your HorizonDB deployment in another Azure region when needed.  With this capability, you have an additional",
+    "pubDate": "2026-11-17T23:47:55.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Generally Available: Customize backup retention from 1 to 35 days in Azure HorizonDB",
+    "link": "https://azure.microsoft.com/updates?id=574163",
+    "description": "You can now configure backup retention for your Azure HorizonDB deployments from 1 to 35 days, giving you greater flexibility to align backup retention with your application and data protection requirements.  Choose the retention period that best fits you",
+    "pubDate": "2026-11-17T23:46:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Throughput buckets in Azure Cosmos DB ",
+    "link": "https://azure.microsoft.com/updates?id=571488",
+    "description": "We're excited to announce the general availability of throughput buckets in Azure Cosmos DB. You can manage the resource consumption of multiple workloads using the same container by limiting the maximum throughput a workload can consume. You may need to ",
+    "pubDate": "2026-11-17T23:44:26.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Limited Preview: AI model management in Azure HorizonDB",
+    "link": "https://azure.microsoft.com/updates?id=563097",
+    "description": "AI model management in Azure HorizonDB is now in limited preview, designed to simplify how you bring AI into your database. With just a single step, you can provision fully managed AI models for embeddings, semantic ranking, and generation through Microso",
+    "pubDate": "2026-11-17T23:42:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Semantic Reranker in Azure Cosmos DB ",
     "link": "https://azure.microsoft.com/updates?id=577520",
     "description": "Semantic Reranker in Azure Cosmos DB improves search relevance by reordering candidate results based on the meaning of the search text and surrounding context. It uses an AI model to evaluate candidate documents and promote the ones that best match the in",
@@ -626,76 +696,6 @@
     "title": "[Launched] Generally Available: Database Hub in Microsoft Fabric",
     "link": "https://azure.microsoft.com/updates?id=579216",
     "description": "Database Hub in Microsoft Fabric is a unified experience for discovering, managing, monitoring, and optimizing databases across SQL Server, Azure SQL, PostgreSQL, Azure Cosmos DB, and Fabric SQL. By bringing AI-powered insights and agents into a single co",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Backup for Azure Cosmos DB",
-    "link": "https://azure.microsoft.com/updates?id=579147",
-    "description": "Azure Backup for Azure Cosmos DB is now generally available.\r\nVaulted backup protects your Azure Cosmos DB accounts with immutable, long-term\r\nbackups stored in a logically air-gapped backup vault, isolated from your\r\nproduction environment. It complements n",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage) in Azure Government and China regions",
-    "link": "https://azure.microsoft.com/updates?id=579040",
-    "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS) in Azure Government and China regions.Smart tier is a fully managed and automated data tiering solution, avoiding manual tier placement for object storage standard online tiers.  ",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Blob Storage turbo tier",
-    "link": "https://azure.microsoft.com/updates?id=579031",
-    "description": "Azure Blob\r\nStorage turbo tier is now in Public Preview, bringing SSD-backed performance to\r\nperformance-sensitive data in eligible Azure Blob Storage accounts. Designed\r\nfor AI training, inference, analytics, and other demanding data workloads, turbo tier d",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: MSSQL extension for Visual Studio Code - local-to-cloud deployment wizard ",
-    "link": "https://azure.microsoft.com/updates?id=579014",
-    "description": "The MSSQL extension now provides a guided local-to-cloud deployment experience for Azure SQL Database. You can move from a local Azure SQL Database container to the cloud directly from Visual Studio Code. The wizard supports schema-only or schema-and-data",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: MSSQL extension for Visual Studio Code- Azure SQL Database container provisioning ",
-    "link": "https://azure.microsoft.com/updates?id=579009",
-    "description": "The MSSQL extension now supports the Azure SQL Database container, making it easy to create and manage a cloud-aligned local database environment directly in Visual Studio Code. With automatic runtime detection across Docker, WSL, Apple containers, Podman",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: MSSQL extension for Visual Studio Code performance dashboard ",
-    "link": "https://azure.microsoft.com/updates?id=579004",
-    "description": "The new query performance dashboard, now in public preview in the MSSQL extension for VS Code, leverages Query Store to surface performance insights, analyze trends, investigate execution plans, and optimize queries with GitHub Copilot.Learn more. ",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Fuzzy string match is available across Microsoft SQL offerings ",
-    "link": "https://azure.microsoft.com/updates?id=578998",
-    "description": "Fuzzy string match is now generally available across Microsoft SQL offerings, including Azure SQL Database, Azure SQL Managed Instanced, SQL database in Microsoft Fabric, and SQL Server 2025. You can compare strings based on how similar or different they ",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Task Queues for Azure Functions durable task scheduler",
-    "link": "https://azure.microsoft.com/updates?id=578989",
-    "description": "Task Queues for Azure Functions durable task scheduler are now available in public preview. Workloads sharing a task hub can have different throughput requirements and downstream service limits. Create named queues within a task hub and configure a shared",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Functions Network Troubleshooter v2",
-    "link": "https://azure.microsoft.com/updates?id=578980",
-    "description": "Azure Functions Network Troubleshooter v2 is now in Public Preview. Network Troubleshooter v2 gives customers a top-down view of Function App dependencies across Storage, Service Bus, and Azure Files. For each supported dependency, customers can inspect c",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: OS-level dependency support via containers for Azure Functions Flex Consumption",
-    "link": "https://azure.microsoft.com/updates?id=578975",
-    "description": "OS-level dependency support via containers for Azure Functions Flex Consumption is now in preview. Previously, Flex Consumption apps ran in a Microsoft-managed worker environment that customers couldn’t extend with native executables, system libraries, or",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
