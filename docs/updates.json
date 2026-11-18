@@ -1,5 +1,33 @@
 [
   {
+    "title": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF",
+    "link": "https://azure.microsoft.com/updates?id=581604",
+    "description": "Announcing the public preview\r\nof the AI bot ruleset for Azure Web Application Firewall (WAF) on Azure Front\r\nDoor Premium. AI crawlers and agents visit your site for different reasons,\r\nand you may want to allow some but not others. Robots.txt only works wh",
+    "pubDate": "2026-11-18T18:27:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Announcing: The new Azure Databricks on Azure Government is now in Beta",
+    "link": "https://azure.microsoft.com/updates?id=581645",
+    "description": "A new Azure Databricks environment is now available in Beta on\r\nMicrosoft Azure Government. It brings the modern data and AI platform from\r\nglobal Azure to U.S. public sector agencies and their partners, delivered as a\r\nfirst-party Azure service. The Beta in",
+    "pubDate": "2026-11-18T18:01:03.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Cross-subscription backup for Azure Virtual Machines in Azure Backup",
+    "link": "https://azure.microsoft.com/updates?id=581048",
+    "description": "Azure Backup now supports cross-subscription backup for Azure Virtual Machines, enabling customers to protect VMs using a Recovery Services vault located in a different Azure subscription within the same tenant.This capability allows organizations to cent",
+    "pubDate": "2026-11-18T18:00:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: AI-powered application and database modernization with Modernize CLI",
+    "link": "https://azure.microsoft.com/updates?id=579943",
+    "description": "Modernize CLI brings application and database modernization\r\ntogether as one connected, agentic journey. It assesses application\r\narchitecture, dependencies, and cloud readiness while discovering the databases\r\nthe application relies on and invoking speciali",
+    "pubDate": "2026-11-18T17:58:45.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Immutable snapshots for Azure Disk Storage ",
     "link": "https://azure.microsoft.com/updates?id=581503",
     "description": "Immutable snapshots for Azure Disk Storage are now available in public preview. Immutable snapshots complement Azure Backup immutable vaults. Use vaults for cost-efficient long-term retention, and immutable snapshots for short-term backups that need faste",
@@ -668,34 +696,6 @@
     "title": "[Launched] Generally Available: Azure DocumentDB elasticity—query from any node ",
     "link": "https://azure.microsoft.com/updates?id=579354",
     "description": "You can now send a query to any node in a multi-shard Azure DocumentDB cluster. The node can handle the query locally or route it to the shard or shards that contain the data. In effect, the nodes in a multi-shard cluster function as a router, being fully",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Application Gateway advanced routing rules ",
-    "link": "https://azure.microsoft.com/updates?id=579324",
-    "description": "Azure Application Gateway advanced routing rules is now available in public preview. Advanced routing rules enables you to create flexible, condition-based routing logic using HTTP\r\nrequest attributes, extending Application Gateway routing beyond tradition",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: AI Assisted Oracle-to-PostgreSQL Application Code Migration",
-    "link": "https://azure.microsoft.com/updates?id=579231",
-    "description": "We provide a plugin with AI-assisted skills to help you convert application code from Oracle to PostgreSQL, enabling applications to work with Azure Database for PostgreSQL.The plugin can be consumed through GitHub Copilot CLI or Visual Studio Code. Custo",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Migrate Oracle databases to Azure HorizonDB using Azure Database Migration Service",
-    "link": "https://azure.microsoft.com/updates?id=579226",
-    "description": "Azure Database Migration Service now supports Oracle-to-Azure HorizonDB data migrations. You can configure source and target connections, select the schemas to migrate, initiate data transfer, and track migration progress through a single experience—witho",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Database Hub in Microsoft Fabric",
-    "link": "https://azure.microsoft.com/updates?id=579216",
-    "description": "Database Hub in Microsoft Fabric is a unified experience for discovering, managing, monitoring, and optimizing databases across SQL Server, Azure SQL, PostgreSQL, Azure Cosmos DB, and Fabric SQL. By bringing AI-powered insights and agents into a single co",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
