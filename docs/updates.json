@@ -1,5 +1,117 @@
 [
   {
+    "title": "[Launched] Generally Available: Semantic Reranker in Azure Cosmos DB ",
+    "link": "https://azure.microsoft.com/updates?id=577520",
+    "description": "Semantic Reranker in Azure Cosmos DB improves search relevance by reordering candidate results based on the meaning of the search text and surrounding context. It uses an AI model to evaluate candidate documents and promote the ones that best match the in",
+    "pubDate": "2026-11-17T23:07:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Pod Sandboxing kata-vm-isolation-v2 runtime class ",
+    "link": "https://azure.microsoft.com/updates?id=581120",
+    "description": "Isolated pods should not force a tradeoff between security and startup performance. With classic sandboxed pod flows, every pod boots a new Kata VM, which adds cold-start latency and extra memory overhead before your app begins work.The new kata-vm-isolat",
+    "pubDate": "2026-11-17T23:00:02.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Pulic Preview: Azure Elastic SAN Next Generation",
+    "link": "https://azure.microsoft.com/updates?id=581634",
+    "description": "Azure Elastic SAN Next Generation is now in public preview. Elastic SAN Next Generation keeps the core benefits customers value in Elastic SAN today: a single SAN resource hierarchy to consolidate block storage workloads and dynamically share performance,",
+    "pubDate": "2026-11-17T22:54:18.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Limited Preview: Azure Workload Center for SAP and Azure Copilot Run SAP Agent",
+    "link": "https://azure.microsoft.com/updates?id=581209",
+    "description": "Azure Workload Center for SAP, together with the Azure Copilot Run SAP Agent, is a workload-aware experience, powered by Workload Virtual Instance (WVI) for operating SAP workloads on Azure. Azure Workload Center for SAP helps teams understand workload he",
+    "pubDate": "2026-11-17T22:48:10.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Limited Preview: Azure Workload Center for Oracle and Azure Copilot Run Oracle Agent",
+    "link": "https://azure.microsoft.com/updates?id=581214",
+    "description": "Azure Workload Center for Oracle, together with the Azure Copilot Run Oracle Agent, is a workload-aware experience, powered by Workload Virtual Instance (WVI) for operating Oracle workloads on Azure. Azure Workload Center for Oracle helps teams understand",
+    "pubDate": "2026-11-17T22:46:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Database Agent for SQL with contextual Copilot ",
+    "link": "https://azure.microsoft.com/updates?id=580091",
+    "description": "Database Agent now gives you AI-generated, evidence-grounded recommendations for detected database issues, including why the issue matters, the likely cause, and the recommended next step. Recommendations draw on available issue evidence and Microsoft-aut",
+    "pubDate": "2026-11-17T22:43:01.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Database Hub real-time performance dashboards",
+    "link": "https://azure.microsoft.com/updates?id=579644",
+    "description": "Database Hub in Microsoft Fabric gives you built-in, real-time performance dashboards for Microsoft SQL, Azure Database for PostgreSQL flexible server, and Azure Cosmos DB in one place. From the Performance page, you can track CPU, memory, storage, IO, co",
+    "pubDate": "2026-11-17T22:42:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In development] Private Preview: Azure DH/EHasv8 VMs based on 6th Gen AMD EPYC™ (“Venice”) processors ",
+    "link": "https://azure.microsoft.com/updates?id=581308",
+    "description": "We are announcing the preview of the new Azure DHasv8, DHalsv8 and EHasv8-series virtual machines (VMs), powered by 6th Generation AMD EPYC™ (“Venice”) processors. Designed for the next generation of cloud applications, these VMs deliver expanded compute ",
+    "pubDate": "2026-11-17T22:40:50.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure SQL DB Hyperscale Cross Database Querying",
+    "link": "https://azure.microsoft.com/updates?id=579221",
+    "description": "Native cross-database queries in Azure SQL Database Hyperscale let applications access and join data across databases in the same Hyperscale elastic pool on a logical server, using familiar T-SQL three-part names such as `database.schema.object`. This ena",
+    "pubDate": "2026-11-17T22:35:29.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Near-instant provisioning for Azure DocumentDB clusters  ",
+    "link": "https://azure.microsoft.com/updates?id=579349",
+    "description": "Now the M10 to M30 computer tiers are available for near-instant provisioning.   Historically, the free tier in Azure DocumentDB was made available for instant provisioning. The goal was to help you get started without having to wait for 10-15 minutes for",
+    "pubDate": "2026-11-17T21:57:41.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Confidential VMs with Intel TDX support on AKS ",
+    "link": "https://azure.microsoft.com/updates?id=581130",
+    "description": "Customers standardized on Intel Trust Domain Extensions (TDX) for attestation and hardware confidentiality can't run those workloads on AKS Confidential VM node pools today, because CVM node images only support AMD SEV-SNP. AKS Confidential VM node pools ",
+    "pubDate": "2026-11-17T21:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Confidential VMs with OS Disk Encryption support on AKS",
+    "link": "https://azure.microsoft.com/updates?id=581125",
+    "description": "Regulated customers running AKS Confidential VM node pools protect workloads in memory today, but the OS disk isn't encrypted at rest, so they have to close the data-at-rest gap outside the platform. In Preview, Ubuntu 26.04 Confidential VM node pools ena",
+    "pubDate": "2026-11-17T21:00:05.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Generally Available: Private endpoint support for Azure HorizonDB clusters",
+    "link": "https://azure.microsoft.com/updates?id=574153",
+    "description": "You can now connect to Azure HorizonDB clusters privately through Azure Private Link, using a private IP address from your virtual network. Private DNS integration makes connection setup easier, while the option to disable public access keeps database tra",
+    "pubDate": "2026-11-17T20:56:06.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Service tags for inbound rules in network security perimeter",
+    "link": "https://azure.microsoft.com/updates?id=579201",
+    "description": "Announcing the public preview of 'service tags as\r\ninbound rules' support for third-party customers in network security perimeter. This new capability simplifies how customers manage\r\naccess to in network security\r\nperimeter-protected resources by allowing t",
+    "pubDate": "2026-11-17T20:52:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Perimeter link (cross perimeter) in network security perimeter",
+    "link": "https://azure.microsoft.com/updates?id=579206",
+    "description": "This capability enables secure connectivity between\r\nresources protected by different network security perimeters, while maintaining\r\nstrong perimeter-based access controls. With this release, customers can confidently adopt network\r\nsecurity perimeter acros",
+    "pubDate": "2026-11-17T20:51:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Agent Grid helping secure AI agent communications",
+    "link": "https://azure.microsoft.com/updates?id=580684",
+    "description": "Agent Grid is now in public preview, bringing identity-based Zero\r\nTrust network security to AI agents on supported Azure environments. Security\r\nteams can govern communications among agents, models, tools, and external\r\nservices through centrally managed po",
+    "pubDate": "2026-11-17T20:47:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Adaptive Virtual Patching",
     "link": "https://azure.microsoft.com/updates?id=580689",
     "description": "Azure Adaptive Virtual Patching\r\nintroduces an AI-orchestrated Adaptive Shield designed to reduce exposure to\r\nnew, emerging, and newly disclosed zero-day vulnerabilities while customers\r\ntest and deploy software patches. The initial workload focus is Linux ",
@@ -217,13 +329,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: Compute templates for Azure",
-    "link": "https://azure.microsoft.com/updates?id=580624",
-    "description": "Announcing the public preview of Azure compute templates, a new capability that simplifies virtual machine (VM) configuration management by enabling customers to define, version, and reuse standardized VM configurations across deployments.With compute tem",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "[In preview] Public Preview: New integration, hybrid deployment, and observability capabilities in Azure Logic Apps ",
     "link": "https://azure.microsoft.com/updates?id=580589",
     "description": "Azure Logic Apps introduces new and enhanced capabilities to help organizations connect enterprise systems, modernize legacy integrations, and run business-critical workflows across cloud, on-premises, and hybrid environments. These updates include expand",
@@ -406,13 +511,6 @@
     "source": "Azure Updates"
   },
   {
-    "title": "[In preview] Public Preview: Migrate Azure Database for PostgreSQL to Azure HorizonDB with Azure Database Migration Service (DMS) ",
-    "link": "https://azure.microsoft.com/updates?id=579612",
-    "description": "Now you can migrate existing Azure Database for PostgreSQL workloads to Azure HorizonDB through a seamless, managed experience powered by Azure Database Migration Service (DMS). With this update, you can extend the DMS V2 architecture with HorizonDB as a ",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
     "title": "[In preview] Public Preview: Migrate Oracle databases to Azure Database for PostgreSQL using Azure Database Migration Service ",
     "link": "https://azure.microsoft.com/updates?id=579607",
     "description": "Azure Database Migration Service now supports offline data migrations from Oracle to Azure Database for PostgreSQL servers. You can configure source and target connections, select the schemas to migrate, start the data transfer, and track migration status",
@@ -430,13 +528,6 @@
     "title": "[Launched] Generally Available: Azure HorizonDB Generic Log Analytics Integration",
     "link": "https://azure.microsoft.com/updates?id=579574",
     "description": "Azure HorizonDB now supports integration with Azure Monitor diagnostic settings, enabling you to send database logs and diagnostic data to Azure Log Analytics. This provides a centralized way to query and analyze database activity, troubleshoot issues, an",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Migrate PostgreSQL servers to Azure HorizonDB ",
-    "link": "https://azure.microsoft.com/updates?id=579564",
-    "description": "Azure Database Migration Service support for migrations to Azure HorizonDB is now available in public preview. You can use a guided, Azure portal–based experience to migrate supported PostgreSQL workloads to Azure HorizonDB, including Azure Database for P",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   },
@@ -605,97 +696,6 @@
     "title": "[In preview] Public Preview: OS-level dependency support via containers for Azure Functions Flex Consumption",
     "link": "https://azure.microsoft.com/updates?id=578975",
     "description": "OS-level dependency support via containers for Azure Functions Flex Consumption is now in preview. Previously, Flex Consumption apps ran in a Microsoft-managed worker environment that customers couldn’t extend with native executables, system libraries, or",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Hosted Skill and Agent Bindings for Azure Functions",
-    "link": "https://azure.microsoft.com/updates?id=578845",
-    "description": "Hosted Skill and Agent bindings for Azure Functions are now available in public preview. Adding agents to an application often requires setup and lifecycle code before developers can focus on business logic. These bindings reduce that plumbing while keepi",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Geo-redundancy on Azure App Service",
-    "link": "https://azure.microsoft.com/updates?id=578839",
-    "description": "Geo-redundancy in Azure App Service, now in public preview, helps customers build more resilient web applications across Azure regions without independently creating and managing an App Service deployment in each region. App Service creates and manages re",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Durable Task extension for Microsoft Agent Framework",
-    "link": "https://azure.microsoft.com/updates?id=578829",
-    "description": "The Durable Task extension for Microsoft Agent Framework is now generally available for C# and\r\nPython. Build agents,\r\nmulti-agent orchestrations, and Microsoft Agent Framework workflows that can run reliably\r\nfor minutes, days, or weeks. The extension persi",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Private endpoints for Azure Functions durable task scheduler ",
-    "link": "https://azure.microsoft.com/updates?id=578824",
-    "description": "Private endpoints for Azure Functions durable task scheduler are now generally available for both Dedicated and Consumption SKU schedulers. Customers can connect Azure Functions and other durable task SDK workloads to a scheduler through a private IP addr",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure App Service Builder",
-    "link": "https://azure.microsoft.com/updates?id=578817",
-    "description": "Turning application code into a running cloud app often requires developers to configure build pipelines, deployment workflows, and hosting infrastructure. Azure App Service Builder simplifies that journey with a source-connected platform for building, de",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Golang support on Azure Functions Flex Consumption",
-    "link": "https://azure.microsoft.com/updates?id=578812",
-    "description": "First-class Go support on Azure Functions Flex Consumption is now generally available.The Go worker offers a code-first programming model with typed Go handlers, standard Go modules, and integration with Azure Functions Core Tools and Azure CLI. Developer",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Functions support for Node.js 26",
-    "link": "https://azure.microsoft.com/updates?id=578807",
-    "description": "Azure Functions support for Node.js 26 is now in public preview.Developers can evaluate their JavaScript and TypeScript function apps on the new runtime while continuing to use the Azure Functions programming model on Linux in the Flex Consumption, Elasti",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Functions support for Python 3.15",
-    "link": "https://azure.microsoft.com/updates?id=578802",
-    "description": "Azure Functions support for Python 3.15 is now in public preview.Developers can evaluate Python applications, dependencies, native extensions and deployment workflows using the existing v1 and v2 programming models.Dependency overlap between the Python wo",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Network Watcher rule recommendation",
-    "link": "https://azure.microsoft.com/updates?id=578797",
-    "description": "Azure Network Watcher rule recommendation\r\nis now in public preview, helping you proactively identify opportunities to\r\nimprove network security based on observed network traffic. With this capability, you\r\ncan use Traffic Analytics insights to identify netw",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Network Watcher Private Link support",
-    "link": "https://azure.microsoft.com/updates?id=578792",
-    "description": "Azure Network Watcher VNet\r\nFlow Logs now supports flow log enrichment for Azure Private Link Service,\r\nproviding greater visibility into network traffic flowing through Private Link\r\nService. With this capability,\r\nVirtual Network Flow Logs retain backend fl",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Network Watcher VNet Flow Logs enriched with networkInterfaceIP field",
-    "link": "https://azure.microsoft.com/updates?id=578787",
-    "description": "Azure Network Watcher VNet\r\nFlow Logs now provides enhanced capture-side interface context with the\r\nnetworkInterfaceIP field. The networkInterfaceIP\r\nfield records the IP address or addresses of the network interface where a flow\r\nwas captured, making it eas",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Customer-managed keys for Azure Functions durable task scheduler ",
-    "link": "https://azure.microsoft.com/updates?id=578768",
-    "description": "Customer-managed keys for Azure Functions Durable Task Scheduler are now generally available for Dedicated SKU schedulers.Organizations that need to manage their own encryption keys can now use customer-managed keys to protect their workflow data, support",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Native disaster recovery for Azure Functions durable task scheduler",
-    "link": "https://azure.microsoft.com/updates?id=578762",
-    "description": "Disaster recovery for Azure Functions durable task scheduler is now available in public preview for the Dedicated SKU in supported Azure regions.Recover business-critical workflows from regional outages without rebuilding orchestration state, with a repea",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
