@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Zone resilience for Azure VMs",
+    "link": "https://azure.microsoft.com/updates?id=581254",
+    "description": "Zone resilience for Azure VMs, now in public preview, lets you recover an eligible zonal VM in another availability zone in the same region, retaining the existing VM resource and configuration.ZRS managed disks replicate data synchronously across zones b",
+    "pubDate": "2026-11-19T20:34:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL ",
     "link": "https://azure.microsoft.com/updates?id=579579",
     "description": "Database Agent helps you detect, understand, and respond to database health and performance issues more quickly in Azure Database for PostgreSQL. It proactively monitors database health to identify issues, brings together database metrics, configuration, ",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Azure Files NFS shares on HDD",
     "link": "https://azure.microsoft.com/updates?id=579369",
     "description": "Azure Files now supports NFS shares on HDD in public preview, expanding beyond the existing SSD offering with a cost-effective, fully managed option for Linux workloads such as general-purpose applications, shared datasets, and backups where cost efficien",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL updates for mid-November 2026 ",
-    "link": "https://azure.microsoft.com/updates?id=579359",
-    "description": "In mid-November 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n In\r\n     SSMS, the new Create and Apply wizards make it simpler to create and use\r\n     .dacpac and .bacpac files. The new feature consolidates and replaces the\r\n     var",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
