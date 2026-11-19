@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Database Agent for Azure Database for PostgreSQL ",
+    "link": "https://azure.microsoft.com/updates?id=579579",
+    "description": "Database Agent helps you detect, understand, and respond to database health and performance issues more quickly in Azure Database for PostgreSQL. It proactively monitors database health to identify issues, brings together database metrics, configuration, ",
+    "pubDate": "2026-11-19T17:25:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF",
     "link": "https://azure.microsoft.com/updates?id=581604",
     "description": "Announcing the public preview\r\nof the AI bot ruleset for Azure Web Application Firewall (WAF) on Azure Front\r\nDoor Premium. AI crawlers and agents visit your site for different reasons,\r\nand you may want to allow some but not others. Robots.txt only works wh",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Azure SQL updates for mid-November 2026 ",
     "link": "https://azure.microsoft.com/updates?id=579359",
     "description": "In mid-November 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n In\r\n     SSMS, the new Create and Apply wizards make it simpler to create and use\r\n     .dacpac and .bacpac files. The new feature consolidates and replaces the\r\n     var",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure DocumentDB elasticity—query from any node ",
-    "link": "https://azure.microsoft.com/updates?id=579354",
-    "description": "You can now send a query to any node in a multi-shard Azure DocumentDB cluster. The node can handle the query locally or route it to the shard or shards that contain the data. In effect, the nodes in a multi-shard cluster function as a router, being fully",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
