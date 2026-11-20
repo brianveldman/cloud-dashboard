@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: Azure Firewall for Containers",
+    "link": "https://azure.microsoft.com/updates?id=581963",
+    "description": "Azure Firewall for Containers\r\nextends Azure Firewall protection to containerized workloads, providing a\r\ncentralized approach to securing network traffic for container environments.\r\nCustomers can use Azure Firewall capabilities as part of their container n",
+    "pubDate": "2026-11-20T20:05:17.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM ",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
     "description": "<p>We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -81,13 +88,6 @@
     "link": "https://azure.microsoft.com/updates?id=581227",
     "description": "Azure Boost observability for NVMe disks is an open-source command-line tool that you run inside compatible Azure VMs. Backed by Azure Boost, the tool provides remote disk I/O and latency metrics and maps each disk inside your VM to the corresponding disk",
     "pubDate": "2026-11-18T00:00:09.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "Generally Available: Cobalt 200 Arm-based Dplsv7, Dpsv7, Epsv7, Mpsv4, and Lpsv5-series Virtual Machines",
-    "link": "https://azure.microsoft.com/updates?id=581298",
-    "description": "The general purpose Dpsv7 and Dplsv7, memory-optimized Epsv7, high-memory Mpsv4, and dense storage Lpsv5 VMs are now generally available. These virtual machines deliver significant enhancements over the previous generation Cobalt 100 VMs, offering improve",
-    "pubDate": "2026-11-17T23:55:53.000Z",
     "source": "Azure Updates"
   },
   {
