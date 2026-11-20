@@ -1,5 +1,12 @@
 [
   {
+    "title": "[In preview] Public Preview: PostgreSQL 19 on Azure Database for PostgreSQL  ",
+    "link": "https://azure.microsoft.com/updates?id=574587",
+    "description": "You can now try PostgreSQL 19 in public preview on Azure Database for PostgreSQL – Flexible Server in the East Asia region. With this preview, you can provision new PostgreSQL 19 servers through the Azure portal and Azure CLI, enabling you to test major v",
+    "pubDate": "2026-11-19T23:25:49.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Zone resilience for Azure VMs",
     "link": "https://azure.microsoft.com/updates?id=581254",
     "description": "Zone resilience for Azure VMs, now in public preview, lets you recover an eligible zonal VM in another availability zone in the same region, retaining the existing VM resource and configuration.ZRS managed disks replicate data synchronously across zones b",
@@ -689,13 +696,6 @@
     "title": "[Launched] Generally Available: Symmetric keys on Azure Key Vault Premium ",
     "link": "https://azure.microsoft.com/updates?id=579374",
     "description": "Building on the public\r\npreview introduced in July 2026, this release enables customers and partners to\r\nuse symmetric encryption capabilities with the oct-HSM key type and the\r\nAdvanced Encryption Standard (AES) algorithm directly within Azure Key Vault Pre",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Files NFS shares on HDD",
-    "link": "https://azure.microsoft.com/updates?id=579369",
-    "description": "Azure Files now supports NFS shares on HDD in public preview, expanding beyond the existing SSD offering with a cost-effective, fully managed option for Linux workloads such as general-purpose applications, shared datasets, and backups where cost efficien",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
