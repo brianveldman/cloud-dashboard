@@ -1,5 +1,26 @@
 [
   {
+    "title": "Retirement: Support for Azure Functions OpenAI Extension ends on April 20, 2027",
+    "link": "https://azure.microsoft.com/updates?id=579952",
+    "description": "Support for Azure Functions OpenAI extension will end on April 20, 2027. Please migrate to OpenAI, Microsoft Foundry, or Azure AI Search SDKs directly, depending on your scenario, by that date.   Until you migrate to the appropriate scenario SDK, .NET app",
+    "pubDate": "2026-11-20T23:16:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Programmed Training in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581713",
+    "description": "Programmed Training, an API for building your own post-training loop over open-weight models, is available in public preview in Microsoft Foundry. Access is available by request through the preview sign-up form.Managed training jobs work well when you onl",
+    "pubDate": "2026-11-20T22:58:28.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Multi-turn evaluation in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581746",
+    "description": "Multi-turn evaluation is now in public preview in Microsoft Foundry. You can assess complete agent conversations against your quality standards, not only individual responses.A response can look correct on its own and still be part of a conversation that ",
+    "pubDate": "2026-11-20T22:56:51.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Azure Firewall for Containers",
     "link": "https://azure.microsoft.com/updates?id=581963",
     "description": "Azure Firewall for Containers\r\nextends Azure Firewall protection to containerized workloads, providing a\r\ncentralized approach to securing network traffic for container environments.\r\nCustomers can use Azure Firewall capabilities as part of their container n",
@@ -675,27 +696,6 @@
     "title": "[In preview] Public Preview: Encryption at rest with customer-managed keys in Azure HorizonDB",
     "link": "https://azure.microsoft.com/updates?id=579540",
     "description": "Customer-managed keys (CMK) for encryption at rest are now available in public preview for Azure HorizonDB.   By default, Azure HorizonDB uses service\\-managed keys (SMK) to encrypt data at rest, with Azure managing the encryption keys on your behalf. Wit",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Build with Azure SQL Database container locally without an Azure subscription or credit card ",
-    "link": "https://azure.microsoft.com/updates?id=579525",
-    "description": "You can now build and test applications using Azure SQL Database container, which runs the same Azure SQL Database engine locally that you run in the cloud. It’s free for local dev and CI, with no Azure subscription or credit card required.  This cross-pl",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Managed Connectors in Azure Functions",
-    "link": "https://azure.microsoft.com/updates?id=579440",
-    "description": "Managed connectors in Azure Functions are now generally available, enabling developers to build event-driven applications that react to events and take actions across Microsoft 365, SaaS, and business systems using the familiar Azure Functions programming",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Bring-your-own image and Cosmos DB MCP server in Azure Connector Namespace hosted MCP​",
-    "link": "https://azure.microsoft.com/updates?id=579435",
-    "description": "Azure Connector Namespace’s hosted MCP server capability gives AI agents access to tools without requiring developers to build and operate a separate hosting stack. The platform provisions and manages the hosting infrastructure and provides Microsoft Entr",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
