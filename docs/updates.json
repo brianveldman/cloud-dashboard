@@ -1,5 +1,19 @@
 [
   {
+    "title": "[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code",
+    "link": "https://azure.microsoft.com/updates?id=581463",
+    "description": "Microsoft Foundry governance guidance is now available in Foundry Canvas and the Foundry Toolkit for Visual Studio Code. As developers build agents, both experiences surface relevant policies for agent types, models, toolboxes, and guardrails, with warnin",
+    "pubDate": "2026-11-21T00:45:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Microsoft Copilot harness support in Foundry Toolkit for VS Code",
+    "link": "https://azure.microsoft.com/updates?id=581468",
+    "description": "Agent Builder in Microsoft Foundry Toolkit for Visual Studio Code supports prompt agents that use the Microsoft Copilot harness in public preview. Developers can configure tools and skills, edit local YAML definitions, deploy changes to Foundry, and run d",
+    "pubDate": "2026-11-21T00:43:13.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "Retirement: Support for Azure Functions OpenAI Extension ends on April 20, 2027",
     "link": "https://azure.microsoft.com/updates?id=579952",
     "description": "Support for Azure Functions OpenAI extension will end on April 20, 2027. Please migrate to OpenAI, Microsoft Foundry, or Azure AI Search SDKs directly, depending on your scenario, by that date.   Until you migrate to the appropriate scenario SDK, .NET app",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Build Knowledge Graphs with AI pipeline in Azure HorizonDB ",
     "link": "https://azure.microsoft.com/updates?id=579602",
     "description": "Build connected, context-rich graph applications directly from your PostgreSQL data with AI pipelines in Azure HorizonDB. The new knowledge graph capability uses AI to identify entities, relationships, and properties from source data and construct a query",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure HorizonDB Generic Log Analytics Integration",
-    "link": "https://azure.microsoft.com/updates?id=579574",
-    "description": "Azure HorizonDB now supports integration with Azure Monitor diagnostic settings, enabling you to send database logs and diagnostic data to Azure Log Analytics. This provides a centralized way to query and analyze database activity, troubleshoot issues, an",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Encryption at rest with customer-managed keys in Azure HorizonDB",
-    "link": "https://azure.microsoft.com/updates?id=579540",
-    "description": "Customer-managed keys (CMK) for encryption at rest are now available in public preview for Azure HorizonDB.   By default, Azure HorizonDB uses service\\-managed keys (SMK) to encrypt data at rest, with Azure managing the encryption keys on your behalf. Wit",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
