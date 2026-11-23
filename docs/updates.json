@@ -1,5 +1,54 @@
 [
   {
+    "title": "[Launched] Generally Available: Deploy hosted agents from your own container registry in Foundry Toolkit for VS Code",
+    "link": "https://azure.microsoft.com/updates?id=581478",
+    "description": "Foundry Toolkit for Visual Studio Code now deploys hosted agents from prebuilt images in customer-managed container registries, including registries other than Azure Container Registry. Choose the matching registry connection in your Foundry project; the ",
+    "pubDate": "2026-11-23T20:13:42.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Wildcard domain support in Azure Firewall network rules ",
+    "link": "https://azure.microsoft.com/updates?id=582030",
+    "description": "Wildcard domain support in Azure Firewall network rules is now\r\ngenerally available. This capability enables customers to use wildcard\r\npatterns, such as *.contoso.com, when\r\ndefining FQDN-based network rules. Wildcard support makes it easier to secure desti",
+    "pubDate": "2026-11-23T18:51:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Policy support for Azure HorizonDB",
+    "link": "https://azure.microsoft.com/updates?id=580115",
+    "description": "Azure Policy support for Azure HorizonDB is now available in preview, helping you apply governance and observability standards consistently across your HorizonDB deployments.With the new built-in policy, you can automatically deploy diagnostic settings fo",
+    "pubDate": "2026-11-23T18:21:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Azure AI Content Safety selected features will be retired on April 30, 2027",
+    "link": "https://azure.microsoft.com/updates?id=577474",
+    "description": "The following Azure AI Content Safety preview capabilities will retire on April 30, 2027:Analyze MultimodalCustom categories (rapid), including text and imageConnected containers for Text, Image, and Prompt ShieldsDisconnected containers for Text, ImageEm",
+    "pubDate": "2026-11-23T18:11:31.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Database for PostgreSQL enhanced Burstable tier (Basv2) ",
+    "link": "https://azure.microsoft.com/updates?id=574535",
+    "description": "Enhanced Burstable tier (Basv2) builds on the existing burstable model with improved performance predictability and more efficient burst utilization, delivering a better cost-performance balance. Now you can run steady workloads more economically while au",
+    "pubDate": "2026-11-23T18:09:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+    "link": "https://azure.microsoft.com/updates?id=579280",
+    "description": "WAF Insights for Azure Application Gateway Web Application Firewall (WAF) is now generally available. WAF Insights is a built-in experience in the WAF policy that brings WAF logs and metrics together in interactive dashboards, so you can investigate block",
+    "pubDate": "2026-11-23T18:02:38.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: WAF Insights for Azure Front Door",
+    "link": "https://azure.microsoft.com/updates?id=579285",
+    "description": "WAF Insights is now generally available for Azure Front Door Web Application Firewall (WAF). WAF Insights is a built-in experience in the WAF policy that brings WAF logs and metrics together in interactive dashboards, so you can investigate blocked reques",
+    "pubDate": "2026-11-23T18:01:19.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code",
     "link": "https://azure.microsoft.com/updates?id=581463",
     "description": "Microsoft Foundry governance guidance is now available in Foundry Canvas and the Foundry Toolkit for Visual Studio Code. As developers build agents, both experiences surface relevant policies for agent types, models, toolboxes, and guardrails, with warnin",
@@ -82,6 +131,13 @@
     "description": "Database Agent helps you detect, understand, and respond to database health and performance issues more quickly in Azure Database for PostgreSQL. It proactively monitors database health to identify issues, brings together database metrics, configuration, ",
     "pubDate": "2026-11-19T17:25:28.000Z",
     "source": "Azure Updates"
+  },
+  {
+    "title": "Use AI enrichment with image and text processing",
+    "link": "https://learn.microsoft.com/azure/architecture/solution-ideas/articles/ai-search-skillsets",
+    "description": "Learn how to transform unstructured image and text data into full-text searchable content with Azure AI Search prebuilt skills and custom skills.",
+    "pubDate": "2026-11-18T22:12:36.000Z",
+    "source": "Azure Architecture"
   },
   {
     "title": "[In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF",
@@ -640,62 +696,6 @@
     "title": "[Launched] Generally Available: Azure HorizonDB Monitoring via Alerts",
     "link": "https://azure.microsoft.com/updates?id=579933",
     "description": "Azure HorizonDB now supports Azure\r\nMonitor alerts, enabling you to proactively monitor your database\r\nenvironment and receive notifications when specified conditions are met. You\r\ncan create alert rules based on HorizonDB metrics, configure thresholds, and\r\n",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure HorizonDB Auditing",
-    "link": "https://azure.microsoft.com/updates?id=579928",
-    "description": "Azure HorizonDB now supports database auditing with the pgAudit\r\nextension. You can capture selected PostgreSQL database activities, including\r\ndata access, modifications, role changes, and DDL operations, and send audit\r\nlogs to Azure Monitor Log Analytics ",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Multicloud Interconnect new cloud service provider support",
-    "link": "https://azure.microsoft.com/updates?id=579766",
-    "description": "Announcing the general\r\navailability of Azure Multicloud Interconnect, a managed service that provides\r\nprivate connectivity between Azure and supported cloud providers, with Google\r\nCloud Platform now available in public preview and Amazon Web Services in g",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Foundry Support for Business Applications in Work IQ",
-    "link": "https://azure.microsoft.com/updates?id=579680",
-    "description": "Business Applications in Work IQ helps developers build business-connected agents faster in Microsoft Foundry, reducing custom integration work and turning enterprise data into actionable workflows. Organizations gain more value from their existing busine",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure SQL Database container provisioning in SQL Server Management Studio",
-    "link": "https://azure.microsoft.com/updates?id=579665",
-    "description": "Now in public preview, you can provision an Azure SQL Database development environment in seconds directly from SQL Server Management Studio (SSMS), with no Azure subscription, credit card, or existing database required.Azure SQL Database container brings",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Improved Apache AGE graph query and ingestion performance on Azure HorizonDB",
-    "link": "https://azure.microsoft.com/updates?id=579660",
-    "description": "Azure HorizonDB introduces substantial Apache AGE performance improvements for querying and building knowledge graphs. Enhanced query planning and optimized graph joins accelerate eligible read queries, while faster duplicate detection and improved memory",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Application Gateway confidential compute support",
-    "link": "https://azure.microsoft.com/updates?id=579649",
-    "description": "Azure Application Gateway confidential\r\ncompute helps organizations protect sensitive data not only in transit, but\r\nalso while the gateway processes it. By running the Application Gateway data\r\nplane in a confidential computing environment, decrypted reques",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Migrate Oracle databases to Azure Database for PostgreSQL using Azure Database Migration Service ",
-    "link": "https://azure.microsoft.com/updates?id=579607",
-    "description": "Azure Database Migration Service now supports offline data migrations from Oracle to Azure Database for PostgreSQL servers. You can configure source and target connections, select the schemas to migrate, start the data transfer, and track migration status",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Build Knowledge Graphs with AI pipeline in Azure HorizonDB ",
-    "link": "https://azure.microsoft.com/updates?id=579602",
-    "description": "Build connected, context-rich graph applications directly from your PostgreSQL data with AI pipelines in Azure HorizonDB. The new knowledge graph capability uses AI to identify entities, relationships, and properties from source data and construct a query",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
