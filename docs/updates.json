@@ -1,5 +1,61 @@
 [
   {
+    "title": "[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks",
+    "link": "https://azure.microsoft.com/updates?id=582171",
+    "description": "Azure Site Recovery now supports Zone-to-Zone Disaster\r\nRecovery (Zonal DR) for Azure Ultra disks. Customers can protect\r\nperformance-intensive virtual machines across Availability Zones against zonal\r\ndisruptions by replication and recovering them to anothe",
+    "pubDate": "2026-11-24T17:48:22.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Optimize agents from insights in Foundry Agent Service",
+    "link": "https://azure.microsoft.com/updates?id=581483",
+    "description": "Optimization from insights is in public preview in Foundry Agent Service. In the Foundry portal, start from an eligible insight in a prompt-agent trace to generate and evaluate candidate changes to the agent's instructions and function-calling tool descri",
+    "pubDate": "2026-11-24T16:52:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Govern MCP tools with your own gateway in Microsoft Foundry Agent Service",
+    "link": "https://azure.microsoft.com/updates?id=581498",
+    "description": "In public preview, Microsoft Foundry Agent Service lets you route MCP tool traffic through existing AI Gateway or Azure API Management endpoints that your organization manages. Configure the MCP route in the gateway first, then enter the gateway-routed en",
+    "pubDate": "2026-11-24T16:50:47.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Use Azure Storage permissions in Azure AI Search and Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=581303",
+    "description": "Azure AI Search and Foundry IQ in Microsoft Foundry can use supported Azure Storage permissions to control access to search results.Once configured, search applications and AI agents return content based on each user's access. This reduces the need to cre",
+    "pubDate": "2026-11-24T16:49:39.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Native A2A passthrough for hosted agents in Foundry Agent Service",
+    "link": "https://azure.microsoft.com/updates?id=581313",
+    "description": "Bring your existing Agent2Agent (A2A) agents to Agent Service without a protocol conversion layer.Previously, Agent Service converted incoming A2A requests to the Responses protocol. With A2A passthrough, Agent Service forwards native A2A requests directl",
+    "pubDate": "2026-11-24T16:48:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Azure Developer CLI extension for Azure Document Intelligence and Content Understanding in Foundry Tools",
+    "link": "https://azure.microsoft.com/updates?id=581318",
+    "description": "Within Microsoft Foundry, use azd ai cu commands to analyze documents with Azure Document Intelligence and Content Understanding in Foundry Tools. The extension for Azure Developer CLI (azd) can save analysis results as Markdown or JSON.You can start with",
+    "pubDate": "2026-11-24T16:45:59.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Cost controls for model and agent spending in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581323",
+    "description": "Within Microsoft Foundry, cost controls set a spending or token budget for a Foundry resource or project. When usage reaches a threshold that you set, a cost control sends an alert through Azure Event Grid or blocks new requests.You can apply a budget to ",
+    "pubDate": "2026-11-24T16:43:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Central governance of hosted-agent outbound domains in Foundry Agent Service",
+    "link": "https://azure.microsoft.com/updates?id=581328",
+    "description": "Administrators can use Azure Policy to govern outbound destinations for hosted agents in Foundry Agent Service. Agent authors configure and attach a compliant egress policy before creating an agent version. The egress policy then controls outbound request",
+    "pubDate": "2026-11-24T16:42:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ",
     "link": "https://azure.microsoft.com/updates?id=581333",
     "description": "Foundry IQ adds Enterprise Knowledge Graph as a knowledge source for questions that depend on relationships across your content.During indexing, it extracts entities and relationships from unstructured content, guided by an ontology you provide. Agents ca",
@@ -640,62 +696,6 @@
     "title": "[In preview] Public Preview: New integration, hybrid deployment, and observability capabilities in Azure Logic Apps ",
     "link": "https://azure.microsoft.com/updates?id=580589",
     "description": "Azure Logic Apps introduces new and enhanced capabilities to help organizations connect enterprise systems, modernize legacy integrations, and run business-critical workflows across cloud, on-premises, and hybrid environments. These updates include expand",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Enhanced developer experience in Azure Logic Apps Automation ",
-    "link": "https://azure.microsoft.com/updates?id=580559",
-    "description": "Azure Logic Apps Automation introduces new developer experiences that make it faster and easier to build, manage, and scale business process automation. Enhancements include a refreshed workflow designer, reusable templates, faster environment and applica",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Managed AI Models in Logic Apps Automation ",
-    "link": "https://azure.microsoft.com/updates?id=580554",
-    "description": "Managed AI Models are now available in public preview in Azure Logic Apps Automation, enabling developers to bring AI capabilities into workflows and agents without provisioning, deploying, or managing model infrastructure.Building AI-powered automation o",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Virtual network integration in Logic Apps Automation",
-    "link": "https://azure.microsoft.com/updates?id=580549",
-    "description": "Virtual network (VNet) integration is now available in public preview in Azure Logic Apps Automation, enabling organizations to securely connect workflows and agents to resources within their Azure virtual networks.As organizations automate business proce",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: New built-in Azure automation connectors in Logic Apps Automation ",
-    "link": "https://azure.microsoft.com/updates?id=580544",
-    "description": "New built-in connectors for Azure automation are now available in public preview in Azure Logic Apps Automation, enabling developers to automate workflows across GitHub, Azure DevOps, and Azure management services.Automating development and cloud operatio",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Decision actions in Azure Logic Apps Automation ",
-    "link": "https://azure.microsoft.com/updates?id=580539",
-    "description": "Decision actions are now available in public preview in Azure Logic Apps Automation, enabling developers to automate business decisions using AI without deploying or managing models.Many business processes require judgment calls, such as classifying custo",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Next-generation elastic architecture for Azure Application Gateway v2",
-    "link": "https://azure.microsoft.com/updates?id=580428",
-    "description": "A next-generation elastic architecture for Azure Application\r\nGateway v2 is now available in public preview. Built for demanding\r\nworkloads and dynamic traffic patterns, it reduces provisioning time by up\r\nto 50% and autoscaling time by up to 70% compared to",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Advanced load balancing in Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=580423",
-    "description": "Advanced load balancing for Azure Application Gateway\r\nis now available in public preview, giving you greater control over how traffic is\r\ndistributed across backends supporting different workloads, including AI\r\napplications and web traffic. New server-leve",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Centralized user authentication + JWT validation for Azure Application Gateway",
-    "link": "https://azure.microsoft.com/updates?id=580418",
-    "description": "Announcing the public preview of centralized user authentication for\r\nAzure Application Gateway, along with an updated JWT validation\r\nexperience. User authentication enables Application Gateway to sign\r\nusers in with OpenID Connect before traffic reaches a ",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
