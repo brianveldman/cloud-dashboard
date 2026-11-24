@@ -1,5 +1,89 @@
 [
   {
+    "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=581333",
+    "description": "Foundry IQ adds Enterprise Knowledge Graph as a knowledge source for questions that depend on relationships across your content.During indexing, it extracts entities and relationships from unstructured content, guided by an ontology you provide. Agents ca",
+    "pubDate": "2026-11-23T21:16:32.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581338",
+    "description": "In Microsoft Foundry, Guardrails helps developers configure runtime safety controls for agents, including classifiers, deterministic rules, and LLM-based judges.When an administrator policy requires controls for a project, Guardrails surfaces those requir",
+    "pubDate": "2026-11-23T21:15:04.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: IQ Retriever Zero in Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=581343",
+    "description": "Foundry IQ can use an iterative retrieval model to break complex questions into focused searches. The model reviews search results and searches again when needed, within a configured budget, then passes the retrieved evidence to the model that answers the",
+    "pubDate": "2026-11-23T21:13:44.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools",
+    "link": "https://azure.microsoft.com/updates?id=581353",
+    "description": "Azure Speech in Foundry Tools provides HD V3 voices with style and instruction control in public preview.Use supported controls to shape voice delivery for voice agents, narration, and other speech experiences.Learn more.",
+    "pubDate": "2026-11-23T21:12:25.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Human annotation for agent evaluations in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581358",
+    "description": "Human annotation for agent evaluations is in public preview in Microsoft Foundry, as announced in the Microsoft IQ launch blog.Reviewers can add ratings, tags, comments, and expected outputs to agent traces. Use annotated conversation traces to build eval",
+    "pubDate": "2026-11-23T21:11:23.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Agent insights in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581363",
+    "description": "In Microsoft Foundry, insights analyze agent traces to surface recurring patterns and group related issues.Review an insight and its supporting traces to investigate common failures and decide what to improve first.Use agent optimizer to test potential fi",
+    "pubDate": "2026-11-23T21:10:07.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Files knowledge source for Foundry IQ",
+    "link": "https://azure.microsoft.com/updates?id=581368",
+    "description": "Upload files directly to a managed knowledge source in Foundry IQ. Foundry IQ processes and indexes the files for retrieval through a knowledge base, so you don't need to provision a storage account or scheduled indexer.Learn more.",
+    "pubDate": "2026-11-23T21:08:46.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Call model router without a deployment in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581378",
+    "description": "Microsoft Foundry now lets you use model router without deploying it first. In a region that supports model router, set model to auto in a Responses or Chat Completions request to your Foundry resource.By default, Auto uses the Balanced routing mode acros",
+    "pubDate": "2026-11-23T20:32:57.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Use the Messages API with model router in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581383",
+    "description": "Model router in Microsoft Foundry supports the Messages API in public preview. Messages-based applications and coding tools can use automatic model selection while keeping the Anthropic request and response format.Messages requests route only to supported",
+    "pubDate": "2026-11-23T20:31:40.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Use your model deployments with model router in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581388",
+    "description": "Model router in Microsoft Foundry can use your existing model deployments to serve routed requests, in public preview. This helps you use capacity you already have while model router selects a model for each request.After selecting a model, model router f",
+    "pubDate": "2026-11-23T20:29:36.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[Launched] Generally Available: Model router now supports the Responses API protocol in Microsoft Foundry",
+    "link": "https://azure.microsoft.com/updates?id=581393",
+    "description": "Model router in Microsoft Foundry now supports the Responses API protocol in general availability on both resource and project endpoints. Set model to your model router deployment name to add automatic model selection to Responses-based applications and a",
+    "pubDate": "2026-11-23T20:28:24.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "[In preview] Public Preview: Use model router with AI Gateway",
+    "link": "https://azure.microsoft.com/updates?id=581398",
+    "description": "Automatic model selection in AI Gateway uses model router from Microsoft Foundry to rank the models behind a model alias for each request. The gateway combines that ranking with the alias's priorities and weights to select a backend, while its access cont",
+    "pubDate": "2026-11-23T20:15:53.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "[Launched] Generally Available: Deploy hosted agents from your own container registry in Foundry Toolkit for VS Code",
     "link": "https://azure.microsoft.com/updates?id=581478",
     "description": "Foundry Toolkit for Visual Studio Code now deploys hosted agents from prebuilt images in customer-managed container registries, including registries other than Azure Container Registry. Choose the matching registry connection in your Foundry project; the ",
@@ -11,13 +95,6 @@
     "link": "https://azure.microsoft.com/updates?id=582030",
     "description": "Wildcard domain support in Azure Firewall network rules is now\r\ngenerally available. This capability enables customers to use wildcard\r\npatterns, such as *.contoso.com, when\r\ndefining FQDN-based network rules. Wildcard support makes it easier to secure desti",
     "pubDate": "2026-11-23T18:51:31.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Policy support for Azure HorizonDB",
-    "link": "https://azure.microsoft.com/updates?id=580115",
-    "description": "Azure Policy support for Azure HorizonDB is now available in preview, helping you apply governance and observability standards consistently across your HorizonDB deployments.With the new built-in policy, you can automatically deploy diagnostic settings fo",
-    "pubDate": "2026-11-23T18:21:46.000Z",
     "source": "Azure Updates"
   },
   {
@@ -619,83 +696,6 @@
     "title": "[In preview] Public Preview: Centralized user authentication + JWT validation for Azure Application Gateway",
     "link": "https://azure.microsoft.com/updates?id=580418",
     "description": "Announcing the public preview of centralized user authentication for\r\nAzure Application Gateway, along with an updated JWT validation\r\nexperience. User authentication enables Application Gateway to sign\r\nusers in with OpenID Connect before traffic reaches a ",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Session-based authentication for Azure Blob and Data Lake Storage",
-    "link": "https://azure.microsoft.com/updates?id=580306",
-    "description": "Session-based authentication is now in public preview\r\nfor Azure Blob and Data Lake Storage.Session-based\r\nauthentication reduces the per-request authentication and authorization time\r\nfor AI agents and applications while preserving the security controls\r\norg",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Monitor Health Models ",
-    "link": "https://azure.microsoft.com/updates?id=580261",
-    "description": "Azure Monitor Health Models is now Generally Available.  You can now build a Azure Monitor Health Model that defines and operationalizes workload health as a first-class construct by aggregating signals across metrics, logs, and dependencies into a single",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure Monitor traces and Trace Analytics",
-    "link": "https://azure.microsoft.com/updates?id=580184",
-    "description": "You can now analyze and compare thousands of traces, isolate the transactions that matter, and move from trends to root cause with advanced distributed tracing within Azure Monitor Application Insights.Azure Monitor traces (preview) provides a dedicated t",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Red Hat OpenShift with hosted control planes",
-    "link": "https://azure.microsoft.com/updates?id=580136",
-    "description": "Today, we are excited to announce the general availability of Microsoft Azure Red Hat OpenShift with hosted control planes. This new deployment option separates the OpenShift control plane from the worker nodes running your applications. The control plane",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure AI Gateway ",
-    "link": "https://azure.microsoft.com/updates?id=580080",
-    "description": "Azure AI Gateway, previously available as the AI Gateway tier of API Management, is now generally available as a fully managed Azure service for connecting users, applications, and agents to AI models and MCP tools across providers.Platform teams can cent",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Microsoft Agent 365 integration with Azure API Management and Azure AI Gateway ",
-    "link": "https://azure.microsoft.com/updates?id=580055",
-    "description": "The integration between Microsoft Agent 365 and Azure API Management is now generally available, enabling organizations to centrally govern AI agents and MCP tools while enforcing security and access policies at runtime through Azure API Management and Az",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure API Management Premium v2 ",
-    "link": "https://azure.microsoft.com/updates?id=580046",
-    "description": "Azure API Management Premium v2 is now available in 35 Azure regions, giving organizations greater flexibility to deploy and scale enterprise API workloads across more geographic locations. With this expanded regional availability, customers have more opt",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Connector Namespace",
-    "link": "https://azure.microsoft.com/updates?id=580041",
-    "description": "Azure Connector Namespace is now generally available, providing a fully managed integration service that enables developers to connect applications and AI agents to hundreds of Microsoft, SaaS, and enterprise systems using prebuilt, reusable connectors. D",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Unified Model API in Azure API Management ",
-    "link": "https://azure.microsoft.com/updates?id=580036",
-    "description": "Azure API Management now offers the Unified Model API, a standardized way to connect applications to AI models from multiple providers without managing different API interfaces and integration requirements.Building applications with multiple AI models oft",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available:  Azure HorizonDB now integrates with Azure Advisor ",
-    "link": "https://azure.microsoft.com/updates?id=579938",
-    "description": "Azure HorizonDB now\r\nintegrates with Azure Advisor to provide personalized recommendations that help\r\nyou optimize your database environment. Azure Advisor analyzes your HorizonDB\r\nresources and surfaces actionable guidance to help improve reliability,\r\nperfo",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure HorizonDB Monitoring via Alerts",
-    "link": "https://azure.microsoft.com/updates?id=579933",
-    "description": "Azure HorizonDB now supports Azure\r\nMonitor alerts, enabling you to proactively monitor your database\r\nenvironment and receive notifications when specified conditions are met. You\r\ncan create alert rules based on HorizonDB metrics, configure thresholds, and\r\n",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
