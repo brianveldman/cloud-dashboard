@@ -1,5 +1,12 @@
 [
   {
+    "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+    "description": "<p>The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/\">What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-25T18:09:06.000Z",
+    "source": "Security"
+  },
+  {
     "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
     "description": "<p>We're honored to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security, for the second consecutive year.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Microsoft Entra Agent ID and Agent 365 for Azure SRE Agent",
     "link": "https://azure.microsoft.com/updates?id=580763",
     "description": "Azure SRE Agent now supports Microsoft Entra Agent ID and\r\nMicrosoft Agent 365 in public preview, so security and IT teams can see and\r\ngovern SRE agents alongside other agents in the organization. Each agent can have its own Agent ID in addition to its\r\nman",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Agent-to-Agent (A2A) protocol support in Azure SRE Agent",
-    "link": "https://azure.microsoft.com/updates?id=580758",
-    "description": "Azure SRE Agent now supports the open Agent-to-Agent (A2A)\r\nprotocol in public preview. SRE agents can hand tasks to other agents and\r\naccept tasks from them while each agent retains its own team’s permissions. For\r\nexample, an application team’s agent inves",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
