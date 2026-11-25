@@ -182,6 +182,13 @@
     "source": "Azure Updates"
   },
   {
+    "title": "Put Microsoft Ignite insights to work",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#36",
+    "description": "Workspace: General • Announced: November 23",
+    "pubDate": "2026-11-23T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
     "title": "[Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code",
     "link": "https://azure.microsoft.com/updates?id=581463",
     "description": "Microsoft Foundry governance guidance is now available in Foundry Canvas and the Foundry Toolkit for Visual Studio Code. As developers build agents, both experiences surface relevant policies for agent types, models, toolboxes, and guardrails, with warnin",
@@ -229,6 +236,13 @@
     "description": "<p>We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM </a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-11-20T17:00:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Attain a Solution Partner designation for Windows devices",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#35",
+    "description": "Workspace: General • Announced: November 20",
+    "pubDate": "2026-11-20T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Malaysia and Saudi Arabia",
@@ -682,20 +696,6 @@
     "title": "[In preview] Public Preview: Microsoft Teams integration for Azure SRE Agent",
     "link": "https://azure.microsoft.com/updates?id=580753",
     "description": "Azure SRE Agent can now take part in Microsoft Teams\r\nconversations in public preview. Engineers can start an investigation, follow\r\nup on findings, and work with the agent in one-on-one chats, group chats,\r\nchannels, and meeting chats without leaving Teams.",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[Launched] Generally Available: Azure Infrastructure Resiliency Manager",
-    "link": "https://azure.microsoft.com/updates?id=580748",
-    "description": "Azure Infrastructure Resiliency Manager is now generally available, offering a unified, goal-driven experience to strengthen application resiliency across Azure. You can start resilient with zonally resilient deployment templates, assess applications at s",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: New integration, hybrid deployment, and observability capabilities in Azure Logic Apps ",
-    "link": "https://azure.microsoft.com/updates?id=580589",
-    "description": "Azure Logic Apps introduces new and enhanced capabilities to help organizations connect enterprise systems, modernize legacy integrations, and run business-critical workflows across cloud, on-premises, and hybrid environments. These updates include expand",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
