@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security",
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
+    "description": "<p>We're honored to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security, for the second consecutive year.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
+    "pubDate": "2026-11-25T17:15:00.000Z",
+    "source": "Security"
+  },
+  {
     "title": "[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks",
     "link": "https://azure.microsoft.com/updates?id=582171",
     "description": "Azure Site Recovery now supports Zone-to-Zone Disaster\r\nRecovery (Zonal DR) for Azure Ultra disks. Customers can protect\r\nperformance-intensive virtual machines across Availability Zones against zonal\r\ndisruptions by replication and recovering them to anothe",
@@ -689,13 +696,6 @@
     "title": "[In preview] Public Preview: Agent-to-Agent (A2A) protocol support in Azure SRE Agent",
     "link": "https://azure.microsoft.com/updates?id=580758",
     "description": "Azure SRE Agent now supports the open Agent-to-Agent (A2A)\r\nprotocol in public preview. SRE agents can hand tasks to other agents and\r\naccept tasks from them while each agent retains its own team’s permissions. For\r\nexample, an application team’s agent inves",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft Teams integration for Azure SRE Agent",
-    "link": "https://azure.microsoft.com/updates?id=580753",
-    "description": "Azure SRE Agent can now take part in Microsoft Teams\r\nconversations in public preview. Engineers can start an investigation, follow\r\nup on findings, and work with the agent in one-on-one chats, group chats,\r\nchannels, and meeting chats without leaving Teams.",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
