@@ -1,5 +1,19 @@
 [
   {
+    "title": "[In preview] Public Preview: ECMP Nexthop ",
+    "link": "https://azure.microsoft.com/updates?id=582326",
+    "description": "Equal-Cost Multi-Path (ECMP)\r\nrouting for Azure Virtual Network is now available in public preview, enabling\r\ncustomers to distribute traffic across multiple network appliances using a\r\nsingle user-defined route (UDR). \r\nCustomers can configure 2 to 16 next-h",
+    "pubDate": "2026-11-25T23:14:20.000Z",
+    "source": "Azure Updates"
+  },
+  {
+    "title": "Retirement: Support for Java 8, 11 and 17 in Azure Functions ends on September 1, 2027",
+    "link": "https://azure.microsoft.com/updates?id=568586",
+    "description": "Support for Java 8, 11 and 17 on Azure Functions is ending on September\r\n1, 2027. Your apps that are hosted on Azure Functions will continue to run, but\r\nsecurity updates will no longer be available, and we’ll no longer provide\r\ncustomer service for Java 8, ",
+    "pubDate": "2026-11-25T21:53:30.000Z",
+    "source": "Azure Updates"
+  },
+  {
     "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
     "description": "<p>The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/\">What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
@@ -12,6 +26,34 @@
     "description": "<p>We're honored to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security, for the second consecutive year.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security</a> appeared first on <a href=\"https://www.microsoft.com/en-us/security/blog\">Microsoft Security Blog</a>.</p>\n",
     "pubDate": "2026-11-25T17:15:00.000Z",
     "source": "Security"
+  },
+  {
+    "title": "Ignite recap: AI Business Solutions",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#40",
+    "description": "Workspace: General • Announced: November 25",
+    "pubDate": "2026-11-25T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Defender for IoT OT security deprecation",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#39",
+    "description": "Workspace: General • Announced: November 25",
+    "pubDate": "2026-11-25T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Act on new partner opportunities",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#38",
+    "description": "Workspace: General • Announced: November 25",
+    "pubDate": "2026-11-25T12:00:00.000Z",
+    "source": "Partner Center Announcements"
+  },
+  {
+    "title": "Oracle AI Database@Azure Masterclass",
+    "link": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november#37",
+    "description": "Workspace: General • Announced: November 25",
+    "pubDate": "2026-11-25T12:00:00.000Z",
+    "source": "Partner Center Announcements"
   },
   {
     "title": "[Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks",
@@ -654,48 +696,6 @@
     "title": "[In preview] Public Preview: Windows Server 2028",
     "link": "https://azure.microsoft.com/updates?id=581135",
     "description": "Windows Server 2028, the next Long-Term Servicing Channel (LTSC) release of Windows Server, is now in public preview. It brings together security, virtualization, hybrid cloud management, and hybrid intelligence investments to support mission-critical wor",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Native AWS and Google Cloud support in Azure SRE Agent",
-    "link": "https://azure.microsoft.com/updates?id=580975",
-    "description": "Azure SRE\r\nAgent now natively supports AWS and Google Cloud through built-in connectors,\r\navailable in public preview. Bring operational evidence together to investigate\r\napplications and dependencies across Azure and your connected AWS or Google\r\nCloud envir",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Pod snapshot cluster extension",
-    "link": "https://azure.microsoft.com/updates?id=580921",
-    "description": "Restarting a sandboxed workload means losing in-memory state and repeating costly initialization. AI environments must reload models and rebuild runtime context; other sandboxed applications must repeat Java Virtual Machine (JVM) warmup or repopulate cach",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Azure DDoS Protection support for NAT Gateway v2 IP",
-    "link": "https://azure.microsoft.com/updates?id=580862",
-    "description": "Azure DDoS Protection now\r\ncovers the public IPs behind Azure NAT Gateway StandardV2, in public preview.\r\nYou can protect the IPv4 and IPv6 addresses that carry your outbound internet\r\ntraffic from network-layer DDoS attacks, using the same DDoS Network Prot",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Generally Available: Azure DDoS Protection custom policy ",
-    "link": "https://azure.microsoft.com/updates?id=580852",
-    "description": "Azure DDoS Protection custom policy is now generally\r\navailable, and it’s one of our most requested features. By default,\r\nmachine-learning auto-tuning sets detection thresholds for each protected\r\nresource, which works well for most workloads. But latency-s",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In development] Private Preview: Slack integration for Azure SRE Agent",
-    "link": "https://azure.microsoft.com/updates?id=580768",
-    "description": "Azure SRE Agent is coming to Slack in\r\nprivate preview. Organizations that coordinate incident response in Slack can\r\nwork with the agent in the channels where responders already work, mentioning\r\nit to start or follow up on an investigation and receiving fi",
-    "pubDate": "2026-11-17T20:00:32.000Z",
-    "source": "Azure Updates"
-  },
-  {
-    "title": "[In preview] Public Preview: Microsoft Entra Agent ID and Agent 365 for Azure SRE Agent",
-    "link": "https://azure.microsoft.com/updates?id=580763",
-    "description": "Azure SRE Agent now supports Microsoft Entra Agent ID and\r\nMicrosoft Agent 365 in public preview, so security and IT teams can see and\r\ngovern SRE agents alongside other agents in the organization. Each agent can have its own Agent ID in addition to its\r\nman",
     "pubDate": "2026-11-17T20:00:32.000Z",
     "source": "Azure Updates"
   }
